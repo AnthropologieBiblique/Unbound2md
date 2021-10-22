@@ -4,23 +4,39 @@ import os
 import csv
 
 class Bible:
-	def __init__(self,name,abbrev):
+	def __init__(self,name,unbound_name,abbrev,NRSVA_mapping):
 		self.name = name
+		self.unbound_name = unbound_name
 		self.abbrev = abbrev
-		self.bookNames = {}
-		self.createBooknames()
-		self.bookList = []
+		self.NRSVA_mapping = NRSVA_mapping
+		self.booksNames = {}
+		self.booksAbbrev = {}
+		self.booksStandardAbbrev = {}
+		self.booksList = []
+		self.createBooksNames()
+		self.createBooksAbbrev()
+		self.createBooksStandardAbbrev()
 		self.readBibleText()
 		self.buildMdBible()
-	def createBooknames(self):
-		with open('../Source/'+self.abbrev+'/book_names.txt', mode='r') as tsv_file:
+	def createBooksNames(self):
+		with open('../Source/'+self.unbound_name+'/book_names.txt', mode='r') as tsv_file:
 			csv_reader = csv.reader(tsv_file, delimiter='\t')
 			for row in csv_reader:
-				self.bookNames[row[0]] = row[1]
+				self.booksNames[row[0]] = row[1]
+	def createBooksAbbrev(self):
+		with open('../Source/'+self.unbound_name+'/book_abbrev.txt', mode='r') as tsv_file:
+			csv_reader = csv.reader(tsv_file, delimiter='\t')
+			for row in csv_reader:
+				self.booksAbbrev[row[0]] = row[1]
+	def createBooksStandardAbbrev(self):
+		with open('../Source/'+'book_standard_abbrev.txt', mode='r') as tsv_file:
+			csv_reader = csv.reader(tsv_file, delimiter='\t')
+			for row in csv_reader:
+				self.booksStandardAbbrev[row[0]] = row[1]
 	def addBook(self,book):
-		self.bookList.append(book)
+		self.booksList.append(book)
 	def readBibleText(self):
-		with open('../Source/'+self.abbrev+'/'+self.abbrev+'_utf8.txt', mode='r') as tsv_file:
+		with open('../Source/'+self.unbound_name+'/'+self.unbound_name+'_utf8.txt', mode='r') as tsv_file:
 			csv_reader = csv.reader(tsv_file, delimiter='\t')
 			bookRef = ''
 			chapterRef = ''
@@ -33,7 +49,7 @@ class Bible:
 						book.addChapter(chapter)
 						self.addBook(book)
 					bookRef = row[0]
-					book = BibleBook(self.bookNames[bookRef],self.bookNames[bookRef])
+					book = BibleBook(self.booksNames[bookRef],self.booksAbbrev[bookRef],self.booksStandardAbbrev[bookRef])
 					chapterRef = row[1]
 					chapter = BibleChapter(chapterRef)
 					chapter.addVerse(BibleVerse(row[2],row[3]))
@@ -55,14 +71,15 @@ class Bible:
 			os.mkdir(path)
 		except FileExistsError:
 			pass
-		for book in self.bookList:
+		for book in self.booksList:
 			book.buildMdBible(self.abbrev,path)
 
 
 class BibleBook:
-	def __init__(self,name,abbrev):
+	def __init__(self,name,abbrev,standard_abbrev):
 		self.name = name
 		self.abbrev = abbrev
+		self.standard_abbrev = standard_abbrev
 		self.numberChapters = 0
 		self.chapterList = []
 	def addChapter(self,chapter):
@@ -86,6 +103,10 @@ class BibleChapter:
 	def buildMdBible(self,bibleAbbrev,bookAbbrev,path):
 		name = bibleAbbrev +' '+bookAbbrev+' '+self.number
 		f = open(path+'/'+name+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('aliases : '+'\n')
+		f.write('tags : '+'\n')
+		f.write('---'+'\n\n')
 		f.write('# Chapitre '+self.number+'\n\n')
 		for verse in self.verseList:
 			f.write('###### '+verse.number+'\n')
@@ -96,5 +117,5 @@ class BibleVerse:
 		self.number = number
 		self.verseText = verseText
 
-lsg = Bible("LSG","french_lsg")
-vul = Bible("PST","peshitta")
+lsg = Bible("Louis Segond","french_lsg","LSG",False)
+vul = Bible("Peshitta","peshitta","PST",False)
