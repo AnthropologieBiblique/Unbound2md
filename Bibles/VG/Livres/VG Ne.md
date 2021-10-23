@@ -1,24 +1,24 @@
 ---
 aliases : 
-- Nehemiah
+- Nehemié
 - Néhémie
 - Ne
 - Nehemiah
 tags : Bible/Ne
 ---
 
-# Nehemiah
+# Nehemié
 
-[[VG Ne 1|Nehemiah 1]]
-[[VG Ne 2|Nehemiah 2]]
-[[VG Ne 3|Nehemiah 3]]
-[[VG Ne 4|Nehemiah 4]]
-[[VG Ne 5|Nehemiah 5]]
-[[VG Ne 6|Nehemiah 6]]
-[[VG Ne 7|Nehemiah 7]]
-[[VG Ne 8|Nehemiah 8]]
-[[VG Ne 9|Nehemiah 9]]
-[[VG Ne 10|Nehemiah 10]]
-[[VG Ne 11|Nehemiah 11]]
-[[VG Ne 12|Nehemiah 12]]
-[[VG Ne 13|Nehemiah 13]]
+[[VG Ne 1|Nehemié 1]]
+[[VG Ne 2|Nehemié 2]]
+[[VG Ne 3|Nehemié 3]]
+[[VG Ne 4|Nehemié 4]]
+[[VG Ne 5|Nehemié 5]]
+[[VG Ne 6|Nehemié 6]]
+[[VG Ne 7|Nehemié 7]]
+[[VG Ne 8|Nehemié 8]]
+[[VG Ne 9|Nehemié 9]]
+[[VG Ne 10|Nehemié 10]]
+[[VG Ne 11|Nehemié 11]]
+[[VG Ne 12|Nehemié 12]]
+[[VG Ne 13|Nehemié 13]]

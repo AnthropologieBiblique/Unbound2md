@@ -1,15 +1,15 @@
 ---
 aliases : 
-- Jonah
+- Joné
 - Jonas
 - Jon
 - Jonah
 tags : Bible/Jon
 ---
 
-# Jonah
+# Joné
 
-[[VG Jon 1|Jonah 1]]
-[[VG Jon 2|Jonah 2]]
-[[VG Jon 3|Jonah 3]]
-[[VG Jon 4|Jonah 4]]
+[[VG Jon 1|Joné 1]]
+[[VG Jon 2|Joné 2]]
+[[VG Jon 3|Joné 3]]
+[[VG Jon 4|Joné 4]]

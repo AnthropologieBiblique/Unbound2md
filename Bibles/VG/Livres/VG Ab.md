@@ -1,12 +1,12 @@
 ---
 aliases : 
-- Obadiah
+- Abdié
 - Abdias
 - Ab
 - Obadiah
 tags : Bible/Ab
 ---
 
-# Obadiah
+# Abdié
 
-[[VG Ab 1|Obadiah 1]]
+[[VG Ab 1|Abdié 1]]

@@ -1,13 +1,13 @@
 ---
 aliases : 
-- Haggai
+- Aggéi
 - Aggée
 - Ag
 - Haggai
 tags : Bible/Ag
 ---
 
-# Haggai
+# Aggéi
 
-[[VG Ag 1|Haggai 1]]
-[[VG Ag 2|Haggai 2]]
+[[VG Ag 1|Aggéi 1]]
+[[VG Ag 2|Aggéi 2]]

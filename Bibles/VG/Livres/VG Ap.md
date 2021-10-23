@@ -1,33 +1,33 @@
 ---
 aliases : 
-- Revelation
+- Apocalypsis
 - Apocalypse
 - Ap
 - Revelation
 tags : Bible/Ap
 ---
 
-# Revelation
+# Apocalypsis
 
-[[VG Ap 1|Revelation 1]]
-[[VG Ap 2|Revelation 2]]
-[[VG Ap 3|Revelation 3]]
-[[VG Ap 4|Revelation 4]]
-[[VG Ap 5|Revelation 5]]
-[[VG Ap 6|Revelation 6]]
-[[VG Ap 7|Revelation 7]]
-[[VG Ap 8|Revelation 8]]
-[[VG Ap 9|Revelation 9]]
-[[VG Ap 10|Revelation 10]]
-[[VG Ap 11|Revelation 11]]
-[[VG Ap 12|Revelation 12]]
-[[VG Ap 13|Revelation 13]]
-[[VG Ap 14|Revelation 14]]
-[[VG Ap 15|Revelation 15]]
-[[VG Ap 16|Revelation 16]]
-[[VG Ap 17|Revelation 17]]
-[[VG Ap 18|Revelation 18]]
-[[VG Ap 19|Revelation 19]]
-[[VG Ap 20|Revelation 20]]
-[[VG Ap 21|Revelation 21]]
-[[VG Ap 22|Revelation 22]]
+[[VG Ap 1|Apocalypsis 1]]
+[[VG Ap 2|Apocalypsis 2]]
+[[VG Ap 3|Apocalypsis 3]]
+[[VG Ap 4|Apocalypsis 4]]
+[[VG Ap 5|Apocalypsis 5]]
+[[VG Ap 6|Apocalypsis 6]]
+[[VG Ap 7|Apocalypsis 7]]
+[[VG Ap 8|Apocalypsis 8]]
+[[VG Ap 9|Apocalypsis 9]]
+[[VG Ap 10|Apocalypsis 10]]
+[[VG Ap 11|Apocalypsis 11]]
+[[VG Ap 12|Apocalypsis 12]]
+[[VG Ap 13|Apocalypsis 13]]
+[[VG Ap 14|Apocalypsis 14]]
+[[VG Ap 15|Apocalypsis 15]]
+[[VG Ap 16|Apocalypsis 16]]
+[[VG Ap 17|Apocalypsis 17]]
+[[VG Ap 18|Apocalypsis 18]]
+[[VG Ap 19|Apocalypsis 19]]
+[[VG Ap 20|Apocalypsis 20]]
+[[VG Ap 21|Apocalypsis 21]]
+[[VG Ap 22|Apocalypsis 22]]

@@ -1,85 +1,85 @@
 01O	Genesis
 02O	Exodus
 03O	Leviticus
-04O	Numbers
-05O	Deuteronomy
-06O	Joshua
-07O	Judges
+04O	Numeri
+05O	Deuteronomium
+06O	Josue
+07O	Judices
 08O	Ruth
-09O	1 Samuel
-10O	2 Samuel
-11O	1 Kings
-12O	2 Kings
-13O	1 Chronicles
-14O	2 Chronicles
-15O	Ezra
-16O	Nehemiah
+09O	1 Samuelis
+10O	2 Samuelis
+11O	3 Regum
+12O	4 Regum
+13O	1 Paralipomenon
+14O	2 Paralipomenon
+15O	Esdré
+16O	Nehemié
 17O	Esther
 18O	Job
-19O	Psalms
-20O	Proverbs
+19O	Psalmi
+20O	Proverbia
 21O	Ecclesiastes
-22O	Song of Solomon
-23O	Isaiah
-24O	Jeremiah
-25O	Lamentations
-26O	Ezekiel
-27O	Daniel
-28O	Hosea
+22O	Canticum Canticorum
+23O	Isaié
+24O	Jeremié
+25O	Lamentationes
+26O	Ezechielis
+27O	Danielis
+28O	Osee
 29O	Joel
 30O	Amos
-31O	Obadiah
-32O	Jonah
-33O	Micah
+31O	Abdié
+32O	Joné
+33O	Michéæ
 34O	Nahum
-35O	Habakkuk
-36O	Zephaniah
-37O	Haggai
-38O	Zechariah
-39O	Malachi
-40N	Matthew
-41N	Mark
-42N	Luke
-43N	John
-44N	Acts of the Apostles
-45N	Romans
-46N	1 Corinthians
-47N	2 Corinthians
-48N	Galatians
-49N	Ephesians
-50N	Philippians
-51N	Colossians
-52N	1 Thessalonians
-53N	2 Thessalonians
-54N	1 Timothy
-55N	2 Timothy
-56N	Titus
-57N	Philemon
-58N	Hebrews
-59N	James
-60N	1 Peter
-61N	2 Peter
-62N	1 John
-63N	2 John
-64N	3 John
-65N	Jude
-66N	Revelation
-67A	Tobit
+35O	Habacuc
+36O	Sophoniae
+37O	Aggéi
+38O	Zacharié
+39O	Malachié
+40N	secundum Matthéum
+41N	secundum Marcum
+42N	secundum Lucam
+43N	secundum Ioannem
+44N	Actus
+45N	ad Romanos
+46N	1 ad Corinthios
+47N	2 ad Corinthios
+48N	ad Galatas
+49N	ad Ephesios
+50N	ad Philippenses
+51N	ad Colossenses
+52N	1 ad Thessalonicenses
+53N	2 ad Thessalonicenses
+54N	1 ad Timotheum
+55N	2 ad Timotheum
+56N	ad Titum
+57N	ad Philemonem
+58N	ad Hebréos
+59N	Iacobi
+60N	1 Petri
+61N	2 Petri
+62N	1 Ioannis
+63N	2 Ioannis
+64N	3 Ioannis
+65N	Iudé
+66N	Apocalypsis
+67A	Tobié
 68A	Judith
 69A	Esther, Greek
-70A	Wisdom of Solomon
-71A	Ecclesiasticus (Sira
+70A	Sapientié
+71A	Ecclesiasticus
 72A	Baruch
 73A	Epistle of Jeremiah
 74A	Prayer of Azariah
 75A	Susanna
-76A	Bel and the Dragon
-77A	1 Maccabees
-78A	2 Maccabees
+76A	Idol
+77A	1 Machabéorum
+78A	2 Machabéorum
 79A	3 Maccabees
 80A	4 Maccabees
-81A	1 Esdras
-82A	2 Esdras
+81A	1 Esdré
+82A	2 Esdré
 83A	Prayer of Manasseh
 84A	Psalm 151
 85A	Psalm of Solomon

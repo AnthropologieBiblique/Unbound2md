@@ -1,21 +1,21 @@
 ---
 aliases : 
-- Ezra
+- Esdré
 - Esdras
 - Esd
 - Ezra
 tags : Bible/Esd
 ---
 
-# Ezra
+# Esdré
 
-[[VG Esd 1|Ezra 1]]
-[[VG Esd 2|Ezra 2]]
-[[VG Esd 3|Ezra 3]]
-[[VG Esd 4|Ezra 4]]
-[[VG Esd 5|Ezra 5]]
-[[VG Esd 6|Ezra 6]]
-[[VG Esd 7|Ezra 7]]
-[[VG Esd 8|Ezra 8]]
-[[VG Esd 9|Ezra 9]]
-[[VG Esd 10|Ezra 10]]
+[[VG Esd 1|Esdré 1]]
+[[VG Esd 2|Esdré 2]]
+[[VG Esd 3|Esdré 3]]
+[[VG Esd 4|Esdré 4]]
+[[VG Esd 5|Esdré 5]]
+[[VG Esd 6|Esdré 6]]
+[[VG Esd 7|Esdré 7]]
+[[VG Esd 8|Esdré 8]]
+[[VG Esd 9|Esdré 9]]
+[[VG Esd 10|Esdré 10]]

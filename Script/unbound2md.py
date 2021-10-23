@@ -4,22 +4,26 @@ import os
 import csv
 
 class Bible:
-	def __init__(self,name,unbound_name,abbrev,NRSVA_mapping):
+	def __init__(self,name,unbound_name,abbrev,NRSVA_mapping,hebraic):
 		self.name = name
 		self.unbound_name = unbound_name
 		self.abbrev = abbrev
 		self.NRSVA_mapping = NRSVA_mapping
+		self.hebraic = hebraic
 		self.booksNames = {}
 		self.booksAbbrev = {}
 		self.booksStandardNames = {}
 		self.booksStandardAbbrev = {}
 		self.booksEnglishNames = {}
+		self.hebraicPsTable = {}
+		self.lxxPsTable = {}
 		self.booksList = []
 		self.createBooksNames()
 		self.createBooksAbbrev()
 		self.createBooksStandardNames()
 		self.createBooksStandardAbbrev()
 		self.createBooksEnglishNames()
+		self.createPsTable()
 		self.readBibleText()
 		self.buildMdBible()
 	def createBooksNames(self):
@@ -47,6 +51,12 @@ class Bible:
 			csv_reader = csv.reader(tsv_file, delimiter='\t')
 			for row in csv_reader:
 				self.booksEnglishNames[row[0]] = row[1]
+	def createPsTable(self):
+		with open('../Source/'+'PsTable.csv', mode='r') as csv_file:
+			csv_reader = csv.reader(csv_file, delimiter=',')
+			for row in csv_reader:
+				self.hebraicPsTable[row[0]]=row[1]
+				self.lxxPsTable[row[1]]=row[0]
 	def addBook(self,book):
 		self.booksList.append(book)
 	def readBibleText(self):
@@ -73,14 +83,18 @@ class Bible:
 						self.booksEnglishNames[bookStandardRef])
 					chapterRef = row[4]
 					chapterStandardRef = row[1]
-					chapter = BibleChapter(book.standardAbbrev,chapterRef,chapterStandardRef)
+					chapter = BibleChapter(book.standardAbbrev,
+						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
+						chapterRef,chapterStandardRef)
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
 					flag = True
 				elif row[4]!=chapterRef:
 					book.addChapter(chapter)
 					chapterRef = row[4]
 					chapterStandardRef = row[1]
-					chapter = BibleChapter(book.standardAbbrev,chapterRef,chapterStandardRef)
+					chapter = BibleChapter(book.standardAbbrev,
+						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
+						chapterRef,chapterStandardRef)
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
 				else :
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
@@ -138,14 +152,31 @@ class BibleBook:
 		f.close()
 
 class BibleChapter:
-	def __init__(self,bookStandardAbbrev,number,standard_number):
+	def __init__(self,bookStandardAbbrev,hebraic,hebraicPsTable,lxxPsTable,number,standard_number):
 		if bookStandardAbbrev == 'Ps':
-			if standard_number == number:
-				number += ' ('+str(int(number)-1)+')'
-				standard_number += ' ('+str(int(number)-1)+')'
-		self.number = number
-		self.standard_number = standard_number
+			if hebraic:
+				if number != hebraicPsTable[number]:
+					self.number = number+' ('+hebraicPsTable[number]+')'
+					self.standard_number = self.number
+				else:
+					self.number = number
+					self.standard_number = standard_number
+			else:
+				if number != lxxPsTable[number]:
+					self.number = number+' ('+lxxPsTable[number]+')'
+					self.standard_number = lxxPsTable[number]+' ('+number+')'
+				else:
+					self.number = number
+					self.standard_number = standard_number
+		else:
+			self.number = number
+			self.standard_number = standard_number
 		self.verseList = []
+	def cleanTag(self,string):
+		string = string.replace(" ","")
+		string = string.replace("(","_")
+		string = string.replace(")","")
+		return(string)
 	def addVerse(self,verse):
 		self.verseList.append(verse)
 	def buildMdBible(self,bibleAbbrev,bookName,bookAbbrev,bookStandardName,bookStandardAbbrev,bookEnglishName,path):
@@ -162,7 +193,7 @@ class BibleChapter:
 		f.write('- '+bookStandardAbbrev+' '+self.standard_number+'\n')
 		if bookStandardName != bookEnglishName:
 			f.write('- '+bookEnglishName+' '+self.standard_number+'\n')
-		f.write('tags : '+'Bible/'+bookStandardAbbrev.replace(" ", "")+'/'+self.standard_number.replace(" ", "")+'\n')
+		f.write('tags : '+'Bible/'+self.cleanTag(bookStandardAbbrev)+'/'+self.cleanTag(self.standard_number)+'\n')
 		f.write('---'+'\n\n')
 		f.write('# '+bookName+' '+self.number+'\n\n')
 		for verse in self.verseList:
@@ -179,7 +210,7 @@ class BibleVerse:
 #lsg = Bible("Louis Segond","french_lsg","LSG",False)
 #vul = Bible("Peshitta","peshitta","PST",False)
 
-vul = Bible("Vulgata Clementina","latin_vulgata_clementina","VG",True)
-novVul = Bible("Nova Vulgata","latin_nova_vulgata","NVG",True)
-hebrew = Bible("Hebrew BHS accents","hebrew_bhs_vowels","BHS",True)
-lxx = Bible("Septante accentuée","lxx_a_accents","LXX",True)
+vul = Bible("Vulgata Clementina","latin_vulgata_clementina","VG",True,False)
+novVul = Bible("Nova Vulgata","latin_nova_vulgata","NVG",True,True)
+hebrew = Bible("Hebrew BHS accents","hebrew_bhs_vowels","BHS",True,True)
+lxx = Bible("Septante accentuée","lxx_a_accents","LXX",True,False)

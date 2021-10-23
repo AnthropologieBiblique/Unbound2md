@@ -1,11 +1,11 @@
 ---
 aliases : 
-- Jude
+- Iudé
 - Jude
 - Jude
 tags : Bible/Jude
 ---
 
-# Jude
+# Iudé
 
-[[VG Jude 1|Jude 1]]
+[[VG Jude 1|Iudé 1]]

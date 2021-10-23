@@ -1,16 +1,16 @@
 ---
 aliases : 
-- James
+- Iacobi
 - Jacques
 - Jc
 - James
 tags : Bible/Jc
 ---
 
-# James
+# Iacobi
 
-[[VG Jc 1|James 1]]
-[[VG Jc 2|James 2]]
-[[VG Jc 3|James 3]]
-[[VG Jc 4|James 4]]
-[[VG Jc 5|James 5]]
+[[VG Jc 1|Iacobi 1]]
+[[VG Jc 2|Iacobi 2]]
+[[VG Jc 3|Iacobi 3]]
+[[VG Jc 4|Iacobi 4]]
+[[VG Jc 5|Iacobi 5]]

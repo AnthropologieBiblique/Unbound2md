@@ -1,27 +1,27 @@
 ---
 aliases : 
-- Romans
+- ad Romanos
 - Romains
 - Rm
 - Romans
 tags : Bible/Rm
 ---
 
-# Romans
+# ad Romanos
 
-[[VG Rm 1|Romans 1]]
-[[VG Rm 2|Romans 2]]
-[[VG Rm 3|Romans 3]]
-[[VG Rm 4|Romans 4]]
-[[VG Rm 5|Romans 5]]
-[[VG Rm 6|Romans 6]]
-[[VG Rm 7|Romans 7]]
-[[VG Rm 8|Romans 8]]
-[[VG Rm 9|Romans 9]]
-[[VG Rm 10|Romans 10]]
-[[VG Rm 11|Romans 11]]
-[[VG Rm 12|Romans 12]]
-[[VG Rm 13|Romans 13]]
-[[VG Rm 14|Romans 14]]
-[[VG Rm 15|Romans 15]]
-[[VG Rm 16|Romans 16]]
+[[VG Rm 1|ad Romanos 1]]
+[[VG Rm 2|ad Romanos 2]]
+[[VG Rm 3|ad Romanos 3]]
+[[VG Rm 4|ad Romanos 4]]
+[[VG Rm 5|ad Romanos 5]]
+[[VG Rm 6|ad Romanos 6]]
+[[VG Rm 7|ad Romanos 7]]
+[[VG Rm 8|ad Romanos 8]]
+[[VG Rm 9|ad Romanos 9]]
+[[VG Rm 10|ad Romanos 10]]
+[[VG Rm 11|ad Romanos 11]]
+[[VG Rm 12|ad Romanos 12]]
+[[VG Rm 13|ad Romanos 13]]
+[[VG Rm 14|ad Romanos 14]]
+[[VG Rm 15|ad Romanos 15]]
+[[VG Rm 16|ad Romanos 16]]

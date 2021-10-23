@@ -1,15 +1,15 @@
 ---
 aliases : 
-- Lamentations
+- Lamentationes
 - Lamentations
 - Lm
 tags : Bible/Lm
 ---
 
-# Lamentations
+# Lamentationes
 
-[[VG Lm 1|Lamentations 1]]
-[[VG Lm 2|Lamentations 2]]
-[[VG Lm 3|Lamentations 3]]
-[[VG Lm 4|Lamentations 4]]
-[[VG Lm 5|Lamentations 5]]
+[[VG Lm 1|Lamentationes 1]]
+[[VG Lm 2|Lamentationes 2]]
+[[VG Lm 3|Lamentationes 3]]
+[[VG Lm 4|Lamentationes 4]]
+[[VG Lm 5|Lamentationes 5]]
