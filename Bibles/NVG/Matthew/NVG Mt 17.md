@@ -45,8 +45,6 @@ Et increpavit eum Iesus, et exiit ab eo daemonium, et curatus est puer ex illa h
 Tunc accesserunt discipuli ad Iesum secreto et dixerunt: “ Quare nos non potuimus eicere illum? ”. 
 ###### 20
 Ille autem dicit illis: “ Propter modicam fidem vestram. Amen quippe dico vobis: Si habueritis fidem sicut granum sinapis, dicetis monti huic: “Transi hinc illuc!”, et transibit, et nihil impossibile erit vobis ”.
-###### 21
-
 ###### 22
 Conversantibus autem eis in Galilaea, dixit illis Iesus: “ Filius hominis tradendus est in manus hominum, 
 ###### 23

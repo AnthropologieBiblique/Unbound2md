@@ -35,8 +35,6 @@ rescindentes verbum Dei per traditionem vestram, quam tradidistis; et similia hu
 Et advocata iterum turba, dicebat illis: “ Audite me, omnes, et intellegite: 
 ###### 15
 Nihil est extra hominem introiens in eum, quod possit eum coinquinare; sed quae de homine procedunt, illa sunt, quae coinquinant hominem! ”. 
-###### 16
-
 ###### 17
 Et cum introisset in domum a turba, interrogabant eum discipuli eius parabolam. 
 ###### 18

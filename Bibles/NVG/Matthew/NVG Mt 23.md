@@ -31,8 +31,6 @@ Qui maior est vestrum, erit minister vester.
 Qui autem se exaltaverit, humiliabitur; et, qui se humiliaverit, exaltabitur.
 ###### 13
 Vae autem vobis, scribae et pharisaei hypocritae, quia clauditis regnum caelorum ante homines! Vos enim non intratis nec introeuntes sinitis intrare. 
-###### 14
-
 ###### 15
 Vae vobis, scribae et pharisaei hypocritae, quia circuitis mare et aridam, ut faciatis unum proselytum, et cum fuerit factus, facitis eum filium gehennae duplo quam vos!
 ###### 16

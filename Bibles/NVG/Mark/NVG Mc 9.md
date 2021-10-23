@@ -91,12 +91,8 @@ Quisquis enim potum dederit vobis calicem aquae in nomine, quia Christi estis, a
 Et quisquis scandalizaverit unum ex his pusillis credentibus in me, bonum est ei magis, ut circumdetur mola asinaria collo eius, et in mare mittatur.
 ###### 43
 Et si scandalizaverit te manus tua, abscide illam: bonum est tibi debilem introire in vitam, quam duas manus habentem ire in gehennam, in ignem inexstinguibilem. 
-###### 44
-
 ###### 45
 Et si pes tuus te scandalizat, amputa illum: bonum est tibi claudum introire in vitam, quam duos pedes habentem mitti in gehennam. 
-###### 46
-
 ###### 47
 Et si oculus tuus scandalizat te, eice eum: bonum est tibi luscum introire in regnum Dei, quam duos oculos habentem mitti in gehennam, 
 ###### 48

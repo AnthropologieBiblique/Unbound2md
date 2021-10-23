@@ -55,8 +55,6 @@ Amen dico vobis: Quicumque dixerit huic monti: “Tollere et mittere in mare”,
 Propterea dico vobis: Omnia, quaecumque orantes petitis, credite quia iam accepistis, et erunt vobis. 
 ###### 25
 Et cum statis in oratione, dimittite, si quid habetis adversus aliquem, ut et Pater vester, qui in caelis est, dimittat vobis peccata vestra ”. 
-###### 26
-
 ###### 27
 Et veniunt rursus Hierosolymam. Et cum ambularet in templo, accedunt ad eum summi sacerdotes et scribae et seniores 
 ###### 28

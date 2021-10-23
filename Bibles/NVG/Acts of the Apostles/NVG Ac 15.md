@@ -71,8 +71,6 @@ quam cum legissent, gavisi sunt super consolatione.
 Iudas quoque et Silas, cum et ipsi essent prophetae, verbo plurimo consolati sunt fratres et confirmaverunt. 
 ###### 33
 Facto autem tempore, dimissi sunt cum pace a fratribus ad eos, qui miserant illos. 
-###### 34
-
 ###### 35
 Paulus autem et Barnabas demorabantur Antiochiae docentes et evangelizantes cum aliis pluribus verbum Domini.
 ###### 36

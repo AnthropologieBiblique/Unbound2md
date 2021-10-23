@@ -15,8 +15,6 @@ Ambulavitque in omnibus peccatis patris sui, quae fecerat ante eum; nec erat cor
 Sed propter David dedit ei Dominus Deus suus lucernam in Ierusalem, ut suscitaret filium eius post eum et statueret Ierusalem; 
 ###### 5
 eo quod fecisset David rectum in oculis Domini et non declinasset ab omnibus, quae praeceperat ei, cunctis diebus vitae suae, excepta re Uriae Hetthaei. 
-###### 6
-
 ###### 7
 Reliqua autem gestorum Abiam et omnia, quae fecit, nonne haec scripta sunt in libro annalium regum Iudae? Fuitque bellum inter Abiam et inter Ieroboam. 
 ###### 8

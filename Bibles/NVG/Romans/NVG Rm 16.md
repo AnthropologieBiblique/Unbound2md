@@ -51,8 +51,6 @@ Salutat vos Timotheus adiutor meus et Lucius et Iason et Sosipater cognati mei.
 Saluto vos ego Tertius, qui scripsi epistulam in Domino. 
 ###### 23
 Salutat vos Gaius hospes meus et universae ecclesiae. Salutat vos Erastus arcarius civitatis et Quartus frater. 
-###### 24
-
 ###### 25
 Ei autem, qui potens est vos confirmare iuxta evangelium meum et praedicationem Iesu Christi secundum revelationem mysterii temporibus aeternis taciti, 
 ###### 26

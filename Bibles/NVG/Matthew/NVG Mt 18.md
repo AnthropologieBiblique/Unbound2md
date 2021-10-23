@@ -25,8 +25,6 @@ Si autem manus tua vel pes tuus scandalizat te, abscide eum et proice abs te: bo
 Et si oculus tuus scandalizat te, erue eum et proice abs te: bonum tibi est unoculum in vitam intrare, quam duos oculos habentem mitti in gehennam ignis.
 ###### 10
 Videte, ne contemnatis unum ex his pusillis; dico enim vobis quia angeli eorum in caelis semper vident faciem Patris mei, qui in caelis est. 
-###### 11
-
 ###### 12
 Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonne relinquet nonaginta novem in montibus et vadit quaerere eam, quae erravit? 
 ###### 13

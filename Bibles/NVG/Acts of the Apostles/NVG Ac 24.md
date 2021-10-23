@@ -17,8 +17,6 @@ Ne diutius autem te protraham, oro, breviter audias nos pro tua clementia.
 Invenimus enim hunc hominem pestiferum et concitantem seditiones omnibus Iudaeis, qui sunt in universo orbe, et auctorem seditionis sectae Nazarenorum, 
 ###### 6
 qui etiam templum violare conatus est, quem et apprehendimus, 
-###### 7
-
 ###### 8
 a quo poteris ipse diiudicans de omnibus istis cognoscere, de quibus nos accusamus eum ”. 
 ###### 9

@@ -59,8 +59,6 @@ Erat autem hora tertia, et crucifixerunt eum.
 Et erat titulus causae eius inscriptus: “ Rex Iudaeorum ”. 
 ###### 27
 Et cum eo crucifigunt duos latrones, unum a dextris et alium a sinistris eius. 
-###### 28
-
 ###### 29
 Et praetereuntes blasphemabant eum moventes capita sua et dicentes: “ Vah, qui destruit templum et in tribus diebus aedificat; 
 ###### 30

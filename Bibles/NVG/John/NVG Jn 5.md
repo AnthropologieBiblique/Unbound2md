@@ -11,8 +11,6 @@ Post haec erat dies festus Iu daeorum, et ascendit Iesus Hie rosolymam.
 Est autem Hierosolymis, super Probatica, piscina, quae cognominatur Hebraice Bethsatha, quinque porticus habens. 
 ###### 3
 In his iacebat multitudo languentium, caecorum, claudorum, aridorum. 
-###### 4
-
 ###### 5
 Erat autem quidam homo ibi triginta et octo annos habens in infirmitate sua. 
 ###### 6

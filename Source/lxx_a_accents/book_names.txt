@@ -1,42 +1,42 @@
-01O	Genesis
-02O	Exodus
-03O	Leviticus
-04O	Numbers
-05O	Deuteronomy
-06O	Joshua
-07O	Judges
-08O	Ruth
-09O	1 Samuel
-10O	2 Samuel
-11O	1 Kings
-12O	2 Kings
-13O	1 Chronicles
-14O	2 Chronicles
-15O	Ezra
-16O	Nehemiah
-17O	Esther
-18O	Job
-19O	Psalms
-20O	Proverbs
-21O	Ecclesiastes
-22O	Song of Solomon
-23O	Isaiah
-24O	Jeremiah
-25O	Lamentations
-26O	Ezekiel
-27O	Daniel
-28O	Hosea
-29O	Joel
-30O	Amos
-31O	Obadiah
-32O	Jonah
-33O	Micah
-34O	Nahum
-35O	Habakkuk
-36O	Zephaniah
-37O	Haggai
-38O	Zechariah
-39O	Malachi
+01O	Γένεσις
+02O	Ἔξοδος
+03O	Λευϊτικόν
+04O	Ἀριθμοί
+05O	Δευτερονόμιον
+06O	Ἰησοῦς Ναυῆ
+07O	Κριταί
+08O	Ῥούθ
+09O	Βασιλειῶν Αʹ
+10O	Βασιλειῶν Βʹ
+11O	Βασιλειῶν Γʹ
+12O	Βασιλειῶν Δʹ
+13O	Παραλειπομένων Αʹ
+14O	Παραλειπομένων Βʹ
+15O	Ἔσδρας Αʹ
+16O	Ἔσδρας Βʹ
+17O	Ἐσθήρ
+18O	Ἰώβ
+19O	Ψαλμοί
+20O	Παροιμίαι
+21O	Ἐκκλησιαστής
+22O	Ἆσμα Ἀσμάτων
+23O	Ἠσαΐας
+24O	Ἱερεμίας
+25O	Θρῆνοι
+26O	Ἰεζεκιήλ
+27O	Δανιήλ
+28O	Ὡσηέ Αʹ
+29O	Ἰωήλ Δʹ
+30O	Ἀμώς Βʹ
+31O	Ὀβδιού Εʹ
+32O	Ἰωνᾶς Ϛ'
+33O	Μιχαίας Γʹ
+34O	Ναούμ Ζʹ
+35O	Ἀμβακούμ Ηʹ
+36O	Σοφονίας Θʹ
+37O	Ἀγγαῖος Ιʹ
+38O	Ζαχαρίας ΙΑʹ
+39O	Μαλαχίας ΙΒʹ
 40N	Matthew
 41N	Mark
 42N	Luke
@@ -64,23 +64,23 @@
 64N	3 John
 65N	Jude
 66N	Revelation
-67A	Tobit
-68A	Judith
-69A	Esther, Greek
-70A	Wisdom of Solomon
-71A	Ecclesiasticus (Sira
-72A	Baruch
-73A	Epistle of Jeremiah
-74A	Prayer of Azariah
-75A	Susanna
-76A	Bel and the Dragon
-77A	1 Maccabees
-78A	2 Maccabees
-79A	3 Maccabees
-80A	4 Maccabees
-81A	1 Esdras
-82A	2 Esdras
-83A	Prayer of Manasseh
-84A	Psalm 151
-85A	Psalm of Solomon
-86A	Odes
+67A	Τωβίτ
+68A	Ἰουδίθ
+69A	Ἐσθήρ
+70A	Σοφία Σαλoμῶντος
+71A	Σοφία Ἰησοῦ Σειράχ
+72A	Βαρούχ
+73A	Ἐπιστολὴ Ἰερεμίου
+74A	Δανιήλ
+75A	Δανιήλ
+76A	Δανιήλ
+77A	Μακκαβαίων Αʹ
+78A	Μακκαβαίων Βʹ
+79A	Μακκαβαίων Γʹ
+80A	Μακκαβαίων Δ' Παράρτημα
+81A	Ἔσδρας Αʹ
+82A	Ἔσδρας Βʹ
+83A	Προσευχὴ Μανασσῆ
+84A	Ψαλμός ΡΝΑʹ
+85A	Ψαλμοί Σαλoμῶντος
+86A	Ὠδαί

@@ -61,8 +61,6 @@ dicens: “Vade ad populum istum et dic: Auditu audietis et non intellegetis, et
 Incrassatum est enim cor populi huius, et auribus graviter audierunt et oculos suos compresserunt, ne forte videant oculis et auribus audiant et corde intellegant et convertantur, et sanabo illos”.
 ###### 28
 Notum ergo sit vobis quoniam gentibus missum est hoc salutare Dei; ipsi et audient! ”. 
-###### 29
-
 ###### 30
 Mansit autem biennio toto in suo conducto; et suscipiebat omnes, qui ingrediebantur ad eum, 
 ###### 31

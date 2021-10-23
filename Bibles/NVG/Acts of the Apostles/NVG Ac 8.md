@@ -77,8 +77,6 @@ Respondens autem eunuchus Philippo dixit: “ Obsecro te, de quo propheta dicit 
 Aperiens autem Philippus os suum et incipiens a Scriptura ista, evangelizavit illi Iesum. 
 ###### 36
 Et dum irent per viam, venerunt ad quandam aquam; et ait eunuchus: “ Ecce aqua; quid prohibet me baptizari? ”.
-###### 37
-
 ###### 38
 Et iussit stare currum; et descenderunt uterque in aquam Philippus et eunuchus, et baptizavit eum. 
 ###### 39

@@ -44,6 +44,8 @@ class Bible:
 			for row in csv_reader:
 				if row[0][0] == '#':
 					pass
+				elif row[8] == '':
+					pass
 				elif row[3]!=bookRef:
 					if flag:
 						book.addChapter(chapter)

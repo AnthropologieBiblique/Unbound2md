@@ -5,8 +5,6 @@ tags : Bible/Ct/1
 
 # Chapitre 1
 
-###### 
-
 ###### 1
 SPONSA. Osculetur me osculo oris sui ; quia meliora sunt ubera tua vino,
 ###### 2

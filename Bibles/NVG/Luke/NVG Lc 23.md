@@ -37,8 +37,6 @@ dixit ad illos: “ Obtulistis mihi hunc hominem quasi avertentem populum, et ec
 sed neque Herodes; remisit enim illum ad nos. Et ecce nihil dignum morte actum est ei. 
 ###### 16
 Emendatum ergo illum dimittam ”. 
-###### 17
-
 ###### 18
 Exclamavit autem universa turba dicens: “ Tolle hunc et dimitte nobis Barabbam! ”, 
 ###### 19

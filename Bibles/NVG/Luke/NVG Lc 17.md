@@ -75,7 +75,5 @@ Quicumque quaesierit animam suam salvam facere, perdet illam; et, quicumque perd
 Dico vobis: Illa nocte erunt duo in lecto uno: unus assumetur, et alter relinquetur; 
 ###### 35
 duae erunt molentes in unum: una assumetur, et altera relinquetur ”. 
-###### 36
-
 ###### 37
 Respondentes dicunt illi: “ Ubi, Domine? ”. Qui dixit eis: “ Ubicumque fuerit corpus, illuc congregabuntur et aquilae ”.

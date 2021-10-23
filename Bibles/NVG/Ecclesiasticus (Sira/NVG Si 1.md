@@ -43,8 +43,6 @@ Initium sapientiae timor Domini, et cum fidelibus in vulva concreata est; cum ho
 Timor Domini scientiae religiositas;
 ###### 18
 religiositas custodiet et iustificabit cor, iucunditatem atque gaudium dabit.
-###### 19
-
 ###### 20
 Plenitudo sapientiae est timere Deum; et inebriat eos fructibus suis.
 ###### 21

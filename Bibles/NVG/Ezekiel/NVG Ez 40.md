@@ -31,8 +31,6 @@ Et mensus est latitudinem ostii portae decem cubitorum et longitudinem portae tr
 et saeptum ante cubicula cubiti unius utrimque; cubicula autem sex cubitorum erant hinc et inde. 
 ###### 13
 Et mensus est portam a tecto cubiculi usque ad tectum eius a contra, latitudinem viginti et quinque cubitorum, ostium contra ostium, 
-###### 14
-
 ###### 15
 et a facie ingressus portae usque ad faciem vestibuli portae intrinsecus, quinquaginta cubitos. 
 ###### 16
@@ -63,8 +61,6 @@ Et porta erat atrio interiori in via australi, et mensus est a porta usque ad po
 Et introduxit me in atrium interius per portam australem et mensus est portam iuxta mensuras superiores; 
 ###### 29
 cubicula eius et postes eius, et vestibulum eius eisdem mensuris; et fenestrae erant ei et vestibulo eius in circuitu. Quinquaginta cubitorum longitudo erat et latitudo viginti quinque cubitorum. 
-###### 30
-
 ###### 31
 Et vestibulum eius respiciebat ad atrium exterius, et palmae in postibus eius, et octo gradus erant, quibus ascendebatur ad eam.
 ###### 32
