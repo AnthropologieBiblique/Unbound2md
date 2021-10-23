@@ -73,14 +73,14 @@ class Bible:
 						self.booksEnglishNames[bookStandardRef])
 					chapterRef = row[4]
 					chapterStandardRef = row[1]
-					chapter = BibleChapter(chapterRef,chapterStandardRef)
+					chapter = BibleChapter(book.standardAbbrev,chapterRef,chapterStandardRef)
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
 					flag = True
 				elif row[4]!=chapterRef:
 					book.addChapter(chapter)
 					chapterRef = row[4]
 					chapterStandardRef = row[1]
-					chapter = BibleChapter(chapterRef,chapterStandardRef)
+					chapter = BibleChapter(book.standardAbbrev,chapterRef,chapterStandardRef)
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
 				else :
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
@@ -138,7 +138,11 @@ class BibleBook:
 		f.close()
 
 class BibleChapter:
-	def __init__(self,number,standard_number):
+	def __init__(self,bookStandardAbbrev,number,standard_number):
+		if bookStandardAbbrev == 'Ps':
+			if standard_number == number:
+				number += ' ('+str(int(number)-1)+')'
+				standard_number += ' ('+str(int(number)-1)+')'
 		self.number = number
 		self.standard_number = standard_number
 		self.verseList = []
