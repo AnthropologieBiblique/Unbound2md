@@ -42,6 +42,8 @@ class Bible:
 			chapterRef = ''
 			flag = False
 			for row in csv_reader:
+				if row[0][0] == '':
+					pass
 				if row[0][0] == '#':
 					pass
 				elif row[0]!=bookRef:

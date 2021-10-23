@@ -1,0 +1,29 @@
+---
+aliases : Ps 75
+tags : Bible/Ps/75
+---
+
+# Chapitre 74
+
+###### 1
+In finem, ne corrumpas. Psalmus cantici Asaph.
+###### 2
+Confitebimur tibi, Deus, confitebimur, et invocabimus nomen tuum ; narrabimus mirabilia tua.
+###### 3
+Cum accepero tempus, ego justitias judicabo.
+###### 4
+Liquefacta est terra et omnes qui habitant in ea, ego confirmavi columnas ejus.
+###### 5
+Dixi iniquis : Nolite inique agere, et delinquentibus : Nolite exaltare cornu.
+###### 6
+Nolite extollere in altum cornu vestrum ; nolite loqui adversus Deum iniquitatem.
+###### 7
+Quia neque ab oriente, neque ab occidente, neque a desertis montibus.
+###### 8
+Quoniam Deus judex est ; hunc humiliat, et hunc exaltat :
+###### 9
+quia calix in manu Domini vini meri, plenus misto. Et inclinavit ex hoc in hoc, verumtamen fæx ejus non est exinanita ; bibent omnes peccatores terræ.
+###### 10
+Ego autem annuntiabo in sæculum ; cantabo Deo Jacob.
+###### 11
+Et omnia cornua peccatorum confringam ; et exaltabuntur cornua justi.

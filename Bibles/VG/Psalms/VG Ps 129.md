@@ -1,0 +1,23 @@
+---
+aliases : Ps 130
+tags : Bible/Ps/130
+---
+
+# Chapitre 129
+
+###### 1
+Canticum graduum. De profundis clamavi ad te, Domine ;
+###### 2
+Domine, exaudi vocem meam. Fiant aures tuæ intendentes in vocem deprecationis meæ.
+###### 3
+Si iniquitates observaveris, Domine, Domine, quis sustinebit ?
+###### 4
+Quia apud te propitiatio est ; et propter legem tuam sustinui te, Domine. Sustinuit anima mea in verbo ejus ;
+###### 5
+speravit anima mea in Domino.
+###### 6
+A custodia matutina usque ad noctem, speret Israël in Domino ;
+###### 7
+quia apud Dominum misericordia, et copiosa apud eum redemptio.
+###### 8
+Et ipse redimet Israël ex omnibus iniquitatibus ejus.
