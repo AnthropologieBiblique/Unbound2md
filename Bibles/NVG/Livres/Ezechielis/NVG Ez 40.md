@@ -87,13 +87,13 @@ Et in vestibulo portae duae mensae hinc et duae mensae inde, ut mactetur super e
 Et ad latus extra vestibulum ad ostium portae, quae respicit ad aquilonem, duae mensae; et ad la tus alterum vestibuli portae duae mensae. 
 ###### 41
 Quattuor mensae hinc et quattuor mensae inde ad latus portae: octo mensae erant, super quas mactabunt. 
-###### 42a
+###### 42
 Quattuor autem mensae ad holocaustum de lapidibus quadris exstructae longitudine cubiti unius et dimidii et latitudine cubiti unius et dimidii et altitudine cubiti unius, 
-###### 43a
+###### 43
 et labia palmi unius reflexa intrinsecus per circuitum; 
-###### 42b
+###### 42
 super ista ponant vasa, quibus mactetur holocaustum et victima, 
-###### 43b
+###### 43
 super mensas autem carnes oblationis. 
 ###### 44
 Et extra portam interiorem exedrae duae, in atrio interiori; una erat in latere portae respicientis ad aquilonem, et facies eius contra viam australem, et una ex latere portae australis, quae respiciebat ad viam aquilonis. 

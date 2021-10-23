@@ -9,7 +9,7 @@ tags : Bible/Jg/19
 
 # Judices 19
 
-###### 1a
+###### 1
 In diebus illis non erat rex in Israel. 
 ###### 1
 Fuit quidam vir Levi tes habitans ut advena in extrema parte montis Ephraim, qui accepit concubinam de Bethlehem Iudae. 

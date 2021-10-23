@@ -43,9 +43,9 @@ Filii vero Chaleb filii Iephonne: Hir et Ela et Naham; filius quoque Ela: Cenez.
 Filii quoque Iallelel: Ziph et Zipha, Thiria et Asarel. 
 ###### 17
 Et filii Ezra: Iether et Mered et Epher et Ialon. Et genuit Iether Mariam et Sammai et Iesba patrem Esthemo. 
-###### 18a
+###### 18
 Hi autem sunt filii Bethiae filiae pharaonis, quam accepit Mered: 
-###### 18b
+###### 18
 peperit Iared patrem Gedor et Heber patrem Socho et Iecuthiel patrem Zanoa. 
 ###### 19
 Filii autem uxoris eius Iudaicae sororis Naham patris Ceilae: Dalaia et Simeon pater Ioman. Filii autem Naham patris Ceilae: Garmitae et Esthemo Maachathitarum. 

@@ -13,37 +13,37 @@ tags : Bible/Estgrec/15
 Et factum est die tertio, induta Esther regalibus vestimentis ste tit in atrio domus regiae, quod erat interius contra basilicam regis. At ille sedebat super solium suum in consistorio palatii contra ostium domus. 
 ###### 2
 Et factum est, cum vidisset Esther reginam stantem, placuit oculis eius, et extendit contra eam virgam auream, quam tenebat manu; quae accedens tetigit summitatem virgae eius.
-###### 2a
+###### 2
 Cumque regio fulgeret habitu et invocasset omnium rectorem et salvatorem Deum, assumpsit duas famulas 
-###### 2b
+###### 2
 et super unam quidem innitebatur, quasi in deliciis; 
-###### 2c
+###### 2
 altera autem sequebatur dominam defluentia in humum indumenta sustentans. 
-###### 2d
+###### 2
 Ipsa autem roseo vultu colore perfusa et gratis ac nitentibus oculis tristem celabat animum et mortis timore contractum. 
-###### 2e
+###### 2
 Ingressa igitur cuncta per ordinem ostia, stetit in aula interiore contra regem, ubi ille residebat super solium regni sui indutus vestibus regiis auroque fulgens et pretiosis lapidibus; eratque terribilis aspectu, et virga aurea in manu eius.
-###### 2f
+###### 2
 Cumque elevasset faciem, vidit eam sicut taurus in impetu irae suae et cogitans eam perdere clamavit ambiguus: “ Quis ausus est introire in aulam non vocatus? ”. Et regina corruit et, in pallorem colore mutato, lassa se reclinavit super caput ancillulae, quae antecedebat. 
-###### 2g
+###### 2
 Convertitque Iudaeorum Deus et universae creaturae Dominus spiritum regis in mansuetudinem, et festinus ac metuens exilivit de solio; et sustentans eam ulnis suis, donec rediret ad se, verbis pacificis ei blandiebatur: 
-###### 2h
+###### 2
 “ Quid habes, Esther regina, soror mea et consors regni? Ego sum frater tuus, noli metuere. 
-###### 2i
+###### 2
 Non morieris; non enim pro te, sed pro omnibus haec lex constituta est. 
-###### 2k
+###### 2
 Accede! ”.
-###### 2l
+###### 2
 Et elevans auream virgam posuit super collum eius et osculatus est eam et ait: “ Loquere mihi ”. 
-###### 2l
+###### 2
 Et elevans auream virgam posuit super collum eius et osculatus est eam et ait: “ Loquere mihi ”. 
-###### 2m
+###### 2
 Quae respondit: “ Vidi te, domine, quasi angelum Dei, et conturbatum est cor meum prae timore gloriae tuae; 
-###### 2n
+###### 2
 valde enim mirabilis es, domine, et facies tua plena est gratiarum ”. 
-###### 2o
+###### 2
 Cumque loqueretur, rursus corruit et paene exanimata est. 
-###### 2p
+###### 2
 Rex autem turbabatur, et omnes ministri eius.
 ###### 3
 Dixitque ad eam rex: “ Quid vis, Esther regina? Quae est petitio tua? Etiamsi dimidiam partem regni petieris, dabitur tibi ”. 

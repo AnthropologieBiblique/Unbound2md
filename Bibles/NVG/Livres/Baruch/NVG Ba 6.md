@@ -8,7 +8,7 @@ tags : Bible/Ba/6
 
 # Baruch 6
 
-###### 1a
+###### 1
 Exemplum epistulae, quam misit Ieremias ad abducendos captivos in Babyloniam a rege Babyloniorum, ut nuntiaret illis secundum quod praeceptum est ei a Deo.
 ###### 1
 Propter peccata, quae peccastis ante Deum, abducemini in Babyloniam captivi a Nabuchodonosor rege Babyloniorum. 

@@ -9,27 +9,27 @@ tags : Bible/Estgrec/11
 
 # Esther, Greek 1
 
-###### 1a
+###### 1
 Anno secundo, regnante Artaxerxe rege magno, prima die mensis Nisan vidit somnium Mardochaeus filius Iair filii Semei filii Cis de tribu Beniamin, 
-###### 1b
+###### 1
 vir magnus, qui ministrabat in aula regia.
-###### 1c
+###### 1
 Et hoc eius somnium fuit. Apparuerunt voces et tumultus et tonitrua et terraemotus et conturbatio magna super terram. 
-###### 1c
+###### 1
 Et hoc eius somnium fuit. Apparuerunt voces et tumultus et tonitrua et terraemotus et conturbatio magna super terram. 
-###### 1d
+###### 1
 Et ecce duo dracones magni parati prodierunt uterque luctari; 
-###### 1e
+###### 1
 et facta est illorum magna pugna, et dominabantur, et congregatae sunt nationes 
-###### 1f
+###### 1
 in die tenebroso et malo, et fuit perturbatio magna in habitantibus super terram. 
-###### 1g
+###### 1
 Et timuerunt perditionem 
-###### 1h
+###### 1
 clamaveruntque ad Deum. Et a voce clamoris eorum factus est fons parvus, qui crevit in fluvium maximum et in aquas plurimas redundavit. 
-###### 1i
+###### 1
 Lux et sol ortus est, et humiles exaltati sunt et devoraverunt inclitos. 
-###### 1k
+###### 1
 Quod cum vidisset somnium Mardochaeus et surrexisset de strato, cogitabat quid Deus facere vellet; et fixum habebat in animo, quousque revelaretur.
 ###### 1
 Et fuit in diebus Asueri, qui regnavit ab India usque Aethiopiam super centum viginti septem provincias, 

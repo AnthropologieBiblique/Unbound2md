@@ -1,0 +1,1 @@
+#columns	nrsva_book_index	nrsva_chapter	nrsva_verse	orig_book_index	orig_chapter	orig_verse	orig_subverse	orig_is_null

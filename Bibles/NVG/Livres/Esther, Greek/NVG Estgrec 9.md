@@ -47,7 +47,7 @@ Dies autem tertius decimus mensis Adar, dies apud omnes interfectionis fuit, et 
 At hi, qui in urbe Susan congregati sunt, tertio decimo et quarto decimo die eiusdem mensis in caede versati sunt, quinto decimo autem die requieverunt; et idcirco eundem diem constituerunt sollemnem epularum atque laetitiae. 
 ###### 19
 Hi vero Iudaei, qui in oppidis non muratis ac villis morabantur, quartum decimum diem mensis Adar conviviorum et gaudii decreverunt, ita ut exsultent in eo et mittant sibi mutuo partes epularum. Illi autem, qui in urbibus habitant, agunt etiam quintum decimum diem mensis Adar cum gaudio et convivio et ut diem festum, in quo mittunt sibi mutuo partes epularum.
-###### 19a
+###### 19
 Et satrapae provinciarum et principes et scribae regis honorificabant Deum, quia timor Mardochaei eos invaserat. Factum erat enim, ut praeceptum regis in toto regno nominaretur.
 ###### 20
 Scripsit itaque Mardochaeus omnia haec et litteris comprehensa misit ad omnes Iudaeos, qui in omnibus regis provinciis morabantur, tam in vicino positis quam procul, 
