@@ -8,6 +8,6 @@ tags : Bible/Na
 
 # Nahum
 
-[[VG Na 1]]
-[[VG Na 2]]
-[[VG Na 3]]
+[[VG Na 1|Nahum 1]]
+[[VG Na 2|Nahum 2]]
+[[VG Na 3|Nahum 3]]

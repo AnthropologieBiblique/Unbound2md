@@ -1,42 +1,42 @@
-01O	Genesis
-02O	Exodus
-03O	Leviticus
-04O	Numbers
-05O	Deuteronomy
-06O	Joshua
-07O	Judges
-08O	Ruth
-09O	1 Samuel
-10O	2 Samuel
-11O	1 Kings
-12O	2 Kings
-13O	1 Chronicles
-14O	2 Chronicles
-15O	Ezra
-16O	Nehemiah
-17O	Esther
-18O	Job
-19O	Psalms
-20O	Proverbs
-21O	Ecclesiastes
-22O	Song of Solomon
-23O	Isaiah
-24O	Jeremiah
-25O	Lamentations
-26O	Ezekiel
-27O	Daniel
-28O	Hosea
-29O	Joel
-30O	Amos
-31O	Obadiah
-32O	Jonah
-33O	Micah
-34O	Nahum
-35O	Habakkuk
-36O	Zephaniah
-37O	Haggai
-38O	Zechariah
-39O	Malachi
+01O	בראשית
+02O	שמות
+03O	ויקרא
+04O	במדבר
+05O	דברים
+06O	יהושע
+07O	שופטים
+08O	רות
+09O	1 שמואל
+10O	2 שמואל
+11O	1 מלכים
+12O	2 מלכים
+13O	1 דברי הימים
+14O	2 דברי הימים
+15O	עזרא
+16O	ונחמיה
+17O	אסתר
+18O	איוב
+19O	תהלים
+20O	משלי
+21O	קהלת
+22O	שיר השירים
+23O	ישעיה
+24O	ירמיה
+25O	איכה
+26O	יחזקאל
+27O	דניאל
+28O	הושע
+29O	יואל
+30O	עמוס
+31O	עובדיה
+32O	יונה
+33O	מיכה
+34O	נחום
+35O	חבקוק
+36O	צפניה
+37O	חגי
+38O	זכריה
+39O	מלאכי
 40N	Matthew
 41N	Mark
 42N	Luke
@@ -68,7 +68,7 @@
 68A	Judith
 69A	Esther, Greek
 70A	Wisdom of Solomon
-71A	Ecclesiasticus (Sira
+71A	Ecclesiasticus
 72A	Baruch
 73A	Epistle of Jeremiah
 74A	Prayer of Azariah

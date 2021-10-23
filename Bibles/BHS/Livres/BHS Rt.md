@@ -1,14 +1,14 @@
 ---
 aliases : 
-- Ruth
+- רות
 - Ruth
 - Rt
 tags : Bible/Rt
 ---
 
-# Ruth
+# רות
 
-[[BHS Rt 1]]
-[[BHS Rt 2]]
-[[BHS Rt 3]]
-[[BHS Rt 4]]
+[[BHS Rt 1|רות 1]]
+[[BHS Rt 2|רות 2]]
+[[BHS Rt 3|רות 3]]
+[[BHS Rt 4|רות 4]]

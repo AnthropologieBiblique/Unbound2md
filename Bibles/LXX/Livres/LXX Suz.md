@@ -9,4 +9,4 @@ tags : Bible/Suz
 
 # Δανιήλ
 
-[[LXX Suz 1]]
+[[LXX Suz 1|Δανιήλ 1]]

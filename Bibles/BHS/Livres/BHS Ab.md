@@ -1,12 +1,12 @@
 ---
 aliases : 
-- Obadiah
+- עובדיה
 - Abdias
 - Ab
 - Obadiah
 tags : Bible/Ab
 ---
 
-# Obadiah
+# עובדיה
 
-[[BHS Ab 1]]
+[[BHS Ab 1|עובדיה 1]]

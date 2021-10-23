@@ -1,12 +1,12 @@
 ---
 aliases : 
-- Philemon
+- ad Philemonem
 - Philémon
 - Phm
 - Philemon
 tags : Bible/Phm
 ---
 
-# Philemon
+# ad Philemonem
 
-[[NVG Phm 1]]
+[[NVG Phm 1|ad Philemonem 1]]

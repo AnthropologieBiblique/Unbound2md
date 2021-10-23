@@ -1,13 +1,13 @@
 ---
 aliases : 
-- Nahum
+- נחום
 - Nahum
 - Na
 tags : Bible/Na
 ---
 
-# Nahum
+# נחום
 
-[[BHS Na 1]]
-[[BHS Na 2]]
-[[BHS Na 3]]
+[[BHS Na 1|נחום 1]]
+[[BHS Na 2|נחום 2]]
+[[BHS Na 3|נחום 3]]

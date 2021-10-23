@@ -9,4 +9,4 @@ tags : Bible/Bel
 
 # Δανιήλ
 
-[[LXX Bel 1]]
+[[LXX Bel 1|Δανιήλ 1]]

@@ -8,4 +8,4 @@ tags : Bible/Jude
 
 # Jude
 
-[[VG Jude 1]]
+[[VG Jude 1|Jude 1]]

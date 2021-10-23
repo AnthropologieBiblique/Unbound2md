@@ -1,0 +1,39 @@
+---
+aliases : 
+- Psalmi 140
+- Psaumes 140
+- Ps 140
+- Psalms 140
+tags : Bible/Ps/140
+---
+
+# Psalmi 140
+
+###### 1
+Magistro chori. PSALMUS. David.
+###### 2
+Eripe me, Domine, ab homine malo, a viro violentiae serva me.
+###### 3
+Qui cogitaverunt mala in corde, tota die constituebant proelia.
+###### 4
+Acuerunt linguas suas sicut serpentis, venenum aspidum sub labiis eorum.
+###### 5
+Custodi me, Domine, de manu peccatoris et a viro violentiae serva me, qui cogitaverunt supplantare gressus meos.
+###### 6
+Absconderunt superbi laqueum mihi et funes extenderunt in rete, iuxta iter offendicula posuerunt mihi.
+###### 7
+Dixi Domino: “ Deus meus es tu; auribus percipe, Domine, vocem deprecationis meae ”.
+###### 8
+Domine, Domine, virtus salutis meae, obumbrasti caput meum in die belli.
+###### 9
+Ne concedas, Domine, desideria impii; consilia eius ne perficias. Exaltant 
+###### 10
+caput, qui circumdant me; malitia labiorum ipsorum operiat eos.
+###### 11
+Cadant super eos carbones ignis, in foveas deicias eos, et non exsurgant.
+###### 12
+Vir linguosus non firmabitur in terra, virum violentiae mala capient in interitu.
+###### 13
+Cognovi quia faciet Dominus iudicium inopis et vindictam pauperum.
+###### 14
+Verumtamen iusti confitebuntur nomini tuo, et habitabunt recti in conspectu tuo.

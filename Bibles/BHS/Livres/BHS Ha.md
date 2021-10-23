@@ -1,14 +1,14 @@
 ---
 aliases : 
-- Habakkuk
+- חבקוק
 - Habaquq
 - Ha
 - Habakkuk
 tags : Bible/Ha
 ---
 
-# Habakkuk
+# חבקוק
 
-[[BHS Ha 1]]
-[[BHS Ha 2]]
-[[BHS Ha 3]]
+[[BHS Ha 1|חבקוק 1]]
+[[BHS Ha 2|חבקוק 2]]
+[[BHS Ha 3|חבקוק 3]]

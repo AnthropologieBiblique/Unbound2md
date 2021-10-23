@@ -9,4 +9,4 @@ tags : Bible/Phm
 
 # Philemon
 
-[[VG Phm 1]]
+[[VG Phm 1|Philemon 1]]

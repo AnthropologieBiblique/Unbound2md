@@ -9,4 +9,4 @@ tags : Bible/2Jn
 
 # 2 John
 
-[[VG 2 Jn 1]]
+[[VG 2 Jn 1|2 John 1]]

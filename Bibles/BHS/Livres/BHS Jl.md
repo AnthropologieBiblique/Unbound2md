@@ -1,15 +1,15 @@
 ---
 aliases : 
-- Joel
+- יואל
 - Joël
 - Jl
 - Joel
 tags : Bible/Jl
 ---
 
-# Joel
+# יואל
 
-[[BHS Jl 1]]
-[[BHS Jl 2]]
-[[BHS Jl 3]]
-[[BHS Jl 4]]
+[[BHS Jl 1|יואל 1]]
+[[BHS Jl 2|יואל 2]]
+[[BHS Jl 3|יואל 3]]
+[[BHS Jl 4|יואל 4]]

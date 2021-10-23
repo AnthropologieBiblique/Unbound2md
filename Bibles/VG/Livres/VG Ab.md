@@ -9,4 +9,4 @@ tags : Bible/Ab
 
 # Obadiah
 
-[[VG Ab 1]]
+[[VG Ab 1|Obadiah 1]]

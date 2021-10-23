@@ -8,7 +8,7 @@ tags : Bible/Rt
 
 # Ruth
 
-[[VG Rt 1]]
-[[VG Rt 2]]
-[[VG Rt 3]]
-[[VG Rt 4]]
+[[VG Rt 1|Ruth 1]]
+[[VG Rt 2|Ruth 2]]
+[[VG Rt 3|Ruth 3]]
+[[VG Rt 4|Ruth 4]]

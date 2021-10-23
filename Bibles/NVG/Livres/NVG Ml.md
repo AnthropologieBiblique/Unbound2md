@@ -1,14 +1,14 @@
 ---
 aliases : 
-- Malachi
+- Malachié
 - Malachie
 - Ml
 - Malachi
 tags : Bible/Ml
 ---
 
-# Malachi
+# Malachié
 
-[[NVG Ml 1]]
-[[NVG Ml 2]]
-[[NVG Ml 3]]
+[[NVG Ml 1|Malachié 1]]
+[[NVG Ml 2|Malachié 2]]
+[[NVG Ml 3|Malachié 3]]

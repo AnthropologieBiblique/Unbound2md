@@ -98,7 +98,7 @@ class Bible:
 		f.write('# '+self.name+'\n\n')
 		for book in self.booksList:
 			book.buildMdBible(self.abbrev,path)
-			f.write('[['+book.abbrev+']]'+'\n')
+			f.write('[['+self.abbrev+' '+book.abbrev+'|'+book.name+']]'+'\n')
 		f.close()
 
 
@@ -134,7 +134,7 @@ class BibleBook:
 		path+='/'+self.name
 		for chapter in self.chapterList:
 			chapter.buildMdBible(bibleAbbrev,self.name,self.abbrev,self.standardName,self.standardAbbrev,self.englishName,path)
-			f.write('[['+name+' '+chapter.number+']]'+'\n')
+			f.write('[['+name+' '+chapter.number+'|'+self.name+' '+chapter.number+']]'+'\n')
 		f.close()
 
 class BibleChapter:

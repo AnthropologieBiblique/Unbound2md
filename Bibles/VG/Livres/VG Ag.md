@@ -9,5 +9,5 @@ tags : Bible/Ag
 
 # Haggai
 
-[[VG Ag 1]]
-[[VG Ag 2]]
+[[VG Ag 1|Haggai 1]]
+[[VG Ag 2|Haggai 2]]

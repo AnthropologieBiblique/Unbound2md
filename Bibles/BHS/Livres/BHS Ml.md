@@ -1,14 +1,14 @@
 ---
 aliases : 
-- Malachi
+- מלאכי
 - Malachie
 - Ml
 - Malachi
 tags : Bible/Ml
 ---
 
-# Malachi
+# מלאכי
 
-[[BHS Ml 1]]
-[[BHS Ml 2]]
-[[BHS Ml 3]]
+[[BHS Ml 1|מלאכי 1]]
+[[BHS Ml 2|מלאכי 2]]
+[[BHS Ml 3|מלאכי 3]]

@@ -9,4 +9,4 @@ tags : Bible/3Jn
 
 # 3 John
 
-[[VG 3 Jn 1]]
+[[VG 3 Jn 1|3 John 1]]

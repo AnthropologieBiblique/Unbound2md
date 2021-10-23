@@ -1,13 +1,13 @@
 ---
 aliases : 
-- Haggai
+- חגי
 - Aggée
 - Ag
 - Haggai
 tags : Bible/Ag
 ---
 
-# Haggai
+# חגי
 
-[[BHS Ag 1]]
-[[BHS Ag 2]]
+[[BHS Ag 1|חגי 1]]
+[[BHS Ag 2|חגי 2]]

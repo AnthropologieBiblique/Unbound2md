@@ -9,5 +9,5 @@ tags : Bible/Ag
 
 # Ἀγγαῖος Ιʹ
 
-[[LXX Ag 1]]
-[[LXX Ag 2]]
+[[LXX Ag 1|Ἀγγαῖος Ιʹ 1]]
+[[LXX Ag 2|Ἀγγαῖος Ιʹ 2]]
