@@ -1,9 +1,13 @@
 ---
-aliases : Ps 86
+aliases : 
+- Psalms 86
+- Psaumes 86
+- Ps 86
+- Psalms 86
 tags : Bible/Ps/86
 ---
 
-# Chapitre 86
+# Psalms 86
 
 ###### 1
 Precatio. David. Inclina, Domine, aurem tuam et exaudi me, quoniam inops et pauper sum ego.

@@ -1,9 +1,13 @@
 ---
-aliases : Mt 5
+aliases : 
+- Matthew 5
+- Matthieu 5
+- Mt 5
+- Matthew 5
 tags : Bible/Mt/5
 ---
 
-# Chapitre 5
+# Matthew 5
 
 ###### 1
 Videns autem turbas, ascendit in montem; et cum sedisset, ac cesserunt ad eum discipuli eius; 

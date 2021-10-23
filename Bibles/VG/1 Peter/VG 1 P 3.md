@@ -1,9 +1,13 @@
 ---
-aliases : 1 P 3
+aliases : 
+- 1 Peter 3
+- 1 Pierre 3
+- 1 P 3
+- 1 Peter 3
 tags : Bible/1P/3
 ---
 
-# Chapitre 3
+# 1 Peter 3
 
 ###### 1
 Similiter et mulieres subditæ sint viris suis : ut etsi qui non credunt verbo, per mulierem conversationem sine verbo lucrifiant :

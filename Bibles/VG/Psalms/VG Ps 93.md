@@ -1,9 +1,13 @@
 ---
-aliases : Ps 94
+aliases : 
+- Psalms 93
+- Psaumes 94
+- Ps 94
+- Psalms 94
 tags : Bible/Ps/94
 ---
 
-# Chapitre 93
+# Psalms 93
 
 ###### 1
 Psalmus ipsi David, quarta sabbati. Deus ultionum Dominus ; Deus ultionum libere egit.

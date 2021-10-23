@@ -1,9 +1,13 @@
 ---
-aliases : Ap 21
+aliases : 
+- Revelation 21
+- Apocalypse 21
+- Ap 21
+- Revelation 21
 tags : Bible/Ap/21
 ---
 
-# Chapitre 21
+# Revelation 21
 
 ###### 1
 Et vidi caelum novum et ter ram novam; primum enim caelum et prima terra abierunt, et mare iam non est. 

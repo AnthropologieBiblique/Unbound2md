@@ -1,9 +1,13 @@
 ---
-aliases : Ps 62
+aliases : 
+- Ψαλμοί 61
+- Psaumes 62
+- Ps 62
+- Psalms 62
 tags : Bible/Ps/62
 ---
 
-# Chapitre 61
+# Ψαλμοί 61
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ ιδιθουν ψαλμὸς τῷ δαυιδ

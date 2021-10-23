@@ -1,9 +1,13 @@
 ---
-aliases : Jr 39
+aliases : 
+- Jeremiah 39
+- Jérémie 39
+- Jr 39
+- Jeremiah 39
 tags : Bible/Jr/39
 ---
 
-# Chapitre 39
+# Jeremiah 39
 
 ###### 1
 Anno nono Sedeciae regis Iudae, mense decimo, venit Nabuchodonosor rex Babylonis et omnis exercitus eius ad Ierusalem et obsidebant eam. 

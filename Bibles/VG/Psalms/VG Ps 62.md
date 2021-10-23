@@ -1,9 +1,13 @@
 ---
-aliases : Ps 63
+aliases : 
+- Psalms 62
+- Psaumes 63
+- Ps 63
+- Psalms 63
 tags : Bible/Ps/63
 ---
 
-# Chapitre 62
+# Psalms 62
 
 ###### 1
 Psalmus David, cum esset in deserto Idumææ.

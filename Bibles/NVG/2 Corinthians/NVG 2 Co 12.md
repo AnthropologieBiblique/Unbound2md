@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 12
+aliases : 
+- 2 Corinthians 12
+- 2 Corinthiens 12
+- 2 Co 12
+- 2 Corinthians 12
 tags : Bible/2Co/12
 ---
 
-# Chapitre 12
+# 2 Corinthians 12
 
 ###### 1
 Gloriari oportet; non expedit quidem, veniam autem ad visiones et revelationes Domini. 

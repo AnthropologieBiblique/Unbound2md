@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 2
+aliases : 
+- Judith 2
+- Judith 2
+- Jdt 2
 tags : Bible/Jdt/2
 ---
 
-# Chapitre 2
+# Judith 2
 
 ###### 1
 Anno tertiodecimo Nabuchodonosor regis vigesima et secunda die mensis primi, factum est verbum in domo Nabuchodonosor regis Assyriorum ut defenderet se.

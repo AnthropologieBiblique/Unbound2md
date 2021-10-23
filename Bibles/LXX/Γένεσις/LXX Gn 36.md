@@ -1,9 +1,13 @@
 ---
-aliases : Gn 36
+aliases : 
+- Γένεσις 36
+- Genèse 36
+- Gn 36
+- Genesis 36
 tags : Bible/Gn/36
 ---
 
-# Chapitre 36
+# Γένεσις 36
 
 ###### 1
 αὗται δὲ αἱ γενέσεις ησαυ αὐτός ἐστιν εδωμ

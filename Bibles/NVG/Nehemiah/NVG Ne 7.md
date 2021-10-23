@@ -1,9 +1,13 @@
 ---
-aliases : Ne 7
+aliases : 
+- Nehemiah 7
+- Néhémie 7
+- Ne 7
+- Nehemiah 7
 tags : Bible/Ne/7
 ---
 
-# Chapitre 7
+# Nehemiah 7
 
 ###### 1
 Postquam autem aedificatus est murus, et posui valvas et recen sui ianitores et cantores et Levitas, 

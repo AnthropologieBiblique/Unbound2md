@@ -1,9 +1,13 @@
 ---
-aliases : Ps 71
+aliases : 
+- Psalms 71
+- Psaumes 71
+- Ps 71
+- Psalms 71
 tags : Bible/Ps/71
 ---
 
-# Chapitre 71
+# Psalms 71
 
 ###### 1
 בְּךָ־יְהוָה חָסִיתִי אַל־אֵבֹושָׁה לְעֹולָם׃

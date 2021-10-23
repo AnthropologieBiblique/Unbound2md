@@ -1,9 +1,13 @@
 ---
-aliases : Za 5
+aliases : 
+- Zechariah 5
+- Zacharie 5
+- Za 5
+- Zechariah 5
 tags : Bible/Za/5
 ---
 
-# Chapitre 5
+# Zechariah 5
 
 ###### 1
 וָאָשׁוּב וָאֶשָּׂא עֵינַי וָאֶרְאֶה וְהִנֵּה מְגִלָּה עָפָה׃

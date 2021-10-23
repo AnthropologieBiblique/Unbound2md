@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 7
+aliases : 
+- 1 Chronicles 7
+- 1 Chroniques 7
+- 1 Ch 7
+- 1 Chronicles 7
 tags : Bible/1Ch/7
 ---
 
-# Chapitre 7
+# 1 Chronicles 7
 
 ###### 1
 Porro filii Issachar : Thola, et Phua, Jasub, et Simeron, quatuor.

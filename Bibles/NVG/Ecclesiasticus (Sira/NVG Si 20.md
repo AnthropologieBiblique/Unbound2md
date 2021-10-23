@@ -1,9 +1,13 @@
 ---
-aliases : Si 20
+aliases : 
+- Ecclesiasticus (Sira 20
+- Siracide 20
+- Si 20
+- Ecclesiasticus (Sira 20
 tags : Bible/Si/20
 ---
 
-# Chapitre 20
+# Ecclesiasticus (Sira 20
 
 ###### 1
 Quam bonum est arguere quam irasci, et confitentem in oratione non prohibere!

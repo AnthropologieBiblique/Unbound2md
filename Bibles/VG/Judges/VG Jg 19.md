@@ -1,9 +1,13 @@
 ---
-aliases : Jg 19
+aliases : 
+- Judges 19
+- Juges 19
+- Jg 19
+- Judges 19
 tags : Bible/Jg/19
 ---
 
-# Chapitre 19
+# Judges 19
 
 ###### 1
 Fuit quidam vir Levites habitans in latere montis Ephraim, qui accepit uxorem de Bethlehem Juda :

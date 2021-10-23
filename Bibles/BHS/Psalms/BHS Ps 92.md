@@ -1,9 +1,13 @@
 ---
-aliases : Ps 92
+aliases : 
+- Psalms 92
+- Psaumes 92
+- Ps 92
+- Psalms 92
 tags : Bible/Ps/92
 ---
 
-# Chapitre 92
+# Psalms 92
 
 ###### 1
 מִזְמֹור שִׁיר לְיֹום הַשַּׁבָּת׃

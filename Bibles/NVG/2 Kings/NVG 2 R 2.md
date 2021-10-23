@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 2
+aliases : 
+- 2 Kings 2
+- 2 Rois 2
+- 2 R 2
+- 2 Kings 2
 tags : Bible/2R/2
 ---
 
-# Chapitre 2
+# 2 Kings 2
 
 ###### 1
 Factum est autem cum levare vellet Dominus Eliam per turbi nem in caelum, ibant Elias et Eliseus de Galgalis; 

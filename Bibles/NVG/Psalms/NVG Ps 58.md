@@ -1,9 +1,13 @@
 ---
-aliases : Ps 58
+aliases : 
+- Psalms 58
+- Psaumes 58
+- Ps 58
+- Psalms 58
 tags : Bible/Ps/58
 ---
 
-# Chapitre 58
+# Psalms 58
 
 ###### 1
 Magistro chori. Secundum " Ne destruxeris ". David. Miktam.

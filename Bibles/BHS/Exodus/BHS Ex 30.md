@@ -1,9 +1,13 @@
 ---
-aliases : Ex 30
+aliases : 
+- Exodus 30
+- Exode 30
+- Ex 30
+- Exodus 30
 tags : Bible/Ex/30
 ---
 
-# Chapitre 30
+# Exodus 30
 
 ###### 1
 וְעָשִׂיתָ מִזְבֵּחַ מִקְטַר קְטֹרֶת עֲצֵי שִׁטִּים תַּעֲשֶׂה אֹתֹו׃

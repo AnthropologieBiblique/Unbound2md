@@ -1,9 +1,13 @@
 ---
-aliases : Ac 20
+aliases : 
+- Acts of the Apostles 20
+- Actes 20
+- Ac 20
+- Acts of the Apostles 20
 tags : Bible/Ac/20
 ---
 
-# Chapitre 20
+# Acts of the Apostles 20
 
 ###### 1
 Postquam autem cessavit tumultus, accersitis Paulus discipulis et exhortatus eos, valedixit et profectus est, ut iret in Macedoniam. 

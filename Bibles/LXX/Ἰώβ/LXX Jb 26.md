@@ -1,9 +1,12 @@
 ---
-aliases : Jb 26
+aliases : 
+- Ἰώβ 26
+- Job 26
+- Jb 26
 tags : Bible/Jb/26
 ---
 
-# Chapitre 26
+# Ἰώβ 26
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

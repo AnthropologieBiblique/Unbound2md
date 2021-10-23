@@ -1,9 +1,13 @@
 ---
-aliases : Gn 31
+aliases : 
+- Genesis 32
+- Genèse 31
+- Gn 31
+- Genesis 31
 tags : Bible/Gn/31
 ---
 
-# Chapitre 32
+# Genesis 32
 
 ###### 1
 Laban vero de nocte consur gens osculatus est filios et fi lias suas et benedixit illis reversusque est in locum suum.

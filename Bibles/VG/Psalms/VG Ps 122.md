@@ -1,9 +1,13 @@
 ---
-aliases : Ps 123
+aliases : 
+- Psalms 122
+- Psaumes 123
+- Ps 123
+- Psalms 123
 tags : Bible/Ps/123
 ---
 
-# Chapitre 122
+# Psalms 122
 
 ###### 1
 Canticum graduum. Ad te levavi oculos meos, qui habitas in cælis.

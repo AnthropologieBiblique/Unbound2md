@@ -1,9 +1,13 @@
 ---
-aliases : Jr 47
+aliases : 
+- Jeremiah 47
+- Jérémie 47
+- Jr 47
+- Jeremiah 47
 tags : Bible/Jr/47
 ---
 
-# Chapitre 47
+# Jeremiah 47
 
 ###### 1
 Quod factum est verbum Domini ad Jeremiam prophetam contra Palæstinos, antequam percuteret Pharao Gazam.

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 26
+aliases : 
+- 1 Chronicles 26
+- 1 Chroniques 26
+- 1 Ch 26
+- 1 Chronicles 26
 tags : Bible/1Ch/26
 ---
 
-# Chapitre 26
+# 1 Chronicles 26
 
 ###### 1
 Divisiones autem ianitorum. De Coritis: Meselemia filius Core de filiis Abiasaph. 

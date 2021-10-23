@@ -1,9 +1,13 @@
 ---
-aliases : Ps 38
+aliases : 
+- Ψαλμοί 37
+- Psaumes 38
+- Ps 38
+- Psalms 38
 tags : Bible/Ps/38
 ---
 
-# Chapitre 37
+# Ψαλμοί 37
 
 ###### 1
 ψαλμὸς τῷ δαυιδ εἰς ἀνάμνησιν περὶ σαββάτου

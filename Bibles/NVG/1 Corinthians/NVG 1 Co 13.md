@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 13
+aliases : 
+- 1 Corinthians 13
+- 1 Corinthiens 13
+- 1 Co 13
+- 1 Corinthians 13
 tags : Bible/1Co/13
 ---
 
-# Chapitre 13
+# 1 Corinthians 13
 
 ###### 1
 Si linguis hominum loquar et angelorum, caritatem au tem non habeam, factus sum velut aes sonans aut cymbalum tinniens.

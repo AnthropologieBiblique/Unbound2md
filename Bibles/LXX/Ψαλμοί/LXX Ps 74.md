@@ -1,9 +1,13 @@
 ---
-aliases : Ps 75
+aliases : 
+- Ψαλμοί 74
+- Psaumes 75
+- Ps 75
+- Psalms 75
 tags : Bible/Ps/75
 ---
 
-# Chapitre 74
+# Ψαλμοί 74
 
 ###### 1
 εἰς τὸ τέλος μὴ διαφθείρῃς ψαλμὸς τῷ ασαφ ᾠδῆς

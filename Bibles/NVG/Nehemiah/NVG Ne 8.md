@@ -1,9 +1,13 @@
 ---
-aliases : Ne 8
+aliases : 
+- Nehemiah 8
+- Néhémie 8
+- Ne 8
+- Nehemiah 8
 tags : Bible/Ne/8
 ---
 
-# Chapitre 8
+# Nehemiah 8
 
 ###### 1
 Congregatusque est omnis populus quasi vir unus ad plateam, quae est ante portam Aquarum, et dixerunt Esdrae scribae, ut afferret librum legis Moysi, quam praece perat Dominus Israeli. 

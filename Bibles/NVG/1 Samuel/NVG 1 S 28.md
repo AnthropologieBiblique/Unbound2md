@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 28
+aliases : 
+- 1 Samuel 28
+- 1 Samuel 28
+- 1 S 28
 tags : Bible/1S/28
 ---
 
-# Chapitre 28
+# 1 Samuel 28
 
 ###### 1
 Factum est autem in diebus illis, congregaverunt Phili sthim agmina sua, ut praepararentur ad bellum contra Israel. Dixitque Achis ad David: “ Sciens nunc scito quoniam mecum egredieris in castris tu et viri tui ”. 

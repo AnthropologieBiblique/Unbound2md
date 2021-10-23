@@ -1,9 +1,13 @@
 ---
-aliases : Is 11
+aliases : 
+- Isaiah 11
+- Isaïe 11
+- Is 11
+- Isaiah 11
 tags : Bible/Is/11
 ---
 
-# Chapitre 11
+# Isaiah 11
 
 ###### 1
 וְיָצָא חֹטֶר מִגֵּזַע יִשָׁי וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה׃

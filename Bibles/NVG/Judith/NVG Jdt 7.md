@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 7
+aliases : 
+- Judith 7
+- Judith 7
+- Jdt 7
 tags : Bible/Jdt/7
 ---
 
-# Chapitre 7
+# Judith 7
 
 ###### 1
 Crastina autem die praecepit Holofernes omni militiae suae et omni populo suo, qui affuerunt in auxilium illius, ut pararent se ad Betuliam et ascensus montanae praeoccuparent et facerent pugnam adversus filios Israel. 

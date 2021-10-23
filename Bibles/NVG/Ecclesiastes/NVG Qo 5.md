@@ -1,9 +1,13 @@
 ---
-aliases : Qo 5
+aliases : 
+- Ecclesiastes 5
+- Ecclésiaste 5
+- Qo 5
+- Ecclesiastes 5
 tags : Bible/Qo/5
 ---
 
-# Chapitre 5
+# Ecclesiastes 5
 
 ###### 1
 Ne temere quid loquaris, neque cor tuum sit velox ad proferen dum sermonem coram Deo; Deus enim in caelo, et tu super terram: idcirco sint pauci sermones tui.

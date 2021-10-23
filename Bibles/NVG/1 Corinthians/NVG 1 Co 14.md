@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 14
+aliases : 
+- 1 Corinthians 14
+- 1 Corinthiens 14
+- 1 Co 14
+- 1 Corinthians 14
 tags : Bible/1Co/14
 ---
 
-# Chapitre 14
+# 1 Corinthians 14
 
 ###### 1
 Sectamini caritatem, aemu lamini spiritalia, magis au tem, ut prophetetis. 

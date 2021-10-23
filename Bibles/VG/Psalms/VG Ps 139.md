@@ -1,9 +1,13 @@
 ---
-aliases : Ps 140
+aliases : 
+- Psalms 139
+- Psaumes 140
+- Ps 140
+- Psalms 140
 tags : Bible/Ps/140
 ---
 
-# Chapitre 139
+# Psalms 139
 
 ###### 1
 In finem. Psalmus David.

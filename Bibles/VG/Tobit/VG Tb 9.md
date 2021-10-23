@@ -1,9 +1,13 @@
 ---
-aliases : Tb 9
+aliases : 
+- Tobit 9
+- Tobie 9
+- Tb 9
+- Tobit 9
 tags : Bible/Tb/9
 ---
 
-# Chapitre 9
+# Tobit 9
 
 ###### 1
 Tunc vocavit Tobias angelum ad se, quem quidem hominem existimabat, dixitque ei : Azaria frater, peto ut auscultes verba mea :

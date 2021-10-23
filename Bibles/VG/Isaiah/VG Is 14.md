@@ -1,9 +1,13 @@
 ---
-aliases : Is 14
+aliases : 
+- Isaiah 14
+- Isaïe 14
+- Is 14
+- Isaiah 14
 tags : Bible/Is/14
 ---
 
-# Chapitre 14
+# Isaiah 14
 
 ###### 1
 Prope est ut veniat tempus ejus, et dies ejus non elongabuntur. Miserebitur enim Dominus Jacob, et eliget adhuc de Israël, et requiescere eos faciet super humum suam ; adjungetur advena ad eos, et adhærebit domui Jacob.

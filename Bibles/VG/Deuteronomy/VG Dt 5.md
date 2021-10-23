@@ -1,9 +1,13 @@
 ---
-aliases : Dt 5
+aliases : 
+- Deuteronomy 5
+- Deutéronome 5
+- Dt 5
+- Deuteronomy 5
 tags : Bible/Dt/5
 ---
 
-# Chapitre 5
+# Deuteronomy 5
 
 ###### 1
 Vocavitque Moyses omnem Israëlem, et dixit ad eum : Audi, Israël, cæremonias atque judicia, quæ ego loquor in auribus vestris hodie : discite ea, et opere complete.

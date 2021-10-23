@@ -1,9 +1,13 @@
 ---
-aliases : Nb 25
+aliases : 
+- Numbers 25
+- Nombres 25
+- Nb 25
+- Numbers 25
 tags : Bible/Nb/25
 ---
 
-# Chapitre 25
+# Numbers 25
 
 ###### 1
 Morabatur autem eo tempore Israël in Settim, et fornicatus est populus cum filiabus Moab,

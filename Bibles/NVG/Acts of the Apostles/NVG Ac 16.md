@@ -1,9 +1,13 @@
 ---
-aliases : Ac 16
+aliases : 
+- Acts of the Apostles 16
+- Actes 16
+- Ac 16
+- Acts of the Apostles 16
 tags : Bible/Ac/16
 ---
 
-# Chapitre 16
+# Acts of the Apostles 16
 
 ###### 1
 Pervenit autem in Derben et Lystram. Et ecce discipulus quidam erat ibi nomine Timotheus, filius mulieris Iudaeae fidelis, patre autem Graeco; 

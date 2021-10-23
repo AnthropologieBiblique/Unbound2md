@@ -1,9 +1,13 @@
 ---
-aliases : Tt 1
+aliases : 
+- Titus 1
+- Tite 1
+- Tt 1
+- Titus 1
 tags : Bible/Tt/1
 ---
 
-# Chapitre 1
+# Titus 1
 
 ###### 1
 Paulus servus Dei, apostolus autem Iesu Christi secundum fi dem electorum Dei et agnitionem veritatis, quae secundum pietatem est 

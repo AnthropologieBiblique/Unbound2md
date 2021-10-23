@@ -1,9 +1,13 @@
 ---
-aliases : Jn 6
+aliases : 
+- John 6
+- Jean 6
+- Jn 6
+- John 6
 tags : Bible/Jn/6
 ---
 
-# Chapitre 6
+# John 6
 
 ###### 1
 Post haec abiit Iesus trans mare Galilaeae, quod est Tiberiadis. 

@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 5
+aliases : 
+- 1 Maccabees 5
+- 1 Maccabees 5
+- 1 M 5
 tags : Bible/1M/5
 ---
 
-# Chapitre 5
+# 1 Maccabees 5
 
 ###### 1
 Et factum est, ut audierunt gen tes in circuitu quia aedificatum est altare, et dedicatum est sanctuarium sicut prius, iratae sunt valde 

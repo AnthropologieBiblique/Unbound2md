@@ -1,9 +1,13 @@
 ---
-aliases : Ps 12
+aliases : 
+- Psalms 11
+- Psaumes 12
+- Ps 12
+- Psalms 12
 tags : Bible/Ps/12
 ---
 
-# Chapitre 11
+# Psalms 11
 
 ###### 1
 In finem, pro octava. Psalmus David.

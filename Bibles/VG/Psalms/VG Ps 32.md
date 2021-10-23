@@ -1,9 +1,13 @@
 ---
-aliases : Ps 33
+aliases : 
+- Psalms 32
+- Psaumes 33
+- Ps 33
+- Psalms 33
 tags : Bible/Ps/33
 ---
 
-# Chapitre 32
+# Psalms 32
 
 ###### 1
 Psalmus David. Exsultate, justi, in Domino ; rectos decet collaudatio.

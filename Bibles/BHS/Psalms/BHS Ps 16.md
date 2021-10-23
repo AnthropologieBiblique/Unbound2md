@@ -1,9 +1,13 @@
 ---
-aliases : Ps 16
+aliases : 
+- Psalms 16
+- Psaumes 16
+- Ps 16
+- Psalms 16
 tags : Bible/Ps/16
 ---
 
-# Chapitre 16
+# Psalms 16
 
 ###### 1
 מִכְתָּם לְדָוִד שָׁמְרֵנִי אֵל כִּי־חָסִיתִי בָךְ׃

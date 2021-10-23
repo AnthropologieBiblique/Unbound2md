@@ -1,9 +1,13 @@
 ---
-aliases : Ps 37
+aliases : 
+- Psalms 37
+- Psaumes 37
+- Ps 37
+- Psalms 37
 tags : Bible/Ps/37
 ---
 
-# Chapitre 37
+# Psalms 37
 
 ###### 1
 לְדָוִד אַל־תִּתְחַר בַּמְּרֵעִים אַל־תְּקַנֵּא בְּעֹשֵׂי עַוְלָה׃

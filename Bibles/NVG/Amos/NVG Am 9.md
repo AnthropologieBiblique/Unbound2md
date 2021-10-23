@@ -1,9 +1,12 @@
 ---
-aliases : Am 9
+aliases : 
+- Amos 9
+- Amos 9
+- Am 9
 tags : Bible/Am/9
 ---
 
-# Chapitre 9
+# Amos 9
 
 ###### 1
 Vidi Dominum stantem super altare, et dixit: “Percute capitellum, et commoveantur superliminaria; frange eos in capite omnes, et novissimum eorum in gladio interficiam; non fugiet ex eis fugitivus, et non salvabitur superstes eis.

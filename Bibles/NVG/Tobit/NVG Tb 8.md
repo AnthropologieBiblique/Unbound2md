@@ -1,9 +1,13 @@
 ---
-aliases : Tb 8
+aliases : 
+- Tobit 8
+- Tobie 8
+- Tb 8
+- Tobit 8
 tags : Bible/Tb/8
 ---
 
-# Chapitre 8
+# Tobit 8
 
 ###### 1
 Et, cum consummaverunt man ducare et bibere, voluerunt dor mire et deduxerunt iuvenem et induxerunt eum in cubiculum. 

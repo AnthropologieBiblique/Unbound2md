@@ -1,9 +1,13 @@
 ---
-aliases : Is 26
+aliases : 
+- Isaiah 26
+- Isaïe 26
+- Is 26
+- Isaiah 26
 tags : Bible/Is/26
 ---
 
-# Chapitre 26
+# Isaiah 26
 
 ###### 1
 In die illa cantabitur canticum istud in terra Iudae: “ Urbs fortis nobis in salutem; posuit muros et antemurale.

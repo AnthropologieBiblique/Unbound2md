@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 14
+aliases : 
+- 2 Chronicles 14
+- 2 Chroniques 14
+- 2 Ch 14
+- 2 Chronicles 14
 tags : Bible/2Ch/14
 ---
 
-# Chapitre 14
+# 2 Chronicles 14
 
 ###### 1
 Dormivit autem Abia cum patribus suis, et sepelierunt eum in civitate David : regnavitque Asa filius ejus pro eo, in cujus diebus quievit terra annis decem.

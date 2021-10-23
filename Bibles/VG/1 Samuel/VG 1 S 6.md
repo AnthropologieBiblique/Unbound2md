@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 6
+aliases : 
+- 1 Samuel 6
+- 1 Samuel 6
+- 1 S 6
 tags : Bible/1S/6
 ---
 
-# Chapitre 6
+# 1 Samuel 6
 
 ###### 1
 Fuit ergo arca Domini in regione Philisthinorum septem mensibus.

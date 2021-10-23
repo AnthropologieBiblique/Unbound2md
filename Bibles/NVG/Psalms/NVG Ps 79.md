@@ -1,9 +1,13 @@
 ---
-aliases : Ps 79
+aliases : 
+- Psalms 79
+- Psaumes 79
+- Ps 79
+- Psalms 79
 tags : Bible/Ps/79
 ---
 
-# Chapitre 79
+# Psalms 79
 
 ###### 1
 PSALMUS. Asaph. Deus, venerunt gentes in hereditatem tuam, polluerunt templum sanctum tuum, posuerunt Ierusalem in ruinas.

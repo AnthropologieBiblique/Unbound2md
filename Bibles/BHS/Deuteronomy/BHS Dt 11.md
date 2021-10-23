@@ -1,9 +1,13 @@
 ---
-aliases : Dt 11
+aliases : 
+- Deuteronomy 11
+- Deutéronome 11
+- Dt 11
+- Deuteronomy 11
 tags : Bible/Dt/11
 ---
 
-# Chapitre 11
+# Deuteronomy 11
 
 ###### 1
 וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ וְשָׁמַרְתָּ מִשְׁמַרְתֹּו וְחֻקֹּתָיו וּמִשְׁפָּטָיו וּמִצְוֹתָיו כָּל־הַיָּמִים׃

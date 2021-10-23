@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 20
+aliases : 
+- 2 Samuel 20
+- 2 Samuel 20
+- 2 S 20
 tags : Bible/2S/20
 ---
 
-# Chapitre 20
+# 2 Samuel 20
 
 ###### 1
 Accidit quoque, ut ibi esset vir Belial nomine Seba filius Bochri Beniaminita; et cecinit bucina et ait: “ Non est nobis pars in David, neque hereditas in filio Isai! Vir Israel, in tabernacula tua! ”.

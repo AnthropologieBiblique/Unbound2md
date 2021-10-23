@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 6
+aliases : 
+- Judith 6
+- Judith 6
+- Jdt 6
 tags : Bible/Jdt/6
 ---
 
-# Chapitre 6
+# Judith 6
 
 ###### 1
 Factum est autem cum cessassent loqui, indignatus Holofernes vehementer, dixit ad Achior :

@@ -1,9 +1,13 @@
 ---
-aliases : He 12
+aliases : 
+- Hebrews 12
+- Hébreux 12
+- He 12
+- Hebrews 12
 tags : Bible/He/12
 ---
 
-# Chapitre 12
+# Hebrews 12
 
 ###### 1
 Ideoque et nos tantam ha bentes circumpositam nobis nubem testium, deponentes omne pondus et circumstans nos peccatum, per patientiam curramus propositum nobis certamen, 

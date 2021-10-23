@@ -1,9 +1,13 @@
 ---
-aliases : Nb 20
+aliases : 
+- Numbers 20
+- Nombres 20
+- Nb 20
+- Numbers 20
 tags : Bible/Nb/20
 ---
 
-# Chapitre 20
+# Numbers 20
 
 ###### 1
 Veneruntque filii Israel et omnis congregatio in de sertum Sin mense primo, et mansit populus in Cades. Mortuaque est ibi Maria et sepulta in eodem loco.

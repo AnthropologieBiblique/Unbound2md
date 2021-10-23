@@ -1,9 +1,13 @@
 ---
-aliases : Ac 18
+aliases : 
+- Acts of the Apostles 18
+- Actes 18
+- Ac 18
+- Acts of the Apostles 18
 tags : Bible/Ac/18
 ---
 
-# Chapitre 18
+# Acts of the Apostles 18
 
 ###### 1
 Post haec discedens ab Athe nis venit Corinthum. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 11
+aliases : 
+- Psalms 11
+- Psaumes 11
+- Ps 11
+- Psalms 11
 tags : Bible/Ps/11
 ---
 
-# Chapitre 11
+# Psalms 11
 
 ###### 1
 Magistro chori. David. In Domino confido, quomodo dicitis animae meae: “ Transmigra in montem sicut passer!

@@ -1,9 +1,13 @@
 ---
-aliases : Jn 21
+aliases : 
+- John 21
+- Jean 21
+- Jn 21
+- John 21
 tags : Bible/Jn/21
 ---
 
-# Chapitre 21
+# John 21
 
 ###### 1
 Postea manifestavit se ite rum Iesus discipulis ad mare Tiberiadis; manifestavit autem sic. 

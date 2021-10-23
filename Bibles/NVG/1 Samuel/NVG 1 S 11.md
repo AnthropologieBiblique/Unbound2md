@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 11
+aliases : 
+- 1 Samuel 11
+- 1 Samuel 11
+- 1 S 11
 tags : Bible/1S/11
 ---
 
-# Chapitre 11
+# 1 Samuel 11
 
 ###### 1
 Ascendit autem Naas Am monites et pugnare coepit ad versum Iabes Galaad. Dixeruntque omnes viri Iabes ad Naas: “ Habeto nos foederatos, et serviemus tibi ”. 

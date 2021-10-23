@@ -1,9 +1,13 @@
 ---
-aliases : Ac 15
+aliases : 
+- Acts of the Apostles 15
+- Actes 15
+- Ac 15
+- Acts of the Apostles 15
 tags : Bible/Ac/15
 ---
 
-# Chapitre 15
+# Acts of the Apostles 15
 
 ###### 1
 Et quidam descendentes de Iudaea docebant fratres: “ Nisi circumcidamini secundum morem Moysis, non potestis salvi fieri ”.

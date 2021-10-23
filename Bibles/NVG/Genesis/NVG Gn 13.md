@@ -1,9 +1,13 @@
 ---
-aliases : Gn 13
+aliases : 
+- Genesis 13
+- Genèse 13
+- Gn 13
+- Genesis 13
 tags : Bible/Gn/13
 ---
 
-# Chapitre 13
+# Genesis 13
 
 ###### 1
 Ascendit ergo Abram de Ae gypto ipse et uxor eius et om nia, quae habebat, et Lot cum eo ad Nageb. 

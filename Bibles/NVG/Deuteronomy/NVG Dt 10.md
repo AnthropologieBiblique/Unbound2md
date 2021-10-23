@@ -1,9 +1,13 @@
 ---
-aliases : Dt 10
+aliases : 
+- Deuteronomy 10
+- Deutéronome 10
+- Dt 10
+- Deuteronomy 10
 tags : Bible/Dt/10
 ---
 
-# Chapitre 10
+# Deuteronomy 10
 
 ###### 1
 In tempore illo dixit Dominus ad me: “Dola tibi duas tabulas lapideas, sicut priores fuerunt, et ascende ad me in montem faciesque tibi arcam ligneam. 

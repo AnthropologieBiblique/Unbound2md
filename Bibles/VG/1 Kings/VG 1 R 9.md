@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 9
+aliases : 
+- 1 Kings 9
+- 1 Rois 9
+- 1 R 9
+- 1 Kings 9
 tags : Bible/1R/9
 ---
 
-# Chapitre 9
+# 1 Kings 9
 
 ###### 1
 Factum est autem cum perfecisset Salomon ædificium domus Domini, et ædificium regis, et omne quod optaverat et voluerat facere,

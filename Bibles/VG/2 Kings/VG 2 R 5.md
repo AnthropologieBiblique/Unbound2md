@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 5
+aliases : 
+- 2 Kings 5
+- 2 Rois 5
+- 2 R 5
+- 2 Kings 5
 tags : Bible/2R/5
 ---
 
-# Chapitre 5
+# 2 Kings 5
 
 ###### 1
 Naaman princeps militiæ regis Syriæ, erat vir magnus apud dominum suum, et honoratus : per illum enim dedit Dominus salutem Syriæ : erat autem vir fortis et dives, sed leprosus.

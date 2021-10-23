@@ -1,9 +1,13 @@
 ---
-aliases : Jos 15
+aliases : 
+- Joshua 15
+- Josué 15
+- Jos 15
+- Joshua 15
 tags : Bible/Jos/15
 ---
 
-# Chapitre 15
+# Joshua 15
 
 ###### 1
 Sors tribus filiorum Iudae per cognationes suas ista fuit: usque ad terminum Edom, ad desertum Sin contra Nageb, usque ad extremam partem australis plagae. 

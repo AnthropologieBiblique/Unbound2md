@@ -1,9 +1,13 @@
 ---
-aliases : Si 36
+aliases : 
+- Ecclesiasticus (Sira 36
+- Siracide 36
+- Si 36
+- Ecclesiasticus (Sira 36
 tags : Bible/Si/36
 ---
 
-# Chapitre 36
+# Ecclesiasticus (Sira 36
 
 ###### 1
 Miserere nostri, Deus omnium, et respice nos et ostende nobis lucem miserationum tuarum;

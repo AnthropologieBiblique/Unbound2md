@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 7
+aliases : 
+- 2 Maccabees 7
+- 2 Maccabees 7
+- 2 M 7
 tags : Bible/2M/7
 ---
 
-# Chapitre 7
+# 2 Maccabees 7
 
 ###### 1
 Contigit autem et septem fra tres una cum matre apprehen sos compelli a rege attingere contra fas carnes porcinas, flagris et nervis cruciatos. 

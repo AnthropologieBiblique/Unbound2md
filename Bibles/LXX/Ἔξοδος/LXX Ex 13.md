@@ -1,9 +1,13 @@
 ---
-aliases : Ex 13
+aliases : 
+- Ἔξοδος 13
+- Exode 13
+- Ex 13
+- Exodus 13
 tags : Bible/Ex/13
 ---
 
-# Chapitre 13
+# Ἔξοδος 13
 
 ###### 1
 εἶπεν δὲ κύριος πρὸς μωυσῆν λέγων

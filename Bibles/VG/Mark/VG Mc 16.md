@@ -1,9 +1,13 @@
 ---
-aliases : Mc 16
+aliases : 
+- Mark 16
+- Marc 16
+- Mc 16
+- Mark 16
 tags : Bible/Mc/16
 ---
 
-# Chapitre 16
+# Mark 16
 
 ###### 1
 Et cum transisset sabbatum, Maria Magdalene, et Maria Jacobi, et Salome emerunt aromata ut venientes ungerent Jesum.

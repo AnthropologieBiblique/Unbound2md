@@ -1,9 +1,13 @@
 ---
-aliases : Ps 63
+aliases : 
+- Psalms 63
+- Psaumes 63
+- Ps 63
+- Psalms 63
 tags : Bible/Ps/63
 ---
 
-# Chapitre 63
+# Psalms 63
 
 ###### 1
 מִזְמֹור לְדָוִד בִּהְיֹותֹו בְּמִדְבַּר יְהוּדָה׃

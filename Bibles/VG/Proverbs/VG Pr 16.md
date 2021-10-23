@@ -1,9 +1,13 @@
 ---
-aliases : Pr 16
+aliases : 
+- Proverbs 16
+- Proverbes 16
+- Pr 16
+- Proverbs 16
 tags : Bible/Pr/16
 ---
 
-# Chapitre 16
+# Proverbs 16
 
 ###### 1
 Hominis est animam præparare, et Domini gubernare linguam.

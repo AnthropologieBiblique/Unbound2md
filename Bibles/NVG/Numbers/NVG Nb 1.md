@@ -1,9 +1,13 @@
 ---
-aliases : Nb 1
+aliases : 
+- Numbers 1
+- Nombres 1
+- Nb 1
+- Numbers 1
 tags : Bible/Nb/1
 ---
 
-# Chapitre 1
+# Numbers 1
 
 ###### 1
 Locutusque est Dominus ad Moysen in deserto Sinai in tabernaculo conventus, prima die mensis secundi, anno altero egressionis eorum ex Aegypto, dicens: 

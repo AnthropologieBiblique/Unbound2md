@@ -1,9 +1,13 @@
 ---
-aliases : Jr 43
+aliases : 
+- Jeremiah 43
+- Jérémie 43
+- Jr 43
+- Jeremiah 43
 tags : Bible/Jr/43
 ---
 
-# Chapitre 43
+# Jeremiah 43
 
 ###### 1
 Factum est autem, cum complesset Ieremias loquens ad populum universos sermones Domini Dei eorum, pro quibus miserat eum Dominus Deus eorum ad illos omnia verba haec, 

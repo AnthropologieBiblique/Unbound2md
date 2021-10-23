@@ -1,9 +1,13 @@
 ---
-aliases : Ps 107
+aliases : 
+- Psalms 106
+- Psaumes 107
+- Ps 107
+- Psalms 107
 tags : Bible/Ps/107
 ---
 
-# Chapitre 106
+# Psalms 106
 
 ###### 1
 Alleluja. Confitemini Domino, quoniam bonus, quoniam in sæculum misericordia ejus.

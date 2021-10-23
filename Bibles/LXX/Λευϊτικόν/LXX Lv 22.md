@@ -1,9 +1,13 @@
 ---
-aliases : Lv 22
+aliases : 
+- Λευϊτικόν 22
+- Lévitique 22
+- Lv 22
+- Leviticus 22
 tags : Bible/Lv/22
 ---
 
-# Chapitre 22
+# Λευϊτικόν 22
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

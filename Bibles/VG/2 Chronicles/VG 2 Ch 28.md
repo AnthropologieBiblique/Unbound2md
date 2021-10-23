@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 28
+aliases : 
+- 2 Chronicles 28
+- 2 Chroniques 28
+- 2 Ch 28
+- 2 Chronicles 28
 tags : Bible/2Ch/28
 ---
 
-# Chapitre 28
+# 2 Chronicles 28
 
 ###### 1
 Viginti annorum erat Achaz cum regnare cœpisset : et sedecim annis regnavit in Jerusalem. Non fecit rectum in conspectu Domini sicut David pater ejus :

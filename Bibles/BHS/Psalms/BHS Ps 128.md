@@ -1,9 +1,13 @@
 ---
-aliases : Ps 128
+aliases : 
+- Psalms 128
+- Psaumes 128
+- Ps 128
+- Psalms 128
 tags : Bible/Ps/128
 ---
 
-# Chapitre 128
+# Psalms 128
 
 ###### 1
 שִׁיר הַמַּעֲלֹות אַשְׁרֵי כָּל־יְרֵא יְהוָה הַהֹלֵךְ בִּדְרָכָיו׃

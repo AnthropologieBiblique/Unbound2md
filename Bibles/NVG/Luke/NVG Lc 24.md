@@ -1,9 +1,13 @@
 ---
-aliases : Lc 24
+aliases : 
+- Luke 24
+- Luc 24
+- Lc 24
+- Luke 24
 tags : Bible/Lc/24
 ---
 
-# Chapitre 24
+# Luke 24
 
 ###### 1
 Prima autem sabbatorum, valde diluculo venerunt ad monumentum portantes, quae paraverant, aromata. 

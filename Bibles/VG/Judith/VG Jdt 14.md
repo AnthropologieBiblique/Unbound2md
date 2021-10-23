@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 14
+aliases : 
+- Judith 14
+- Judith 14
+- Jdt 14
 tags : Bible/Jdt/14
 ---
 
-# Chapitre 14
+# Judith 14
 
 ###### 1
 Dixit autem Judith ad omnem populum : Audite me, fratres : suspendite caput hoc super muros nostros :

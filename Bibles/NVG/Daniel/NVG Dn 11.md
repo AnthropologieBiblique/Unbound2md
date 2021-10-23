@@ -1,9 +1,12 @@
 ---
-aliases : Dn 11
+aliases : 
+- Daniel 11
+- Daniel 11
+- Dn 11
 tags : Bible/Dn/11
 ---
 
-# Chapitre 11
+# Daniel 11
 
 ###### 1
 Ego autem ab anno primo Darii Medi astabam ei, ut confortaretur et roboraretur. 

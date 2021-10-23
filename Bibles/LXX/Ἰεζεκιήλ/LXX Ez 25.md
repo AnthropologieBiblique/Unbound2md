@@ -1,9 +1,13 @@
 ---
-aliases : Ez 25
+aliases : 
+- Ἰεζεκιήλ 25
+- Ézéchiel 25
+- Ez 25
+- Ezekiel 25
 tags : Bible/Ez/25
 ---
 
-# Chapitre 25
+# Ἰεζεκιήλ 25
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

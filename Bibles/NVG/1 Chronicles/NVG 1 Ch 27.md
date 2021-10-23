@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 27
+aliases : 
+- 1 Chronicles 27
+- 1 Chroniques 27
+- 1 Ch 27
+- 1 Chronicles 27
 tags : Bible/1Ch/27
 ---
 
-# Chapitre 27
+# 1 Chronicles 27
 
 ###### 1
 Filii autem Israel secundum numerum suum, principes fa miliarum, tribuni et centuriones et praefecti, qui ministrabant regi iuxta turmas suas ingredientes et egredientes per singulos menses in anno, unaquaeque turma viginti quattuor milia. 

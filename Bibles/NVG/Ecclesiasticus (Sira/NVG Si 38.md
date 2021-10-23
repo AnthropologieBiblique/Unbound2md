@@ -1,9 +1,13 @@
 ---
-aliases : Si 38
+aliases : 
+- Ecclesiasticus (Sira 38
+- Siracide 38
+- Si 38
+- Ecclesiasticus (Sira 38
 tags : Bible/Si/38
 ---
 
-# Chapitre 38
+# Ecclesiasticus (Sira 38
 
 ###### 1
 Honora medicum propter necessitatem; etenim illum creavit Altissimus.

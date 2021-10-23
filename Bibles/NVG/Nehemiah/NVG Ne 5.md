@@ -1,9 +1,13 @@
 ---
-aliases : Ne 5
+aliases : 
+- Nehemiah 5
+- Néhémie 5
+- Ne 5
+- Nehemiah 5
 tags : Bible/Ne/5
 ---
 
-# Chapitre 5
+# Nehemiah 5
 
 ###### 1
 Et factus est clamor populi et uxorum eius magnus adversus fratres suos Iudaeos. 

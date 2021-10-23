@@ -1,9 +1,13 @@
 ---
-aliases : Jos 23
+aliases : 
+- Joshua 23
+- Josué 23
+- Jos 23
+- Joshua 23
 tags : Bible/Jos/23
 ---
 
-# Chapitre 23
+# Joshua 23
 
 ###### 1
 Evoluto autem multo tem pore, postquam pacem Do minus dederat Israeli ab omnibus in gyro nationibus et Iosue iam longaevo et persenilis aetatis, 

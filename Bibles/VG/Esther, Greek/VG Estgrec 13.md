@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 13
+aliases : 
+- Esther, Greek 13
+- Esther, Grec 13
+- Estgrec 13
+- Esther, Greek 13
 tags : Bible/Estgrec/13
 ---
 
-# Chapitre 13
+# Esther, Greek 13
 
 ###### 8
 Mardochæus autem deprecatus est Dominum, memor omnium operum ejus,

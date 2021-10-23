@@ -1,9 +1,13 @@
 ---
-aliases : 2 Tm 4
+aliases : 
+- 2 Timothy 4
+- 2 Timothée 4
+- 2 Tm 4
+- 2 Timothy 4
 tags : Bible/2Tm/4
 ---
 
-# Chapitre 4
+# 2 Timothy 4
 
 ###### 1
 Testificor coram Deo et Christo Iesu, qui iudicaturus est vivos ac mortuos, per adventum ipsius et regnum eius: 

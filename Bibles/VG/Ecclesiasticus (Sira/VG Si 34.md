@@ -1,9 +1,13 @@
 ---
-aliases : Si 34
+aliases : 
+- Ecclesiasticus (Sira 34
+- Siracide 34
+- Si 34
+- Ecclesiasticus (Sira 34
 tags : Bible/Si/34
 ---
 
-# Chapitre 34
+# Ecclesiasticus (Sira 34
 
 ###### 1
 Vana spes et mendacium viro insensato : et somnia extollunt imprudentes.

@@ -1,9 +1,13 @@
 ---
-aliases : Dt 12
+aliases : 
+- Deuteronomy 13
+- Deutéronome 12
+- Dt 12
+- Deuteronomy 12
 tags : Bible/Dt/12
 ---
 
-# Chapitre 13
+# Deuteronomy 13
 
 ###### 1
 Quod praecipio vobis, hoc custodite et facite, nec addas quidquam nec minuas. 

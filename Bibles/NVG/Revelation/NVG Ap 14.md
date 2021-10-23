@@ -1,9 +1,13 @@
 ---
-aliases : Ap 14
+aliases : 
+- Revelation 14
+- Apocalypse 14
+- Ap 14
+- Revelation 14
 tags : Bible/Ap/14
 ---
 
-# Chapitre 14
+# Revelation 14
 
 ###### 1
 Et vidi: et ecce Agnus stans supra montem Sion, et cum illo centum quadraginta quattuor milia, habentes nomen eius et nomen Patris eius scriptum in frontibus suis. 

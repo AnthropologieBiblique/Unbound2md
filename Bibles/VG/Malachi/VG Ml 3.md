@@ -1,9 +1,13 @@
 ---
-aliases : Ml 3
+aliases : 
+- Malachi 3
+- Malachie 3
+- Ml 3
+- Malachi 3
 tags : Bible/Ml/3
 ---
 
-# Chapitre 3
+# Malachi 3
 
 ###### 1
 Ecce ego mittam angelum meum, et præparabit viam ante faciem meam : et statim veniet ad templum suum Dominator quem vos quæritis, et angelus testamenti quem vos vultis. Ecce venit, dicit Dominus exercituum.

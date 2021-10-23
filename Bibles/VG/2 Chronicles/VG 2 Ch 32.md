@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 32
+aliases : 
+- 2 Chronicles 32
+- 2 Chroniques 32
+- 2 Ch 32
+- 2 Chronicles 32
 tags : Bible/2Ch/32
 ---
 
-# Chapitre 32
+# 2 Chronicles 32
 
 ###### 1
 Post quæ et hujuscemodi veritatem, venit Sennacherib rex Assyriorum, et ingressus Judam, obsedit civitates munitas, volens eas capere.

@@ -1,9 +1,13 @@
 ---
-aliases : Dt 18
+aliases : 
+- Deuteronomy 18
+- Deutéronome 18
+- Dt 18
+- Deuteronomy 18
 tags : Bible/Dt/18
 ---
 
-# Chapitre 18
+# Deuteronomy 18
 
 ###### 1
 לֹא־יִהְיֶה לַכֹּהֲנִים הַלְוִיִּם כָּל־שֵׁבֶט לֵוִי חֵלֶק וְנַחֲלָה עִם־יִשְׂרָאֵל אִשֵּׁי יְהוָה וְנַחֲלָתֹו יֹאכֵלוּן׃

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 26
+aliases : 
+- Job 26
+- Job 26
+- Jb 26
 tags : Bible/Jb/26
 ---
 
-# Chapitre 26
+# Job 26
 
 ###### 1
 וַיַּעַן אִיֹּוב וַיֹּאמַר׃

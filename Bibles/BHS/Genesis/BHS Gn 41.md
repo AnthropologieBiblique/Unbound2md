@@ -1,9 +1,13 @@
 ---
-aliases : Gn 41
+aliases : 
+- Genesis 41
+- Genèse 41
+- Gn 41
+- Genesis 41
 tags : Bible/Gn/41
 ---
 
-# Chapitre 41
+# Genesis 41
 
 ###### 1
 וַיְהִי מִקֵּץ שְׁנָתַיִם יָמִים וּפַרְעֹה חֹלֵם וְהִנֵּה עֹמֵד עַל־הַיְאֹר׃

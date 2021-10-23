@@ -1,9 +1,13 @@
 ---
-aliases : Is 27
+aliases : 
+- Isaiah 27
+- Isaïe 27
+- Is 27
+- Isaiah 27
 tags : Bible/Is/27
 ---
 
-# Chapitre 27
+# Isaiah 27
 
 ###### 1
 In die illa visitabit Dominus in gladio suo duro, et grandi, et forti, super Leviathan, serpentem vectem, et super Leviathan, serpentem tortuosum, et occidet cetum qui in mari est.

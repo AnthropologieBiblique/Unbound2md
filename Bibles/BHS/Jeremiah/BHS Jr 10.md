@@ -1,9 +1,13 @@
 ---
-aliases : Jr 10
+aliases : 
+- Jeremiah 10
+- Jérémie 10
+- Jr 10
+- Jeremiah 10
 tags : Bible/Jr/10
 ---
 
-# Chapitre 10
+# Jeremiah 10
 
 ###### 1
 שִׁמְעוּ אֶת־הַדָּבָר אֲשֶׁר דִּבֶּר יְהוָה עֲלֵיכֶם בֵּית יִשְׂרָאֵל׃

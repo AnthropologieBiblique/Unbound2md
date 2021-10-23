@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 3
+aliases : 
+- 2 Samuel 3
+- 2 Samuel 3
+- 2 S 3
 tags : Bible/2S/3
 ---
 
-# Chapitre 3
+# 2 Samuel 3
 
 ###### 1
 Facta est ergo longa concertatio inter domum Saul, et inter domum David : David proficiscens, et semper seipso robustior, domus autem Saul decrescens quotidie.

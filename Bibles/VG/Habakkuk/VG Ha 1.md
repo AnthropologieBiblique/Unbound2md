@@ -1,9 +1,13 @@
 ---
-aliases : Ha 1
+aliases : 
+- Habakkuk 1
+- Habaquq 1
+- Ha 1
+- Habakkuk 1
 tags : Bible/Ha/1
 ---
 
-# Chapitre 1
+# Habakkuk 1
 
 ###### 1
 Onus quod vidit Habacuc propheta.

@@ -1,9 +1,12 @@
 ---
-aliases : Am 1
+aliases : 
+- Amos 1
+- Amos 1
+- Am 1
 tags : Bible/Am/1
 ---
 
-# Chapitre 1
+# Amos 1
 
 ###### 1
 Verba Amos, qui fuit in pastoribus de Thecue, quæ vidit super Israël in diebus Oziæ, regis Juda, et in diebus Jeroboam, filii Joas, regis Israël, ante duos annos terræmotus.

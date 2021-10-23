@@ -1,9 +1,13 @@
 ---
-aliases : Lv 25
+aliases : 
+- Λευϊτικόν 25
+- Lévitique 25
+- Lv 25
+- Leviticus 25
 tags : Bible/Lv/25
 ---
 
-# Chapitre 25
+# Λευϊτικόν 25
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν ἐν τῷ ὄρει σινα λέγων

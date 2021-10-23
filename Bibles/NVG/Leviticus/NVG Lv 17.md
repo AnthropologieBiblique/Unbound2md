@@ -1,9 +1,13 @@
 ---
-aliases : Lv 17
+aliases : 
+- Leviticus 17
+- Lévitique 17
+- Lv 17
+- Leviticus 17
 tags : Bible/Lv/17
 ---
 
-# Chapitre 17
+# Leviticus 17
 
 ###### 1
 Et locutus est Dominus ad Moysen dicens: 

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 16
+aliases : 
+- Numbers 16
+- Nombres 16
+- Nb 16
+- Numbers 16
 tags : Bible/Nb/16
 ---
 
-# Chapitre 16
+# Numbers 16
 
 ###### 1
 Ecce autem Core filius Isaar filii Caath filii Levi et Dathan atque Abiram filii Eliab, Hon quoque filius Pheleth de filiis Ruben 

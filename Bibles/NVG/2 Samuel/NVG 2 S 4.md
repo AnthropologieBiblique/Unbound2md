@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 4
+aliases : 
+- 2 Samuel 4
+- 2 Samuel 4
+- 2 S 4
 tags : Bible/2S/4
 ---
 
-# Chapitre 4
+# 2 Samuel 4
 
 ###### 1
 Audivit autem Isbaal filius Saul quod cecidisset Abner in He bron, et dissolutae sunt manus eius, omnisque Israel perturbatus est. 

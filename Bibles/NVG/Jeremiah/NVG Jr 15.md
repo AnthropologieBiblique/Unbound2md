@@ -1,9 +1,13 @@
 ---
-aliases : Jr 15
+aliases : 
+- Jeremiah 15
+- Jérémie 15
+- Jr 15
+- Jeremiah 15
 tags : Bible/Jr/15
 ---
 
-# Chapitre 15
+# Jeremiah 15
 
 ###### 1
 Et dixit Dominus ad me: “ Si steterit Moyses et Samuel co ram me, non est anima mea ad populum istum; eice illos a facie mea, et egrediantur. 

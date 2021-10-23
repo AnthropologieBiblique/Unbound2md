@@ -1,9 +1,13 @@
 ---
-aliases : Nb 29
+aliases : 
+- Numbers 29
+- Nombres 29
+- Nb 29
+- Numbers 29
 tags : Bible/Nb/29
 ---
 
-# Chapitre 29
+# Numbers 29
 
 ###### 1
 Mensis etiam septimi prima dies venerabilis et sancta erit vobis. Omne opus servile non facietis in ea, quia dies clangoris est et tubarum.

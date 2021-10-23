@@ -1,9 +1,13 @@
 ---
-aliases : Ez 12
+aliases : 
+- Ezekiel 12
+- Ézéchiel 12
+- Ez 12
+- Ezekiel 12
 tags : Bible/Ez/12
 ---
 
-# Chapitre 12
+# Ezekiel 12
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

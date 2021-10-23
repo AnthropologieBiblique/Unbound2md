@@ -1,9 +1,13 @@
 ---
-aliases : Jn 12
+aliases : 
+- John 12
+- Jean 12
+- Jn 12
+- John 12
 tags : Bible/Jn/12
 ---
 
-# Chapitre 12
+# John 12
 
 ###### 1
 Iesus ergo ante sex dies Paschae venit Bethaniam, ubi erat Lazarus, quem suscitavit a mortuis Iesus. 

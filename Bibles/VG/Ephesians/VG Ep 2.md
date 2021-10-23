@@ -1,9 +1,13 @@
 ---
-aliases : Ep 2
+aliases : 
+- Ephesians 2
+- Éphésiens 2
+- Ep 2
+- Ephesians 2
 tags : Bible/Ep/2
 ---
 
-# Chapitre 2
+# Ephesians 2
 
 ###### 1
 Et vos, cum essetis mortui delictis et peccatis vestris,

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 21
+aliases : 
+- Numbers 21
+- Nombres 21
+- Nb 21
+- Numbers 21
 tags : Bible/Nb/21
 ---
 
-# Chapitre 21
+# Numbers 21
 
 ###### 1
 Quod cum audisset Chana naeus rex Arad, qui habita bat in Nageb, venisse scilicet Israel per viam Atarim, pugnavit contra illum et duxit ex eo captivos. 

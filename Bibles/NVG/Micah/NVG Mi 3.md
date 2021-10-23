@@ -1,9 +1,13 @@
 ---
-aliases : Mi 3
+aliases : 
+- Micah 3
+- Michée 3
+- Mi 3
+- Micah 3
 tags : Bible/Mi/3
 ---
 
-# Chapitre 3
+# Micah 3
 
 ###### 1
 Et dixi: “ Audite, principes Iacob et duces domus Israel: Numquid non vestrum est scire iudicium? ”.

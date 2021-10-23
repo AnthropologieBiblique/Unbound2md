@@ -1,9 +1,13 @@
 ---
-aliases : Mt 19
+aliases : 
+- Matthew 19
+- Matthieu 19
+- Mt 19
+- Matthew 19
 tags : Bible/Mt/19
 ---
 
-# Chapitre 19
+# Matthew 19
 
 ###### 1
 Et factum est, cum consum masset Iesus sermones istos, migravit a Galilaea et venit in fines Iudaeae trans Iordanem. 

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 34
+aliases : 
+- Numbers 34
+- Nombres 34
+- Nb 34
+- Numbers 34
 tags : Bible/Nb/34
 ---
 
-# Chapitre 34
+# Numbers 34
 
 ###### 1
 Locutusque est Dominus ad Moysen, dicens :

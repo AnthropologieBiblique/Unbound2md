@@ -1,9 +1,13 @@
 ---
-aliases : Ps 16
+aliases : 
+- Psalms 15
+- Psaumes 16
+- Ps 16
+- Psalms 16
 tags : Bible/Ps/16
 ---
 
-# Chapitre 15
+# Psalms 15
 
 ###### 1
 Tituli inscriptio, ipsi David. Conserva me, Domine, quoniam speravi in te.

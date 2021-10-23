@@ -1,9 +1,13 @@
 ---
-aliases : Jg 1
+aliases : 
+- Judges 1
+- Juges 1
+- Jg 1
+- Judges 1
 tags : Bible/Jg/1
 ---
 
-# Chapitre 1
+# Judges 1
 
 ###### 1
 Post mortem Josue, consuluerunt filii Israël Dominum, dicentes : Quis ascendet ante nos contra Chananæum, et erit dux belli ?

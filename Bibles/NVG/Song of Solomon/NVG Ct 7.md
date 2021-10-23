@@ -1,9 +1,13 @@
 ---
-aliases : Ct 6
+aliases : 
+- Song of Solomon 7
+- Cantique des cantiques 6
+- Ct 6
+- Song of Solomon 6
 tags : Bible/Ct/6
 ---
 
-# Chapitre 7
+# Song of Solomon 7
 
 ###### 1
 Convertere, convertere, Sula mitis; convertere, convertere, ut intueamur te. Quid aspicitis in Sulamitem, cum saltat inter binos choros?

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 104
+aliases : 
+- Psalms 103
+- Psaumes 104
+- Ps 104
+- Psalms 104
 tags : Bible/Ps/104
 ---
 
-# Chapitre 103
+# Psalms 103
 
 ###### 1
 Ipsi David. Benedic, anima mea, Domino : Domine Deus meus, magnificatus es vehementer. Confessionem et decorem induisti,

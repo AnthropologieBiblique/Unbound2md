@@ -1,9 +1,13 @@
 ---
-aliases : Za 6
+aliases : 
+- Zechariah 6
+- Zacharie 6
+- Za 6
+- Zechariah 6
 tags : Bible/Za/6
 ---
 
-# Chapitre 6
+# Zechariah 6
 
 ###### 1
 וָאָשֻׁב וָאֶשָּׂא עֵינַי וָאֶרְאֶה וְהִנֵּה אַרְבַּע מַרְכָּבֹות יֹצְאֹות מִבֵּין שְׁנֵי הֶהָרִים וְהֶהָרִים הָרֵי נְחֹשֶׁת׃

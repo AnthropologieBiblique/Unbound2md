@@ -1,9 +1,13 @@
 ---
-aliases : Ez 29
+aliases : 
+- Ezekiel 29
+- Ézéchiel 29
+- Ez 29
+- Ezekiel 29
 tags : Bible/Ez/29
 ---
 
-# Chapitre 29
+# Ezekiel 29
 
 ###### 1
 In anno decimo, in decimo mense, duodecima mensis, factum est verbum Domini ad me dicens: 

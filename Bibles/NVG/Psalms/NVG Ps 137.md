@@ -1,9 +1,13 @@
 ---
-aliases : Ps 137
+aliases : 
+- Psalms 137
+- Psaumes 137
+- Ps 137
+- Psalms 137
 tags : Bible/Ps/137
 ---
 
-# Chapitre 137
+# Psalms 137
 
 ###### 1
 Super flumina Babylonis, illic sedimus et flevimus, cum recordaremur Sion.

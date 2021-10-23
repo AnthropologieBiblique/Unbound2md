@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 10
+aliases : 
+- Judith 10
+- Judith 10
+- Jdt 10
 tags : Bible/Jdt/10
 ---
 
-# Chapitre 10
+# Judith 10
 
 ###### 1
 Et factum est, ut cessavit cla mans ad Deum Israel et con summavit omnia verba ista, 

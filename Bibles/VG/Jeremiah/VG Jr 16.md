@@ -1,9 +1,13 @@
 ---
-aliases : Jr 16
+aliases : 
+- Jeremiah 16
+- Jérémie 16
+- Jr 16
+- Jeremiah 16
 tags : Bible/Jr/16
 ---
 
-# Chapitre 16
+# Jeremiah 16
 
 ###### 1
 Et factum est verbum Domini ad me, dicens :

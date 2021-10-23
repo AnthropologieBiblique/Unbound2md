@@ -1,9 +1,13 @@
 ---
-aliases : 1 Jn 3
+aliases : 
+- 1 John 3
+- 1 Jean 3
+- 1 Jn 3
+- 1 John 3
 tags : Bible/1Jn/3
 ---
 
-# Chapitre 3
+# 1 John 3
 
 ###### 1
 Videte qualem caritatem dedit nobis Pater, ut filii Dei nominemur et simus. Propter hoc mundus non novit nos : quia non novit eum.

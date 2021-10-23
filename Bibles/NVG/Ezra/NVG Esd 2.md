@@ -1,9 +1,13 @@
 ---
-aliases : Esd 2
+aliases : 
+- Ezra 2
+- Esdras 2
+- Esd 2
+- Ezra 2
 tags : Bible/Esd/2
 ---
 
-# Chapitre 2
+# Ezra 2
 
 ###### 1
 Hi sunt autem provinciae filii, qui ascenderunt de captivitate migrantium, quos transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Ierusalem et Iudam, unusquisque in civitatem suam. 

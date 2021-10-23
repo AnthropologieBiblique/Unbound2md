@@ -1,9 +1,12 @@
 ---
-aliases : Jb 27
+aliases : 
+- Job 27
+- Job 27
+- Jb 27
 tags : Bible/Jb/27
 ---
 
-# Chapitre 27
+# Job 27
 
 ###### 1
 וַיֹּסֶף אִיֹּוב שְׂאֵת מְשָׁלֹו וַיֹּאמַר׃

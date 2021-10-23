@@ -1,9 +1,13 @@
 ---
-aliases : Ps 107
+aliases : 
+- Psalms 107
+- Psaumes 107
+- Ps 107
+- Psalms 107
 tags : Bible/Ps/107
 ---
 
-# Chapitre 107
+# Psalms 107
 
 ###### 1
 הֹדוּ לַיהוָה כִּי־טֹוב כִּי לְעֹולָם חַסְדֹּו׃

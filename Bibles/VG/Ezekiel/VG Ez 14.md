@@ -1,9 +1,13 @@
 ---
-aliases : Ez 14
+aliases : 
+- Ezekiel 14
+- Ézéchiel 14
+- Ez 14
+- Ezekiel 14
 tags : Bible/Ez/14
 ---
 
-# Chapitre 14
+# Ezekiel 14
 
 ###### 1
 Et venerunt ad me viri seniorum Israël, et sederunt coram me.

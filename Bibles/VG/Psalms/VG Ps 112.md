@@ -1,9 +1,13 @@
 ---
-aliases : Ps 113
+aliases : 
+- Psalms 112
+- Psaumes 113
+- Ps 113
+- Psalms 113
 tags : Bible/Ps/113
 ---
 
-# Chapitre 112
+# Psalms 112
 
 ###### 1
 Alleluja. Laudate, pueri, Dominum, laudate nomen Domini.

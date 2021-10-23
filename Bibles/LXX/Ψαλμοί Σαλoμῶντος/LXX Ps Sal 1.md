@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 1
+aliases : 
+- Ψαλμοί Σαλoμῶντος 1
+- Psaume extra numerum 1
+- Ps Sal 1
+- Psalm of Solomon 1
 tags : Bible/PsSal/1
 ---
 
-# Chapitre 1
+# Ψαλμοί Σαλoμῶντος 1
 
 ###### 1
 ἐβόησα πρὸς κύριον ἐν τῷ θλίβεσθαί με εἰς τέλος πρὸς τὸν θεὸν ἐν τῷ ἐπιθέσθαι ἁμαρτωλούς

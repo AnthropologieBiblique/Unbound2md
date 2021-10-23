@@ -1,9 +1,13 @@
 ---
-aliases : Ez 23
+aliases : 
+- Ἰεζεκιήλ 23
+- Ézéchiel 23
+- Ez 23
+- Ezekiel 23
 tags : Bible/Ez/23
 ---
 
-# Chapitre 23
+# Ἰεζεκιήλ 23
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

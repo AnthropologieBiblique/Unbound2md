@@ -1,9 +1,13 @@
 ---
-aliases : Lv 27
+aliases : 
+- Λευϊτικόν 27
+- Lévitique 27
+- Lv 27
+- Leviticus 27
 tags : Bible/Lv/27
 ---
 
-# Chapitre 27
+# Λευϊτικόν 27
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

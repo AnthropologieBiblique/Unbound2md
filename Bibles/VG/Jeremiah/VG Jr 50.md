@@ -1,9 +1,13 @@
 ---
-aliases : Jr 50
+aliases : 
+- Jeremiah 50
+- Jérémie 50
+- Jr 50
+- Jeremiah 50
 tags : Bible/Jr/50
 ---
 
-# Chapitre 50
+# Jeremiah 50
 
 ###### 1
 Verbum quod locutus est Dominus de Babylone et de terra Chaldæorum, in manu Jeremiæ prophetæ.

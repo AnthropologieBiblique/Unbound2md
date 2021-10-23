@@ -1,9 +1,13 @@
 ---
-aliases : Lc 18
+aliases : 
+- Luke 18
+- Luc 18
+- Lc 18
+- Luke 18
 tags : Bible/Lc/18
 ---
 
-# Chapitre 18
+# Luke 18
 
 ###### 1
 Dicebat autem parabolam ad illos, quoniam oportet semper orare et non deficere, 

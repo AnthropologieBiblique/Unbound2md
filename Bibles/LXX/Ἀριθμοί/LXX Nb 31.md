@@ -1,9 +1,13 @@
 ---
-aliases : Nb 31
+aliases : 
+- Ἀριθμοί 31
+- Nombres 31
+- Nb 31
+- Numbers 31
 tags : Bible/Nb/31
 ---
 
-# Chapitre 31
+# Ἀριθμοί 31
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

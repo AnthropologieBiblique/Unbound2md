@@ -1,9 +1,13 @@
 ---
-aliases : Jg 17
+aliases : 
+- Judges 17
+- Juges 17
+- Jg 17
+- Judges 17
 tags : Bible/Jg/17
 ---
 
-# Chapitre 17
+# Judges 17
 
 ###### 1
 וַיְהִי־אִישׁ מֵהַר־אֶפְרָיִם וּשְׁמֹו מִיכָיְהוּ׃

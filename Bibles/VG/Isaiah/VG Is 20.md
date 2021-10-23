@@ -1,9 +1,13 @@
 ---
-aliases : Is 20
+aliases : 
+- Isaiah 20
+- Isaïe 20
+- Is 20
+- Isaiah 20
 tags : Bible/Is/20
 ---
 
-# Chapitre 20
+# Isaiah 20
 
 ###### 1
 In anno quo ingressus est Thathan in Azotum, cum misisset eum Sargon, rex Assyriorum, et pugnasset contra Azotum, et cepisset eam :

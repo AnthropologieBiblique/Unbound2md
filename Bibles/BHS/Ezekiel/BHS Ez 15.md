@@ -1,9 +1,13 @@
 ---
-aliases : Ez 15
+aliases : 
+- Ezekiel 15
+- Ézéchiel 15
+- Ez 15
+- Ezekiel 15
 tags : Bible/Ez/15
 ---
 
-# Chapitre 15
+# Ezekiel 15
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

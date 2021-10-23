@@ -1,9 +1,13 @@
 ---
-aliases : Ps 52
+aliases : 
+- Ψαλμοί 51
+- Psaumes 52
+- Ps 52
+- Psalms 52
 tags : Bible/Ps/52
 ---
 
-# Chapitre 51
+# Ψαλμοί 51
 
 ###### 1
 εἰς τὸ τέλος συνέσεως τῷ δαυιδ

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 27
+aliases : 
+- Numbers 27
+- Nombres 27
+- Nb 27
+- Numbers 27
 tags : Bible/Nb/27
 ---
 
-# Chapitre 27
+# Numbers 27
 
 ###### 1
 Accesserunt autem filiae Sal phaad filii Hepher filii Ga laad filii Machir filii Manasse, e cognationibus Manasse, qui fuit filius Ioseph, quarum sunt nomina: Maala et Noa et Hegla et Melcha et Thersa. 

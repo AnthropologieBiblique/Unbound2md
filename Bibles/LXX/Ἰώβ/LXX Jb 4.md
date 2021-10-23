@@ -1,9 +1,12 @@
 ---
-aliases : Jb 4
+aliases : 
+- Ἰώβ 4
+- Job 4
+- Jb 4
 tags : Bible/Jb/4
 ---
 
-# Chapitre 4
+# Ἰώβ 4
 
 ###### 1
 ὑπολαβὼν δὲ ελιφας ὁ θαιμανίτης λέγει

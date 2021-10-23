@@ -1,9 +1,13 @@
 ---
-aliases : Gn 42
+aliases : 
+- Genesis 42
+- Genèse 42
+- Gn 42
+- Genesis 42
 tags : Bible/Gn/42
 ---
 
-# Chapitre 42
+# Genesis 42
 
 ###### 1
 וַיַּרְא יַעֲקֹב כִּי יֶשׁ־שֶׁבֶר בְּמִצְרָיִם וַיֹּאמֶר יַעֲקֹב לְבָנָיו לָמָּה תִּתְרָאוּ׃

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 28
+aliases : 
+- 1 Chronicles 28
+- 1 Chroniques 28
+- 1 Ch 28
+- 1 Chronicles 28
 tags : Bible/1Ch/28
 ---
 
-# Chapitre 28
+# 1 Chronicles 28
 
 ###### 1
 Convocavit igitur David om nes principes Israel, duces tri buum et praepositos turmarum, qui ministrabant regi, tribunos quoque et centuriones et, qui praeerant substantiae et gregibus regis filiorumque suorum, cum eunuchis et fortibus et robustissimis quibusque in exercitu Ierusalem. 

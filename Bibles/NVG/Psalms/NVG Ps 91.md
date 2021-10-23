@@ -1,9 +1,13 @@
 ---
-aliases : Ps 91
+aliases : 
+- Psalms 91
+- Psaumes 91
+- Ps 91
+- Psalms 91
 tags : Bible/Ps/91
 ---
 
-# Chapitre 91
+# Psalms 91
 
 ###### 1
 Qui habitat in protectione Altissimi, sub umbra Omnipotentis commorabitur.

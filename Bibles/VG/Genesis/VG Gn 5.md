@@ -1,9 +1,13 @@
 ---
-aliases : Gn 5
+aliases : 
+- Genesis 5
+- Genèse 5
+- Gn 5
+- Genesis 5
 tags : Bible/Gn/5
 ---
 
-# Chapitre 5
+# Genesis 5
 
 ###### 1
 Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum.

@@ -1,9 +1,13 @@
 ---
-aliases : Gn 49
+aliases : 
+- Genesis 49
+- Genèse 49
+- Gn 49
+- Genesis 49
 tags : Bible/Gn/49
 ---
 
-# Chapitre 49
+# Genesis 49
 
 ###### 1
 Vocavit autem Iacob filios suos et ait eis: “ Congrega mini, ut annuntiem, quae ventura sunt vobis in diebus novissimis.

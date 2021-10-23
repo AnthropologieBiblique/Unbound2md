@@ -1,9 +1,13 @@
 ---
-aliases : Ps 6
+aliases : 
+- Psalms 6
+- Psaumes 6
+- Ps 6
+- Psalms 6
 tags : Bible/Ps/6
 ---
 
-# Chapitre 6
+# Psalms 6
 
 ###### 1
 Magistro chori. Fidibus. Super octavam. PSALMUS. David.

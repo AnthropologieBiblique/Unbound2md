@@ -1,9 +1,13 @@
 ---
-aliases : Ap 22
+aliases : 
+- Revelation 22
+- Apocalypse 22
+- Ap 22
+- Revelation 22
 tags : Bible/Ap/22
 ---
 
-# Chapitre 22
+# Revelation 22
 
 ###### 1
 Et ostendit mihi fluvium aquae vitae splendidum tamquam crystallum, procedentem de throno Dei et Agni. 

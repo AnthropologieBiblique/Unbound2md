@@ -1,9 +1,12 @@
 ---
-aliases : Lm 3
+aliases : 
+- Θρῆνοι 3
+- Lamentations 3
+- Lm 3
 tags : Bible/Lm/3
 ---
 
-# Chapitre 3
+# Θρῆνοι 3
 
 ###### 1
 ἐγὼ ἀνὴρ ὁ βλέπων πτωχείαν ἐν ῥάβδῳ θυμοῦ αὐτοῦ ἐπ' ἐμέ

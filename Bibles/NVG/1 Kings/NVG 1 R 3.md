@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 3
+aliases : 
+- 1 Kings 3
+- 1 Rois 3
+- 1 R 3
+- 1 Kings 3
 tags : Bible/1R/3
 ---
 
-# Chapitre 3
+# 1 Kings 3
 
 ###### 1
 Et affinitate coniunctus est pharaoni regi Aegypti. Accepit namque filiam eius et adduxit in civitatem David, donec compleret aedificans domum suam et domum Domini et murum Ierusalem per circuitum.

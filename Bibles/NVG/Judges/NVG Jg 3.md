@@ -1,9 +1,13 @@
 ---
-aliases : Jg 3
+aliases : 
+- Judges 3
+- Juges 3
+- Jg 3
+- Judges 3
 tags : Bible/Jg/3
 ---
 
-# Chapitre 3
+# Judges 3
 
 ###### 1
 Hae sunt gentes, quas Dominus dereliquit, ut erudiret in eis Is raelem, omnes, qui non noverant bella Chananaeorum, 

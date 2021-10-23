@@ -1,9 +1,13 @@
 ---
-aliases : Qo 2
+aliases : 
+- Ecclesiastes 2
+- Ecclésiaste 2
+- Qo 2
+- Ecclesiastes 2
 tags : Bible/Qo/2
 ---
 
-# Chapitre 2
+# Ecclesiastes 2
 
 ###### 1
 אָמַרְתִּי אֲנִי בְּלִבִּי לְכָה־נָּא אֲנַסְּכָה בְשִׂמְחָה וּרְאֵה בְטֹוב וְהִנֵּה גַם־הוּא הָבֶל׃

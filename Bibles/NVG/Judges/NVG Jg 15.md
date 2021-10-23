@@ -1,9 +1,13 @@
 ---
-aliases : Jg 15
+aliases : 
+- Judges 15
+- Juges 15
+- Jg 15
+- Judges 15
 tags : Bible/Jg/15
 ---
 
-# Chapitre 15
+# Judges 15
 
 ###### 1
 Post aliquantum autem tem poris, cum dies triticeae mes sis instarent, venit Samson invisere volens uxorem suam et attulit ei haedum de capris. Cumque ad eam vellet intrare, prohibuit eum pater illius 

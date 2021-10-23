@@ -1,9 +1,12 @@
 ---
-aliases : Jb 34
+aliases : 
+- Ἰώβ 34
+- Job 34
+- Jb 34
 tags : Bible/Jb/34
 ---
 
-# Chapitre 34
+# Ἰώβ 34
 
 ###### 1
 ὑπολαβὼν δὲ ελιους λέγει

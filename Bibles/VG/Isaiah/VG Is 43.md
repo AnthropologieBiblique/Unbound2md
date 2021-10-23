@@ -1,9 +1,13 @@
 ---
-aliases : Is 43
+aliases : 
+- Isaiah 43
+- Isaïe 43
+- Is 43
+- Isaiah 43
 tags : Bible/Is/43
 ---
 
-# Chapitre 43
+# Isaiah 43
 
 ###### 1
 Et nunc hæc dicit Dominus creans te, Jacob, et formans te, Israël : Noli timere, quia redemi te, et vocavi te nomine tuo ; meus es tu.

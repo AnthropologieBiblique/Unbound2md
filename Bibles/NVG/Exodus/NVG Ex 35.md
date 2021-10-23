@@ -1,9 +1,13 @@
 ---
-aliases : Ex 35
+aliases : 
+- Exodus 35
+- Exode 35
+- Ex 35
+- Exodus 35
 tags : Bible/Ex/35
 ---
 
-# Chapitre 35
+# Exodus 35
 
 ###### 1
 Igitur, congregato omni coetu filiorum Israel, dixit ad eos: “ Haec sunt, quae iussit Dominus fieri: 

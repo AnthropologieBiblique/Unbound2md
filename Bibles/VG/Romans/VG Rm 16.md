@@ -1,9 +1,13 @@
 ---
-aliases : Rm 16
+aliases : 
+- Romans 16
+- Romains 16
+- Rm 16
+- Romans 16
 tags : Bible/Rm/16
 ---
 
-# Chapitre 16
+# Romans 16
 
 ###### 1
 Commendo autem vobis Phœben sororem nostram, quæ est in ministerio ecclesiæ, quæ est in Cenchris :

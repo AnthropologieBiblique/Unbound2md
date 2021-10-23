@@ -1,9 +1,13 @@
 ---
-aliases : Rm 7
+aliases : 
+- Romans 7
+- Romains 7
+- Rm 7
+- Romans 7
 tags : Bible/Rm/7
 ---
 
-# Chapitre 7
+# Romans 7
 
 ###### 1
 An ignoratis, fratres — scienti bus enim legem loquor — quia lex in homine dominatur, quanto tempore vivit? 

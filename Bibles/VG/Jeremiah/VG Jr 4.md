@@ -1,9 +1,13 @@
 ---
-aliases : Jr 4
+aliases : 
+- Jeremiah 4
+- Jérémie 4
+- Jr 4
+- Jeremiah 4
 tags : Bible/Jr/4
 ---
 
-# Chapitre 4
+# Jeremiah 4
 
 ###### 1
 Si reverteris, Israël, ait Dominus, ad me convertere : si abstuleris offendicula tua a facie mea, non commoveberis.

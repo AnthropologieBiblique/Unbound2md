@@ -1,9 +1,13 @@
 ---
-aliases : Ap 1
+aliases : 
+- Revelation 1
+- Apocalypse 1
+- Ap 1
+- Revelation 1
 tags : Bible/Ap/1
 ---
 
-# Chapitre 1
+# Revelation 1
 
 ###### 1
 Apocalypsis Jesu Christi, quam dedit illi Deus palam facere servis suis, quæ oportet fieri cito : et significavit, mittens per angelum suum servo suo Joanni,

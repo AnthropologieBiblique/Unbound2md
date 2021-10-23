@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 15
+aliases : 
+- Judith 15
+- Judith 15
+- Jdt 15
 tags : Bible/Jdt/15
 ---
 
-# Chapitre 15
+# Judith 15
 
 ###### 1
 Ut autem audierunt hi, qui in tabernaculis erant, obstu puerunt super quod factum erat. 

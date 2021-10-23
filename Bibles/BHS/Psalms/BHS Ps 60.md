@@ -1,9 +1,13 @@
 ---
-aliases : Ps 60
+aliases : 
+- Psalms 60
+- Psaumes 60
+- Ps 60
+- Psalms 60
 tags : Bible/Ps/60
 ---
 
-# Chapitre 60
+# Psalms 60
 
 ###### 1
 לַמְנַצֵּחַ עַל־שׁוּשַׁן עֵדוּת מִכְתָּם לְדָוִד לְלַמֵּד׃

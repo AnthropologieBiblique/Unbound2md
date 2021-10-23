@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 9
+aliases : 
+- 1 Maccabees 9
+- 1 Maccabees 9
+- 1 M 9
 tags : Bible/1M/9
 ---
 
-# Chapitre 9
+# 1 Maccabees 9
 
 ###### 1
 Interea, ut audivit Demetrius quia cecidit Nicanor et exercitus ejus in prælio, apposuit Bacchidem et Alcimum rursum mittere in Judæam, et dextrum cornu cum illis.

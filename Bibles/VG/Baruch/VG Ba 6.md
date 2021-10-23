@@ -1,9 +1,12 @@
 ---
-aliases : Ba 6
+aliases : 
+- Baruch 6
+- Baruch 6
+- Ba 6
 tags : Bible/Ba/6
 ---
 
-# Chapitre 6
+# Baruch 6
 
 ###### 1
 Propter peccata quæ peccastis ante Deum, abducemini in Babyloniam captivi a Nabuchodonosor rege Babylonis.

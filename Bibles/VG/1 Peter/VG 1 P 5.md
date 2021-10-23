@@ -1,9 +1,13 @@
 ---
-aliases : 1 P 5
+aliases : 
+- 1 Peter 5
+- 1 Pierre 5
+- 1 P 5
+- 1 Peter 5
 tags : Bible/1P/5
 ---
 
-# Chapitre 5
+# 1 Peter 5
 
 ###### 1
 Seniores ergo, qui in vobis sunt, obsecro, consenior et testis Christi passionum : qui et ejus, quæ in futuro revelanda est, gloriæ communicator :

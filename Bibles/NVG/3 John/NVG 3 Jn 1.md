@@ -1,9 +1,13 @@
 ---
-aliases : 3 Jn 1
+aliases : 
+- 3 John 1
+- 3 Jean 1
+- 3 Jn 1
+- 3 John 1
 tags : Bible/3Jn/1
 ---
 
-# Chapitre 1
+# 3 John 1
 
 ###### 1
 Presbyter Gaio carissimo, quem ego diligo in veritate.

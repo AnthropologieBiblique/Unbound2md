@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 4
+aliases : 
+- 1 Corinthians 4
+- 1 Corinthiens 4
+- 1 Co 4
+- 1 Corinthians 4
 tags : Bible/1Co/4
 ---
 
-# Chapitre 4
+# 1 Corinthians 4
 
 ###### 1
 Sic nos existimet homo ut ministros Christi, et dispensatores mysteriorum Dei.

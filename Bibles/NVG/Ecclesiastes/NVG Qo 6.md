@@ -1,9 +1,13 @@
 ---
-aliases : Qo 6
+aliases : 
+- Ecclesiastes 6
+- Ecclésiaste 6
+- Qo 6
+- Ecclesiastes 6
 tags : Bible/Qo/6
 ---
 
-# Chapitre 6
+# Ecclesiastes 6
 
 ###### 1
 Est et aliud malum, quod vidi sub sole, et quidem grave apud homines: 

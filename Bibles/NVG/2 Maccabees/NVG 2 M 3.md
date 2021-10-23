@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 3
+aliases : 
+- 2 Maccabees 3
+- 2 Maccabees 3
+- 2 M 3
 tags : Bible/2M/3
 ---
 
-# Chapitre 3
+# 2 Maccabees 3
 
 ###### 1
 Cum sancta civitas habitaretur cum omni pace, et leges quam optime custodirentur propter Oniae pontificis pietatem et odium malitiae, 

@@ -1,9 +1,13 @@
 ---
-aliases : Sg 19
+aliases : 
+- Wisdom of Solomon 19
+- Sagesse 19
+- Sg 19
+- Wisdom of Solomon 19
 tags : Bible/Sg/19
 ---
 
-# Chapitre 19
+# Wisdom of Solomon 19
 
 ###### 1
 Impiis autem usque in novissimum sine misericordia ira supervenit : præsciebat enim et futura illorum ;

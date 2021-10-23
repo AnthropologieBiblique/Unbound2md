@@ -1,9 +1,13 @@
 ---
-aliases : Lv 24
+aliases : 
+- Leviticus 24
+- Lévitique 24
+- Lv 24
+- Leviticus 24
 tags : Bible/Lv/24
 ---
 
-# Chapitre 24
+# Leviticus 24
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

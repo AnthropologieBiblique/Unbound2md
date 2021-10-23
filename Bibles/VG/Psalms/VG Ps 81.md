@@ -1,9 +1,13 @@
 ---
-aliases : Ps 82
+aliases : 
+- Psalms 81
+- Psaumes 82
+- Ps 82
+- Psalms 82
 tags : Bible/Ps/82
 ---
 
-# Chapitre 81
+# Psalms 81
 
 ###### 1
 Psalmus Asaph. Deus stetit in synagoga deorum ; in medio autem deos dijudicat.

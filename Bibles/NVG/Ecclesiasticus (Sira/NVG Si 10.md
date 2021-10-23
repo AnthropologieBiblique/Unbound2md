@@ -1,9 +1,13 @@
 ---
-aliases : Si 10
+aliases : 
+- Ecclesiasticus (Sira 10
+- Siracide 10
+- Si 10
+- Ecclesiasticus (Sira 10
 tags : Bible/Si/10
 ---
 
-# Chapitre 10
+# Ecclesiasticus (Sira 10
 
 ###### 1
 Iudex sapiens instituet populum suum, et principatus sensati stabilis erit.

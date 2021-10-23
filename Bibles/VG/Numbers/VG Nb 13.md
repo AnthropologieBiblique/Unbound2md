@@ -1,9 +1,13 @@
 ---
-aliases : Nb 12
+aliases : 
+- Numbers 13
+- Nombres 12
+- Nb 12
+- Numbers 12
 tags : Bible/Nb/12
 ---
 
-# Chapitre 13
+# Numbers 13
 
 ###### 1
 Profectusque est populus de Haseroth, fixis tentoriis in deserto Pharan.

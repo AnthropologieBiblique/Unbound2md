@@ -1,9 +1,13 @@
 ---
-aliases : Tt 2
+aliases : 
+- Titus 2
+- Tite 2
+- Tt 2
+- Titus 2
 tags : Bible/Tt/2
 ---
 
-# Chapitre 2
+# Titus 2
 
 ###### 1
 Tu autem loquere quæ decent sanam doctrinam :

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 4
+aliases : 
+- Daniel 4
+- Daniel 4
+- Dn 4
 tags : Bible/Dn/4
 ---
 
-# Chapitre 4
+# Daniel 4
 
 ###### 1
 Ego Nabuchodonosor quietus eram in domo mea et florens in palatio meo; 

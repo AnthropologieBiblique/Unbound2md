@@ -1,9 +1,13 @@
 ---
-aliases : Ps 85
+aliases : 
+- Psalms 84
+- Psaumes 85
+- Ps 85
+- Psalms 85
 tags : Bible/Ps/85
 ---
 
-# Chapitre 84
+# Psalms 84
 
 ###### 1
 In finem, filiis Core. Psalmus.

@@ -1,9 +1,13 @@
 ---
-aliases : Lv 11
+aliases : 
+- Λευϊτικόν 11
+- Lévitique 11
+- Lv 11
+- Leviticus 11
 tags : Bible/Lv/11
 ---
 
-# Chapitre 11
+# Λευϊτικόν 11
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν καὶ ααρων λέγων

@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 23
+aliases : 
+- 2 Samuel 23
+- 2 Samuel 23
+- 2 S 23
 tags : Bible/2S/23
 ---
 
-# Chapitre 23
+# 2 Samuel 23
 
 ###### 1
 Haec autem sunt verba David novissima: “ Dixit David filius Isai, dixit vir constitutus in alto, christus Dei Iacob, suavis psalta Israel.

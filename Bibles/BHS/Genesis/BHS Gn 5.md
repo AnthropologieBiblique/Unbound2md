@@ -1,9 +1,13 @@
 ---
-aliases : Gn 5
+aliases : 
+- Genesis 5
+- Genèse 5
+- Gn 5
+- Genesis 5
 tags : Bible/Gn/5
 ---
 
-# Chapitre 5
+# Genesis 5
 
 ###### 1
 זֶה סֵפֶר תֹּולְדֹת אָדָם בְּיֹום בְּרֹא אֱלֹהִים אָדָם בִּדְמוּת אֱלֹהִים עָשָׂה אֹתֹו׃

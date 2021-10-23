@@ -1,9 +1,13 @@
 ---
-aliases : Is 57
+aliases : 
+- Isaiah 57
+- Isaïe 57
+- Is 57
+- Isaiah 57
 tags : Bible/Is/57
 ---
 
-# Chapitre 57
+# Isaiah 57
 
 ###### 1
 Iustus perit, et non est qui recogitet in corde suo; et viri misericordiae colliguntur, tamen non est qui intellegat: a facie enim malitiae collectus est iustus.

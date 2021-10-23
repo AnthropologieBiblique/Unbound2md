@@ -1,9 +1,12 @@
 ---
-aliases : Ba 4
+aliases : 
+- Baruch 4
+- Baruch 4
+- Ba 4
 tags : Bible/Ba/4
 ---
 
-# Chapitre 4
+# Baruch 4
 
 ###### 1
 Hic liber mandatorum Dei, et lex quæ est in æternum : omnes qui tenent eam pervenient ad vitam : qui autem dereliquerunt eam, in mortem.

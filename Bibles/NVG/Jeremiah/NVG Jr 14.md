@@ -1,9 +1,13 @@
 ---
-aliases : Jr 14
+aliases : 
+- Jeremiah 14
+- Jérémie 14
+- Jr 14
+- Jeremiah 14
 tags : Bible/Jr/14
 ---
 
-# Chapitre 14
+# Jeremiah 14
 
 ###### 1
 Quod factum est verbum Domini ad Ieremiam de sic citate.

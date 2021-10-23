@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 20
+aliases : 
+- 1 Samuel 21
+- 1 Samuel 20
+- 1 S 20
 tags : Bible/1S/20
 ---
 
-# Chapitre 21
+# 1 Samuel 21
 
 ###### 1
 וַיָּקָם וַיֵּלַךְ וִיהֹונָתָן בָּא הָעִיר׃

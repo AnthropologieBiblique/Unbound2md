@@ -1,9 +1,13 @@
 ---
-aliases : Nb 33
+aliases : 
+- Numbers 33
+- Nombres 33
+- Nb 33
+- Numbers 33
 tags : Bible/Nb/33
 ---
 
-# Chapitre 33
+# Numbers 33
 
 ###### 1
 Hae sunt mansiones filiorum Israel, qui egressi sunt de Ae gypto per turmas suas in manu Moysi et Aaron, 

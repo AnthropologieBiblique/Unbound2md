@@ -1,9 +1,13 @@
 ---
-aliases : Is 23
+aliases : 
+- Isaiah 23
+- Isaïe 23
+- Is 23
+- Isaiah 23
 tags : Bible/Is/23
 ---
 
-# Chapitre 23
+# Isaiah 23
 
 ###### 1
 Oraculum Tyri. Ululate, naves Tharsis, quia vastatum est refugium vestrum; cum redirent de terra Cetthim, revelatum est eis.

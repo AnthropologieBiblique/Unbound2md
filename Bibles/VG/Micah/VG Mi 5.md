@@ -1,9 +1,13 @@
 ---
-aliases : Mi 5
+aliases : 
+- Micah 5
+- Michée 5
+- Mi 5
+- Micah 5
 tags : Bible/Mi/5
 ---
 
-# Chapitre 5
+# Micah 5
 
 ###### 1
 Nunc vastaberis, filia latronis. Obsidionem posuerunt super nos : in virga percutient maxillam judicis Israël.

@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 14
+aliases : 
+- Esther, Greek 14
+- Esther, Grec 14
+- Estgrec 14
+- Esther, Greek 14
 tags : Bible/Estgrec/14
 ---
 
-# Chapitre 14
+# Esther, Greek 14
 
 ###### 1
 Esther quoque regina confugit ad Dominum, pavens periculum, quod imminebat.

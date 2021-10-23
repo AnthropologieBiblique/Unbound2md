@@ -1,9 +1,13 @@
 ---
-aliases : Is 65
+aliases : 
+- Isaiah 65
+- Isaïe 65
+- Is 65
+- Isaiah 65
 tags : Bible/Is/65
 ---
 
-# Chapitre 65
+# Isaiah 65
 
 ###### 1
 Quæsierunt me qui ante non interrogabant, invenerunt qui non quæsierunt me. Dixi : Ecce ego, ecce ego, ad gentem quæ non invocabat nomen meum.

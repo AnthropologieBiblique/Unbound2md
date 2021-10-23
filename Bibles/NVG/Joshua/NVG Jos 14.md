@@ -1,9 +1,13 @@
 ---
-aliases : Jos 14
+aliases : 
+- Joshua 14
+- Josué 14
+- Jos 14
+- Joshua 14
 tags : Bible/Jos/14
 ---
 
-# Chapitre 14
+# Joshua 14
 
 ###### 1
 Hoc est, quod hereditave runt filii Israel in terra Cha naan, quod dederunt eis Eleazar sacerdos et Iosue filius Nun et principes familiarum tribuum Israel, 

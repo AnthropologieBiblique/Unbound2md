@@ -1,9 +1,13 @@
 ---
-aliases : Is 29
+aliases : 
+- Isaiah 29
+- Isaïe 29
+- Is 29
+- Isaiah 29
 tags : Bible/Is/29
 ---
 
-# Chapitre 29
+# Isaiah 29
 
 ###### 1
 Væ Ariel, Ariel civitas, quam expugnavit David ! additus est annus ad annum : solemnitates evolutæ sunt.

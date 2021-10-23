@@ -1,9 +1,13 @@
 ---
-aliases : Suz 1
+aliases : 
+- Δανιήλ 1
+- Suzanne 1
+- Suz 1
+- Susanna 1
 tags : Bible/Suz/1
 ---
 
-# Chapitre 1
+# Δανιήλ 1
 
 ###### 6
 καὶ ἤρχοντο κρίσεις ἐξ ἄλλων πόλεων πρὸς αὐτούς

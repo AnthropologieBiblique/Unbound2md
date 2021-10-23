@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 13
+aliases : 
+- 2 Samuel 13
+- 2 Samuel 13
+- 2 S 13
 tags : Bible/2S/13
 ---
 
-# Chapitre 13
+# 2 Samuel 13
 
 ###### 1
 Factum est autem post haec, ut Absalom filii David soro rem speciosissimam, vocabulo Thamar, adamaret Amnon filius David. 

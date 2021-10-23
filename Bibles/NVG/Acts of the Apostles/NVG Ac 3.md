@@ -1,9 +1,13 @@
 ---
-aliases : Ac 3
+aliases : 
+- Acts of the Apostles 3
+- Actes 3
+- Ac 3
+- Acts of the Apostles 3
 tags : Bible/Ac/3
 ---
 
-# Chapitre 3
+# Acts of the Apostles 3
 
 ###### 1
 Petrus autem et Ioannes ascen debant in templum ad horam orationis nonam. 

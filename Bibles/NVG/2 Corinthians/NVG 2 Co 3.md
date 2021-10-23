@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 3
+aliases : 
+- 2 Corinthians 3
+- 2 Corinthiens 3
+- 2 Co 3
+- 2 Corinthians 3
 tags : Bible/2Co/3
 ---
 
-# Chapitre 3
+# 2 Corinthians 3
 
 ###### 1
 Incipimus iterum nosmetipsos commendare? Aut numquid egemus, sicut quidam, commendaticiis epistulis ad vos aut ex vobis? 

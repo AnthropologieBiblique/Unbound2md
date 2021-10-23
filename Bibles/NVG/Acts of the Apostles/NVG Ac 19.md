@@ -1,9 +1,13 @@
 ---
-aliases : Ac 19
+aliases : 
+- Acts of the Apostles 19
+- Actes 19
+- Ac 19
+- Acts of the Apostles 19
 tags : Bible/Ac/19
 ---
 
-# Chapitre 19
+# Acts of the Apostles 19
 
 ###### 1
 Factum est autem, cum Apollo esset Corinthi, ut Paulus, peragratis superioribus partibus, veniret Ephesum et inveniret quosdam discipulos; 

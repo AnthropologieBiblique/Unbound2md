@@ -1,9 +1,13 @@
 ---
-aliases : Mt 4
+aliases : 
+- Matthew 4
+- Matthieu 4
+- Mt 4
+- Matthew 4
 tags : Bible/Mt/4
 ---
 
-# Chapitre 4
+# Matthew 4
 
 ###### 1
 Tunc Iesus ductus est in de sertum a Spiritu, ut tentaretur a Diabolo. 

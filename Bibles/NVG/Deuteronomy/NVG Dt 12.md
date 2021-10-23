@@ -1,9 +1,13 @@
 ---
-aliases : Dt 12
+aliases : 
+- Deuteronomy 12
+- Deutéronome 12
+- Dt 12
+- Deuteronomy 12
 tags : Bible/Dt/12
 ---
 
-# Chapitre 12
+# Deuteronomy 12
 
 ###### 1
 Haec sunt praecepta atque iudicia, quae facere debetis in terra, quam Dominus, Deus patrum tuorum, daturus est tibi, ut possideas eam cunctis diebus, quibus super humum gradieris.

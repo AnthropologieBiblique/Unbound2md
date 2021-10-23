@@ -1,9 +1,13 @@
 ---
-aliases : Is 6
+aliases : 
+- Isaiah 6
+- Isaïe 6
+- Is 6
+- Isaiah 6
 tags : Bible/Is/6
 ---
 
-# Chapitre 6
+# Isaiah 6
 
 ###### 1
 In anno, quo mortuus est rex Ozias, vidi Dominum edentem super solium excelsum et elevatum; et fimbriae eius replebant templum. 

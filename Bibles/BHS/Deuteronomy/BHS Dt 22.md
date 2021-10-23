@@ -1,9 +1,13 @@
 ---
-aliases : Dt 22
+aliases : 
+- Deuteronomy 22
+- Deutéronome 22
+- Dt 22
+- Deuteronomy 22
 tags : Bible/Dt/22
 ---
 
-# Chapitre 22
+# Deuteronomy 22
 
 ###### 1
 לֹא־תִרְאֶה אֶת־שֹׁור אָחִיךָ אֹו אֶת־שֵׂיֹו נִדָּחִים וְהִתְעַלַּמְתָּ מֵהֶם הָשֵׁב תְּשִׁיבֵם לְאָחִיךָ׃

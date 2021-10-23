@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 13
+aliases : 
+- 2 Chronicles 13
+- 2 Chroniques 13
+- 2 Ch 13
+- 2 Chronicles 13
 tags : Bible/2Ch/13
 ---
 
-# Chapitre 13
+# 2 Chronicles 13
 
 ###### 1
 Anno octavo decimo regis Ieroboam regnavit Abia su per Iudam. 

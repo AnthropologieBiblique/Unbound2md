@@ -1,9 +1,13 @@
 ---
-aliases : Ps 124
+aliases : 
+- Psalms 124
+- Psaumes 124
+- Ps 124
+- Psalms 124
 tags : Bible/Ps/124
 ---
 
-# Chapitre 124
+# Psalms 124
 
 ###### 1
 Canticum ascensionum. David. Nisi quia Dominus erat in nobis, dicat nunc Israel,

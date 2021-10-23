@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 27
+aliases : 
+- 2 Chronicles 27
+- 2 Chroniques 27
+- 2 Ch 27
+- 2 Chronicles 27
 tags : Bible/2Ch/27
 ---
 
-# Chapitre 27
+# 2 Chronicles 27
 
 ###### 1
 Viginti quinque annorum erat Joatham cum regnare cœpisset, et sedecim annis regnavit in Jerusalem : nomen matris ejus Jerusa filia Sadoc.

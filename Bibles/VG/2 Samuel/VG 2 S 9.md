@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 9
+aliases : 
+- 2 Samuel 9
+- 2 Samuel 9
+- 2 S 9
 tags : Bible/2S/9
 ---
 
-# Chapitre 9
+# 2 Samuel 9
 
 ###### 1
 Et dixit David : Putasne est aliquis qui remanserit de domo Saul, ut faciam cum eo misericordiam propter Jonathan ?

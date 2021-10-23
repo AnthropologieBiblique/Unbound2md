@@ -1,9 +1,12 @@
 ---
-aliases : Jb 28
+aliases : 
+- Job 28
+- Job 28
+- Jb 28
 tags : Bible/Jb/28
 ---
 
-# Chapitre 28
+# Job 28
 
 ###### 1
 Habet argentum venarum principia et auro locus est, in quo conflatur.

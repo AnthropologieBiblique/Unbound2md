@@ -1,9 +1,13 @@
 ---
-aliases : Is 19
+aliases : 
+- Isaiah 19
+- Isaïe 19
+- Is 19
+- Isaiah 19
 tags : Bible/Is/19
 ---
 
-# Chapitre 19
+# Isaiah 19
 
 ###### 1
 Oraculum Aegypti. Ecce Dominus vehitur super nubem levem et ingreditur Aegyptum; et commovebuntur simulacra Aegypti a facie eius, et cor Aegypti tabescet in medio eius.

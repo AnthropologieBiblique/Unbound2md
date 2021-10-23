@@ -1,9 +1,13 @@
 ---
-aliases : Ps 145
+aliases : 
+- Psalms 144
+- Psaumes 145
+- Ps 145
+- Psalms 145
 tags : Bible/Ps/145
 ---
 
-# Chapitre 144
+# Psalms 144
 
 ###### 1
 Laudatio ipsi David. Exaltabo te, Deus meus rex ; et benedicam nomini tuo in sæculum, et in sæculum sæculi.

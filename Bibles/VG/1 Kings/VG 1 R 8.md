@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 8
+aliases : 
+- 1 Kings 8
+- 1 Rois 8
+- 1 R 8
+- 1 Kings 8
 tags : Bible/1R/8
 ---
 
-# Chapitre 8
+# 1 Kings 8
 
 ###### 1
 Tunc congregati sunt omnes majores natu Israël cum principibus tribuum, et duces familiarum filiorum Israël ad regem Salomonem in Jerusalem : ut deferrent arcam fœderis Domini de civitate David, id est, de Sion.

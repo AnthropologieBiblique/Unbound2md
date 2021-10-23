@@ -1,9 +1,13 @@
 ---
-aliases : 2 P 1
+aliases : 
+- 2 Peter 1
+- 2 Pierre 1
+- 2 P 1
+- 2 Peter 1
 tags : Bible/2P/1
 ---
 
-# Chapitre 1
+# 2 Peter 1
 
 ###### 1
 Simon Petrus servus et apo stolus Iesu Christi his, qui coae qualem nobis sortiti sunt fidem in iustitia Dei nostri et salvatoris Iesu Christi: 

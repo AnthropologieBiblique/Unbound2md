@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 8
+aliases : 
+- 2 Maccabees 8
+- 2 Maccabees 8
+- 2 M 8
 tags : Bible/2M/8
 ---
 
-# Chapitre 8
+# 2 Maccabees 8
 
 ###### 1
 Judas vero Machabæus, et qui cum illo erant, introibant latenter in castella : et convocantes cognatos, et amicos, et eos qui permanserunt in Judaismo assumentes, eduxerunt ad se sex millia virorum.

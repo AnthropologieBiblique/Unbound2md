@@ -1,9 +1,13 @@
 ---
-aliases : Jg 21
+aliases : 
+- Judges 21
+- Juges 21
+- Jg 21
+- Judges 21
 tags : Bible/Jg/21
 ---
 
-# Chapitre 21
+# Judges 21
 
 ###### 1
 Juraverunt quoque filii Israël in Maspha, et dixerunt : Nullus nostrum dabit filiis Benjamin de filiabus suis uxorem.

@@ -1,9 +1,13 @@
 ---
-aliases : He 9
+aliases : 
+- Hebrews 9
+- Hébreux 9
+- He 9
+- Hebrews 9
 tags : Bible/He/9
 ---
 
-# Chapitre 9
+# Hebrews 9
 
 ###### 1
 Habuit quidem et prius justificationes culturæ, et Sanctum sæculare.

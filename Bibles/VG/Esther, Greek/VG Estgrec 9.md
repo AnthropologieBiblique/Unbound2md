@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 9
+aliases : 
+- Esther, Greek 9
+- Esther, Grec 9
+- Estgrec 9
+- Esther, Greek 9
 tags : Bible/Estgrec/9
 ---
 
-# Chapitre 9
+# Esther, Greek 9
 
 ###### 1
 Igitur duodecimi mensis, quem Adar vocari ante jam diximus, tertiadecima die, quando cunctis Judæis interfectio parabatur, et hostes eorum inhiabant sanguini, versa vice Judæi superiores esse cœperunt, et se de adversariis vindicare.

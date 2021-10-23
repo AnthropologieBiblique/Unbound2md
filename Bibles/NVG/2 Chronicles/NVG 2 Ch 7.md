@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 7
+aliases : 
+- 2 Chronicles 7
+- 2 Chroniques 7
+- 2 Ch 7
+- 2 Chronicles 7
 tags : Bible/2Ch/7
 ---
 
-# Chapitre 7
+# 2 Chronicles 7
 
 ###### 1
 Cumque complesset Salomon fundens preces, ignis descendit de caelo et devoravit holocaustum et victimas, et maiestas Domini implevit domum. 

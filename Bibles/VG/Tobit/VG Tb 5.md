@@ -1,9 +1,13 @@
 ---
-aliases : Tb 5
+aliases : 
+- Tobit 5
+- Tobie 5
+- Tb 5
+- Tobit 5
 tags : Bible/Tb/5
 ---
 
-# Chapitre 5
+# Tobit 5
 
 ###### 1
 Tunc respondit Tobias patri suo, et dixit : Omnia quæcumque præcepisti mihi faciam, pater.

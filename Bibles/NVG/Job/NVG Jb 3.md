@@ -1,9 +1,12 @@
 ---
-aliases : Jb 3
+aliases : 
+- Job 3
+- Job 3
+- Jb 3
 tags : Bible/Jb/3
 ---
 
-# Chapitre 3
+# Job 3
 
 ###### 1
 Post haec aperuit Iob os suum et maledixit diei suo 

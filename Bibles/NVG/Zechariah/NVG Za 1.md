@@ -1,9 +1,13 @@
 ---
-aliases : Za 1
+aliases : 
+- Zechariah 1
+- Zacharie 1
+- Za 1
+- Zechariah 1
 tags : Bible/Za/1
 ---
 
-# Chapitre 1
+# Zechariah 1
 
 ###### 1
 In mense octavo, in anno se cundo Darii, factum est verbum Domini ad Zachariam filium Barachiae filii Addo prophetam dicens: 

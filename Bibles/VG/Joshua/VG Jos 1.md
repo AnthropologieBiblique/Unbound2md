@@ -1,9 +1,13 @@
 ---
-aliases : Jos 1
+aliases : 
+- Joshua 1
+- Josué 1
+- Jos 1
+- Joshua 1
 tags : Bible/Jos/1
 ---
 
-# Chapitre 1
+# Joshua 1
 
 ###### 1
 Et factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad Josue filium Nun, ministrum Moysi, et diceret ei :

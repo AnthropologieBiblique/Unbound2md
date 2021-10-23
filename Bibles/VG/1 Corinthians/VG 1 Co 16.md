@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 16
+aliases : 
+- 1 Corinthians 16
+- 1 Corinthiens 16
+- 1 Co 16
+- 1 Corinthians 16
 tags : Bible/1Co/16
 ---
 
-# Chapitre 16
+# 1 Corinthians 16
 
 ###### 1
 De collectis autem, quæ fiunt in sanctos, sicut ordinavi ecclesiis Galatiæ, ita et vos facite.

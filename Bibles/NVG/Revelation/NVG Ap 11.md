@@ -1,9 +1,13 @@
 ---
-aliases : Ap 11
+aliases : 
+- Revelation 11
+- Apocalypse 11
+- Ap 11
+- Revelation 11
 tags : Bible/Ap/11
 ---
 
-# Chapitre 11
+# Revelation 11
 
 ###### 1
 Et datus est mihi calamus similis virgae dicens: “ Surge et metire templum Dei et altare et adorantes in eo. 

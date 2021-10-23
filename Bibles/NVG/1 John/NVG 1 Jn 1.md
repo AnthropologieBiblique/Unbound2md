@@ -1,9 +1,13 @@
 ---
-aliases : 1 Jn 1
+aliases : 
+- 1 John 1
+- 1 Jean 1
+- 1 Jn 1
+- 1 John 1
 tags : Bible/1Jn/1
 ---
 
-# Chapitre 1
+# 1 John 1
 
 ###### 1
 Quod fuit ab initio, quod audi vimus, quod vidimus oculis no stris, quod perspeximus, et manus nostrae contrectaverunt de verbo vitae 

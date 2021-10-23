@@ -1,9 +1,13 @@
 ---
-aliases : Ps 65
+aliases : 
+- Psalms 64
+- Psaumes 65
+- Ps 65
+- Psalms 65
 tags : Bible/Ps/65
 ---
 
-# Chapitre 64
+# Psalms 64
 
 ###### 1
 In finem. Psalmus David, canticum Jeremiæ, et Ezechielis, populo transmigrationis, cum inciperent exire.

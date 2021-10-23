@@ -1,9 +1,13 @@
 ---
-aliases : Os 6
+aliases : 
+- Hosea 6
+- Osée 6
+- Os 6
+- Hosea 6
 tags : Bible/Os/6
 ---
 
-# Chapitre 6
+# Hosea 6
 
 ###### 1
 In tribulatione sua mane consurgent ad me : Venite, et revertamur ad Dominum,

@@ -1,9 +1,13 @@
 ---
-aliases : Jg 6
+aliases : 
+- Judges 6
+- Juges 6
+- Jg 6
+- Judges 6
 tags : Bible/Jg/6
 ---
 
-# Chapitre 6
+# Judges 6
 
 ###### 1
 Fecerunt autem filii Israël malum in conspectu Domini : qui tradidit illos in manu Madian septem annis,

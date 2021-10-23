@@ -1,9 +1,13 @@
 ---
-aliases : Jr 32
+aliases : 
+- Jeremiah 32
+- Jérémie 32
+- Jr 32
+- Jeremiah 32
 tags : Bible/Jr/32
 ---
 
-# Chapitre 32
+# Jeremiah 32
 
 ###### 1
 Verbum quod factum est ad Jeremiam a Domino, in anno decimo Sedeciæ regis Juda, ipse est annus decimus octavus Nabuchodonosor.

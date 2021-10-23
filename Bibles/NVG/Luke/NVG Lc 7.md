@@ -1,9 +1,13 @@
 ---
-aliases : Lc 7
+aliases : 
+- Luke 7
+- Luc 7
+- Lc 7
+- Luke 7
 tags : Bible/Lc/7
 ---
 
-# Chapitre 7
+# Luke 7
 
 ###### 1
 Cum autem implesset omnia verba sua in aures plebis, intra vit Capharnaum. 

@@ -1,9 +1,13 @@
 ---
-aliases : Qo 8
+aliases : 
+- Ecclesiastes 8
+- Ecclésiaste 8
+- Qo 8
+- Ecclesiastes 8
 tags : Bible/Qo/8
 ---
 
-# Chapitre 8
+# Ecclesiastes 8
 
 ###### 1
 Quis talis, ut sapiens est? Et quis cognovit solutionem re rum? Sapientia hominis illuminat vultum eius, et durities faciei illius commutatur.

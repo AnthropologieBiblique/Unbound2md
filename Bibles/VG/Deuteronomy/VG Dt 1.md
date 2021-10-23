@@ -1,9 +1,13 @@
 ---
-aliases : Dt 1
+aliases : 
+- Deuteronomy 1
+- Deutéronome 1
+- Dt 1
+- Deuteronomy 1
 tags : Bible/Dt/1
 ---
 
-# Chapitre 1
+# Deuteronomy 1
 
 ###### 1
 Hæc sunt verba quæ locutus est Moyses ad omnem Israël trans Jordanem in solitudine campestri, contra mare Rubrum, inter Pharan et Tophel et Laban et Haseroth, ubi auri est plurimum :

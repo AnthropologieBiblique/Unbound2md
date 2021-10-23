@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 15
+aliases : 
+- 1 Corinthians 15
+- 1 Corinthiens 15
+- 1 Co 15
+- 1 Corinthians 15
 tags : Bible/1Co/15
 ---
 
-# Chapitre 15
+# 1 Corinthians 15
 
 ###### 1
 Notum autem vobis facio, fratres, evangelium, quod evangelizavi vobis, quod et accepistis, in quo et statis, 

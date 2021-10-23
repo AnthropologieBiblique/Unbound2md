@@ -1,9 +1,13 @@
 ---
-aliases : Ps 122
+aliases : 
+- Psalms 122
+- Psaumes 122
+- Ps 122
+- Psalms 122
 tags : Bible/Ps/122
 ---
 
-# Chapitre 122
+# Psalms 122
 
 ###### 1
 Canticum ascensionum. David. Laetatus sum in eo, quod dixerunt mihi: “ In domum Domini ibimus ”.

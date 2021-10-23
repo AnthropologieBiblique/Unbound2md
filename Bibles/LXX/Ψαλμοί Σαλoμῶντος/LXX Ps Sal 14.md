@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 14
+aliases : 
+- Ψαλμοί Σαλoμῶντος 14
+- Psaume extra numerum 14
+- Ps Sal 14
+- Psalm of Solomon 14
 tags : Bible/PsSal/14
 ---
 
-# Chapitre 14
+# Ψαλμοί Σαλoμῶντος 14
 
 ###### 1
 πιστὸς κύριος τοῖς ἀγαπῶσιν αὐτὸν ἐν ἀληθείᾳ τοῖς ὑπομένουσιν παιδείαν αὐτοῦ

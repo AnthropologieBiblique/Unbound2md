@@ -1,9 +1,13 @@
 ---
-aliases : Ct 5
+aliases : 
+- Song of Solomon 5
+- Cantique des cantiques 5
+- Ct 5
+- Song of Solomon 5
 tags : Bible/Ct/5
 ---
 
-# Chapitre 5
+# Song of Solomon 5
 
 ###### 1
 בָּאתִי לְגַנִּי אֲחֹתִי כַלָּה אָרִיתִי מֹורִי עִם־בְּשָׂמִי אָכַלְתִּי יַעְרִי עִם־דִּבְשִׁי שָׁתִיתִי יֵינִי עִם־חֲלָבִי אִכְלוּ רֵעִים שְׁתוּ וְשִׁכְרוּ דֹּודִים׃ ס

@@ -1,9 +1,13 @@
 ---
-aliases : Si 45
+aliases : 
+- Ecclesiasticus (Sira 45
+- Siracide 45
+- Si 45
+- Ecclesiasticus (Sira 45
 tags : Bible/Si/45
 ---
 
-# Chapitre 45
+# Ecclesiasticus (Sira 45
 
 ###### 1
 Dilectus Deo et hominibus Moyses, cujus memoria in benedictione est.

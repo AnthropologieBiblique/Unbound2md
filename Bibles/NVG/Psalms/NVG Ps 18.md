@@ -1,9 +1,13 @@
 ---
-aliases : Ps 18
+aliases : 
+- Psalms 18
+- Psaumes 18
+- Ps 18
+- Psalms 18
 tags : Bible/Ps/18
 ---
 
-# Chapitre 18
+# Psalms 18
 
 ###### 1
 Magistro chori. David, servi Domini, qui locutus est ad Dominum verba huius cantici, quando Dominus eum liberaverat e potestate omnium inimicorum suorum

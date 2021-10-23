@@ -1,9 +1,13 @@
 ---
-aliases : Os 13
+aliases : 
+- Hosea 14
+- Osée 13
+- Os 13
+- Hosea 13
 tags : Bible/Os/13
 ---
 
-# Chapitre 14
+# Hosea 14
 
 ###### 1
 Poenas solvet Samaria, quoniam rebellavit contra Deum suum: in gladio peribunt, parvuli eorum elidentur, et praegnantes discindentur.

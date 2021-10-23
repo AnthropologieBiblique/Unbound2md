@@ -1,9 +1,13 @@
 ---
-aliases : Za 9
+aliases : 
+- Zechariah 9
+- Zacharie 9
+- Za 9
+- Zechariah 9
 tags : Bible/Za/9
 ---
 
-# Chapitre 9
+# Zechariah 9
 
 ###### 1
 Oraculum. “ Verbum Domini in terra Ha drach et Damasci requiei eius, quia Domini est oculus Aram sicut omnes tribus Israel.

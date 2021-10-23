@@ -1,9 +1,13 @@
 ---
-aliases : Ps 2
+aliases : 
+- Ψαλμοί 2
+- Psaumes 2
+- Ps 2
+- Psalms 2
 tags : Bible/Ps/2
 ---
 
-# Chapitre 2
+# Ψαλμοί 2
 
 ###### 1
 ἵνα τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά

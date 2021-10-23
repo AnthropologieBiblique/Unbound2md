@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 25
+aliases : 
+- 1 Chronicles 25
+- 1 Chroniques 25
+- 1 Ch 25
+- 1 Chronicles 25
 tags : Bible/1Ch/25
 ---
 
-# Chapitre 25
+# 1 Chronicles 25
 
 ###### 1
 Igitur David et magistratus exercitus segregaverunt in ministerium filios Asaph, et Heman, et Idithun, qui prophetarent in citharis, et psalteriis, et cymbalis secundum numerum suum, dedicato sibi officio servientes.

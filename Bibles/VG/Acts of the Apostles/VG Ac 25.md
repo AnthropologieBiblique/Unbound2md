@@ -1,9 +1,13 @@
 ---
-aliases : Ac 25
+aliases : 
+- Acts of the Apostles 25
+- Actes 25
+- Ac 25
+- Acts of the Apostles 25
 tags : Bible/Ac/25
 ---
 
-# Chapitre 25
+# Acts of the Apostles 25
 
 ###### 1
 Festus ergo cum venisset in provinciam, post triduum ascendit Jerosolymam a Cæsarea.

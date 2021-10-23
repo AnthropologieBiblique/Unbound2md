@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 19
+aliases : 
+- 1 Chronicles 19
+- 1 Chroniques 19
+- 1 Ch 19
+- 1 Chronicles 19
 tags : Bible/1Ch/19
 ---
 
-# Chapitre 19
+# 1 Chronicles 19
 
 ###### 1
 וַיְהִי אַחֲרֵי־כֵן וַיָּמָת נָחָשׁ מֶלֶךְ בְּנֵי־עַמֹּון וַיִּמְלֹךְ בְּנֹו תַּחְתָּיו׃

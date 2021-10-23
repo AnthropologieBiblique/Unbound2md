@@ -1,9 +1,13 @@
 ---
-aliases : Pr 8
+aliases : 
+- Παροιμίαι 8
+- Proverbes 8
+- Pr 8
+- Proverbs 8
 tags : Bible/Pr/8
 ---
 
-# Chapitre 8
+# Παροιμίαι 8
 
 ###### 1
 σὺ τὴν σοφίαν κηρύξεις ἵνα φρόνησίς σοι ὑπακούσῃ

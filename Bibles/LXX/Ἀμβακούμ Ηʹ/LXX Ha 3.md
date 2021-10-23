@@ -1,9 +1,13 @@
 ---
-aliases : Ha 3
+aliases : 
+- Ἀμβακούμ Ηʹ 3
+- Habaquq 3
+- Ha 3
+- Habakkuk 3
 tags : Bible/Ha/3
 ---
 
-# Chapitre 3
+# Ἀμβακούμ Ηʹ 3
 
 ###### 1
 προσευχὴ αμβακουμ τοῦ προφήτου μετὰ ᾠδῆς

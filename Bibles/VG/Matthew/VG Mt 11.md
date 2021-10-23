@@ -1,9 +1,13 @@
 ---
-aliases : Mt 11
+aliases : 
+- Matthew 11
+- Matthieu 11
+- Mt 11
+- Matthew 11
 tags : Bible/Mt/11
 ---
 
-# Chapitre 11
+# Matthew 11
 
 ###### 1
 Et factum est, cum consummasset Jesus, præcipiens duodecim discipulis suis, transiit inde ut doceret, et prædicaret in civitatibus eorum.

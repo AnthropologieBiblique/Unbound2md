@@ -1,9 +1,13 @@
 ---
-aliases : Ps 76
+aliases : 
+- Psalms 75
+- Psaumes 76
+- Ps 76
+- Psalms 76
 tags : Bible/Ps/76
 ---
 
-# Chapitre 75
+# Psalms 75
 
 ###### 1
 In finem, in laudibus. Psalmus Asaph, canticum ad Assyrios.

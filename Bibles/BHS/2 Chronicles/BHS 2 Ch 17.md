@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 17
+aliases : 
+- 2 Chronicles 17
+- 2 Chroniques 17
+- 2 Ch 17
+- 2 Chronicles 17
 tags : Bible/2Ch/17
 ---
 
-# Chapitre 17
+# 2 Chronicles 17
 
 ###### 1
 וַיִּמְלֹךְ יְהֹושָׁפָט בְּנֹו תַּחְתָּיו וַיִּתְחַזֵּק עַל־יִשְׂרָאֵל׃

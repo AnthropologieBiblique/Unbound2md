@@ -1,9 +1,13 @@
 ---
-aliases : Jr 41
+aliases : 
+- Jeremiah 41
+- Jérémie 41
+- Jr 41
+- Jeremiah 41
 tags : Bible/Jr/41
 ---
 
-# Chapitre 41
+# Jeremiah 41
 
 ###### 1
 Et factum est in mense septimo, venit Ismahel filius Nathaniæ filii Elisama, de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam, in Masphath, et comederunt ibi panes simul in Masphath.

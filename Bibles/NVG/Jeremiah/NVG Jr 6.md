@@ -1,9 +1,13 @@
 ---
-aliases : Jr 6
+aliases : 
+- Jeremiah 6
+- Jérémie 6
+- Jr 6
+- Jeremiah 6
 tags : Bible/Jr/6
 ---
 
-# Chapitre 6
+# Jeremiah 6
 
 ###### 1
 Fugite, filii Beniamin, de medio Ierusalem; et in Thecua clangite bucina et super Bethcharem levate vexillum, quia malum visum est ab aquilone et contritio magna.

@@ -1,9 +1,13 @@
 ---
-aliases : Jg 5
+aliases : 
+- Judges 5
+- Juges 5
+- Jg 5
+- Judges 5
 tags : Bible/Jg/5
 ---
 
-# Chapitre 5
+# Judges 5
 
 ###### 1
 Cecineruntque Debora et Barac filius Abinoem in die illo dicen tes:

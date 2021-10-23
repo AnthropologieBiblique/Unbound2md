@@ -1,9 +1,13 @@
 ---
-aliases : Is 47
+aliases : 
+- Isaiah 47
+- Isaïe 47
+- Is 47
+- Isaiah 47
 tags : Bible/Is/47
 ---
 
-# Chapitre 47
+# Isaiah 47
 
 ###### 1
 Descende, sede in pulvere, virgo filia Babylon; sede in terra sine solio, filia Chaldaeorum, quia ultra non vocaberis mollis et tenera.

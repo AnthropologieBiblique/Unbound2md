@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 3
+aliases : 
+- 1 Maccabees 3
+- 1 Maccabees 3
+- 1 M 3
 tags : Bible/1M/3
 ---
 
-# Chapitre 3
+# 1 Maccabees 3
 
 ###### 1
 Et surrexit Judas, qui vocabatur Machabæus, filius ejus, pro eo :

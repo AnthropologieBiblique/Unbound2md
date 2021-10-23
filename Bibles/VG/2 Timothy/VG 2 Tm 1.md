@@ -1,9 +1,13 @@
 ---
-aliases : 2 Tm 1
+aliases : 
+- 2 Timothy 1
+- 2 Timothée 1
+- 2 Tm 1
+- 2 Timothy 1
 tags : Bible/2Tm/1
 ---
 
-# Chapitre 1
+# 2 Timothy 1
 
 ###### 1
 Paulus Apostolus Jesu Christi per voluntatem Dei, secundum promissionem vitæ, quæ est in Christo Jesu,

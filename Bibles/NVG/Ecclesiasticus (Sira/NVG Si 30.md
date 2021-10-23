@@ -1,9 +1,13 @@
 ---
-aliases : Si 30
+aliases : 
+- Ecclesiasticus (Sira 30
+- Siracide 30
+- Si 30
+- Ecclesiasticus (Sira 30
 tags : Bible/Si/30
 ---
 
-# Chapitre 30
+# Ecclesiasticus (Sira 30
 
 ###### 1
 De filiis. Qui diligit filium suum, assi duat illi flagella, ut laetetur in novissimo suo.

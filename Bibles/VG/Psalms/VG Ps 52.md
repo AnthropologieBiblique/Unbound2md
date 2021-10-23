@@ -1,9 +1,13 @@
 ---
-aliases : Ps 53
+aliases : 
+- Psalms 52
+- Psaumes 53
+- Ps 53
+- Psalms 53
 tags : Bible/Ps/53
 ---
 
-# Chapitre 52
+# Psalms 52
 
 ###### 1
 In finem, pro Maëleth intelligentiæ. David. Dixit insipiens in corde suo : Non est Deus.

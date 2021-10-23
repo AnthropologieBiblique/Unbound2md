@@ -1,9 +1,13 @@
 ---
-aliases : 1 Tm 5
+aliases : 
+- 1 Timothy 5
+- 1 Timothée 5
+- 1 Tm 5
+- 1 Timothy 5
 tags : Bible/1Tm/5
 ---
 
-# Chapitre 5
+# 1 Timothy 5
 
 ###### 1
 Seniorem ne increpaveris, sed obsecra ut patrem, iuvenes ut fratres, 

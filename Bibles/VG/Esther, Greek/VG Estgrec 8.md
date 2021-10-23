@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 8
+aliases : 
+- Esther, Greek 8
+- Esther, Grec 8
+- Estgrec 8
+- Esther, Greek 8
 tags : Bible/Estgrec/8
 ---
 
-# Chapitre 8
+# Esther, Greek 8
 
 ###### 1
 Die illo dedit rex Assuerus Esther reginæ domum Aman adversarii Judæorum, et Mardochæus ingressus est ante faciem regis. Confessa est enim ei Esther quod esset patruus suus.

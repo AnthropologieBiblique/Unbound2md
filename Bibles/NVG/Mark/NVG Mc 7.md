@@ -1,9 +1,13 @@
 ---
-aliases : Mc 7
+aliases : 
+- Mark 7
+- Marc 7
+- Mc 7
+- Mark 7
 tags : Bible/Mc/7
 ---
 
-# Chapitre 7
+# Mark 7
 
 ###### 1
 Et conveniunt ad eum pharisaei et quidam de scribis venientes ab Hierosolymis; 

@@ -1,9 +1,13 @@
 ---
-aliases : Si 17
+aliases : 
+- Ecclesiasticus (Sira 17
+- Siracide 17
+- Si 17
+- Ecclesiasticus (Sira 17
 tags : Bible/Si/17
 ---
 
-# Chapitre 17
+# Ecclesiasticus (Sira 17
 
 ###### 1
 Deus creavit de terra hominem et secundum imaginem suam fecit illum;

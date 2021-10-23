@@ -1,9 +1,13 @@
 ---
-aliases : Ps 17
+aliases : 
+- Psalms 16
+- Psaumes 17
+- Ps 17
+- Psalms 17
 tags : Bible/Ps/17
 ---
 
-# Chapitre 16
+# Psalms 16
 
 ###### 1
 Oratio David. Exaudi, Domine, justitiam meam ; intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.

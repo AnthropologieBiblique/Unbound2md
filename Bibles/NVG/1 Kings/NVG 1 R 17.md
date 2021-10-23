@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 17
+aliases : 
+- 1 Kings 17
+- 1 Rois 17
+- 1 R 17
+- 1 Kings 17
 tags : Bible/1R/17
 ---
 
-# Chapitre 17
+# 1 Kings 17
 
 ###### 1
 Et dixit Elias Thesbites de Thesbi in Galaad ad Achab: “ Vivit Dominus, Deus Israel, in cuius conspectu sto. Non erit annis his ros et pluvia, nisi iuxta oris mei verba! ”.

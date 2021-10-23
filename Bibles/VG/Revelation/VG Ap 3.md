@@ -1,9 +1,13 @@
 ---
-aliases : Ap 3
+aliases : 
+- Revelation 3
+- Apocalypse 3
+- Ap 3
+- Revelation 3
 tags : Bible/Ap/3
 ---
 
-# Chapitre 3
+# Revelation 3
 
 ###### 1
 Et angelo ecclesiæ Sardis scribe : Hæc dicit qui habet septem spiritus Dei, et septem stellas : Scio opera tua, quia nomen habes quod vivas, et mortuus es.

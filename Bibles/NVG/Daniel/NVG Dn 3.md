@@ -1,9 +1,12 @@
 ---
-aliases : Dn 3
+aliases : 
+- Daniel 3
+- Daniel 3
+- Dn 3
 tags : Bible/Dn/3
 ---
 
-# Chapitre 3
+# Daniel 3
 
 ###### 1
 Nabuchodonosor rex fecit sta tuam auream altitudine cubito rum sexaginta, latitudine cubitorum sex; et statuit eam in campo Dura in provincia Babylonis. 

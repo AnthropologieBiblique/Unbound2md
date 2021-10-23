@@ -1,9 +1,13 @@
 ---
-aliases : Mt 18
+aliases : 
+- Matthew 18
+- Matthieu 18
+- Mt 18
+- Matthew 18
 tags : Bible/Mt/18
 ---
 
-# Chapitre 18
+# Matthew 18
 
 ###### 1
 In illa hora accesserunt di scipuli ad Iesum dicentes: “ Quis putas maior est in regno caelorum? ”. 

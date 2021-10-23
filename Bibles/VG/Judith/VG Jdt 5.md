@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 5
+aliases : 
+- Judith 5
+- Judith 5
+- Jdt 5
 tags : Bible/Jdt/5
 ---
 
-# Chapitre 5
+# Judith 5
 
 ###### 1
 Nuntiatumque est Holoferni principi militiæ Assyriorum, quod filii Israël præpararent se ad resistendum, ac montium itinera conclusissent,

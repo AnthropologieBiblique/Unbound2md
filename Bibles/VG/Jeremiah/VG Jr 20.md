@@ -1,9 +1,13 @@
 ---
-aliases : Jr 20
+aliases : 
+- Jeremiah 20
+- Jérémie 20
+- Jr 20
+- Jeremiah 20
 tags : Bible/Jr/20
 ---
 
-# Chapitre 20
+# Jeremiah 20
 
 ###### 1
 Et audivit Phassur filius Emmer, sacerdos, qui constitutus erat princeps in domo Domini, Jeremiam prophetantem sermones istos.

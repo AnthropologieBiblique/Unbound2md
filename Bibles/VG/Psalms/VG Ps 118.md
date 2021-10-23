@@ -1,9 +1,13 @@
 ---
-aliases : Ps 119
+aliases : 
+- Psalms 118
+- Psaumes 119
+- Ps 119
+- Psalms 119
 tags : Bible/Ps/119
 ---
 
-# Chapitre 118
+# Psalms 118
 
 ###### 1
 Alleluja. ALEPH. Beati immaculati in via, qui ambulant in lege Domini.

@@ -1,9 +1,12 @@
 ---
-aliases : Am 8
+aliases : 
+- Amos 8
+- Amos 8
+- Am 8
 tags : Bible/Am/8
 ---
 
-# Chapitre 8
+# Amos 8
 
 ###### 1
 Hæc ostendit mihi Dominus Deus : et ecce uncinus pomorum.

@@ -1,9 +1,13 @@
 ---
-aliases : Sg 5
+aliases : 
+- Wisdom of Solomon 5
+- Sagesse 5
+- Sg 5
+- Wisdom of Solomon 5
 tags : Bible/Sg/5
 ---
 
-# Chapitre 5
+# Wisdom of Solomon 5
 
 ###### 1
 Tunc stabunt justi in magna constantia adversus eos qui se angustiaverunt, et qui abstulerunt labores eorum.

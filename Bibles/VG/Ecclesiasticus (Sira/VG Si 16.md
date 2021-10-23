@@ -1,9 +1,13 @@
 ---
-aliases : Si 16
+aliases : 
+- Ecclesiasticus (Sira 16
+- Siracide 16
+- Si 16
+- Ecclesiasticus (Sira 16
 tags : Bible/Si/16
 ---
 
-# Chapitre 16
+# Ecclesiasticus (Sira 16
 
 ###### 1
 Ne jucunderis in filiis impiis, si multiplicentur : nec oblecteris super ipsos, si non est timor Dei in illis.

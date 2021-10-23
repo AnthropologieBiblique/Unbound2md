@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 23
+aliases : 
+- 2 Chronicles 23
+- 2 Chroniques 23
+- 2 Ch 23
+- 2 Chronicles 23
 tags : Bible/2Ch/23
 ---
 
-# Chapitre 23
+# 2 Chronicles 23
 
 ###### 1
 Anno autem septimo confortatus Jojada, assumpsit centuriones, Azariam videlicet filium Jeroham, et Ismahel filium Johanan, Azariam quoque filium Obed, et Maasiam filium Adaiæ, et Elisaphat filium Zechri : et iniit cum eis fœdus.

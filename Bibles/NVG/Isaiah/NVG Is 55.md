@@ -1,9 +1,13 @@
 ---
-aliases : Is 55
+aliases : 
+- Isaiah 55
+- Isaïe 55
+- Is 55
+- Isaiah 55
 tags : Bible/Is/55
 ---
 
-# Chapitre 55
+# Isaiah 55
 
 ###### 1
 Heu! Omnes sitientes, venite ad aquas; et, qui non habetis argentum, properate, emite et comedite, venite, emite absque argento et absque ulla commutatione vinum et lac.

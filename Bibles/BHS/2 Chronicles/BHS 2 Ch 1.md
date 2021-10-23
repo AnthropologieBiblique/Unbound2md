@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 1
+aliases : 
+- 2 Chronicles 1
+- 2 Chroniques 1
+- 2 Ch 1
+- 2 Chronicles 1
 tags : Bible/2Ch/1
 ---
 
-# Chapitre 1
+# 2 Chronicles 1
 
 ###### 1
 וַיִּתְחַזֵּק שְׁלֹמֹה בֶן־דָּוִיד עַל־מַלְכוּתֹו וַיהוָה אֱלֹהָיו עִמֹּו וַיְגַדְּלֵהוּ לְמָעְלָה׃

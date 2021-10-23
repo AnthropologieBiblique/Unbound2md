@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 1
+aliases : 
+- 2 Kings 1
+- 2 Rois 1
+- 2 R 1
+- 2 Kings 1
 tags : Bible/2R/1
 ---
 
-# Chapitre 1
+# 2 Kings 1
 
 ###### 1
 Prævaricatus est autem Moab in Israël, postquam mortuus est Achab.

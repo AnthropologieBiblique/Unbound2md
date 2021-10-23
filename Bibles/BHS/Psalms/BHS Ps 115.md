@@ -1,9 +1,13 @@
 ---
-aliases : Ps 115
+aliases : 
+- Psalms 115
+- Psaumes 115
+- Ps 115
+- Psalms 115
 tags : Bible/Ps/115
 ---
 
-# Chapitre 115
+# Psalms 115
 
 ###### 1
 לֹא לָנוּ יְהוָה לֹא לָנוּ כִּי־לְשִׁמְךָ תֵּן כָּבֹוד עַל־חַסְדְּךָ עַל־אֲמִתֶּךָ׃

@@ -1,9 +1,13 @@
 ---
-aliases : Jg 7
+aliases : 
+- Judges 7
+- Juges 7
+- Jg 7
+- Judges 7
 tags : Bible/Jg/7
 ---
 
-# Chapitre 7
+# Judges 7
 
 ###### 1
 Igitur Jerobaal qui et Gedeon, de nocte consurgens, et omnis populus cum eo, venit ad fontem qui vocatur Harad. Erant autem castra Madian in valle ad septentrionalem plagam collis excelsi.

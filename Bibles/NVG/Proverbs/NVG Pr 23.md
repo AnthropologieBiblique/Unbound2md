@@ -1,9 +1,13 @@
 ---
-aliases : Pr 23
+aliases : 
+- Proverbs 23
+- Proverbes 23
+- Pr 23
+- Proverbs 23
 tags : Bible/Pr/23
 ---
 
-# Chapitre 23
+# Proverbs 23
 
 ###### 1
 Quando sederis, ut comedas cum principe, diligenter attende, quae apposita sunt ante faciem tuam,

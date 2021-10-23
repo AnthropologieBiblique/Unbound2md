@@ -1,9 +1,13 @@
 ---
-aliases : Ez 42
+aliases : 
+- Ezekiel 42
+- Ézéchiel 42
+- Ez 42
+- Ezekiel 42
 tags : Bible/Ez/42
 ---
 
-# Chapitre 42
+# Ezekiel 42
 
 ###### 1
 Et eduxit me in atrium ex terius per viam ducentem ad aquilonem; et duxit me ad exedram, quae erat contra aream separatam, et contra aedem ad aquilonem. 

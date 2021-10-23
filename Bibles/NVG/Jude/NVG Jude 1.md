@@ -1,9 +1,12 @@
 ---
-aliases : Jude 1
+aliases : 
+- Jude 1
+- Jude 1
+- Jude 1
 tags : Bible/Jude/1
 ---
 
-# Chapitre 1
+# Jude 1
 
 ###### 1
 Iudas Iesu Christi servus, frater autem Iacobi, his qui sunt vocati, in Deo Patre dilecti et Christo Iesu conservati: 

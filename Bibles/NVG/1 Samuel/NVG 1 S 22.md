@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 22
+aliases : 
+- 1 Samuel 22
+- 1 Samuel 22
+- 1 S 22
 tags : Bible/1S/22
 ---
 
-# Chapitre 22
+# 1 Samuel 22
 
 ###### 1
 Abiit ergo inde David et fugit in speluncam Odollam; quod cum audissent fratres eius et omnis domus patris eius, descenderunt ad eum illuc. 

@@ -1,9 +1,13 @@
 ---
-aliases : Lc 5
+aliases : 
+- Luke 5
+- Luc 5
+- Lc 5
+- Luke 5
 tags : Bible/Lc/5
 ---
 
-# Chapitre 5
+# Luke 5
 
 ###### 1
 Factum est autem, cum turba urgeret illum et audiret verbum Dei, et ipse stabat secus stagnum Genesareth 

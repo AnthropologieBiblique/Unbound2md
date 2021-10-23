@@ -1,9 +1,13 @@
 ---
-aliases : Ps 81
+aliases : 
+- Psalms 80
+- Psaumes 81
+- Ps 81
+- Psalms 81
 tags : Bible/Ps/81
 ---
 
-# Chapitre 80
+# Psalms 80
 
 ###### 1
 In finem. Pro torcularibus. Psalmus ipsi Asaph.

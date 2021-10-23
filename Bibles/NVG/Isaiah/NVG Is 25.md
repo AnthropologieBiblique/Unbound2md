@@ -1,9 +1,13 @@
 ---
-aliases : Is 25
+aliases : 
+- Isaiah 25
+- Isaïe 25
+- Is 25
+- Isaiah 25
 tags : Bible/Is/25
 ---
 
-# Chapitre 25
+# Isaiah 25
 
 ###### 1
 Domine, Deus meus es tu; exaltabo te, confitebor no mini tuo, quoniam fecisti mirabilia, cogitationes antiquas, fideles, veraces.

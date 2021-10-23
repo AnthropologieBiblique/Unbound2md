@@ -1,9 +1,13 @@
 ---
-aliases : Ps 85
+aliases : 
+- Psalms 85
+- Psaumes 85
+- Ps 85
+- Psalms 85
 tags : Bible/Ps/85
 ---
 
-# Chapitre 85
+# Psalms 85
 
 ###### 1
 לַמְנַצֵּחַ לִבְנֵי־קֹרַח מִזְמֹור׃

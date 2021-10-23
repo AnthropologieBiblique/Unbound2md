@@ -1,9 +1,13 @@
 ---
-aliases : Ps 27
+aliases : 
+- Psalms 26
+- Psaumes 27
+- Ps 27
+- Psalms 27
 tags : Bible/Ps/27
 ---
 
-# Chapitre 26
+# Psalms 26
 
 ###### 1
 Psalmus David, priusquam liniretur. Dominus illuminatio mea et salus mea ; quem timebo ? Dominus protector vitæ meæ ; a quo trepidabo ?

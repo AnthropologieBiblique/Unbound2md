@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 10
+aliases : 
+- 1 Samuel 10
+- 1 Samuel 10
+- 1 S 10
 tags : Bible/1S/10
 ---
 
-# Chapitre 10
+# 1 Samuel 10
 
 ###### 1
 Tulit autem Samuel lenticulam olei et effudit super caput eius et deosculatus eum ait: “ Ecce unxit te Dominus in principem super populum suum, super Israel. Et tu dominaberis populo Domini et tu liberabis eum de manu inimicorum eius, qui in circuitu eius sunt. Et hoc tibi signum quia unxit te Deus in principem super hereditatem suam: 

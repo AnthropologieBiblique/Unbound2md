@@ -1,9 +1,13 @@
 ---
-aliases : Tb 12
+aliases : 
+- Tobit 12
+- Tobie 12
+- Tb 12
+- Tobit 12
 tags : Bible/Tb/12
 ---
 
-# Chapitre 12
+# Tobit 12
 
 ###### 1
 Et, postquam consummatae sunt nuptiae, vocavit Thobi filium suum Thobiam et dixit illi: “ Homini illi, qui tecum ivit, reddamus honorem et adiciamus ad mercedem suam ”. 

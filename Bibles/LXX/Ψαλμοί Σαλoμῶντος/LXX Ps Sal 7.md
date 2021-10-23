@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 7
+aliases : 
+- Ψαλμοί Σαλoμῶντος 7
+- Psaume extra numerum 7
+- Ps Sal 7
+- Psalm of Solomon 7
 tags : Bible/PsSal/7
 ---
 
-# Chapitre 7
+# Ψαλμοί Σαλoμῶντος 7
 
 ###### 1
 μὴ ἀποσκηνώσῃς ἀφ' ἡμῶν ὁ θεός ἵνα μὴ ἐπιθῶνται ἡμῖν οἳ ἐμίσησαν ἡμᾶς δωρεάν

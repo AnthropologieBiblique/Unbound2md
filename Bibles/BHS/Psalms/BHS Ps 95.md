@@ -1,9 +1,13 @@
 ---
-aliases : Ps 95
+aliases : 
+- Psalms 95
+- Psaumes 95
+- Ps 95
+- Psalms 95
 tags : Bible/Ps/95
 ---
 
-# Chapitre 95
+# Psalms 95
 
 ###### 1
 לְכוּ נְרַנְּנָה לַיהוָה נָרִיעָה לְצוּר יִשְׁעֵנוּ׃

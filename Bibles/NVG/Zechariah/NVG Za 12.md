@@ -1,9 +1,13 @@
 ---
-aliases : Za 12
+aliases : 
+- Zechariah 12
+- Zacharie 12
+- Za 12
+- Zechariah 12
 tags : Bible/Za/12
 ---
 
-# Chapitre 12
+# Zechariah 12
 
 ###### 1
 Oraculum. Verbum Domini super Israel et super Iudam. Oraculum Domini, qui extendit caelum et fundat terram et fingit spiritum hominis in eo: 

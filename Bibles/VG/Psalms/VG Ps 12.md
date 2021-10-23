@@ -1,9 +1,13 @@
 ---
-aliases : Ps 13
+aliases : 
+- Psalms 12
+- Psaumes 13
+- Ps 13
+- Psalms 13
 tags : Bible/Ps/13
 ---
 
-# Chapitre 12
+# Psalms 12
 
 ###### 1
 In finem. Psalmus David. Usquequo, Domine, oblivisceris me in finem ? usquequo avertis faciem tuam a me ?

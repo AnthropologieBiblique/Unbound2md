@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 24
+aliases : 
+- 2 Kings 24
+- 2 Rois 24
+- 2 R 24
+- 2 Kings 24
 tags : Bible/2R/24
 ---
 
-# Chapitre 24
+# 2 Kings 24
 
 ###### 1
 In diebus eius ascendit Nabuchodonosor rex Babylonis, et factus est ei Ioachim servus tribus annis et rursum rebellavit contra eum. 

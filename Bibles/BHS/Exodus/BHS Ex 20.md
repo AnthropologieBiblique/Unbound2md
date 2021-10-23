@@ -1,9 +1,13 @@
 ---
-aliases : Ex 20
+aliases : 
+- Exodus 20
+- Exode 20
+- Ex 20
+- Exodus 20
 tags : Bible/Ex/20
 ---
 
-# Chapitre 20
+# Exodus 20
 
 ###### 1
 וַיְדַבֵּר אֱלֹהִים אֵת כָּל־הַדְּבָרִים הָאֵלֶּה לֵאמֹר׃ ס

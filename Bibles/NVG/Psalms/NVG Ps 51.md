@@ -1,9 +1,13 @@
 ---
-aliases : Ps 51
+aliases : 
+- Psalms 51
+- Psaumes 51
+- Ps 51
+- Psalms 51
 tags : Bible/Ps/51
 ---
 
-# Chapitre 51
+# Psalms 51
 
 ###### 1
 Magistro chori. PSALMUS. David,

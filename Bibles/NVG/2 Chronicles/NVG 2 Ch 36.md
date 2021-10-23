@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 36
+aliases : 
+- 2 Chronicles 36
+- 2 Chroniques 36
+- 2 Ch 36
+- 2 Chronicles 36
 tags : Bible/2Ch/36
 ---
 
-# Chapitre 36
+# 2 Chronicles 36
 
 ###### 1
 Tulit ergo populus terrae Ioachaz filium Iosiae et con stituit regem pro patre suo in Ierusalem. 

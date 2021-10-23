@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 5
+aliases : 
+- 2 Samuel 5
+- 2 Samuel 5
+- 2 S 5
 tags : Bible/2S/5
 ---
 
-# Chapitre 5
+# 2 Samuel 5
 
 ###### 1
 Et venerunt universæ tribus Israël ad David in Hebron, dicentes : Ecce nos, os tuum et caro tua sumus.

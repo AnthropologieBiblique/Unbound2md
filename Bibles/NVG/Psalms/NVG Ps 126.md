@@ -1,9 +1,13 @@
 ---
-aliases : Ps 126
+aliases : 
+- Psalms 126
+- Psaumes 126
+- Ps 126
+- Psalms 126
 tags : Bible/Ps/126
 ---
 
-# Chapitre 126
+# Psalms 126
 
 ###### 1
 Canticum ascensionum. In convertendo Dominus captivitatem Sion, facti sumus quasi somniantes.

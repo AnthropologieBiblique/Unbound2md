@@ -1,9 +1,13 @@
 ---
-aliases : Sg 8
+aliases : 
+- Wisdom of Solomon 8
+- Sagesse 8
+- Sg 8
+- Wisdom of Solomon 8
 tags : Bible/Sg/8
 ---
 
-# Chapitre 8
+# Wisdom of Solomon 8
 
 ###### 1
 Attingit ergo a fine usque ad finem fortiter et disponit omnia suaviter.

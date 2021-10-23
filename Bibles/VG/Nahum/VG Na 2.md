@@ -1,9 +1,12 @@
 ---
-aliases : Na 2
+aliases : 
+- Nahum 2
+- Nahum 2
+- Na 2
 tags : Bible/Na/2
 ---
 
-# Chapitre 2
+# Nahum 2
 
 ###### 1
 Ascendit qui dispergat coram te, qui custodiat obsidionem : contemplare viam, conforta lumbos, robora virtutem valde.

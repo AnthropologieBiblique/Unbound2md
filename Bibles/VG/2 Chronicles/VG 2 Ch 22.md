@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 22
+aliases : 
+- 2 Chronicles 22
+- 2 Chroniques 22
+- 2 Ch 22
+- 2 Chronicles 22
 tags : Bible/2Ch/22
 ---
 
-# Chapitre 22
+# 2 Chronicles 22
 
 ###### 1
 Constituerunt autem habitatores Jerusalem Ochoziam filium ejus minimum regem pro eo : omnes enim majores natu, qui ante eum fuerant, interfecerant latrones Arabum, qui irruerant in castra : regnavitque Ochozias filius Joram regis Juda.

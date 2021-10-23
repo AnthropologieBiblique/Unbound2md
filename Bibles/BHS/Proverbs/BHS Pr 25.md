@@ -1,9 +1,13 @@
 ---
-aliases : Pr 25
+aliases : 
+- Proverbs 25
+- Proverbes 25
+- Pr 25
+- Proverbs 25
 tags : Bible/Pr/25
 ---
 
-# Chapitre 25
+# Proverbs 25
 
 ###### 1
 גַּם־אֵלֶּה מִשְׁלֵי שְׁלֹמֹה אֲשֶׁר הֶעְתִּיקוּ אַנְשֵׁי חִזְקִיָּה מֶלֶךְ־יְהוּדָה׃

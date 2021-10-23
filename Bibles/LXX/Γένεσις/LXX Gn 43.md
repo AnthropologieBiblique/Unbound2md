@@ -1,9 +1,13 @@
 ---
-aliases : Gn 43
+aliases : 
+- Γένεσις 43
+- Genèse 43
+- Gn 43
+- Genesis 43
 tags : Bible/Gn/43
 ---
 
-# Chapitre 43
+# Γένεσις 43
 
 ###### 1
 ὁ δὲ λιμὸς ἐνίσχυσεν ἐπὶ τῆς γῆς

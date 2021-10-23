@@ -1,9 +1,13 @@
 ---
-aliases : Ps 70
+aliases : 
+- Psalms 69
+- Psaumes 70
+- Ps 70
+- Psalms 70
 tags : Bible/Ps/70
 ---
 
-# Chapitre 69
+# Psalms 69
 
 ###### 1
 In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus.

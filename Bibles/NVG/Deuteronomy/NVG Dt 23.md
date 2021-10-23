@@ -1,9 +1,13 @@
 ---
-aliases : Dt 22
+aliases : 
+- Deuteronomy 23
+- Deutéronome 22
+- Dt 22
+- Deuteronomy 22
 tags : Bible/Dt/22
 ---
 
-# Chapitre 23
+# Deuteronomy 23
 
 ###### 1
 Non accipiet homo uxorem patris sui nec revelabit operi mentum eius.

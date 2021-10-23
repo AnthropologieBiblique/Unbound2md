@@ -1,9 +1,12 @@
 ---
-aliases : Dn 7
+aliases : 
+- Daniel 7
+- Daniel 7
+- Dn 7
 tags : Bible/Dn/7
 ---
 
-# Chapitre 7
+# Daniel 7
 
 ###### 1
 Anno primo Balthasar regis Babylonis Daniel somnium vidit et visionem capitis eius in cubili suo; tunc et somnium scripsit. Caput verborum, quae locutus est. 

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 20
+aliases : 
+- Job 20
+- Job 20
+- Jb 20
 tags : Bible/Jb/20
 ---
 
-# Chapitre 20
+# Job 20
 
 ###### 1
 Respondens autem Sophar Naamathites dixit:

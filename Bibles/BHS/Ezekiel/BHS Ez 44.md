@@ -1,9 +1,13 @@
 ---
-aliases : Ez 44
+aliases : 
+- Ezekiel 44
+- Ézéchiel 44
+- Ez 44
+- Ezekiel 44
 tags : Bible/Ez/44
 ---
 
-# Chapitre 44
+# Ezekiel 44
 
 ###### 1
 וַיָּשֶׁב אֹתִי דֶּרֶךְ שַׁעַר הַמִּקְדָּשׁ הַחִיצֹון הַפֹּנֶה קָדִים וְהוּא סָגוּר׃

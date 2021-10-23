@@ -1,9 +1,13 @@
 ---
-aliases : Ps 9
+aliases : 
+- Psalms 9
+- Psaumes 9
+- Ps 9
+- Psalms 9
 tags : Bible/Ps/9
 ---
 
-# Chapitre 9
+# Psalms 9
 
 ###### 1
 לַמְנַצֵּחַ עַלְמוּת לַבֵּן מִזְמֹור לְדָוִד׃

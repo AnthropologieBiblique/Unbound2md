@@ -1,9 +1,13 @@
 ---
-aliases : Pr 7
+aliases : 
+- Παροιμίαι 7
+- Proverbes 7
+- Pr 7
+- Proverbs 7
 tags : Bible/Pr/7
 ---
 
-# Chapitre 7
+# Παροιμίαι 7
 
 ###### 1
 υἱέ φύλασσε ἐμοὺς λόγους τὰς δὲ ἐμὰς ἐντολὰς κρύψον παρὰ σεαυτῷ

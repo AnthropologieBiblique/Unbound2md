@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 2
+aliases : 
+- 1 Corinthians 2
+- 1 Corinthiens 2
+- 1 Co 2
+- 1 Corinthians 2
 tags : Bible/1Co/2
 ---
 
-# Chapitre 2
+# 1 Corinthians 2
 
 ###### 1
 Et ego, cum venissem ad vos, fratres, veni non per sublimita tem sermonis aut sapientiae annuntians vobis mysterium Dei. 

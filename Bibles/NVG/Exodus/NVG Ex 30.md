@@ -1,9 +1,13 @@
 ---
-aliases : Ex 30
+aliases : 
+- Exodus 30
+- Exode 30
+- Ex 30
+- Exodus 30
 tags : Bible/Ex/30
 ---
 
-# Chapitre 30
+# Exodus 30
 
 ###### 1
 Facies quoque altare ad adolendum thymiama de lignis acaciae 

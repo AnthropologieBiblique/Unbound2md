@@ -1,9 +1,13 @@
 ---
-aliases : Ps 14
+aliases : 
+- Psalms 13
+- Psaumes 14
+- Ps 14
+- Psalms 14
 tags : Bible/Ps/14
 ---
 
-# Chapitre 13
+# Psalms 13
 
 ###### 1
 In finem. Psalmus David. Dixit insipiens in corde suo : Non est Deus. Corrupti sunt, et abominabiles facti sunt in studiis suis ; non est qui faciat bonum, non est usque ad unum.

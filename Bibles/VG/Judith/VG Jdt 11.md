@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 11
+aliases : 
+- Judith 11
+- Judith 11
+- Jdt 11
 tags : Bible/Jdt/11
 ---
 
-# Chapitre 11
+# Judith 11
 
 ###### 1
 Tunc Holofernes dixit ei : Æquo animo esto, et noli pavere in corde tuo : quoniam ego numquam nocui viro, qui voluit servire Nabuchodonosor regi :

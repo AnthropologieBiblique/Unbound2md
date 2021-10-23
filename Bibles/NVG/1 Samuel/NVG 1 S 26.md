@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 26
+aliases : 
+- 1 Samuel 26
+- 1 Samuel 26
+- 1 S 26
 tags : Bible/1S/26
 ---
 
-# Chapitre 26
+# 1 Samuel 26
 
 ###### 1
 Et venerunt Ziphaei ad Saul in Gabaa dicentes: “ Ecce David absconditus est in colle Hachila, quae est ex adverso solitudinis ”. 

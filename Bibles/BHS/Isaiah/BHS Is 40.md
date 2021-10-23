@@ -1,9 +1,13 @@
 ---
-aliases : Is 40
+aliases : 
+- Isaiah 40
+- Isaïe 40
+- Is 40
+- Isaiah 40
 tags : Bible/Is/40
 ---
 
-# Chapitre 40
+# Isaiah 40
 
 ###### 1
 נַחֲמוּ נַחֲמוּ עַמִּי יֹאמַר אֱלֹהֵיכֶם׃

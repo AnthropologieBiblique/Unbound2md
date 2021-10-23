@@ -1,9 +1,13 @@
 ---
-aliases : Lc 17
+aliases : 
+- Luke 17
+- Luc 17
+- Lc 17
+- Luke 17
 tags : Bible/Lc/17
 ---
 
-# Chapitre 17
+# Luke 17
 
 ###### 1
 Et ait ad discipulos suos : Impossibile est ut non veniant scandala : væ autem illi per quem veniunt.

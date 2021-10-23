@@ -1,9 +1,13 @@
 ---
-aliases : Si 9
+aliases : 
+- Ecclesiasticus (Sira 9
+- Siracide 9
+- Si 9
+- Ecclesiasticus (Sira 9
 tags : Bible/Si/9
 ---
 
-# Chapitre 9
+# Ecclesiasticus (Sira 9
 
 ###### 1
 Non zeles mulierem sinus tui, ne doceas contra te notitiam ne quam.

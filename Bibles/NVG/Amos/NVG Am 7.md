@@ -1,9 +1,12 @@
 ---
-aliases : Am 7
+aliases : 
+- Amos 7
+- Amos 7
+- Am 7
 tags : Bible/Am/7
 ---
 
-# Chapitre 7
+# Amos 7
 
 ###### 1
 Haec ostendit mihi Dominus Deus: et ecce, ipse formabat lo custas in principio, cum germinarent serotinae fruges; et ecce fruges serotinae post fruges demessas regis. 

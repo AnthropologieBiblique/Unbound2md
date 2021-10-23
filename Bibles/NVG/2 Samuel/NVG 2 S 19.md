@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 18
+aliases : 
+- 2 Samuel 19
+- 2 Samuel 18
+- 2 S 18
 tags : Bible/2S/18
 ---
 
-# Chapitre 19
+# 2 Samuel 19
 
 ###### 1
 Contremuit itaque rex et ascendit cenaculum portae et flevit. Et sic loquebatur vadens: “ Fili mi Absalom, fili mi, fili mi Absalom! Quis mihi tribuat, ut ego moriar pro te? Absalom fili mi, fili mi! ”.

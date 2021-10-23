@@ -1,9 +1,13 @@
 ---
-aliases : Esd 4
+aliases : 
+- Ezra 4
+- Esdras 4
+- Esd 4
+- Ezra 4
 tags : Bible/Esd/4
 ---
 
-# Chapitre 4
+# Ezra 4
 
 ###### 1
 Audierunt autem hostes Iudae et Beniamin, quia filii captivita tis aedificarent templum Domino, Deo Israel, 

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 11
+aliases : 
+- 1 Corinthians 11
+- 1 Corinthiens 11
+- 1 Co 11
+- 1 Corinthians 11
 tags : Bible/1Co/11
 ---
 
-# Chapitre 11
+# 1 Corinthians 11
 
 ###### 1
 Imitatores mei estote, sicut et ego Christi.

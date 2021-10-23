@@ -1,9 +1,13 @@
 ---
-aliases : Ne 9
+aliases : 
+- Nehemiah 9
+- Néhémie 9
+- Ne 9
+- Nehemiah 9
 tags : Bible/Ne/9
 ---
 
-# Chapitre 9
+# Nehemiah 9
 
 ###### 1
 In die autem vicesimo quarto mensis huius convenerunt filii Is rael in ieiunio et in saccis, et humus super eos. 

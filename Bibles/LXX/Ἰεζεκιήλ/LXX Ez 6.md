@@ -1,9 +1,13 @@
 ---
-aliases : Ez 6
+aliases : 
+- Ἰεζεκιήλ 6
+- Ézéchiel 6
+- Ez 6
+- Ezekiel 6
 tags : Bible/Ez/6
 ---
 
-# Chapitre 6
+# Ἰεζεκιήλ 6
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

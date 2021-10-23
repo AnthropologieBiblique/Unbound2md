@@ -1,9 +1,13 @@
 ---
-aliases : Ph 4
+aliases : 
+- Philippians 4
+- Philippiens 4
+- Ph 4
+- Philippians 4
 tags : Bible/Ph/4
 ---
 
-# Chapitre 4
+# Philippians 4
 
 ###### 1
 Itaque, fratres mei carissimi et desideratissimi, gaudium et co rona mea, sic state in Domino, carissimi!

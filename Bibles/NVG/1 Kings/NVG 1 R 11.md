@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 11
+aliases : 
+- 1 Kings 11
+- 1 Rois 11
+- 1 R 11
+- 1 Kings 11
 tags : Bible/1R/11
 ---
 
-# Chapitre 11
+# 1 Kings 11
 
 ###### 1
 Rex autem Salomon amavit mulieres alienigenas multas, filiam quoque pharaonis et Moabitidas et Ammonitidas, Idumaeas et Sidonias et Hetthaeas, 

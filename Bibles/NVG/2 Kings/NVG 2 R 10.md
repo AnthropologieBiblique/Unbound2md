@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 10
+aliases : 
+- 2 Kings 10
+- 2 Rois 10
+- 2 R 10
+- 2 Kings 10
 tags : Bible/2R/10
 ---
 
-# Chapitre 10
+# 2 Kings 10
 
 ###### 1
 Erant autem Achab septuaginta filii in Samaria. Scripsit ergo Iehu litteras et misit in Samariam ad optimates civitatis et ad maiores natu et ad nutricios filiorum Achab dicens: 

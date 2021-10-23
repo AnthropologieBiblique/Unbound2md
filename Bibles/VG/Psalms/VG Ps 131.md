@@ -1,9 +1,13 @@
 ---
-aliases : Ps 132
+aliases : 
+- Psalms 131
+- Psaumes 132
+- Ps 132
+- Psalms 132
 tags : Bible/Ps/132
 ---
 
-# Chapitre 131
+# Psalms 131
 
 ###### 1
 Canticum graduum. Memento, Domine, David, et omnis mansuetudinis ejus ;

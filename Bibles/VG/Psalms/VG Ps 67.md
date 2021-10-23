@@ -1,9 +1,13 @@
 ---
-aliases : Ps 68
+aliases : 
+- Psalms 67
+- Psaumes 68
+- Ps 68
+- Psalms 68
 tags : Bible/Ps/68
 ---
 
-# Chapitre 67
+# Psalms 67
 
 ###### 1
 In finem. Psalmus cantici ipsi David.

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 11
+aliases : 
+- Ἰώβ 11
+- Job 11
+- Jb 11
 tags : Bible/Jb/11
 ---
 
-# Chapitre 11
+# Ἰώβ 11
 
 ###### 1
 ὑπολαβὼν δὲ σωφαρ ὁ μιναῖος λέγει

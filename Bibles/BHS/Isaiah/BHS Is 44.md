@@ -1,9 +1,13 @@
 ---
-aliases : Is 44
+aliases : 
+- Isaiah 44
+- Isaïe 44
+- Is 44
+- Isaiah 44
 tags : Bible/Is/44
 ---
 
-# Chapitre 44
+# Isaiah 44
 
 ###### 1
 וְעַתָּה שְׁמַע יַעֲקֹב עַבְדִּי וְיִשְׂרָאֵל בָּחַרְתִּי בֹו׃

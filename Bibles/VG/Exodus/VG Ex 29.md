@@ -1,9 +1,13 @@
 ---
-aliases : Ex 29
+aliases : 
+- Exodus 29
+- Exode 29
+- Ex 29
+- Exodus 29
 tags : Bible/Ex/29
 ---
 
-# Chapitre 29
+# Exodus 29
 
 ###### 1
 Sed et hoc facies, ut mihi in sacerdotio consecrentur. Tolle vitulum de armento, et arietes duos immaculatos,

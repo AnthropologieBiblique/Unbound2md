@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 7
+aliases : 
+- 1 Corinthians 7
+- 1 Corinthiens 7
+- 1 Co 7
+- 1 Corinthians 7
 tags : Bible/1Co/7
 ---
 
-# Chapitre 7
+# 1 Corinthians 7
 
 ###### 1
 De quibus autem scripsistis, bo num est homini mulierem non non tangere; 

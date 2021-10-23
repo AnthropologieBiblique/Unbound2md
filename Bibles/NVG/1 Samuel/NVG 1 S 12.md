@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 12
+aliases : 
+- 1 Samuel 12
+- 1 Samuel 12
+- 1 S 12
 tags : Bible/1S/12
 ---
 
-# Chapitre 12
+# 1 Samuel 12
 
 ###### 1
 Dixit autem Samuel ad universum Israel: “ Ecce audivi vocem vestram iuxta omnia, quae locuti estis ad me, et constitui super vos regem; 

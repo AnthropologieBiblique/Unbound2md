@@ -1,9 +1,13 @@
 ---
-aliases : Phm 1
+aliases : 
+- Philemon 1
+- Philémon 1
+- Phm 1
+- Philemon 1
 tags : Bible/Phm/1
 ---
 
-# Chapitre 1
+# Philemon 1
 
 ###### 1
 Paulus vinctus Christi Jesu, et Timotheus frater, Philemoni dilecto, et adjutori nostro,

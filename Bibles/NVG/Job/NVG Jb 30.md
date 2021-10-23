@@ -1,9 +1,12 @@
 ---
-aliases : Jb 30
+aliases : 
+- Job 30
+- Job 30
+- Jb 30
 tags : Bible/Jb/30
 ---
 
-# Chapitre 30
+# Job 30
 
 ###### 1
 Nunc autem derident me iuniores tempore, quorum non dignabar patres ponere cum canibus gregis mei;

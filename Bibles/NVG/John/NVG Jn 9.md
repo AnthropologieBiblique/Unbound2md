@@ -1,9 +1,13 @@
 ---
-aliases : Jn 9
+aliases : 
+- John 9
+- Jean 9
+- Jn 9
+- John 9
 tags : Bible/Jn/9
 ---
 
-# Chapitre 9
+# John 9
 
 ###### 1
 Et praeteriens vidit hominem caecum a nativitate. 

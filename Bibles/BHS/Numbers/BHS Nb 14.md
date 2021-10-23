@@ -1,9 +1,13 @@
 ---
-aliases : Nb 14
+aliases : 
+- Numbers 14
+- Nombres 14
+- Nb 14
+- Numbers 14
 tags : Bible/Nb/14
 ---
 
-# Chapitre 14
+# Numbers 14
 
 ###### 1
 וַתִּשָּׂא כָּל־הָעֵדָה וַיִּתְּנוּ אֶת־קֹולָם וַיִּבְכּוּ הָעָם בַּלַּיְלָה הַהוּא׃

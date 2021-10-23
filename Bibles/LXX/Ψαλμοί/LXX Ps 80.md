@@ -1,9 +1,13 @@
 ---
-aliases : Ps 81
+aliases : 
+- Ψαλμοί 80
+- Psaumes 81
+- Ps 81
+- Psalms 81
 tags : Bible/Ps/81
 ---
 
-# Chapitre 80
+# Ψαλμοί 80
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῶν ληνῶν τῷ ασαφ ψαλμός

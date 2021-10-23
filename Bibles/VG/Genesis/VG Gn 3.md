@@ -1,9 +1,13 @@
 ---
-aliases : Gn 3
+aliases : 
+- Genesis 3
+- Genèse 3
+- Gn 3
+- Genesis 3
 tags : Bible/Gn/3
 ---
 
-# Chapitre 3
+# Genesis 3
 
 ###### 1
 Sed et serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem : Cur præcepit vobis Deus ut non comederetis de omni ligno paradisi ?

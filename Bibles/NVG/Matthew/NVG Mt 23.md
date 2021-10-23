@@ -1,9 +1,13 @@
 ---
-aliases : Mt 23
+aliases : 
+- Matthew 23
+- Matthieu 23
+- Mt 23
+- Matthew 23
 tags : Bible/Mt/23
 ---
 
-# Chapitre 23
+# Matthew 23
 
 ###### 1
 Tunc Iesus locutus est ad turbas et ad discipulos suos 

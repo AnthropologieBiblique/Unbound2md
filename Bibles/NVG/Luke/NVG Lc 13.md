@@ -1,9 +1,13 @@
 ---
-aliases : Lc 13
+aliases : 
+- Luke 13
+- Luc 13
+- Lc 13
+- Luke 13
 tags : Bible/Lc/13
 ---
 
-# Chapitre 13
+# Luke 13
 
 ###### 1
 Aderant autem quidam ipso in tempore nuntiantes illi de Galilaeis, quorum sanguinem Pilatus miscuit cum sacrificiis eorum. 

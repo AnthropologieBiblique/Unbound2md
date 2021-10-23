@@ -1,9 +1,13 @@
 ---
-aliases : Nb 29
+aliases : 
+- Numbers 30
+- Nombres 29
+- Nb 29
+- Numbers 29
 tags : Bible/Nb/29
 ---
 
-# Chapitre 30
+# Numbers 30
 
 ###### 1
 וַיֹּאמֶר מֹשֶׁה אֶל־בְּנֵי יִשְׂרָאֵל כְּכֹל אֲשֶׁר־צִוָּה יְהוָה אֶת־מֹשֶׁה׃ ף

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 11
+aliases : 
+- Numbers 11
+- Nombres 11
+- Nb 11
+- Numbers 11
 tags : Bible/Nb/11
 ---
 
-# Chapitre 11
+# Numbers 11
 
 ###### 1
 Interea ortum est murmur populi, quasi dolentium pro labore, contra Dominum. Quod cum audisset Dominus, iratus est. Et accensus in eos ignis Domini, devoravit extremam castrorum partem.

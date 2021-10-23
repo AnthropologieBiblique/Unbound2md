@@ -1,9 +1,13 @@
 ---
-aliases : Dt 25
+aliases : 
+- Deuteronomy 25
+- Deutéronome 25
+- Dt 25
+- Deuteronomy 25
 tags : Bible/Dt/25
 ---
 
-# Chapitre 25
+# Deuteronomy 25
 
 ###### 1
 Si fuerit causa inter aliquos, et interpellaverint judices : quem justum esse perspexerint, illi justitiæ palmam dabunt : quem impium, condemnabunt impietatis.

@@ -1,9 +1,13 @@
 ---
-aliases : 2 Tm 2
+aliases : 
+- 2 Timothy 2
+- 2 Timothée 2
+- 2 Tm 2
+- 2 Timothy 2
 tags : Bible/2Tm/2
 ---
 
-# Chapitre 2
+# 2 Timothy 2
 
 ###### 1
 Tu ergo, fili mi, confortare in gratia, quae est in Christo Iesu; 

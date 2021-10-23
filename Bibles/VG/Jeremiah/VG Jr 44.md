@@ -1,9 +1,13 @@
 ---
-aliases : Jr 44
+aliases : 
+- Jeremiah 44
+- Jérémie 44
+- Jr 44
+- Jeremiah 44
 tags : Bible/Jr/44
 ---
 
-# Chapitre 44
+# Jeremiah 44
 
 ###### 1
 Verbum quod factum est per Jeremiam ad omnes Judæos qui habitabant in terra Ægypti, habitantes in Magdalo, et in Taphnis, et in Memphis, et in terra Phatures, dicens :

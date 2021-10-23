@@ -1,9 +1,13 @@
 ---
-aliases : Jos 20
+aliases : 
+- Joshua 20
+- Josué 20
+- Jos 20
+- Joshua 20
 tags : Bible/Jos/20
 ---
 
-# Chapitre 20
+# Joshua 20
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־יְהֹושֻׁעַ לֵאמֹר׃

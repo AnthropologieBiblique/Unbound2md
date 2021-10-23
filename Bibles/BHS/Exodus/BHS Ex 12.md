@@ -1,9 +1,13 @@
 ---
-aliases : Ex 12
+aliases : 
+- Exodus 12
+- Exode 12
+- Ex 12
+- Exodus 12
 tags : Bible/Ex/12
 ---
 
-# Chapitre 12
+# Exodus 12
 
 ###### 1
 וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן בְּאֶרֶץ מִצְרַיִם לֵאמֹר׃

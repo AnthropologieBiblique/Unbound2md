@@ -1,9 +1,13 @@
 ---
-aliases : Jos 21
+aliases : 
+- Joshua 21
+- Josué 21
+- Jos 21
+- Joshua 21
 tags : Bible/Jos/21
 ---
 
-# Chapitre 21
+# Joshua 21
 
 ###### 1
 Accesseruntque principes familiarum Levi ad Eleazarum sacerdotem, et Josue filium Nun, et ad duces cognationum per singulas tribus filiorum Israël :

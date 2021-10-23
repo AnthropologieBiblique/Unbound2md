@@ -1,9 +1,13 @@
 ---
-aliases : He 3
+aliases : 
+- Hebrews 3
+- Hébreux 3
+- He 3
+- Hebrews 3
 tags : Bible/He/3
 ---
 
-# Chapitre 3
+# Hebrews 3
 
 ###### 1
 Unde, fratres sancti, vocationis cælestis participes, considerate Apostolum, et pontificem confessionis nostræ Jesum :

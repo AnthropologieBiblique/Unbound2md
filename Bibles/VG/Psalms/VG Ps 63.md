@@ -1,9 +1,13 @@
 ---
-aliases : Ps 64
+aliases : 
+- Psalms 63
+- Psaumes 64
+- Ps 64
+- Psalms 64
 tags : Bible/Ps/64
 ---
 
-# Chapitre 63
+# Psalms 63
 
 ###### 1
 In finem. Psalmus David.

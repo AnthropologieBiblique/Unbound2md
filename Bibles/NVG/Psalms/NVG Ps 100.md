@@ -1,9 +1,13 @@
 ---
-aliases : Ps 100
+aliases : 
+- Psalms 100
+- Psaumes 100
+- Ps 100
+- Psalms 100
 tags : Bible/Ps/100
 ---
 
-# Chapitre 100
+# Psalms 100
 
 ###### 1
 PSALMUS. Ad gratiarum actionem.

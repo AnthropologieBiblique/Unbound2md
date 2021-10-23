@@ -1,9 +1,12 @@
 ---
-aliases : Jb 10
+aliases : 
+- Job 10
+- Job 10
+- Jb 10
 tags : Bible/Jb/10
 ---
 
-# Chapitre 10
+# Job 10
 
 ###### 1
 Tædet animam meam vitæ meæ ; dimittam adversum me eloquium meum, loquar in amaritudine animæ meæ.

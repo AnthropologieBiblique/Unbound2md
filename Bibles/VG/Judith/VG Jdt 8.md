@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 8
+aliases : 
+- Judith 8
+- Judith 8
+- Jdt 8
 tags : Bible/Jdt/8
 ---
 
-# Chapitre 8
+# Judith 8
 
 ###### 1
 Et factum est, cum audisset hæc verba Judith vidua, quæ erat filia Merari filii Idox filii Joseph filii Oziæ filii Elai filii Jamnor filii Gedeon filii Raphaim filii Achitob filii Melchiæ filii Enan filii Nathaniæ filii Salathiel filii Simeon filii Ruben,

@@ -1,9 +1,13 @@
 ---
-aliases : Is 14
+aliases : 
+- Isaiah 14
+- Isaïe 14
+- Is 14
+- Isaiah 14
 tags : Bible/Is/14
 ---
 
-# Chapitre 14
+# Isaiah 14
 
 ###### 1
 Miserebitur enim Dominus Iacob et eliget adhuc de Israel et requiescere eos faciet super humum suam; adiungetur advena ad eos et adhaerebit domui Iacob.

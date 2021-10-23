@@ -1,9 +1,13 @@
 ---
-aliases : Ps 24
+aliases : 
+- Psalms 24
+- Psaumes 24
+- Ps 24
+- Psalms 24
 tags : Bible/Ps/24
 ---
 
-# Chapitre 24
+# Psalms 24
 
 ###### 1
 David. PSALMUS. Domini est terra, et plenitudo eius, orbis terrarum, et qui habitant in eo.

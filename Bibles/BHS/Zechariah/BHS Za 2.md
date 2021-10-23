@@ -1,9 +1,13 @@
 ---
-aliases : Za 1
+aliases : 
+- Zechariah 2
+- Zacharie 1
+- Za 1
+- Zechariah 1
 tags : Bible/Za/1
 ---
 
-# Chapitre 2
+# Zechariah 2
 
 ###### 1
 וָאֶשָּׂא אֶת־עֵינַי וָאֵרֶא וְהִנֵּה אַרְבַּע קְרָנֹות׃

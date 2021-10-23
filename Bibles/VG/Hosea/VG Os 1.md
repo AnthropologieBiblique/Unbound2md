@@ -1,9 +1,13 @@
 ---
-aliases : Os 1
+aliases : 
+- Hosea 1
+- Osée 1
+- Os 1
+- Hosea 1
 tags : Bible/Os/1
 ---
 
-# Chapitre 1
+# Hosea 1
 
 ###### 1
 Verbum Domini, quod factum est ad Osee, filium Beeri, in diebus Oziæ, Joathan, Achaz, Ezechiæ, regum Juda ; et in diebus Jeroboam, filii Joas, regis Israël.

@@ -1,9 +1,13 @@
 ---
-aliases : Ac 10
+aliases : 
+- Acts of the Apostles 10
+- Actes 10
+- Ac 10
+- Acts of the Apostles 10
 tags : Bible/Ac/10
 ---
 
-# Chapitre 10
+# Acts of the Apostles 10
 
 ###### 1
 Vir autem quidam in Cae sarea nomine Cornelius, cen turio cohortis, quae dicitur Italica, 

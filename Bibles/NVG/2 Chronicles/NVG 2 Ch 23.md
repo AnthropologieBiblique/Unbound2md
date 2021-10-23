@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 23
+aliases : 
+- 2 Chronicles 23
+- 2 Chroniques 23
+- 2 Ch 23
+- 2 Chronicles 23
 tags : Bible/2Ch/23
 ---
 
-# Chapitre 23
+# 2 Chronicles 23
 
 ###### 1
 Anno autem septimo confor tatus Ioiada assumpsit centu riones, Azariam videlicet filium Ieroham et Ismael filium Iohanan, Azariam quoque filium Obed et Maasiam filium Adaiae et Elisaphat filium Zechri, et iniit cum eis foedus. 

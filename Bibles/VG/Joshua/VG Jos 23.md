@@ -1,9 +1,13 @@
 ---
-aliases : Jos 23
+aliases : 
+- Joshua 23
+- Josué 23
+- Jos 23
+- Joshua 23
 tags : Bible/Jos/23
 ---
 
-# Chapitre 23
+# Joshua 23
 
 ###### 1
 Evoluto autem multo tempore, postquam pacem dederat Dominus Israëli, subjectis in gyro nationibus universis, et Josue jam longævo, et persenilis ætatis,

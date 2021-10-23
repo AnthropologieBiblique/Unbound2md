@@ -1,9 +1,13 @@
 ---
-aliases : Ps 23
+aliases : 
+- Psalms 23
+- Psaumes 23
+- Ps 23
+- Psalms 23
 tags : Bible/Ps/23
 ---
 
-# Chapitre 23
+# Psalms 23
 
 ###### 1
 מִזְמֹור לְדָוִד יְהוָה רֹעִי לֹא אֶחְסָר׃

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 92
+aliases : 
+- Ψαλμοί 91
+- Psaumes 92
+- Ps 92
+- Psalms 92
 tags : Bible/Ps/92
 ---
 
-# Chapitre 91
+# Ψαλμοί 91
 
 ###### 1
 ψαλμὸς ᾠδῆς εἰς τὴν ἡμέραν τοῦ σαββάτου

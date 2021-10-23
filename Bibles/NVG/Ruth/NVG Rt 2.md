@@ -1,9 +1,12 @@
 ---
-aliases : Rt 2
+aliases : 
+- Ruth 2
+- Ruth 2
+- Rt 2
 tags : Bible/Rt/2
 ---
 
-# Chapitre 2
+# Ruth 2
 
 ###### 1
 Erat autem Noemi consangui neus viri sui homo potens et for tis nomine Booz. 

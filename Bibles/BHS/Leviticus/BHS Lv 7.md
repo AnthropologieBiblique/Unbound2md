@@ -1,9 +1,13 @@
 ---
-aliases : Lv 7
+aliases : 
+- Leviticus 7
+- Lévitique 7
+- Lv 7
+- Leviticus 7
 tags : Bible/Lv/7
 ---
 
-# Chapitre 7
+# Leviticus 7
 
 ###### 1
 וְזֹאת תֹּורַת הָאָשָׁם קֹדֶשׁ קָדָשִׁים הוּא׃

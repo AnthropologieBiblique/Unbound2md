@@ -1,9 +1,13 @@
 ---
-aliases : Sg 9
+aliases : 
+- Wisdom of Solomon 9
+- Sagesse 9
+- Sg 9
+- Wisdom of Solomon 9
 tags : Bible/Sg/9
 ---
 
-# Chapitre 9
+# Wisdom of Solomon 9
 
 ###### 1
 “ Deus patrum meorum et Domine misericordiae, qui fecisti omnia verbo tuo

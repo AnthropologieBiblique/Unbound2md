@@ -1,9 +1,13 @@
 ---
-aliases : Ps 69
+aliases : 
+- Psalms 69
+- Psaumes 69
+- Ps 69
+- Psalms 69
 tags : Bible/Ps/69
 ---
 
-# Chapitre 69
+# Psalms 69
 
 ###### 1
 Magistro chori. Secundum " Lilia... ". David.

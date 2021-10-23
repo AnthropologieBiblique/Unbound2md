@@ -1,9 +1,12 @@
 ---
-aliases : Lm 4
+aliases : 
+- Lamentations 4
+- Lamentations 4
+- Lm 4
 tags : Bible/Lm/4
 ---
 
-# Chapitre 4
+# Lamentations 4
 
 ###### 1
 אֵיכָה יוּעַם זָהָב יִשְׁנֶא הַכֶּתֶם הַטֹּוב תִּשְׁתַּפֵּכְנָה אַבְנֵי־קֹדֶשׁ בְּרֹאשׁ כָּל־חוּצֹות׃ ס

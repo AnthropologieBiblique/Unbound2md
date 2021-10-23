@@ -1,9 +1,13 @@
 ---
-aliases : Ps 130
+aliases : 
+- Psalms 130
+- Psaumes 130
+- Ps 130
+- Psalms 130
 tags : Bible/Ps/130
 ---
 
-# Chapitre 130
+# Psalms 130
 
 ###### 1
 שִׁיר הַמַּעֲלֹות מִמַּעֲמַקִּים קְרָאתִיךָ יְהוָה׃

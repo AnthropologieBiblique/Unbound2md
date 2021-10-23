@@ -1,9 +1,13 @@
 ---
-aliases : Ps 52
+aliases : 
+- Psalms 52
+- Psaumes 52
+- Ps 52
+- Psalms 52
 tags : Bible/Ps/52
 ---
 
-# Chapitre 52
+# Psalms 52
 
 ###### 1
 Magistro chori. Maskil. David,

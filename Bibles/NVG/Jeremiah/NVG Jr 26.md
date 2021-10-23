@@ -1,9 +1,13 @@
 ---
-aliases : Jr 26
+aliases : 
+- Jeremiah 26
+- Jérémie 26
+- Jr 26
+- Jeremiah 26
 tags : Bible/Jr/26
 ---
 
-# Chapitre 26
+# Jeremiah 26
 
 ###### 1
 In principio regni Ioachim filii Iosiae regis Iudae factum est verbum istud a Domino dicens: 

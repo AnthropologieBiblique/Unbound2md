@@ -1,9 +1,13 @@
 ---
-aliases : 2 Th 1
+aliases : 
+- 2 Thessalonians 1
+- 2 Thessaloniciens 1
+- 2 Th 1
+- 2 Thessalonians 1
 tags : Bible/2Th/1
 ---
 
-# Chapitre 1
+# 2 Thessalonians 1
 
 ###### 1
 Paulus et Silvanus et Timo theus ecclesiae Thessalonicen sium in Deo Patre nostro et Domino Iesu Christo: 

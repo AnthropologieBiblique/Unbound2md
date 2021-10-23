@@ -1,9 +1,12 @@
 ---
-aliases : Jb 35
+aliases : 
+- Ἰώβ 35
+- Job 35
+- Jb 35
 tags : Bible/Jb/35
 ---
 
-# Chapitre 35
+# Ἰώβ 35
 
 ###### 1
 ὑπολαβὼν δὲ ελιους λέγει

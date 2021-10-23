@@ -1,9 +1,13 @@
 ---
-aliases : Rm 1
+aliases : 
+- Romans 1
+- Romains 1
+- Rm 1
+- Romans 1
 tags : Bible/Rm/1
 ---
 
-# Chapitre 1
+# Romans 1
 
 ###### 1
 Paulus, servus Jesu Christi, vocatus Apostolus, segregatus in Evangelium Dei,

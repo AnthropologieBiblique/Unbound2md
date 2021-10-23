@@ -1,9 +1,13 @@
 ---
-aliases : Mc 9
+aliases : 
+- Mark 9
+- Marc 9
+- Mc 9
+- Mark 9
 tags : Bible/Mc/9
 ---
 
-# Chapitre 9
+# Mark 9
 
 ###### 1
 Et post dies sex assumit Jesus Petrum, et Jacobum, et Joannem, et ducit illos in montem excelsum seorsum solos, et transfiguratus est coram ipsis.

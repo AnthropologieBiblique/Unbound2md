@@ -1,9 +1,13 @@
 ---
-aliases : Lv 15
+aliases : 
+- Λευϊτικόν 15
+- Lévitique 15
+- Lv 15
+- Leviticus 15
 tags : Bible/Lv/15
 ---
 
-# Chapitre 15
+# Λευϊτικόν 15
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν καὶ ααρων λέγων

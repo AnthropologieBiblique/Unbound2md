@@ -1,9 +1,13 @@
 ---
-aliases : Pr 2
+aliases : 
+- Proverbs 2
+- Proverbes 2
+- Pr 2
+- Proverbs 2
 tags : Bible/Pr/2
 ---
 
-# Chapitre 2
+# Proverbs 2
 
 ###### 1
 Fili mi, si susceperis sermones meos et mandata mea absconderis penes te,

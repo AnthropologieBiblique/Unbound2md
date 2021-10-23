@@ -1,9 +1,13 @@
 ---
-aliases : 2 Jn 1
+aliases : 
+- 2 John 1
+- 2 Jean 1
+- 2 Jn 1
+- 2 John 1
 tags : Bible/2Jn/1
 ---
 
-# Chapitre 1
+# 2 John 1
 
 ###### 1
 Presbyter electae dominae et filiis eius, quos ego diligo in veritate, et non ego solus, sed et omnes, qui noverunt veritatem, 

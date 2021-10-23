@@ -1,9 +1,13 @@
 ---
-aliases : Lc 16
+aliases : 
+- Luke 16
+- Luc 16
+- Lc 16
+- Luke 16
 tags : Bible/Lc/16
 ---
 
-# Chapitre 16
+# Luke 16
 
 ###### 1
 Dicebat autem et ad disci pulos: “ Homo quidam erat dives, qui habebat vilicum, et hic diffamatus est apud illum quasi dissipasset bona ipsius. 

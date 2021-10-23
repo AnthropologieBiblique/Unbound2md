@@ -1,9 +1,13 @@
 ---
-aliases : Jos 15
+aliases : 
+- Joshua 15
+- Josué 15
+- Jos 15
+- Joshua 15
 tags : Bible/Jos/15
 ---
 
-# Chapitre 15
+# Joshua 15
 
 ###### 1
 Igitur sors filiorum Judæ per cognationes suas ista fuit : a termino Edom, desertum Sin, contra meridiem, et usque ad extremam partem australis plagæ.

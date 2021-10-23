@@ -1,9 +1,13 @@
 ---
-aliases : Is 60
+aliases : 
+- Isaiah 60
+- Isaïe 60
+- Is 60
+- Isaiah 60
 tags : Bible/Is/60
 ---
 
-# Chapitre 60
+# Isaiah 60
 
 ###### 1
 קוּמִי אֹורִי כִּי בָא אֹורֵךְ וּכְבֹוד יְהוָה עָלַיִךְ זָרָח׃

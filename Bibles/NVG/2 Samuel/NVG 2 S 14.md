@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 14
+aliases : 
+- 2 Samuel 14
+- 2 Samuel 14
+- 2 S 14
 tags : Bible/2S/14
 ---
 
-# Chapitre 14
+# 2 Samuel 14
 
 ###### 1
 Intellegens autem Ioab filius Sarviae quod cor regis ver sum esset ad Absalom, 

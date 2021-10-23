@@ -1,9 +1,13 @@
 ---
-aliases : Dt 6
+aliases : 
+- Deuteronomy 6
+- Deutéronome 6
+- Dt 6
+- Deuteronomy 6
 tags : Bible/Dt/6
 ---
 
-# Chapitre 6
+# Deuteronomy 6
 
 ###### 1
 Hæc sunt præcepta, et cæremoniæ, atque judicia, quæ mandavit Dominus Deus vester ut docerem vos, et faciatis ea in terra, ad quam transgredimini possidendam :

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 55
+aliases : 
+- Psalms 54
+- Psaumes 55
+- Ps 55
+- Psalms 55
 tags : Bible/Ps/55
 ---
 
-# Chapitre 54
+# Psalms 54
 
 ###### 1
 In finem, in carminibus. Intellectus David.

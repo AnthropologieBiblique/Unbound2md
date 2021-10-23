@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 6
+aliases : 
+- 1 Kings 6
+- 1 Rois 6
+- 1 R 6
+- 1 Kings 6
 tags : Bible/1R/6
 ---
 
-# Chapitre 6
+# 1 Kings 6
 
 ###### 1
 Factum est ergo quadringentesimo et octogesimo anno egressionis filiorum Israël de terra Ægypti, in anno quarto, mense Zio (ipse est mensis secundus), regni Salomonis super Israël, ædificari cœpit domus Domino.

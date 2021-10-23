@@ -1,9 +1,12 @@
 ---
-aliases : Od 8
+aliases : 
+- Ὠδαί 8
+- Odes 8
+- Od 8
 tags : Bible/Od/8
 ---
 
-# Chapitre 8
+# Ὠδαί 8
 
 ###### 1a
 ὕμνος τῶν τριῶν παίδων

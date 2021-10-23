@@ -1,9 +1,12 @@
 ---
-aliases : Jb 28
+aliases : 
+- Job 28
+- Job 28
+- Jb 28
 tags : Bible/Jb/28
 ---
 
-# Chapitre 28
+# Job 28
 
 ###### 1
 כִּי יֵשׁ לַכֶּסֶף מֹוצָא וּמָקֹום לַזָּהָב יָזֹקּוּ׃

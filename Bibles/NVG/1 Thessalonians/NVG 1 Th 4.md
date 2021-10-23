@@ -1,9 +1,13 @@
 ---
-aliases : 1 Th 4
+aliases : 
+- 1 Thessalonians 4
+- 1 Thessaloniciens 4
+- 1 Th 4
+- 1 Thessalonians 4
 tags : Bible/1Th/4
 ---
 
-# Chapitre 4
+# 1 Thessalonians 4
 
 ###### 1
 De cetero ergo, fratres, rogamus vos et obsecramus in Domino Iesu, ut — quemadmodum accepistis a nobis quomodo vos oporteat ambulare et placere Deo, sicut et ambulatis — ut abundetis magis. 

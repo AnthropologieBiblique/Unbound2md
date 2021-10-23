@@ -1,9 +1,13 @@
 ---
-aliases : Si 50
+aliases : 
+- Ecclesiasticus (Sira 50
+- Siracide 50
+- Si 50
+- Ecclesiasticus (Sira 50
 tags : Bible/Si/50
 ---
 
-# Chapitre 50
+# Ecclesiasticus (Sira 50
 
 ###### 1
 Simon, Oniæ filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.

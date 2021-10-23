@@ -1,9 +1,13 @@
 ---
-aliases : Si 48
+aliases : 
+- Ecclesiasticus (Sira 48
+- Siracide 48
+- Si 48
+- Ecclesiasticus (Sira 48
 tags : Bible/Si/48
 ---
 
-# Chapitre 48
+# Ecclesiasticus (Sira 48
 
 ###### 1
 Et surrexit Elias propheta quasi ignis, et verbum ipsius quasi facula ardebat.

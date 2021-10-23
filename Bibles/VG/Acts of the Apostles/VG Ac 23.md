@@ -1,9 +1,13 @@
 ---
-aliases : Ac 23
+aliases : 
+- Acts of the Apostles 23
+- Actes 23
+- Ac 23
+- Acts of the Apostles 23
 tags : Bible/Ac/23
 ---
 
-# Chapitre 23
+# Acts of the Apostles 23
 
 ###### 1
 Intendens autem in concilium Paulus ait : Viri fratres, ego omni conscientia bona conversatus sum ante Deum usque in hodiernum diem.

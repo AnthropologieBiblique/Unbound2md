@@ -1,9 +1,13 @@
 ---
-aliases : Tb 7
+aliases : 
+- Tobit 7
+- Tobie 7
+- Tb 7
+- Tobit 7
 tags : Bible/Tb/7
 ---
 
-# Chapitre 7
+# Tobit 7
 
 ###### 1
 Et cum venisset in Ecbatana, dixit illi: “ Azaria frater, duc me ad Raguel, fratrem nostrum, viam rectam ”. Et duxit eum ad domum Raguel, et invenerunt illum sedentem circa ostium atrii sui et salutaverunt illum priores. Et ille dixit eis: “ Bene valeatis, fratres, intrate salvi et sani ”. Et induxit eos in domum suam. 

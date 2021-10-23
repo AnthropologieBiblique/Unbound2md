@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 6
+aliases : 
+- Judith 6
+- Judith 6
+- Jdt 6
 tags : Bible/Jdt/6
 ---
 
-# Chapitre 6
+# Judith 6
 
 ###### 1
 Et, cum cessasset tumultus viro rum, qui erant in circuitu conci lii, dixit Holofernes princeps militiae virtutis Assyriae ad Achior coram omni populo alienigenarum et ad omnes filios Moab: 

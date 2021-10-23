@@ -1,9 +1,13 @@
 ---
-aliases : Ps 40
+aliases : 
+- Ψαλμοί 39
+- Psaumes 40
+- Ps 40
+- Psalms 40
 tags : Bible/Ps/40
 ---
 
-# Chapitre 39
+# Ψαλμοί 39
 
 ###### 1
 εἰς τὸ τέλος τῷ δαυιδ ψαλμός

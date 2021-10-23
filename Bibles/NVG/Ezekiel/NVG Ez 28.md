@@ -1,9 +1,13 @@
 ---
-aliases : Ez 28
+aliases : 
+- Ezekiel 28
+- Ézéchiel 28
+- Ez 28
+- Ezekiel 28
 tags : Bible/Ez/28
 ---
 
-# Chapitre 28
+# Ezekiel 28
 
 ###### 1
 Et factus est sermo Domini ad me dicens: 

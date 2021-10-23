@@ -1,9 +1,13 @@
 ---
-aliases : Jn 15
+aliases : 
+- John 15
+- Jean 15
+- Jn 15
+- John 15
 tags : Bible/Jn/15
 ---
 
-# Chapitre 15
+# John 15
 
 ###### 1
 Ego sum vitis vera, et Pater meus agricola est.

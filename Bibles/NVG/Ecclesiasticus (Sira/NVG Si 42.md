@@ -1,9 +1,13 @@
 ---
-aliases : Si 42
+aliases : 
+- Ecclesiasticus (Sira 42
+- Siracide 42
+- Si 42
+- Ecclesiasticus (Sira 42
 tags : Bible/Si/42
 ---
 
-# Chapitre 42
+# Ecclesiasticus (Sira 42
 
 ###### 1
 et ab iteratione sermonis auditus et a revelatione sermonis absconditi. Et eris vere sine confusione et invenies gratiam in conspectu omnium hominum. Ne pro his omnibus confundaris, ne accipias personam, ut delinquas:

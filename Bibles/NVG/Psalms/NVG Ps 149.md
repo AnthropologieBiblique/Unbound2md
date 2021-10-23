@@ -1,9 +1,13 @@
 ---
-aliases : Ps 149
+aliases : 
+- Psalms 149
+- Psaumes 149
+- Ps 149
+- Psalms 149
 tags : Bible/Ps/149
 ---
 
-# Chapitre 149
+# Psalms 149
 
 ###### 1
 ALLELUIA. Cantate Domino canticum novum; laus eius in ecclesia sanctorum.

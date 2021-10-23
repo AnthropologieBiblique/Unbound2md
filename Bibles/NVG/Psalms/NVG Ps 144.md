@@ -1,9 +1,13 @@
 ---
-aliases : Ps 144
+aliases : 
+- Psalms 144
+- Psaumes 144
+- Ps 144
+- Psalms 144
 tags : Bible/Ps/144
 ---
 
-# Chapitre 144
+# Psalms 144
 
 ###### 1
 David. Benedictus Dominus, adiutor meus, qui docet manus meas ad proelium et digitos meos ad bellum.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 40
+aliases : 
+- Psalms 39
+- Psaumes 40
+- Ps 40
+- Psalms 40
 tags : Bible/Ps/40
 ---
 
-# Chapitre 39
+# Psalms 39
 
 ###### 1
 In finem. Psalmus ipsi David.

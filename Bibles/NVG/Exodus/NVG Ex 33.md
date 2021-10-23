@@ -1,9 +1,13 @@
 ---
-aliases : Ex 33
+aliases : 
+- Exodus 33
+- Exode 33
+- Ex 33
+- Exodus 33
 tags : Bible/Ex/33
 ---
 
-# Chapitre 33
+# Exodus 33
 
 ###### 1
 Locutusque est Dominus ad Moysen: “ Vade, ascende de loco isto, tu et populus tuus, quem eduxisti de terra Aegypti, in terram, quam iuravi Abraham, Isaac et Iacob dicens: Semini tuo dabo eam. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 93
+aliases : 
+- Psalms 93
+- Psaumes 93
+- Ps 93
+- Psalms 93
 tags : Bible/Ps/93
 ---
 
-# Chapitre 93
+# Psalms 93
 
 ###### 1
 יְהוָה מָלָךְ גֵּאוּת לָבֵשׁ לָבֵשׁ יְהוָה עֹז הִתְאַזָּר אַף־תִּכֹּון תֵּבֵל בַּל־תִּמֹּוט׃

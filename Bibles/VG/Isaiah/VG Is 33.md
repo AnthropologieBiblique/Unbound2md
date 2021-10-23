@@ -1,9 +1,13 @@
 ---
-aliases : Is 33
+aliases : 
+- Isaiah 33
+- Isaïe 33
+- Is 33
+- Isaiah 33
 tags : Bible/Is/33
 ---
 
-# Chapitre 33
+# Isaiah 33
 
 ###### 1
 Væ qui prædaris ! nonne et ipse prædaberis ? et qui spernis, nonne et ipse sperneris ? Cum consummaveris deprædationem, deprædaberis ; cum fatigatus desieris contemnere, contemneris.

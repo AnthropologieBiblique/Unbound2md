@@ -1,9 +1,13 @@
 ---
-aliases : Ps 55
+aliases : 
+- Psalms 55
+- Psaumes 55
+- Ps 55
+- Psalms 55
 tags : Bible/Ps/55
 ---
 
-# Chapitre 55
+# Psalms 55
 
 ###### 1
 Magistro chori. Fidibus. Maskil. David.

@@ -1,9 +1,13 @@
 ---
-aliases : Mt 15
+aliases : 
+- Matthew 15
+- Matthieu 15
+- Mt 15
+- Matthew 15
 tags : Bible/Mt/15
 ---
 
-# Chapitre 15
+# Matthew 15
 
 ###### 1
 Tunc accedunt ad Iesum ab Hierosolymis pharisaei et scribae dicentes: 

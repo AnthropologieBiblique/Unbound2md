@@ -1,9 +1,13 @@
 ---
-aliases : Esd 5
+aliases : 
+- Ezra 5
+- Esdras 5
+- Esd 5
+- Ezra 5
 tags : Bible/Esd/5
 ---
 
-# Chapitre 5
+# Ezra 5
 
 ###### 1
 Prophetae autem Aggaeus et Zacharias filius Addo propheta verunt ad Iudaeos, qui erant in Iudaea et Ierusalem, in nomine Dei Israel, quod erat super eos. 

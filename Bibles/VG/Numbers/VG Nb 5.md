@@ -1,9 +1,13 @@
 ---
-aliases : Nb 5
+aliases : 
+- Numbers 5
+- Nombres 5
+- Nb 5
+- Numbers 5
 tags : Bible/Nb/5
 ---
 
-# Chapitre 5
+# Numbers 5
 
 ###### 1
 Locutusque est Dominus ad Moysen, dicens :

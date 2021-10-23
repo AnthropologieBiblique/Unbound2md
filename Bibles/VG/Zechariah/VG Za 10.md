@@ -1,9 +1,13 @@
 ---
-aliases : Za 10
+aliases : 
+- Zechariah 10
+- Zacharie 10
+- Za 10
+- Zechariah 10
 tags : Bible/Za/10
 ---
 
-# Chapitre 10
+# Zechariah 10
 
 ###### 1
 Petite a Domino pluviam in tempore serotino, et Dominus faciet nives : et pluviam imbris dabit eis, singulis herbam in agro.

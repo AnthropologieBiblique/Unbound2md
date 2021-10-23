@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 16
+aliases : 
+- 1 Maccabees 16
+- 1 Maccabees 16
+- 1 M 16
 tags : Bible/1M/16
 ---
 
-# Chapitre 16
+# 1 Maccabees 16
 
 ###### 1
 Et ascendit Ioannes de Ga zaris et nuntiavit Simoni pa tri suo, quae fecit Cendebaeus. 

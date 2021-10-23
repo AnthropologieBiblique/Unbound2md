@@ -1,9 +1,13 @@
 ---
-aliases : Jos 22
+aliases : 
+- Joshua 22
+- Josué 22
+- Jos 22
+- Joshua 22
 tags : Bible/Jos/22
 ---
 
-# Chapitre 22
+# Joshua 22
 
 ###### 1
 אָז יִקְרָא יְהֹושֻׁעַ לָראוּבֵנִי וְלַגָּדִי וְלַחֲצִי מַטֵּה מְנַשֶּׁה׃

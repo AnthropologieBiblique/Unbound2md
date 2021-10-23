@@ -1,9 +1,13 @@
 ---
-aliases : Ct 3
+aliases : 
+- Song of Solomon 3
+- Cantique des cantiques 3
+- Ct 3
+- Song of Solomon 3
 tags : Bible/Ct/3
 ---
 
-# Chapitre 3
+# Song of Solomon 3
 
 ###### 1
 In lectulo meo, per noctes, quæsivi quem diligit anima mea : quæsivi illum, et non inveni.

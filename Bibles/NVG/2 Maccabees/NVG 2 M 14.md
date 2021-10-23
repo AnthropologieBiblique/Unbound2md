@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 14
+aliases : 
+- 2 Maccabees 14
+- 2 Maccabees 14
+- 2 M 14
 tags : Bible/2M/14
 ---
 
-# Chapitre 14
+# 2 Maccabees 14
 
 ###### 1
 Sed post triennii tempus co gnoverunt, qui cum Iuda erant, Demetrium Seleuci per portum apud Tripolim adnavigantem cum multitudine valida et navibus, 

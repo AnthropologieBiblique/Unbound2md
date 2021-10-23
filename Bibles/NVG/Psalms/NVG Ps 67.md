@@ -1,9 +1,13 @@
 ---
-aliases : Ps 67
+aliases : 
+- Psalms 67
+- Psaumes 67
+- Ps 67
+- Psalms 67
 tags : Bible/Ps/67
 ---
 
-# Chapitre 67
+# Psalms 67
 
 ###### 1
 Magistro chori. Fidibus. PSALMUS. Canticum.

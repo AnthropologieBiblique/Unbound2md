@@ -1,9 +1,13 @@
 ---
-aliases : Dt 7
+aliases : 
+- Deuteronomy 7
+- Deutéronome 7
+- Dt 7
+- Deuteronomy 7
 tags : Bible/Dt/7
 ---
 
-# Chapitre 7
+# Deuteronomy 7
 
 ###### 1
 Cum introduxerit te Dominus Deus tuus in terram, quam pos sessurus ingredieris, et deleverit gentes multas coram te, Hetthaeum et Gergesaeum et Amorraeum, Chananaeum et Pherezaeum et Hevaeum et Iebusaeum, septem gentes multo maioris numeri quam tu es et robustiores te, 

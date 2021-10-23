@@ -1,9 +1,13 @@
 ---
-aliases : Jg 2
+aliases : 
+- Judges 2
+- Juges 2
+- Jg 2
+- Judges 2
 tags : Bible/Jg/2
 ---
 
-# Chapitre 2
+# Judges 2
 
 ###### 1
 Ascenditque angelus Domini de Galgalis ad Locum flentium, et ait : Eduxi vos de Ægypto, et introduxi in terram, pro qua juravi patribus vestris : et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum :

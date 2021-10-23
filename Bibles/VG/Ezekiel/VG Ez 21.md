@@ -1,9 +1,13 @@
 ---
-aliases : Ez 21
+aliases : 
+- Ezekiel 21
+- Ézéchiel 21
+- Ez 21
+- Ezekiel 21
 tags : Bible/Ez/21
 ---
 
-# Chapitre 21
+# Ezekiel 21
 
 ###### 1
 Et factus est sermo Domini ad me, dicens :

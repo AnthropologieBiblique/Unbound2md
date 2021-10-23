@@ -1,9 +1,12 @@
 ---
-aliases : Jb 24
+aliases : 
+- Job 24
+- Job 24
+- Jb 24
 tags : Bible/Jb/24
 ---
 
-# Chapitre 24
+# Job 24
 
 ###### 1
 Cur ab Omnipotente non sunt abscondita tempora, qui autem noverunt eum, ignorant dies illius?

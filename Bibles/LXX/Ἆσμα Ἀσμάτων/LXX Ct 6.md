@@ -1,9 +1,13 @@
 ---
-aliases : Ct 6
+aliases : 
+- Ἆσμα Ἀσμάτων 6
+- Cantique des cantiques 6
+- Ct 6
+- Song of Solomon 6
 tags : Bible/Ct/6
 ---
 
-# Chapitre 6
+# Ἆσμα Ἀσμάτων 6
 
 ###### 1
 ποῦ ἀπῆλθεν ὁ ἀδελφιδός σου ἡ καλὴ ἐν γυναιξίν ποῦ ἀπέβλεψεν ὁ ἀδελφιδός σου καὶ ζητήσομεν αὐτὸν μετὰ σοῦ

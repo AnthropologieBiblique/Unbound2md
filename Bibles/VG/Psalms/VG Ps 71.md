@@ -1,9 +1,13 @@
 ---
-aliases : Ps 72
+aliases : 
+- Psalms 71
+- Psaumes 72
+- Ps 72
+- Psalms 72
 tags : Bible/Ps/72
 ---
 
-# Chapitre 71
+# Psalms 71
 
 ###### 1
 Psalmus, in Salomonem.

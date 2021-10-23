@@ -1,9 +1,13 @@
 ---
-aliases : Ct 7
+aliases : 
+- Song of Solomon 7
+- Cantique des cantiques 7
+- Ct 7
+- Song of Solomon 7
 tags : Bible/Ct/7
 ---
 
-# Chapitre 7
+# Song of Solomon 7
 
 ###### 1
 SPONSA. Quid videbis in Sulamite, nisi choros castrorum ? CHORUS. Quam pulchri sunt gressus tui in calceamentis, filia principis ! Juncturæ femorum tuorum sicut monilia quæ fabricata sunt manu artificis.

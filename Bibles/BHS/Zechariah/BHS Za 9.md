@@ -1,9 +1,13 @@
 ---
-aliases : Za 9
+aliases : 
+- Zechariah 9
+- Zacharie 9
+- Za 9
+- Zechariah 9
 tags : Bible/Za/9
 ---
 
-# Chapitre 9
+# Zechariah 9
 
 ###### 1
 מַשָּׂא דְבַר־יְהוָה בְּאֶרֶץ חַדְרָךְ וְדַמֶּשֶׂק מְנֻחָתֹו כִּי לַיהוָה עֵין אָדָם וְכֹל שִׁבְטֵי יִשְׂרָאֵל׃

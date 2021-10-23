@@ -1,9 +1,13 @@
 ---
-aliases : Gn 39
+aliases : 
+- Genesis 39
+- Genèse 39
+- Gn 39
+- Genesis 39
 tags : Bible/Gn/39
 ---
 
-# Chapitre 39
+# Genesis 39
 
 ###### 1
 Igitur Joseph ductus est in Ægyptum, emitque eum Putiphar eunuchus Pharaonis, princeps exercitus, vir ægyptius, de manu Ismaëlitarum, a quibus perductus erat.

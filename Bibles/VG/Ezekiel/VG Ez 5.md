@@ -1,9 +1,13 @@
 ---
-aliases : Ez 5
+aliases : 
+- Ezekiel 5
+- Ézéchiel 5
+- Ez 5
+- Ezekiel 5
 tags : Bible/Ez/5
 ---
 
-# Chapitre 5
+# Ezekiel 5
 
 ###### 1
 Et tu, fili hominis, sume tibi gladium acutum, radentem pilos, et assumes eum et duces per caput tuum et per barbam tuam, et assumes tibi stateram ponderis et divides eos.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 78
+aliases : 
+- Psalms 77
+- Psaumes 78
+- Ps 78
+- Psalms 78
 tags : Bible/Ps/78
 ---
 
-# Chapitre 77
+# Psalms 77
 
 ###### 1
 Intellectus Asaph. Attendite, popule meus, legem meam ; inclinate aurem vestram in verba oris mei.

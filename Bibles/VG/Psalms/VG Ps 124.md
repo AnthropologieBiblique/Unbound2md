@@ -1,9 +1,13 @@
 ---
-aliases : Ps 125
+aliases : 
+- Psalms 124
+- Psaumes 125
+- Ps 125
+- Psalms 125
 tags : Bible/Ps/125
 ---
 
-# Chapitre 124
+# Psalms 124
 
 ###### 1
 Canticum graduum. Qui confidunt in Domino, sicut mons Sion : non commovebitur in æternum, qui habitat

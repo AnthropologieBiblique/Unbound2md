@@ -1,9 +1,13 @@
 ---
-aliases : Ps 53
+aliases : 
+- Ψαλμοί 52
+- Psaumes 53
+- Ps 53
+- Psalms 53
 tags : Bible/Ps/53
 ---
 
-# Chapitre 52
+# Ψαλμοί 52
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ μαελεθ συνέσεως τῷ δαυιδ

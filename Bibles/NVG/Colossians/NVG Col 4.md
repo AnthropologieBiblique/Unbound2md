@@ -1,9 +1,13 @@
 ---
-aliases : Col 4
+aliases : 
+- Colossians 4
+- Colossiens 4
+- Col 4
+- Colossians 4
 tags : Bible/Col/4
 ---
 
-# Chapitre 4
+# Colossians 4
 
 ###### 1
 Domini, quod iustum est et aequum, servis praestate, scien tes quoniam et vos Dominum habetis in caelo.

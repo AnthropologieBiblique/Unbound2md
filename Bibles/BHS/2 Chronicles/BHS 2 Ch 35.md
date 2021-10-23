@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 35
+aliases : 
+- 2 Chronicles 35
+- 2 Chroniques 35
+- 2 Ch 35
+- 2 Chronicles 35
 tags : Bible/2Ch/35
 ---
 
-# Chapitre 35
+# 2 Chronicles 35
 
 ###### 1
 וַיַּעַשׂ יֹאשִׁיָּהוּ בִירוּשָׁלִַם פֶּסַח לַיהוָה וַיִּשְׁחֲטוּ הַפֶּסַח בְּאַרְבָּעָה עָשָׂר לַחֹדֶשׁ הָרִאשֹׁון׃

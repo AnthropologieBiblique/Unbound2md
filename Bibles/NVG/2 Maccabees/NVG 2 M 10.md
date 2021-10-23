@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 10
+aliases : 
+- 2 Maccabees 10
+- 2 Maccabees 10
+- 2 M 10
 tags : Bible/2M/10
 ---
 
-# Chapitre 10
+# 2 Maccabees 10
 
 ###### 1
 Maccabaeus autem et, qui cum eo erant, Domino eos praeeunte, templum quidem et civitatem receperunt; 

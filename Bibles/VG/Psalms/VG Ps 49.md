@@ -1,9 +1,13 @@
 ---
-aliases : Ps 50
+aliases : 
+- Psalms 49
+- Psaumes 50
+- Ps 50
+- Psalms 50
 tags : Bible/Ps/50
 ---
 
-# Chapitre 49
+# Psalms 49
 
 ###### 1
 Psalmus Asaph. Deus deorum, Dominus, locutus est, et vocavit terram a solis ortu usque ad occasum.

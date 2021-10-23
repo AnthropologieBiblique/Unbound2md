@@ -1,9 +1,13 @@
 ---
-aliases : Ps 123
+aliases : 
+- Psalms 123
+- Psaumes 123
+- Ps 123
+- Psalms 123
 tags : Bible/Ps/123
 ---
 
-# Chapitre 123
+# Psalms 123
 
 ###### 1
 שִׁיר הַמַּעֲלֹות אֵלֶיךָ נָשָׂאתִי אֶת־עֵינַי הַיֹּשְׁבִי בַּשָּׁמָיִם׃

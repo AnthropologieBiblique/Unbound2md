@@ -1,9 +1,13 @@
 ---
-aliases : Ps 122
+aliases : 
+- Psalms 122
+- Psaumes 122
+- Ps 122
+- Psalms 122
 tags : Bible/Ps/122
 ---
 
-# Chapitre 122
+# Psalms 122
 
 ###### 1
 שִׁיר הַמַּעֲלֹות לְדָוִד שָׂמַחְתִּי בְּאֹמְרִים לִי בֵּית יְהוָה נֵלֵךְ׃

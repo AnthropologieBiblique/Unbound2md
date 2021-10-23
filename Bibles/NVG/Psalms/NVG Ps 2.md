@@ -1,9 +1,13 @@
 ---
-aliases : Ps 2
+aliases : 
+- Psalms 2
+- Psaumes 2
+- Ps 2
+- Psalms 2
 tags : Bible/Ps/2
 ---
 
-# Chapitre 2
+# Psalms 2
 
 ###### 1
 Quare fremuerunt gentes, et populi meditati sunt inania?

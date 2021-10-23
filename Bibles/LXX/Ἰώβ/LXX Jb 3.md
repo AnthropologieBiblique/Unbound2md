@@ -1,9 +1,12 @@
 ---
-aliases : Jb 3
+aliases : 
+- Ἰώβ 3
+- Job 3
+- Jb 3
 tags : Bible/Jb/3
 ---
 
-# Chapitre 3
+# Ἰώβ 3
 
 ###### 1
 μετὰ τοῦτο ἤνοιξεν ιωβ τὸ στόμα αὐτοῦ

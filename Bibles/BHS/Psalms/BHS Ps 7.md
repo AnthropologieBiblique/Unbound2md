@@ -1,9 +1,13 @@
 ---
-aliases : Ps 7
+aliases : 
+- Psalms 7
+- Psaumes 7
+- Ps 7
+- Psalms 7
 tags : Bible/Ps/7
 ---
 
-# Chapitre 7
+# Psalms 7
 
 ###### 1
 שִׁגָּיֹון לְדָוִד אֲשֶׁר־שָׁר לַיהוָה עַל־דִּבְרֵי־כוּשׁ בֶּן־יְמִינִי׃

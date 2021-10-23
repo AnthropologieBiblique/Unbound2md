@@ -1,9 +1,13 @@
 ---
-aliases : Ps 31
+aliases : 
+- Psalms 31
+- Psaumes 31
+- Ps 31
+- Psalms 31
 tags : Bible/Ps/31
 ---
 
-# Chapitre 31
+# Psalms 31
 
 ###### 1
 Magistro chori. PSALMUS. David.

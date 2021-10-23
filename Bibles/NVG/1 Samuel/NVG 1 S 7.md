@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 7
+aliases : 
+- 1 Samuel 7
+- 1 Samuel 7
+- 1 S 7
 tags : Bible/1S/7
 ---
 
-# Chapitre 7
+# 1 Samuel 7
 
 ###### 1
 Venerunt ergo viri Cariathiarim et duxerunt arcam Domini sursum et intulerunt eam in domum Abinadab in colle; Eleazarum autem filium eius sanctificaverunt, ut custodiret arcam Domini.

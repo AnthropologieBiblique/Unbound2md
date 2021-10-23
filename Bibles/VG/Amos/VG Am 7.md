@@ -1,9 +1,12 @@
 ---
-aliases : Am 7
+aliases : 
+- Amos 7
+- Amos 7
+- Am 7
 tags : Bible/Am/7
 ---
 
-# Chapitre 7
+# Amos 7
 
 ###### 1
 Hæc ostendit mihi Dominus Deus : et ecce fictor locustæ in principio germinantium serotini imbris, et ecce serotinus post tonsionem regis.

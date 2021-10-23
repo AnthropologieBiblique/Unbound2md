@@ -1,9 +1,13 @@
 ---
-aliases : Ez 47
+aliases : 
+- Ezekiel 47
+- Ézéchiel 47
+- Ez 47
+- Ezekiel 47
 tags : Bible/Ez/47
 ---
 
-# Chapitre 47
+# Ezekiel 47
 
 ###### 1
 Et convertit me ad portam domus, et ecce aquae egre diebantur subter limen domus ad orientem; facies enim domus respiciebat ad orientem, aquae autem descendebant a latere templi dextro a meridie altaris. 

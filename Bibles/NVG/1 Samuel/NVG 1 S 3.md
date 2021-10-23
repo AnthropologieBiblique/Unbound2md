@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 3
+aliases : 
+- 1 Samuel 3
+- 1 Samuel 3
+- 1 S 3
 tags : Bible/1S/3
 ---
 
-# Chapitre 3
+# 1 Samuel 3
 
 ###### 1
 Puer autem Samuel ministrabat Domino coram Heli. Et sermo Domini erat pretiosus in diebus illis: non erat visio frequens. 

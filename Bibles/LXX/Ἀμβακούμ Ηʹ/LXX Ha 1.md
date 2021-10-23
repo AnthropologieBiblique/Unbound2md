@@ -1,9 +1,13 @@
 ---
-aliases : Ha 1
+aliases : 
+- Ἀμβακούμ Ηʹ 1
+- Habaquq 1
+- Ha 1
+- Habakkuk 1
 tags : Bible/Ha/1
 ---
 
-# Chapitre 1
+# Ἀμβακούμ Ηʹ 1
 
 ###### 1
 τὸ λῆμμα ὃ εἶδεν αμβακουμ ὁ προφήτης

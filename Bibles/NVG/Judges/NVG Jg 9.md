@@ -1,9 +1,13 @@
 ---
-aliases : Jg 9
+aliases : 
+- Judges 9
+- Juges 9
+- Jg 9
+- Judges 9
 tags : Bible/Jg/9
 ---
 
-# Chapitre 9
+# Judges 9
 
 ###### 1
 Abiit autem Abimelech filius Ierobbaal in Sichem ad fratres matris suae et locutus est ad eos et ad omnem cognationem familiae matris suae dicens: 

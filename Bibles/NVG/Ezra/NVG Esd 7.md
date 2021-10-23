@@ -1,9 +1,13 @@
 ---
-aliases : Esd 7
+aliases : 
+- Ezra 7
+- Esdras 7
+- Esd 7
+- Ezra 7
 tags : Bible/Esd/7
 ---
 
-# Chapitre 7
+# Ezra 7
 
 ###### 1
 Post haec autem in regno Arta xerxis regis Persarum, Esdras fi lius Saraiae filii Azariae filii Helciae 

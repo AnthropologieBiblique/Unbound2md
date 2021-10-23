@@ -1,9 +1,13 @@
 ---
-aliases : Ps 70
+aliases : 
+- Psalms 70
+- Psaumes 70
+- Ps 70
+- Psalms 70
 tags : Bible/Ps/70
 ---
 
-# Chapitre 70
+# Psalms 70
 
 ###### 1
 לַמְנַצֵּחַ לְדָוִד לְהַזְכִּיר׃

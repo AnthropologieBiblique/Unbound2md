@@ -1,9 +1,13 @@
 ---
-aliases : Ne 3
+aliases : 
+- Nehemiah 3
+- Néhémie 3
+- Ne 3
+- Nehemiah 3
 tags : Bible/Ne/3
 ---
 
-# Chapitre 3
+# Nehemiah 3
 
 ###### 1
 Et surrexit Eliasib sacerdos magnus, et fratres ejus sacerdotes, et ædificaverunt portam gregis : ipsi sanctificaverunt eam, et statuerunt valvas ejus, et usque ad turrim centum cubitorum sanctificaverunt eam, usque ad turrim Hananeel.

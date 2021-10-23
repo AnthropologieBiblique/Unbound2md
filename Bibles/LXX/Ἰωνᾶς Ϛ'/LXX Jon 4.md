@@ -1,9 +1,13 @@
 ---
-aliases : Jon 4
+aliases : 
+- Ἰωνᾶς Ϛ' 4
+- Jonas 4
+- Jon 4
+- Jonah 4
 tags : Bible/Jon/4
 ---
 
-# Chapitre 4
+# Ἰωνᾶς Ϛ' 4
 
 ###### 1
 καὶ ἐλυπήθη ιωνας λύπην μεγάλην καὶ συνεχύθη

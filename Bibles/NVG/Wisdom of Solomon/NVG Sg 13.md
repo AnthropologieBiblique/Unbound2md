@@ -1,9 +1,13 @@
 ---
-aliases : Sg 13
+aliases : 
+- Wisdom of Solomon 13
+- Sagesse 13
+- Sg 13
+- Wisdom of Solomon 13
 tags : Bible/Sg/13
 ---
 
-# Chapitre 13
+# Wisdom of Solomon 13
 
 ###### 1
 Vani autem sunt natura omnes homines, in quibus non subest scientia Dei; et de his, quae videntur bonis, non potuerunt intellegere eum, qui est, neque operibus attendentes agnoverunt artificem.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 136
+aliases : 
+- Psalms 136
+- Psaumes 136
+- Ps 136
+- Psalms 136
 tags : Bible/Ps/136
 ---
 
-# Chapitre 136
+# Psalms 136
 
 ###### 1
 ALLELUIA. Confitemini Domino, quoniam bonus, quoniam in aeternum misericordia eius.

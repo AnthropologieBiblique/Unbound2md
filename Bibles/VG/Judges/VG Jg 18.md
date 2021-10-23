@@ -1,9 +1,13 @@
 ---
-aliases : Jg 18
+aliases : 
+- Judges 18
+- Juges 18
+- Jg 18
+- Judges 18
 tags : Bible/Jg/18
 ---
 
-# Chapitre 18
+# Judges 18
 
 ###### 1
 In diebus illis non erat rex in Israël, et tribus Dan quærebat possessionem sibi, ut habitaret in ea : usque ad illum enim diem inter ceteras tribus sortem non acceperat.

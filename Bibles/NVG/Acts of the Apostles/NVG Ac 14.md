@@ -1,9 +1,13 @@
 ---
-aliases : Ac 14
+aliases : 
+- Acts of the Apostles 14
+- Actes 14
+- Ac 14
+- Acts of the Apostles 14
 tags : Bible/Ac/14
 ---
 
-# Chapitre 14
+# Acts of the Apostles 14
 
 ###### 1
 Factum est autem Iconii, ut eodem modo introirent syna gogam Iudaeorum et ita loquerentur, ut crederet Iudaeorum et Graecorum copiosa multitudo. 

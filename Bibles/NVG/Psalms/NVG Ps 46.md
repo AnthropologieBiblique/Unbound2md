@@ -1,9 +1,13 @@
 ---
-aliases : Ps 46
+aliases : 
+- Psalms 46
+- Psaumes 46
+- Ps 46
+- Psalms 46
 tags : Bible/Ps/46
 ---
 
-# Chapitre 46
+# Psalms 46
 
 ###### 1
 Magistro chori. Filiorum Core. Secundum " Virgines... ". Canticum.

@@ -1,9 +1,13 @@
 ---
-aliases : Lv 9
+aliases : 
+- Leviticus 9
+- Lévitique 9
+- Lv 9
+- Leviticus 9
 tags : Bible/Lv/9
 ---
 
-# Chapitre 9
+# Leviticus 9
 
 ###### 1
 Facto autem octavo die, vocavit Moyses Aaron, et filios ejus, ac majores natu Israël, dixitque ad Aaron :

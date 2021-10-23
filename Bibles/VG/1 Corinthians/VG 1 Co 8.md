@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 8
+aliases : 
+- 1 Corinthians 8
+- 1 Corinthiens 8
+- 1 Co 8
+- 1 Corinthians 8
 tags : Bible/1Co/8
 ---
 
-# Chapitre 8
+# 1 Corinthians 8
 
 ###### 1
 De iis autem quæ idolis sacrificantur, scimus quia omnes scientiam habemus. Scientia inflat, caritas vero ædificat.

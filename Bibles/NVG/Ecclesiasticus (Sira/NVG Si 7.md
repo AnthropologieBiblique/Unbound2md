@@ -1,9 +1,13 @@
 ---
-aliases : Si 7
+aliases : 
+- Ecclesiasticus (Sira 7
+- Siracide 7
+- Si 7
+- Ecclesiasticus (Sira 7
 tags : Bible/Si/7
 ---
 
-# Chapitre 7
+# Ecclesiasticus (Sira 7
 
 ###### 1
 Noli facere mala, et mala non te apprehendent;

@@ -1,9 +1,13 @@
 ---
-aliases : Gn 27
+aliases : 
+- Genesis 27
+- Genèse 27
+- Gn 27
+- Genesis 27
 tags : Bible/Gn/27
 ---
 
-# Chapitre 27
+# Genesis 27
 
 ###### 1
 Senuit autem Isaac, et caligaverunt oculi eius, et videre non poterat. Vocavitque Esau filium suum maiorem et dixit ei: “ Fili mi ”. Qui respondit: “ Adsum ”. 

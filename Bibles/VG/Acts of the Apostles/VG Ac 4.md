@@ -1,9 +1,13 @@
 ---
-aliases : Ac 4
+aliases : 
+- Acts of the Apostles 4
+- Actes 4
+- Ac 4
+- Acts of the Apostles 4
 tags : Bible/Ac/4
 ---
 
-# Chapitre 4
+# Acts of the Apostles 4
 
 ###### 1
 Loquentibus autem illis ad populum, supervenerunt sacerdotes, et magistratus templi, et sadducæi,

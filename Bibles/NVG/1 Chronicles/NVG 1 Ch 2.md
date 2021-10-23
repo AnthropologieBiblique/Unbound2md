@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 2
+aliases : 
+- 1 Chronicles 2
+- 1 Chroniques 2
+- 1 Ch 2
+- 1 Chronicles 2
 tags : Bible/1Ch/2
 ---
 
-# Chapitre 2
+# 1 Chronicles 2
 
 ###### 1
 Filii autem Israel: Ruben, Simeon, Levi, Iuda, Issachar et Zabulon, 

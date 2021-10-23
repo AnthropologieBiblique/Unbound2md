@@ -1,9 +1,12 @@
 ---
-aliases : Jude 1
+aliases : 
+- Jude 1
+- Jude 1
+- Jude 1
 tags : Bible/Jude/1
 ---
 
-# Chapitre 1
+# Jude 1
 
 ###### 1
 Judas Jesu Christi servus, frater autem Jacobi, his qui sunt in Deo Patre dilectis, et Christo Jesu conservatis, et vocatis.

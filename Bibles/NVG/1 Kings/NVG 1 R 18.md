@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 18
+aliases : 
+- 1 Kings 18
+- 1 Rois 18
+- 1 R 18
+- 1 Kings 18
 tags : Bible/1R/18
 ---
 
-# Chapitre 18
+# 1 Kings 18
 
 ###### 1
 Post dies multos factum est verbum Domini ad Eliam in anno tertio dicens: “ Vade et ostende te Achab, ut dem pluviam super faciem terrae ”. 

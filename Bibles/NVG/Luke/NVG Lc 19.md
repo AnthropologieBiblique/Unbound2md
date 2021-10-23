@@ -1,9 +1,13 @@
 ---
-aliases : Lc 19
+aliases : 
+- Luke 19
+- Luc 19
+- Lc 19
+- Luke 19
 tags : Bible/Lc/19
 ---
 
-# Chapitre 19
+# Luke 19
 
 ###### 1
 Et ingressus perambulabat Iericho. 

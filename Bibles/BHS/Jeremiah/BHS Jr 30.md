@@ -1,9 +1,13 @@
 ---
-aliases : Jr 30
+aliases : 
+- Jeremiah 30
+- Jérémie 30
+- Jr 30
+- Jeremiah 30
 tags : Bible/Jr/30
 ---
 
-# Chapitre 30
+# Jeremiah 30
 
 ###### 1
 הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃

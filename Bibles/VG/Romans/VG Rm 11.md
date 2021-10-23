@@ -1,9 +1,13 @@
 ---
-aliases : Rm 11
+aliases : 
+- Romans 11
+- Romains 11
+- Rm 11
+- Romans 11
 tags : Bible/Rm/11
 ---
 
-# Chapitre 11
+# Romans 11
 
 ###### 1
 Dico ergo : Numquid Deus repulit populum suum ? Absit. Nam et ego Israëlita sum ex semine Abraham, de tribu Benjamin :

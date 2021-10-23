@@ -1,9 +1,13 @@
 ---
-aliases : Jr 33
+aliases : 
+- Jeremiah 33
+- Jérémie 33
+- Jr 33
+- Jeremiah 33
 tags : Bible/Jr/33
 ---
 
-# Chapitre 33
+# Jeremiah 33
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֶל־יִרְמְיָהוּ שֵׁנִית וְהוּא עֹודֶנּוּ עָצוּר בַּחֲצַר הַמַּטָּרָה לֵאמֹר׃

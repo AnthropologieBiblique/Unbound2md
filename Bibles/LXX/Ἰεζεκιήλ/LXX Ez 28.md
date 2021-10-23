@@ -1,9 +1,13 @@
 ---
-aliases : Ez 28
+aliases : 
+- Ἰεζεκιήλ 28
+- Ézéchiel 28
+- Ez 28
+- Ezekiel 28
 tags : Bible/Ez/28
 ---
 
-# Chapitre 28
+# Ἰεζεκιήλ 28
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

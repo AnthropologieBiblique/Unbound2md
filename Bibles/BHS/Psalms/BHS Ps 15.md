@@ -1,9 +1,13 @@
 ---
-aliases : Ps 15
+aliases : 
+- Psalms 15
+- Psaumes 15
+- Ps 15
+- Psalms 15
 tags : Bible/Ps/15
 ---
 
-# Chapitre 15
+# Psalms 15
 
 ###### 1
 מִזְמֹור לְדָוִד יְהֹוָה מִי־יָגוּר בְּאָהֳלֶךָ מִי־יִשְׁכֹּן בְּהַר קָדְשֶׁךָ׃

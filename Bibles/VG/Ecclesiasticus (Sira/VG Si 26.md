@@ -1,9 +1,13 @@
 ---
-aliases : Si 26
+aliases : 
+- Ecclesiasticus (Sira 26
+- Siracide 26
+- Si 26
+- Ecclesiasticus (Sira 26
 tags : Bible/Si/26
 ---
 
-# Chapitre 26
+# Ecclesiasticus (Sira 26
 
 ###### 1
 Mulieris bonæ beatus vir : numerus enim annorum illius duplex.

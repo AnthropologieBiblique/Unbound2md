@@ -1,9 +1,13 @@
 ---
-aliases : Ez 16
+aliases : 
+- Ἰεζεκιήλ 16
+- Ézéchiel 16
+- Ez 16
+- Ezekiel 16
 tags : Bible/Ez/16
 ---
 
-# Chapitre 16
+# Ἰεζεκιήλ 16
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

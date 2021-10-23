@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 10
+aliases : 
+- 1 Corinthians 10
+- 1 Corinthiens 10
+- 1 Co 10
+- 1 Corinthians 10
 tags : Bible/1Co/10
 ---
 
-# Chapitre 10
+# 1 Corinthians 10
 
 ###### 1
 Nolo enim vos ignorare, fra tres, quoniam patres nostri omnes sub nube fuerunt et omnes mare transierunt 

@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 6
+aliases : 
+- 1 Kings 6
+- 1 Rois 6
+- 1 R 6
+- 1 Kings 6
 tags : Bible/1R/6
 ---
 
-# Chapitre 6
+# 1 Kings 6
 
 ###### 1
 Factum est igitur quadringente simo et octogesimo anno egres sionis filiorum Israel de terra Aegypti, in anno quarto, mense Ziv — ipse est mensis secundus — regni Salomonis super Israel, aedificare coepit domum Domino. 

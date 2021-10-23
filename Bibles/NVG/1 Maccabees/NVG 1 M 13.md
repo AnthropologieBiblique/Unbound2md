@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 13
+aliases : 
+- 1 Maccabees 13
+- 1 Maccabees 13
+- 1 M 13
 tags : Bible/1M/13
 ---
 
-# Chapitre 13
+# 1 Maccabees 13
 
 ###### 1
 Et audivit Simon quod con gregavit Tryphon exercitum copiosum, ut veniret in terram Iudae et attereret eam. 

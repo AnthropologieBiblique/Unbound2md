@@ -1,9 +1,12 @@
 ---
-aliases : Od 13
+aliases : 
+- Ὠδαί 13
+- Odes 13
+- Od 13
 tags : Bible/Od/13
 ---
 
-# Chapitre 13
+# Ὠδαί 13
 
 ###### 1a
 προσευχὴ συμεων

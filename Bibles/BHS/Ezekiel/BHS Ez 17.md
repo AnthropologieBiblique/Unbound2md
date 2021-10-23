@@ -1,9 +1,13 @@
 ---
-aliases : Ez 17
+aliases : 
+- Ezekiel 17
+- Ézéchiel 17
+- Ez 17
+- Ezekiel 17
 tags : Bible/Ez/17
 ---
 
-# Chapitre 17
+# Ezekiel 17
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

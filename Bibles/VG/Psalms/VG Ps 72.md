@@ -1,9 +1,13 @@
 ---
-aliases : Ps 73
+aliases : 
+- Psalms 72
+- Psaumes 73
+- Ps 73
+- Psalms 73
 tags : Bible/Ps/73
 ---
 
-# Chapitre 72
+# Psalms 72
 
 ###### 1
 Psalmus Asaph. Quam bonus Israël Deus, his qui recto sunt corde !

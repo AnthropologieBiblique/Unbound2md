@@ -1,9 +1,13 @@
 ---
-aliases : Ps 91
+aliases : 
+- Psalms 90
+- Psaumes 91
+- Ps 91
+- Psalms 91
 tags : Bible/Ps/91
 ---
 
-# Chapitre 90
+# Psalms 90
 
 ###### 1
 Laus cantici David. Qui habitat in adjutorio Altissimi, in protectione Dei cæli commorabitur.

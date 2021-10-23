@@ -1,9 +1,13 @@
 ---
-aliases : 1 P 1
+aliases : 
+- 1 Peter 1
+- 1 Pierre 1
+- 1 P 1
+- 1 Peter 1
 tags : Bible/1P/1
 ---
 
-# Chapitre 1
+# 1 Peter 1
 
 ###### 1
 Petrus Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiæ, Cappadociæ, Asiæ, et Bithyniæ,

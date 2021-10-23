@@ -1,9 +1,13 @@
 ---
-aliases : Ac 13
+aliases : 
+- Acts of the Apostles 13
+- Actes 13
+- Ac 13
+- Acts of the Apostles 13
 tags : Bible/Ac/13
 ---
 
-# Chapitre 13
+# Acts of the Apostles 13
 
 ###### 1
 Erant autem in ecclesia, quae erat Antiochiae, pro phetae et doctores: Barnabas et Simeon, qui vocabatur Niger, et Lucius Cyrenensis et Manaen, qui erat Herodis tetrarchae collactaneus, et Saulus. 

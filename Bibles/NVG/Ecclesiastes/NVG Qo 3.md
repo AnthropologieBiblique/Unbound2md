@@ -1,9 +1,13 @@
 ---
-aliases : Qo 3
+aliases : 
+- Ecclesiastes 3
+- Ecclésiaste 3
+- Qo 3
+- Ecclesiastes 3
 tags : Bible/Qo/3
 ---
 
-# Chapitre 3
+# Ecclesiastes 3
 
 ###### 1
 Omnia tempus habent, et momentum suum cuique negotio sub caelo:

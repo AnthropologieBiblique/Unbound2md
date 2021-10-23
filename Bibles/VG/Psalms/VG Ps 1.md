@@ -1,9 +1,13 @@
 ---
-aliases : Ps 1
+aliases : 
+- Psalms 1
+- Psaumes 1
+- Ps 1
+- Psalms 1
 tags : Bible/Ps/1
 ---
 
-# Chapitre 1
+# Psalms 1
 
 ###### 1
 Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiæ non sedit ;

@@ -1,9 +1,13 @@
 ---
-aliases : Ex 27
+aliases : 
+- Exodus 27
+- Exode 27
+- Ex 27
+- Exodus 27
 tags : Bible/Ex/27
 ---
 
-# Chapitre 27
+# Exodus 27
 
 ###### 1
 Facies et altare de lignis acaciae, quod habebit quinque cubitos in longitudine et totidem in latitudine, id est quadrum, et tres cubitos in altitudine. 

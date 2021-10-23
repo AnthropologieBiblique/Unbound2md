@@ -1,9 +1,13 @@
 ---
-aliases : Ps 86
+aliases : 
+- Psalms 85
+- Psaumes 86
+- Ps 86
+- Psalms 86
 tags : Bible/Ps/86
 ---
 
-# Chapitre 85
+# Psalms 85
 
 ###### 1
 Oratio ipsi David. Inclina, Domine, aurem tuam et exaudi me, quoniam inops et pauper sum ego.

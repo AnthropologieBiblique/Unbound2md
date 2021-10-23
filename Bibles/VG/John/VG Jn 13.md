@@ -1,9 +1,13 @@
 ---
-aliases : Jn 13
+aliases : 
+- John 13
+- Jean 13
+- Jn 13
+- John 13
 tags : Bible/Jn/13
 ---
 
-# Chapitre 13
+# John 13
 
 ###### 1
 Ante diem festum Paschæ, sciens Jesus quia venit hora ejus ut transeat ex hoc mundo ad Patrem : cum dilexisset suos, qui erant in mundo, in finem dilexit eos.

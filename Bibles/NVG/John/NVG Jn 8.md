@@ -1,9 +1,13 @@
 ---
-aliases : Jn 8
+aliases : 
+- John 8
+- Jean 8
+- Jn 8
+- John 8
 tags : Bible/Jn/8
 ---
 
-# Chapitre 8
+# John 8
 
 ###### 1
 Iesus autem perrexit in montem Oliveti. 

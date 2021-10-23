@@ -1,9 +1,13 @@
 ---
-aliases : Is 19
+aliases : 
+- Isaiah 19
+- Isaïe 19
+- Is 19
+- Isaiah 19
 tags : Bible/Is/19
 ---
 
-# Chapitre 19
+# Isaiah 19
 
 ###### 1
 Onus Ægypti. Ecce Dominus ascendet super nubem levem, et ingredietur Ægyptum, et commovebuntur simulacra Ægypti a facie ejus, et cor Ægypti tabescet in medio ejus,

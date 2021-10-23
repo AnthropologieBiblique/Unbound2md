@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 6
+aliases : 
+- Esther, Greek 6
+- Esther, Grec 6
+- Estgrec 6
+- Esther, Greek 6
 tags : Bible/Estgrec/6
 ---
 
-# Chapitre 6
+# Esther, Greek 6
 
 ###### 1
 Noctem illam duxit rex insomnem iussitque afferri sibi librum memorialium, annales priorum temporum. Quae cum illo praesente legerentur, 

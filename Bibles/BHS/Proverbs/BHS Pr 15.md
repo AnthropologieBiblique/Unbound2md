@@ -1,9 +1,13 @@
 ---
-aliases : Pr 15
+aliases : 
+- Proverbs 15
+- Proverbes 15
+- Pr 15
+- Proverbs 15
 tags : Bible/Pr/15
 ---
 
-# Chapitre 15
+# Proverbs 15
 
 ###### 1
 מַעֲנֶה־רַּךְ יָשִׁיב חֵמָה וּדְבַר־עֶצֶב יַעֲלֶה־אָף׃

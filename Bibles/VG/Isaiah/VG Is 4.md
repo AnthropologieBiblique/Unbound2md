@@ -1,9 +1,13 @@
 ---
-aliases : Is 4
+aliases : 
+- Isaiah 4
+- Isaïe 4
+- Is 4
+- Isaiah 4
 tags : Bible/Is/4
 ---
 
-# Chapitre 4
+# Isaiah 4
 
 ###### 1
 Et apprehendent septem mulieres virum unum in die illa, dicentes : Panem nostrum comedemus, et vestimentis nostris operiemur : tantummodo invocetur nomen tuum super nos ; aufer opprobrium nostrum.

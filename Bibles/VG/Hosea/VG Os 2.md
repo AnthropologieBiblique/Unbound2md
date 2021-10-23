@@ -1,9 +1,13 @@
 ---
-aliases : Os 2
+aliases : 
+- Hosea 2
+- Osée 2
+- Os 2
+- Hosea 2
 tags : Bible/Os/2
 ---
 
-# Chapitre 2
+# Hosea 2
 
 ###### 1
 Dicite fratribus vestris : Populus meus ; et sorori vestræ : Misericordiam consecuta.

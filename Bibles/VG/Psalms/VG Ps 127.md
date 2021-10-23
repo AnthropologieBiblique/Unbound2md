@@ -1,9 +1,13 @@
 ---
-aliases : Ps 128
+aliases : 
+- Psalms 127
+- Psaumes 128
+- Ps 128
+- Psalms 128
 tags : Bible/Ps/128
 ---
 
-# Chapitre 127
+# Psalms 127
 
 ###### 1
 Canticum graduum. Beati omnes qui timent Dominum, qui ambulant in viis ejus.

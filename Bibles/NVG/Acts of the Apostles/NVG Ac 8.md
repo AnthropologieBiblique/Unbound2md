@@ -1,9 +1,13 @@
 ---
-aliases : Ac 8
+aliases : 
+- Acts of the Apostles 8
+- Actes 8
+- Ac 8
+- Acts of the Apostles 8
 tags : Bible/Ac/8
 ---
 
-# Chapitre 8
+# Acts of the Apostles 8
 
 ###### 1
 Saulus autem erat consentiens neci eius. Facta est autem in illa die persecutio magna in ecclesiam, quae erat Hierosolymis; et omnes dispersi sunt per regiones Iudaeae et Samariae praeter apostolos.

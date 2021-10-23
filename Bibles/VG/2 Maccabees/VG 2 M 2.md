@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 2
+aliases : 
+- 2 Maccabees 2
+- 2 Maccabees 2
+- 2 M 2
 tags : Bible/2M/2
 ---
 
-# Chapitre 2
+# 2 Maccabees 2
 
 ###### 1
 Invenitur autem in descriptionibus Jeremiæ prophetæ, quod jussit eos ignem accipere qui transmigrabant : ut significatum est, et ut mandavit transmigratis.

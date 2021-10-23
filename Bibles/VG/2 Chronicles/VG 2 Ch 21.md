@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 21
+aliases : 
+- 2 Chronicles 21
+- 2 Chroniques 21
+- 2 Ch 21
+- 2 Chronicles 21
 tags : Bible/2Ch/21
 ---
 
-# Chapitre 21
+# 2 Chronicles 21
 
 ###### 1
 Dormivit autem Josaphat cum patribus suis, et sepultus est cum eis in civitate David : regnavitque Joram filius ejus pro eo.

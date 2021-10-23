@@ -1,9 +1,13 @@
 ---
-aliases : Ez 38
+aliases : 
+- Ezekiel 38
+- Ézéchiel 38
+- Ez 38
+- Ezekiel 38
 tags : Bible/Ez/38
 ---
 
-# Chapitre 38
+# Ezekiel 38
 
 ###### 1
 Et factus est sermo Domini ad me, dicens :

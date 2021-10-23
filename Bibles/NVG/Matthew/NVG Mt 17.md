@@ -1,9 +1,13 @@
 ---
-aliases : Mt 17
+aliases : 
+- Matthew 17
+- Matthieu 17
+- Mt 17
+- Matthew 17
 tags : Bible/Mt/17
 ---
 
-# Chapitre 17
+# Matthew 17
 
 ###### 1
 Et post dies sex assumit Iesus Petrum et Iacobum et Ioan nem fratrem eius et ducit illos in montem excelsum seorsum. 

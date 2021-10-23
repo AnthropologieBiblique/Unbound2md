@@ -1,9 +1,13 @@
 ---
-aliases : Ps 3
+aliases : 
+- Psalms 3
+- Psaumes 3
+- Ps 3
+- Psalms 3
 tags : Bible/Ps/3
 ---
 
-# Chapitre 3
+# Psalms 3
 
 ###### 1
 PSALMUS. David, cum fugit a filio suo Absalom.

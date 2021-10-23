@@ -1,9 +1,13 @@
 ---
-aliases : Ps 104
+aliases : 
+- Psalms 104
+- Psaumes 104
+- Ps 104
+- Psalms 104
 tags : Bible/Ps/104
 ---
 
-# Chapitre 104
+# Psalms 104
 
 ###### 1
 Benedic, anima mea, Domino. Domine Deus meus, magnificatus es vehementer! Maiestatem et decorem induisti,

@@ -1,9 +1,13 @@
 ---
-aliases : Is 12
+aliases : 
+- Isaiah 12
+- Isaïe 12
+- Is 12
+- Isaiah 12
 tags : Bible/Is/12
 ---
 
-# Chapitre 12
+# Isaiah 12
 
 ###### 1
 Et dices in die illa : Confitebor tibi, Domine, quoniam iratus es mihi ; conversus est furor tuus, et consolatus es me.

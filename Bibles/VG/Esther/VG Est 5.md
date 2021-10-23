@@ -1,9 +1,12 @@
 ---
-aliases : Est 5
+aliases : 
+- Esther 5
+- Esther 5
+- Est 5
 tags : Bible/Est/5
 ---
 
-# Chapitre 5
+# Esther 5
 
 ###### 1
 Die autem tertio induta est Esther regalibus vestimentis, et stetit in atrio domus regiæ, quod erat interius, contra basilicam regis : at ille sedebat super solium suum in consistorio palatii contra ostium domus.

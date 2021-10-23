@@ -1,9 +1,13 @@
 ---
-aliases : Mt 16
+aliases : 
+- Matthew 16
+- Matthieu 16
+- Mt 16
+- Matthew 16
 tags : Bible/Mt/16
 ---
 
-# Chapitre 16
+# Matthew 16
 
 ###### 1
 Et accesserunt ad eum pharisaei et sadducaei tentantes et rogaverunt eum, ut signum de caelo ostenderet eis. 

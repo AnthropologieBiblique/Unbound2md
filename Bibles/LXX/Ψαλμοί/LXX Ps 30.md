@@ -1,9 +1,13 @@
 ---
-aliases : Ps 31
+aliases : 
+- Ψαλμοί 30
+- Psaumes 31
+- Ps 31
+- Psalms 31
 tags : Bible/Ps/31
 ---
 
-# Chapitre 30
+# Ψαλμοί 30
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ ἐκστάσεως

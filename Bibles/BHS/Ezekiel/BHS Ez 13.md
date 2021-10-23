@@ -1,9 +1,13 @@
 ---
-aliases : Ez 13
+aliases : 
+- Ezekiel 13
+- Ézéchiel 13
+- Ez 13
+- Ezekiel 13
 tags : Bible/Ez/13
 ---
 
-# Chapitre 13
+# Ezekiel 13
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

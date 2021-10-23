@@ -1,9 +1,13 @@
 ---
-aliases : Ps 62
+aliases : 
+- Psalms 61
+- Psaumes 62
+- Ps 62
+- Psalms 62
 tags : Bible/Ps/62
 ---
 
-# Chapitre 61
+# Psalms 61
 
 ###### 1
 In finem, pro Idithun. Psalmus David.

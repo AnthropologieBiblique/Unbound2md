@@ -1,9 +1,13 @@
 ---
-aliases : 2 Th 3
+aliases : 
+- 2 Thessalonians 3
+- 2 Thessaloniciens 3
+- 2 Th 3
+- 2 Thessalonians 3
 tags : Bible/2Th/3
 ---
 
-# Chapitre 3
+# 2 Thessalonians 3
 
 ###### 1
 De cetero fratres, orate pro nobis ut sermo Dei currat, et clarificetur, sicut et apud vos :

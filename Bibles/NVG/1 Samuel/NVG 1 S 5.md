@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 5
+aliases : 
+- 1 Samuel 5
+- 1 Samuel 5
+- 1 S 5
 tags : Bible/1S/5
 ---
 
-# Chapitre 5
+# 1 Samuel 5
 
 ###### 1
 Philisthim autem tulerunt arcam Dei et asportaverunt eam a Abenezer in Azotum. 

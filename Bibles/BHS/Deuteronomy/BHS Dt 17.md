@@ -1,9 +1,13 @@
 ---
-aliases : Dt 17
+aliases : 
+- Deuteronomy 17
+- Deutéronome 17
+- Dt 17
+- Deuteronomy 17
 tags : Bible/Dt/17
 ---
 
-# Chapitre 17
+# Deuteronomy 17
 
 ###### 1
 לֹא־תִזְבַּח לַיהוָה אֱלֹהֶיךָ שֹׁור וָשֶׂה אֲשֶׁר יִהְיֶה בֹו מוּם כֹּל דָּבָר רָע כִּי תֹועֲבַת יְהוָה אֱלֹהֶיךָ הוּא׃ ס

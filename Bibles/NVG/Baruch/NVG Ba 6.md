@@ -1,9 +1,12 @@
 ---
-aliases : Ba 6
+aliases : 
+- Baruch 6
+- Baruch 6
+- Ba 6
 tags : Bible/Ba/6
 ---
 
-# Chapitre 6
+# Baruch 6
 
 ###### 1a
 Exemplum epistulae, quam misit Ieremias ad abducendos captivos in Babyloniam a rege Babyloniorum, ut nuntiaret illis secundum quod praeceptum est ei a Deo.

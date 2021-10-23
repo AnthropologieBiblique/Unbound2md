@@ -1,9 +1,13 @@
 ---
-aliases : Mi 4
+aliases : 
+- Micah 4
+- Michée 4
+- Mi 4
+- Micah 4
 tags : Bible/Mi/4
 ---
 
-# Chapitre 4
+# Micah 4
 
 ###### 1
 Et erit : in novissimo dierum erit mons domus Domini præparatus in vertice montium, et sublimis super colles : et fluent ad eum populi,

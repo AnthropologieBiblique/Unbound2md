@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 1
+aliases : 
+- 1 Kings 1
+- 1 Rois 1
+- 1 R 1
+- 1 Kings 1
 tags : Bible/1R/1
 ---
 
-# Chapitre 1
+# 1 Kings 1
 
 ###### 1
 Et rex David senuerat habebat que aetatis plurimos dies; cum que operiretur vestibus, non calefiebat. 

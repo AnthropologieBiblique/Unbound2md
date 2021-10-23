@@ -1,9 +1,13 @@
 ---
-aliases : Dt 27
+aliases : 
+- Deuteronomy 27
+- Deutéronome 27
+- Dt 27
+- Deuteronomy 27
 tags : Bible/Dt/27
 ---
 
-# Chapitre 27
+# Deuteronomy 27
 
 ###### 1
 וַיְצַו מֹשֶׁה וְזִקְנֵי יִשְׂרָאֵל אֶת־הָעָם לֵאמֹר שָׁמֹר אֶת־כָּל־הַמִּצְוָה אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיֹּום׃

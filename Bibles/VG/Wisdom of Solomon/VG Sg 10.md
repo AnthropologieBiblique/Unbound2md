@@ -1,9 +1,13 @@
 ---
-aliases : Sg 10
+aliases : 
+- Wisdom of Solomon 10
+- Sagesse 10
+- Sg 10
+- Wisdom of Solomon 10
 tags : Bible/Sg/10
 ---
 
-# Chapitre 10
+# Wisdom of Solomon 10
 
 ###### 1
 Hæc illum qui primus formatus est a Deo patre orbis terrarum, cum solus esset creatus, custodivit,

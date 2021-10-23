@@ -1,9 +1,13 @@
 ---
-aliases : Ps 26
+aliases : 
+- Psalms 26
+- Psaumes 26
+- Ps 26
+- Psalms 26
 tags : Bible/Ps/26
 ---
 
-# Chapitre 26
+# Psalms 26
 
 ###### 1
 David. Iudica me, Domine, quoniam ego in innocentia mea ingressus sum et in Domino sperans non infirmabor.

@@ -1,9 +1,13 @@
 ---
-aliases : Dt 14
+aliases : 
+- Deuteronomy 14
+- Deutéronome 14
+- Dt 14
+- Deuteronomy 14
 tags : Bible/Dt/14
 ---
 
-# Chapitre 14
+# Deuteronomy 14
 
 ###### 1
 בָּנִים אַתֶּם לַיהוָה אֱלֹהֵיכֶם לֹא תִתְגֹּדְדוּ וְלֹא־תָשִׂימוּ קָרְחָה בֵּין עֵינֵיכֶם לָמֵת׃

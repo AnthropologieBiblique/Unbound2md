@@ -1,9 +1,13 @@
 ---
-aliases : Lv 3
+aliases : 
+- Leviticus 3
+- Lévitique 3
+- Lv 3
+- Leviticus 3
 tags : Bible/Lv/3
 ---
 
-# Chapitre 3
+# Leviticus 3
 
 ###### 1
 Quod si hostia pacificorum fue rit eius oblatio et de bobus vo luerit offerre marem sive feminam, immaculata offeret coram Domino. 

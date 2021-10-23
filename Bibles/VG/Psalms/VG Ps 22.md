@@ -1,9 +1,13 @@
 ---
-aliases : Ps 23
+aliases : 
+- Psalms 22
+- Psaumes 23
+- Ps 23
+- Psalms 23
 tags : Bible/Ps/23
 ---
 
-# Chapitre 22
+# Psalms 22
 
 ###### 1
 Psalmus David. Dominus regit me, et nihil mihi deerit :

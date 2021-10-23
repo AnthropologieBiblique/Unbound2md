@@ -1,9 +1,13 @@
 ---
-aliases : Dt 8
+aliases : 
+- Deuteronomy 8
+- Deutéronome 8
+- Dt 8
+- Deuteronomy 8
 tags : Bible/Dt/8
 ---
 
-# Chapitre 8
+# Deuteronomy 8
 
 ###### 1
 Omne mandatum, quod ego præcipio tibi hodie, cave diligenter ut facias, ut possitis vivere, et multiplicemini, ingressique possideatis terram, pro qua juravit Dominus patribus vestris.

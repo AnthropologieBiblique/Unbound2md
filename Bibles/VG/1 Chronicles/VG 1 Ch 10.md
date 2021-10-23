@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 10
+aliases : 
+- 1 Chronicles 10
+- 1 Chroniques 10
+- 1 Ch 10
+- 1 Chronicles 10
 tags : Bible/1Ch/10
 ---
 
-# Chapitre 10
+# 1 Chronicles 10
 
 ###### 1
 Philisthiim autem pugnabant contra Israël, fugeruntque viri Israël Palæsthinos, et ceciderunt vulnerati in monte Gelboë.

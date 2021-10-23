@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 11
+aliases : 
+- 2 Maccabees 11
+- 2 Maccabees 11
+- 2 M 11
 tags : Bible/2M/11
 ---
 
-# Chapitre 11
+# 2 Maccabees 11
 
 ###### 1
 Sed parvo prorsus post tem pore, Lysias procurator regis et propinquus ac negotiorum praepositus graviter ferens de his, quae acciderant, 

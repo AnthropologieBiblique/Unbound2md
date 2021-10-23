@@ -1,9 +1,13 @@
 ---
-aliases : Ps 120
+aliases : 
+- Psalms 119
+- Psaumes 120
+- Ps 120
+- Psalms 120
 tags : Bible/Ps/120
 ---
 
-# Chapitre 119
+# Psalms 119
 
 ###### 1
 Canticum graduum. Ad Dominum cum tribularer clamavi, et exaudivit me.

@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 4
+aliases : 
+- 1 Samuel 4
+- 1 Samuel 4
+- 1 S 4
 tags : Bible/1S/4
 ---
 
-# Chapitre 4
+# 1 Samuel 4
 
 ###### 1
 Et factum est in diebus illis, convenerunt Philisthiim in pugnam : et egressus est Israël obviam Philisthiim in prælium, et castrametatus est juxta lapidem Adjutorii. Porro Philisthiim venerunt in Aphec,

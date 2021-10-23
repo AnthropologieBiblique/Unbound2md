@@ -1,9 +1,13 @@
 ---
-aliases : Ps 35
+aliases : 
+- Psalms 35
+- Psaumes 35
+- Ps 35
+- Psalms 35
 tags : Bible/Ps/35
 ---
 
-# Chapitre 35
+# Psalms 35
 
 ###### 1
 David. Iudica, Domine, iudicantes me; impugna impugnantes me.

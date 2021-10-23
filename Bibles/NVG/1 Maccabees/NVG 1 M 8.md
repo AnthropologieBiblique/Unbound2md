@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 8
+aliases : 
+- 1 Maccabees 8
+- 1 Maccabees 8
+- 1 M 8
 tags : Bible/1M/8
 ---
 
-# Chapitre 8
+# 1 Maccabees 8
 
 ###### 1
 Et audivit Iudas nomen Roma norum quia sunt potentes viri bus et consentiunt omnibus, quae postulantur ab eis, et, quicumque accesserint ad eos, statuerunt cum eis amicitiam, 

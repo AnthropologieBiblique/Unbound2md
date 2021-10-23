@@ -1,9 +1,12 @@
 ---
-aliases : Jb 42
+aliases : 
+- Ἰώβ 42
+- Job 42
+- Jb 42
 tags : Bible/Jb/42
 ---
 
-# Chapitre 42
+# Ἰώβ 42
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει τῷ κυρίῳ

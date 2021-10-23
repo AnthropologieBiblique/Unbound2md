@@ -1,9 +1,13 @@
 ---
-aliases : Qo 10
+aliases : 
+- Ecclesiastes 10
+- Ecclésiaste 10
+- Qo 10
+- Ecclesiastes 10
 tags : Bible/Qo/10
 ---
 
-# Chapitre 10
+# Ecclesiastes 10
 
 ###### 1
 Muscae morientes perdunt et corrumpunt oleum unguentarii. Gravior quam sapientia et gloria est parva stultitia.

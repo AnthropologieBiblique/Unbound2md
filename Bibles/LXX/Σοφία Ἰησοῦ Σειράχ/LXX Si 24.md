@@ -1,9 +1,13 @@
 ---
-aliases : Si 24
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 24
+- Siracide 24
+- Si 24
+- Ecclesiasticus (Sira 24
 tags : Bible/Si/24
 ---
 
-# Chapitre 24
+# Σοφία Ἰησοῦ Σειράχ 24
 
 ###### 1
 ἡ σοφία αἰνέσει ψυχὴν αὐτῆς καὶ ἐν μέσῳ λαοῦ αὐτῆς καυχήσεται

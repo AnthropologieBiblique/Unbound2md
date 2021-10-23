@@ -1,9 +1,13 @@
 ---
-aliases : Col 1
+aliases : 
+- Colossians 1
+- Colossiens 1
+- Col 1
+- Colossians 1
 tags : Bible/Col/1
 ---
 
-# Chapitre 1
+# Colossians 1
 
 ###### 1
 Paulus Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater :

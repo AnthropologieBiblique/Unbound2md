@@ -1,9 +1,13 @@
 ---
-aliases : Sg 3
+aliases : 
+- Σοφία Σαλoμῶντος 3
+- Sagesse 3
+- Sg 3
+- Wisdom of Solomon 3
 tags : Bible/Sg/3
 ---
 
-# Chapitre 3
+# Σοφία Σαλoμῶντος 3
 
 ###### 1
 δικαίων δὲ ψυχαὶ ἐν χειρὶ θεοῦ καὶ οὐ μὴ ἅψηται αὐτῶν βάσανος

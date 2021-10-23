@@ -1,9 +1,13 @@
 ---
-aliases : Sg 18
+aliases : 
+- Wisdom of Solomon 18
+- Sagesse 18
+- Sg 18
+- Wisdom of Solomon 18
 tags : Bible/Sg/18
 ---
 
-# Chapitre 18
+# Wisdom of Solomon 18
 
 ###### 1
 Sanctis autem tuis maxima erat lux; et horum quidem vocem illi audiebant, sed figuram non videbant et, quia non et ipsi eadem passi erant, magnificabant;

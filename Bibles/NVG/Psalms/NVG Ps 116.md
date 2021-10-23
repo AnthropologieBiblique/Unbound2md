@@ -1,9 +1,13 @@
 ---
-aliases : Ps 116
+aliases : 
+- Psalms 116
+- Psaumes 116
+- Ps 116
+- Psalms 116
 tags : Bible/Ps/116
 ---
 
-# Chapitre 116
+# Psalms 116
 
 ###### 1
 ALLELUIA. Dilexi, quoniam exaudit Dominus vocem deprecationis meae.

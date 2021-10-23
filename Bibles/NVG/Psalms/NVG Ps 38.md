@@ -1,9 +1,13 @@
 ---
-aliases : Ps 38
+aliases : 
+- Psalms 38
+- Psaumes 38
+- Ps 38
+- Psalms 38
 tags : Bible/Ps/38
 ---
 
-# Chapitre 38
+# Psalms 38
 
 ###### 1
 PSALMUS. David. Ad commemorandum.

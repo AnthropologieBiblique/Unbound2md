@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 9
+aliases : 
+- Judith 9
+- Judith 9
+- Jdt 9
 tags : Bible/Jdt/9
 ---
 
-# Chapitre 9
+# Judith 9
 
 ###### 1
 Iudith autem procidit in faciem suam et imposuit cinerem super caput suum et scidit tunicam suam et denudavit, quod induerat, cilicium; et, in ipso quod oblatum erat in Ierusalem in domum Dei incensum vespere illo, clamavit Iudith voce magna ad Dominum et dixit: 

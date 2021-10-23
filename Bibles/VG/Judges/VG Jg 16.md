@@ -1,9 +1,13 @@
 ---
-aliases : Jg 16
+aliases : 
+- Judges 16
+- Juges 16
+- Jg 16
+- Judges 16
 tags : Bible/Jg/16
 ---
 
-# Chapitre 16
+# Judges 16
 
 ###### 1
 Abiit quoque in Gazam, et vidit ibi mulierem meretricem, ingressusque est ad eam.

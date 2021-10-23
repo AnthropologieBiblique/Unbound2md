@@ -1,9 +1,13 @@
 ---
-aliases : Si 40
+aliases : 
+- Ecclesiasticus (Sira 40
+- Siracide 40
+- Si 40
+- Ecclesiasticus (Sira 40
 tags : Bible/Si/40
 ---
 
-# Chapitre 40
+# Ecclesiasticus (Sira 40
 
 ###### 1
 Occupatio magna creata est omnibus hominibus, et iugum grave super filios Adam a die exitus de ventre matris eorum usque in diem reditus in matrem omnium:

@@ -1,9 +1,13 @@
 ---
-aliases : Lv 18
+aliases : 
+- Λευϊτικόν 18
+- Lévitique 18
+- Lv 18
+- Leviticus 18
 tags : Bible/Lv/18
 ---
 
-# Chapitre 18
+# Λευϊτικόν 18
 
 ###### 1
 καὶ εἶπεν κύριος πρὸς μωυσῆν λέγων

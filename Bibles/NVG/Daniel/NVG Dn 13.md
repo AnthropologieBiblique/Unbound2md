@@ -1,9 +1,12 @@
 ---
-aliases : Dn 1
+aliases : 
+- Daniel 13
+- Daniel 1
+- Dn 1
 tags : Bible/Dn/1
 ---
 
-# Chapitre 13
+# Daniel 13
 
 ###### 1
 (Hucusque Daniel in Hebraeo volumine legimus. Cetera, quae sequuntur usque ad finem libri, de Theodotionis editione translata sunt). Et erat vir habitans in Ba bylone, et nomen eius Ioa chim; 

@@ -1,9 +1,13 @@
 ---
-aliases : Jr 38
+aliases : 
+- Jeremiah 38
+- Jérémie 38
+- Jr 38
+- Jeremiah 38
 tags : Bible/Jr/38
 ---
 
-# Chapitre 38
+# Jeremiah 38
 
 ###### 1
 Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Juchal filius Selemiæ, et Phassur filius Melchiæ, sermones quos Jeremias loquebatur ad omnem populum, dicens :

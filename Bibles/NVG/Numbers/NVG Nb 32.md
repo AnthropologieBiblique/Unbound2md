@@ -1,9 +1,13 @@
 ---
-aliases : Nb 32
+aliases : 
+- Numbers 32
+- Nombres 32
+- Nb 32
+- Numbers 32
 tags : Bible/Nb/32
 ---
 
-# Chapitre 32
+# Numbers 32
 
 ###### 1
 Filii autem Ruben et Gad habebant pecora multa, et erat illis in iumentis infinita substantia. Cumque vidissent Iazer et Galaad aptas animalibus alendis terras, 

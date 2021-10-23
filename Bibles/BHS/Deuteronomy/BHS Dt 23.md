@@ -1,9 +1,13 @@
 ---
-aliases : Dt 22
+aliases : 
+- Deuteronomy 23
+- Deutéronome 22
+- Dt 22
+- Deuteronomy 22
 tags : Bible/Dt/22
 ---
 
-# Chapitre 23
+# Deuteronomy 23
 
 ###### 1
 לֹא־יִקַּח אִישׁ אֶת־אֵשֶׁת אָבִיו וְלֹא יְגַלֶּה כְּנַף אָבִיו׃ ס

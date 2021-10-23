@@ -1,9 +1,13 @@
 ---
-aliases : Is 3
+aliases : 
+- Isaiah 3
+- Isaïe 3
+- Is 3
+- Isaiah 3
 tags : Bible/Is/3
 ---
 
-# Chapitre 3
+# Isaiah 3
 
 ###### 1
 Ecce enim Dominator, Dominus exercituum, auferet a Jerusalem et a Juda validum et fortem, omne robur panis, et omne robor aquæ ;

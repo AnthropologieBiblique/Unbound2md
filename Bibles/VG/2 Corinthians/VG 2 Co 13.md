@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 13
+aliases : 
+- 2 Corinthians 13
+- 2 Corinthiens 13
+- 2 Co 13
+- 2 Corinthians 13
 tags : Bible/2Co/13
 ---
 
-# Chapitre 13
+# 2 Corinthians 13
 
 ###### 1
 Ecce tertio hoc venio ad vos : in ore duorum vel trium testium stabit omne verbum.

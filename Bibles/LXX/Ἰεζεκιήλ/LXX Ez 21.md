@@ -1,9 +1,13 @@
 ---
-aliases : Ez 20
+aliases : 
+- Ἰεζεκιήλ 21
+- Ézéchiel 20
+- Ez 20
+- Ezekiel 20
 tags : Bible/Ez/20
 ---
 
-# Chapitre 21
+# Ἰεζεκιήλ 21
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

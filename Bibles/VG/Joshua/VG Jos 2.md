@@ -1,9 +1,13 @@
 ---
-aliases : Jos 2
+aliases : 
+- Joshua 2
+- Josué 2
+- Jos 2
+- Joshua 2
 tags : Bible/Jos/2
 ---
 
-# Chapitre 2
+# Joshua 2
 
 ###### 1
 Misit igitur Josue filius Nun de Setim duos viros exploratores in abscondito : et dixit eis : Ite, et considerate terram, urbemque Jericho. Qui pergentes ingressi sunt domum mulieris meretricis, nomine Rahab, et quieverunt apud eam.

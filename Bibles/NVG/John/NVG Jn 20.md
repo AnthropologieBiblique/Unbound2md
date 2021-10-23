@@ -1,9 +1,13 @@
 ---
-aliases : Jn 20
+aliases : 
+- John 20
+- Jean 20
+- Jn 20
+- John 20
 tags : Bible/Jn/20
 ---
 
-# Chapitre 20
+# John 20
 
 ###### 1
 Prima autem sabbatorum Maria Magdalene venit ma ne, cum adhuc tenebrae essent, ad monumentum et videt lapidem sublatum a monumento. 

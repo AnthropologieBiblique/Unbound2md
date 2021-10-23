@@ -1,9 +1,13 @@
 ---
-aliases : Tb 6
+aliases : 
+- Tobit 6
+- Tobie 6
+- Tb 6
+- Tobit 6
 tags : Bible/Tb/6
 ---
 
-# Chapitre 6
+# Tobit 6
 
 ###### 1
 Et cessavit plorare. 

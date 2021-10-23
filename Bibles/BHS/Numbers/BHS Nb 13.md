@@ -1,9 +1,13 @@
 ---
-aliases : Nb 13
+aliases : 
+- Numbers 13
+- Nombres 13
+- Nb 13
+- Numbers 13
 tags : Bible/Nb/13
 ---
 
-# Chapitre 13
+# Numbers 13
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

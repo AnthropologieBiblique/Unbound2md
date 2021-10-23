@@ -1,9 +1,12 @@
 ---
-aliases : Am 2
+aliases : 
+- Amos 2
+- Amos 2
+- Am 2
 tags : Bible/Am/2
 ---
 
-# Chapitre 2
+# Amos 2
 
 ###### 1
 Haec dicit Dominus: “ Super tribus sceleribus Moab et super quattuor verbum non revocabo: eo quod incenderit ossa regis Edom usque ad cinerem,

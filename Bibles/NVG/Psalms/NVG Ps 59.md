@@ -1,9 +1,13 @@
 ---
-aliases : Ps 59
+aliases : 
+- Psalms 59
+- Psaumes 59
+- Ps 59
+- Psalms 59
 tags : Bible/Ps/59
 ---
 
-# Chapitre 59
+# Psalms 59
 
 ###### 1
 Magistro chori. Secundum " Ne destruxeris ". David. Miktam. Quando Saul viros misit, qui domum observarent et eum occiderent.

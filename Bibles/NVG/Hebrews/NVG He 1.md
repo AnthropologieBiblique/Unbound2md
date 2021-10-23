@@ -1,9 +1,13 @@
 ---
-aliases : He 1
+aliases : 
+- Hebrews 1
+- Hébreux 1
+- He 1
+- Hebrews 1
 tags : Bible/He/1
 ---
 
-# Chapitre 1
+# Hebrews 1
 
 ###### 1
 Multifariam et multis modis olim Deus locutus patribus in prophetis, 

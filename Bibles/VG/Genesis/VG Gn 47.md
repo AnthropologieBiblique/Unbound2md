@@ -1,9 +1,13 @@
 ---
-aliases : Gn 47
+aliases : 
+- Genesis 47
+- Genèse 47
+- Gn 47
+- Genesis 47
 tags : Bible/Gn/47
 ---
 
-# Chapitre 47
+# Genesis 47
 
 ###### 1
 Ingressus ergo Joseph nuntiavit Pharaoni, dicens : Pater meus et fratres, oves eorum et armenta, et cuncta quæ possident, venerunt de terra Chanaan : et ecce consistunt in terra Gessen.

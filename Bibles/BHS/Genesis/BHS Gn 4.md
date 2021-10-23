@@ -1,9 +1,13 @@
 ---
-aliases : Gn 4
+aliases : 
+- Genesis 4
+- Genèse 4
+- Gn 4
+- Genesis 4
 tags : Bible/Gn/4
 ---
 
-# Chapitre 4
+# Genesis 4
 
 ###### 1
 וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתֹּו וַתַּהַר וַתֵּלֶד אֶת־קַיִן וַתֹּאמֶר קָנִיתִי אִישׁ אֶת־יְהוָה׃

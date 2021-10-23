@@ -1,9 +1,12 @@
 ---
-aliases : Est 1
+aliases : 
+- Esther 1
+- Esther 1
+- Est 1
 tags : Bible/Est/1
 ---
 
-# Chapitre 1
+# Esther 1
 
 ###### 1
 In diebus Assueri, qui regnavit ab India usque Æthiopiam super centum viginti septem provincias :

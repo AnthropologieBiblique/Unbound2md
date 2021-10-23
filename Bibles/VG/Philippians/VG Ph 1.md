@@ -1,9 +1,13 @@
 ---
-aliases : Ph 1
+aliases : 
+- Philippians 1
+- Philippiens 1
+- Ph 1
+- Philippians 1
 tags : Bible/Ph/1
 ---
 
-# Chapitre 1
+# Philippians 1
 
 ###### 1
 Paulus et Timotheus, servi Jesu Christi, omnibus sanctis in Christo Jesu, qui sunt Philippis, cum episcopis et diaconibus.

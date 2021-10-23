@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 6
+aliases : 
+- Ψαλμοί Σαλoμῶντος 6
+- Psaume extra numerum 6
+- Ps Sal 6
+- Psalm of Solomon 6
 tags : Bible/PsSal/6
 ---
 
-# Chapitre 6
+# Ψαλμοί Σαλoμῶντος 6
 
 ###### 1
 μακάριος ἀνήρ οὗ ἡ καρδία αὐτοῦ ἑτοίμη ἐπικαλέσασθαι τὸ ὄνομα κυρίου ἐν τῷ μνημονεύειν αὐτὸν τὸ ὄνομα κυρίου σωθήσεται

@@ -1,9 +1,12 @@
 ---
-aliases : Od 7
+aliases : 
+- Ὠδαί 7
+- Odes 7
+- Od 7
 tags : Bible/Od/7
 ---
 
-# Chapitre 7
+# Ὠδαί 7
 
 ###### 1a
 προσευχὴ αζαριου

@@ -1,9 +1,13 @@
 ---
-aliases : Lv 21
+aliases : 
+- Leviticus 21
+- Lévitique 21
+- Lv 21
+- Leviticus 21
 tags : Bible/Lv/21
 ---
 
-# Chapitre 21
+# Leviticus 21
 
 ###### 1
 Dixit quoque Dominus ad Moysen : Loquere ad sacerdotes filios Aaron, et dices ad eos : Ne contaminetur sacerdos in mortibus civium suorum,

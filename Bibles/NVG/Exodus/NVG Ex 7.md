@@ -1,9 +1,13 @@
 ---
-aliases : Ex 7
+aliases : 
+- Exodus 7
+- Exode 7
+- Ex 7
+- Exodus 7
 tags : Bible/Ex/7
 ---
 
-# Chapitre 7
+# Exodus 7
 
 ###### 1
 Dixitque Dominus ad Moysen: “ Ecce constitui te deum pha raonis, et Aaron frater tuus erit propheta tuus. 

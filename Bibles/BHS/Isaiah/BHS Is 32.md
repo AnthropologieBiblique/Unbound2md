@@ -1,9 +1,13 @@
 ---
-aliases : Is 32
+aliases : 
+- Isaiah 32
+- Isaïe 32
+- Is 32
+- Isaiah 32
 tags : Bible/Is/32
 ---
 
-# Chapitre 32
+# Isaiah 32
 
 ###### 1
 הֵן לְצֶדֶק יִמְלָךְ־מֶלֶךְ וּלְשָׂרִים לְמִשְׁפָּט יָשֹׂרוּ׃

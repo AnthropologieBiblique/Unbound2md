@@ -1,9 +1,13 @@
 ---
-aliases : Jr 37
+aliases : 
+- Jeremiah 37
+- Jérémie 37
+- Jr 37
+- Jeremiah 37
 tags : Bible/Jr/37
 ---
 
-# Chapitre 37
+# Jeremiah 37
 
 ###### 1
 Et regnavit rex Sedecias filius Iosiae pro Iechonia filio Ioachim; quem constituit regem Nabuchodonosor rex Babylonis in terra Iudae. 

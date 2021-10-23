@@ -1,9 +1,13 @@
 ---
-aliases : Gn 11
+aliases : 
+- Γένεσις 11
+- Genèse 11
+- Gn 11
+- Genesis 11
 tags : Bible/Gn/11
 ---
 
-# Chapitre 11
+# Γένεσις 11
 
 ###### 1
 καὶ ἦν πᾶσα ἡ γῆ χεῖλος ἕν καὶ φωνὴ μία πᾶσιν

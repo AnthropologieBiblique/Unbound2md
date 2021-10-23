@@ -1,9 +1,13 @@
 ---
-aliases : Jc 2
+aliases : 
+- James 2
+- Jacques 2
+- Jc 2
+- James 2
 tags : Bible/Jc/2
 ---
 
-# Chapitre 2
+# James 2
 
 ###### 1
 Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Jesu Christi gloriæ.

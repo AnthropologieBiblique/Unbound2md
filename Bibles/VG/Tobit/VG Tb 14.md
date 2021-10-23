@@ -1,9 +1,13 @@
 ---
-aliases : Tb 14
+aliases : 
+- Tobit 14
+- Tobie 14
+- Tb 14
+- Tobit 14
 tags : Bible/Tb/14
 ---
 
-# Chapitre 14
+# Tobit 14
 
 ###### 1
 Et consummati sunt sermones Tobiæ. Et postquam illuminatus est Tobias, vixit annis quadraginta duobus, et vidit filios nepotum suorum.

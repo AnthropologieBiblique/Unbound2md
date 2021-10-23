@@ -1,9 +1,13 @@
 ---
-aliases : Ga 1
+aliases : 
+- Galatians 1
+- Galates 1
+- Ga 1
+- Galatians 1
 tags : Bible/Ga/1
 ---
 
-# Chapitre 1
+# Galatians 1
 
 ###### 1
 Paulus apostolus, non ab ho minibus neque per hominem, sed per Iesum Christum et Deum Patrem, qui suscitavit eum a mortuis, 

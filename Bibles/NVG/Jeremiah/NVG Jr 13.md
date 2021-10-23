@@ -1,9 +1,13 @@
 ---
-aliases : Jr 13
+aliases : 
+- Jeremiah 13
+- Jérémie 13
+- Jr 13
+- Jeremiah 13
 tags : Bible/Jr/13
 ---
 
-# Chapitre 13
+# Jeremiah 13
 
 ###### 1
 Haec dixit Dominus ad me: “ Vade et posside tibi lumba re lineum et pones illud super lumbos tuos et in aquam non inferes illud ”. 

@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 10
+aliases : 
+- 1 Maccabees 10
+- 1 Maccabees 10
+- 1 M 10
 tags : Bible/1M/10
 ---
 
-# Chapitre 10
+# 1 Maccabees 10
 
 ###### 1
 Et anno centesimo sexage simo ascendit Alexander An tiochi filius, Epiphanes, et occupavit Ptolemaidam; et receperunt eum, et regnavit illic. 

@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 21
+aliases : 
+- 2 Chronicles 21
+- 2 Chroniques 21
+- 2 Ch 21
+- 2 Chronicles 21
 tags : Bible/2Ch/21
 ---
 
-# Chapitre 21
+# 2 Chronicles 21
 
 ###### 1
 וַיִּשְׁכַּב יְהֹושָׁפָט עִם־אֲבֹתָיו וַיִּקָּבֵר עִם־אֲבֹתָיו בְּעִיר דָּוִיד וַיִּמְלֹךְ יְהֹורָם בְּנֹו תַּחְתָּיו׃

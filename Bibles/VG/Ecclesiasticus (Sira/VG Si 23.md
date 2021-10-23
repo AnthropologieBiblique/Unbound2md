@@ -1,9 +1,13 @@
 ---
-aliases : Si 23
+aliases : 
+- Ecclesiasticus (Sira 23
+- Siracide 23
+- Si 23
+- Ecclesiasticus (Sira 23
 tags : Bible/Si/23
 ---
 
-# Chapitre 23
+# Ecclesiasticus (Sira 23
 
 ###### 1
 Domine, pater et dominator vitæ meæ, ne derelinquas me in consilio eorum, nec sinas me cadere in illis.

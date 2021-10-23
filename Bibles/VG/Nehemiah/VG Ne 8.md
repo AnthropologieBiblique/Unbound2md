@@ -1,9 +1,13 @@
 ---
-aliases : Ne 8
+aliases : 
+- Nehemiah 8
+- Néhémie 8
+- Ne 8
+- Nehemiah 8
 tags : Bible/Ne/8
 ---
 
-# Chapitre 8
+# Nehemiah 8
 
 ###### 1
 Et venerat mensis septimus : filii autem Israël erant in civitatibus suis. Congregatusque est omnis populus quasi vir unus ad plateam, quæ est ante portam aquarum : et dixerunt Esdræ scribæ ut afferret librum legis Moysi, quam præceperat Dominus Israëli.

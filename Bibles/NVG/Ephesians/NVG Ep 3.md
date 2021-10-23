@@ -1,9 +1,13 @@
 ---
-aliases : Ep 3
+aliases : 
+- Ephesians 3
+- Éphésiens 3
+- Ep 3
+- Ephesians 3
 tags : Bible/Ep/3
 ---
 
-# Chapitre 3
+# Ephesians 3
 
 ###### 1
 Huius rei gratia, ego Paulus, vinctus Christi Iesu pro vobis gentibus — 

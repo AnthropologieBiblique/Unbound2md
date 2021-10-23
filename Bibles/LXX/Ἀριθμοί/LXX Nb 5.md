@@ -1,9 +1,13 @@
 ---
-aliases : Nb 5
+aliases : 
+- Ἀριθμοί 5
+- Nombres 5
+- Nb 5
+- Numbers 5
 tags : Bible/Nb/5
 ---
 
-# Chapitre 5
+# Ἀριθμοί 5
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

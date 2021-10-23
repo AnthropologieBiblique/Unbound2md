@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 11
+aliases : 
+- 2 Chronicles 11
+- 2 Chroniques 11
+- 2 Ch 11
+- 2 Chronicles 11
 tags : Bible/2Ch/11
 ---
 
-# Chapitre 11
+# 2 Chronicles 11
 
 ###### 1
 Venit autem Roboam in Jerusalem, et convocavit universam domum Juda et Benjamin, centum octoginta millia electorum atque bellantium, ut dimicaret contra Israël, et converteret ad se regnum suum.

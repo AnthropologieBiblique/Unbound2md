@@ -1,9 +1,13 @@
 ---
-aliases : Ps 109
+aliases : 
+- Psalms 109
+- Psaumes 109
+- Ps 109
+- Psalms 109
 tags : Bible/Ps/109
 ---
 
-# Chapitre 109
+# Psalms 109
 
 ###### 1
 Magistro chori. David. PSALMUS. Deus laudis meae, ne tacueris,

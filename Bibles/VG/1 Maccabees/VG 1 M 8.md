@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 8
+aliases : 
+- 1 Maccabees 8
+- 1 Maccabees 8
+- 1 M 8
 tags : Bible/1M/8
 ---
 
-# Chapitre 8
+# 1 Maccabees 8
 
 ###### 1
 Et audivit Judas nomen Romanorum, quia sunt potentes viribus, et acquiescunt ad omnia quæ postulantur ab eis, et quicumque accesserunt ad eos, statuerunt cum eis amicitias : et quia sunt potentes viribus.

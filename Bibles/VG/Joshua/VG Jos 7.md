@@ -1,9 +1,13 @@
 ---
-aliases : Jos 7
+aliases : 
+- Joshua 7
+- Josué 7
+- Jos 7
+- Joshua 7
 tags : Bible/Jos/7
 ---
 
-# Chapitre 7
+# Joshua 7
 
 ###### 1
 Filii autem Israël prævaricati sunt mandatum, et usurpaverunt de anathemate. Nam Achan filius Charmi filii Zabdi filii Zare de tribu Juda tulit aliquid de anathemate : iratusque est Dominus contra filios Israël.

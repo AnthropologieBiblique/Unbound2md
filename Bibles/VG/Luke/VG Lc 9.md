@@ -1,9 +1,13 @@
 ---
-aliases : Lc 9
+aliases : 
+- Luke 9
+- Luc 9
+- Lc 9
+- Luke 9
 tags : Bible/Lc/9
 ---
 
-# Chapitre 9
+# Luke 9
 
 ###### 1
 Convocatis autem duodecim Apostolis, dedit illis virtutem et potestatem super omnia dæmonia, et ut languores curarent.

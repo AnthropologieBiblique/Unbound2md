@@ -1,9 +1,13 @@
 ---
-aliases : Ne 5
+aliases : 
+- Nehemiah 5
+- Néhémie 5
+- Ne 5
+- Nehemiah 5
 tags : Bible/Ne/5
 ---
 
-# Chapitre 5
+# Nehemiah 5
 
 ###### 1
 וַתְּהִי צַעֲקַת הָעָם וּנְשֵׁיהֶם גְּדֹולָה אֶל־אֲחֵיהֶם הַיְּהוּדִים׃

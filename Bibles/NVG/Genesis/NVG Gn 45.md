@@ -1,9 +1,13 @@
 ---
-aliases : Gn 45
+aliases : 
+- Genesis 45
+- Genèse 45
+- Gn 45
+- Genesis 45
 tags : Bible/Gn/45
 ---
 
-# Chapitre 45
+# Genesis 45
 
 ###### 1
 Non se poterat ultra cohibere Ioseph omnibus coram astantibus, unde clamavit: “ Egredimini, cuncti, foras! ”. Et nemo aderat cum eo, quando manifestavit se fratribus suis. 

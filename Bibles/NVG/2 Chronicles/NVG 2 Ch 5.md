@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 5
+aliases : 
+- 2 Chronicles 5
+- 2 Chroniques 5
+- 2 Ch 5
+- 2 Chronicles 5
 tags : Bible/2Ch/5
 ---
 
-# Chapitre 5
+# 2 Chronicles 5
 
 ###### 1
 Sicque completum est omne opus, quod fecit Salomon in do mo Domini. Intulit igitur Salomon omnia, quae voverat David pater suus, argentum et aurum, et universa vasa posuit in thesauris domus Dei.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 49
+aliases : 
+- Psalms 49
+- Psaumes 49
+- Ps 49
+- Psalms 49
 tags : Bible/Ps/49
 ---
 
-# Chapitre 49
+# Psalms 49
 
 ###### 1
 Magistro chori. Filiorum Core. PSALMUS.

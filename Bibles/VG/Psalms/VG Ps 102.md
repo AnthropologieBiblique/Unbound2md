@@ -1,9 +1,13 @@
 ---
-aliases : Ps 103
+aliases : 
+- Psalms 102
+- Psaumes 103
+- Ps 103
+- Psalms 103
 tags : Bible/Ps/103
 ---
 
-# Chapitre 102
+# Psalms 102
 
 ###### 1
 Ipsi David. Benedic, anima mea, Domino, et omnia quæ intra me sunt nomini sancto ejus.

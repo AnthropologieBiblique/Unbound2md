@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 1
+aliases : 
+- Παραλειπομένων Αʹ 1
+- 1 Chroniques 1
+- 1 Ch 1
+- 1 Chronicles 1
 tags : Bible/1Ch/1
 ---
 
-# Chapitre 1
+# Παραλειπομένων Αʹ 1
 
 ###### 1
 αδαμ σηθ ενως

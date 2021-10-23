@@ -1,9 +1,13 @@
 ---
-aliases : Lv 23
+aliases : 
+- Λευϊτικόν 23
+- Lévitique 23
+- Lv 23
+- Leviticus 23
 tags : Bible/Lv/23
 ---
 
-# Chapitre 23
+# Λευϊτικόν 23
 
 ###### 1
 καὶ εἶπεν κύριος πρὸς μωυσῆν λέγων

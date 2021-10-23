@@ -1,9 +1,13 @@
 ---
-aliases : Ex 1
+aliases : 
+- Exodus 1
+- Exode 1
+- Ex 1
+- Exodus 1
 tags : Bible/Ex/1
 ---
 
-# Chapitre 1
+# Exodus 1
 
 ###### 1
 Haec sunt nomina filiorum Is rael, qui ingressi sunt Aegyp tum cum Iacob; singuli cum domibus suis introierunt: 

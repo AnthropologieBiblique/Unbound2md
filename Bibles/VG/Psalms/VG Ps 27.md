@@ -1,9 +1,13 @@
 ---
-aliases : Ps 28
+aliases : 
+- Psalms 27
+- Psaumes 28
+- Ps 28
+- Psalms 28
 tags : Bible/Ps/28
 ---
 
-# Chapitre 27
+# Psalms 27
 
 ###### 1
 Psalmus ipsi David. Ad te, Domine, clamabo ; Deus meus, ne sileas a me : nequando taceas a me, et assimilabor descendentibus in lacum.

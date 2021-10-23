@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 3
+aliases : 
+- Judith 3
+- Judith 3
+- Jdt 3
 tags : Bible/Jdt/3
 ---
 
-# Chapitre 3
+# Judith 3
 
 ###### 1
 Tunc miserunt legatos suos universarum urbium, ac provinciarum reges ac principes, Syriæ scilicet Mesopotamiæ, et Syriæ Sobal, et Libyæ, atque Ciliciæ, qui venientes ad Holofernem, dixerunt :

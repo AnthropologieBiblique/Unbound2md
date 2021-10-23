@@ -1,9 +1,13 @@
 ---
-aliases : Ps 93
+aliases : 
+- Psalms 93
+- Psaumes 93
+- Ps 93
+- Psalms 93
 tags : Bible/Ps/93
 ---
 
-# Chapitre 93
+# Psalms 93
 
 ###### 1
 Dominus regnavit! Decorem indutus est; indutus est Dominus, fortitudine praecinxit se. Etenim firmavit orbem terrae, qui non commovebitur.

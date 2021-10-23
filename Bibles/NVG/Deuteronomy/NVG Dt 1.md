@@ -1,9 +1,13 @@
 ---
-aliases : Dt 1
+aliases : 
+- Deuteronomy 1
+- Deutéronome 1
+- Dt 1
+- Deuteronomy 1
 tags : Bible/Dt/1
 ---
 
-# Chapitre 1
+# Deuteronomy 1
 
 ###### 1
 Haec sunt verba, quae locutus est Moyses ad omnem Israel trans Iordanem in solitudine, in Araba contra Suph, inter Pharan et Thophel et Laban et Aseroth et Dizahab. 

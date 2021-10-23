@@ -1,9 +1,13 @@
 ---
-aliases : Ps 47
+aliases : 
+- Psalms 47
+- Psaumes 47
+- Ps 47
+- Psalms 47
 tags : Bible/Ps/47
 ---
 
-# Chapitre 47
+# Psalms 47
 
 ###### 1
 לַמְנַצֵּחַ לִבְנֵי־קֹרַח מִזְמֹור׃

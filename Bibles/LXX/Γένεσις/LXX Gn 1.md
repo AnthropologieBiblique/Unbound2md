@@ -1,9 +1,13 @@
 ---
-aliases : Gn 1
+aliases : 
+- Γένεσις 1
+- Genèse 1
+- Gn 1
+- Genesis 1
 tags : Bible/Gn/1
 ---
 
-# Chapitre 1
+# Γένεσις 1
 
 ###### 1
 ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν

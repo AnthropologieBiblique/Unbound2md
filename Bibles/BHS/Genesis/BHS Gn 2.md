@@ -1,9 +1,13 @@
 ---
-aliases : Gn 2
+aliases : 
+- Genesis 2
+- Genèse 2
+- Gn 2
+- Genesis 2
 tags : Bible/Gn/2
 ---
 
-# Chapitre 2
+# Genesis 2
 
 ###### 1
 וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל־צְבָאָם׃

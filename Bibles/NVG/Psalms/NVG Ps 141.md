@@ -1,9 +1,13 @@
 ---
-aliases : Ps 141
+aliases : 
+- Psalms 141
+- Psaumes 141
+- Ps 141
+- Psalms 141
 tags : Bible/Ps/141
 ---
 
-# Chapitre 141
+# Psalms 141
 
 ###### 1
 PSALMUS. David. Domine, clamavi ad te, ad me festina; intende voci meae, cum clamo ad te.

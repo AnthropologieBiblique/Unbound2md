@@ -1,9 +1,13 @@
 ---
-aliases : Mc 11
+aliases : 
+- Mark 11
+- Marc 11
+- Mc 11
+- Mark 11
 tags : Bible/Mc/11
 ---
 
-# Chapitre 11
+# Mark 11
 
 ###### 1
 Et cum appropinquarent Jerosolymæ et Bethaniæ ad montem Olivarum, mittit duos ex discipulis suis,

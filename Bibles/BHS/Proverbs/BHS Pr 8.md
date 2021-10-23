@@ -1,9 +1,13 @@
 ---
-aliases : Pr 8
+aliases : 
+- Proverbs 8
+- Proverbes 8
+- Pr 8
+- Proverbs 8
 tags : Bible/Pr/8
 ---
 
-# Chapitre 8
+# Proverbs 8
 
 ###### 1
 הֲלֹא־חָכְמָה תִקְרָא וּתְבוּנָה תִּתֵּן קֹולָהּ׃

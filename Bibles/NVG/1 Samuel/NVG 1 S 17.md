@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 17
+aliases : 
+- 1 Samuel 17
+- 1 Samuel 17
+- 1 S 17
 tags : Bible/1S/17
 ---
 
-# Chapitre 17
+# 1 Samuel 17
 
 ###### 1
 Congregantes vero Phili sthim agmina sua in proe lium, convenerunt in Socho Iudae et castrametati sunt inter Socho et Azeca in Aphesdommim. 

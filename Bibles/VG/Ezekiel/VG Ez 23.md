@@ -1,9 +1,13 @@
 ---
-aliases : Ez 23
+aliases : 
+- Ezekiel 23
+- Ézéchiel 23
+- Ez 23
+- Ezekiel 23
 tags : Bible/Ez/23
 ---
 
-# Chapitre 23
+# Ezekiel 23
 
 ###### 1
 Et factus est sermo Domini ad me, dicens :

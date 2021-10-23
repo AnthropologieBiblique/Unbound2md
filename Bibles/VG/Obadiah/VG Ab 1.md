@@ -1,9 +1,13 @@
 ---
-aliases : Ab 1
+aliases : 
+- Obadiah 1
+- Abdias 1
+- Ab 1
+- Obadiah 1
 tags : Bible/Ab/1
 ---
 
-# Chapitre 1
+# Obadiah 1
 
 ###### 1
 Visio Abdiæ. Hæc dicit Dominus Deus ad Edom : Auditum audivimus a Domino, et legatum ad gentes misit : surgite, et consurgamus adversus eum in prælium.

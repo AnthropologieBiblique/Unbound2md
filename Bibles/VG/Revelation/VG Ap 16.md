@@ -1,9 +1,13 @@
 ---
-aliases : Ap 16
+aliases : 
+- Revelation 16
+- Apocalypse 16
+- Ap 16
+- Revelation 16
 tags : Bible/Ap/16
 ---
 
-# Chapitre 16
+# Revelation 16
 
 ###### 1
 Et audivi vocem magnam de templo, dicentem septem angelis : Ite, et effundite septem phialas iræ Dei in terram.

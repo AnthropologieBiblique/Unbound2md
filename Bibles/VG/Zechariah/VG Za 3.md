@@ -1,9 +1,13 @@
 ---
-aliases : Za 3
+aliases : 
+- Zechariah 3
+- Zacharie 3
+- Za 3
+- Zechariah 3
 tags : Bible/Za/3
 ---
 
-# Chapitre 3
+# Zechariah 3
 
 ###### 1
 Et ostendit mihi Dominus Jesum sacerdotem magnum, stantem coram angelo Domini : et Satan stabat a dextris ejus ut adversaretur ei.

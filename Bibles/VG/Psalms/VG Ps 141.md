@@ -1,9 +1,13 @@
 ---
-aliases : Ps 142
+aliases : 
+- Psalms 141
+- Psaumes 142
+- Ps 142
+- Psalms 142
 tags : Bible/Ps/142
 ---
 
-# Chapitre 141
+# Psalms 141
 
 ###### 1
 Intellectus David, cum esset in spelunca, oratio.

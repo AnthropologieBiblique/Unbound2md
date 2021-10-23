@@ -1,9 +1,13 @@
 ---
-aliases : Lv 5
+aliases : 
+- Leviticus 5
+- Lévitique 5
+- Lv 5
+- Leviticus 5
 tags : Bible/Lv/5
 ---
 
-# Chapitre 5
+# Leviticus 5
 
 ###### 1
 Si peccaverit anima, et audierit vocem jurantis, testisque fuerit quod aut ipse vidit, aut conscius est : nisi indicaverit, portabit iniquitatem suam.

@@ -1,9 +1,13 @@
 ---
-aliases : Lv 3
+aliases : 
+- Leviticus 3
+- Lévitique 3
+- Lv 3
+- Leviticus 3
 tags : Bible/Lv/3
 ---
 
-# Chapitre 3
+# Leviticus 3
 
 ###### 1
 וְאִם־זֶבַח שְׁלָמִים קָרְבָּנֹו אִם מִן־הַבָּקָר הוּא מַקְרִיב אִם־זָכָר אִם־נְקֵבָה תָּמִים יַקְרִיבֶנּוּ לִפְנֵי יְהוָה׃

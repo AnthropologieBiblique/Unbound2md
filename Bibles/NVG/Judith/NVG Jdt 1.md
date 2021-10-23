@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 1
+aliases : 
+- Judith 1
+- Judith 1
+- Jdt 1
 tags : Bible/Jdt/1
 ---
 
-# Chapitre 1
+# Judith 1
 
 ###### 1
 Anno duodecimo regni Nabu chodonosor, qui regnavit in As syriis in Nineve civitate magna, in diebus Arphaxad, qui regnavit in Medis in Ecbatanis 

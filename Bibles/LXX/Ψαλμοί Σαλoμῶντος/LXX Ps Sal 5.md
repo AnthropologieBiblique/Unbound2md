@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 5
+aliases : 
+- Ψαλμοί Σαλoμῶντος 5
+- Psaume extra numerum 5
+- Ps Sal 5
+- Psalm of Solomon 5
 tags : Bible/PsSal/5
 ---
 
-# Chapitre 5
+# Ψαλμοί Σαλoμῶντος 5
 
 ###### 1
 κύριε ὁ θεός αἰνέσω τῷ ὀνόματί σου ἐν ἀγαλλιάσει ἐν μέσῳ ἐπισταμένων τὰ κρίματά σου τὰ δίκαια

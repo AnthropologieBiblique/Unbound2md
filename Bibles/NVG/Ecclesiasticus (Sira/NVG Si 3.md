@@ -1,9 +1,13 @@
 ---
-aliases : Si 3
+aliases : 
+- Ecclesiasticus (Sira 3
+- Siracide 3
+- Si 3
+- Ecclesiasticus (Sira 3
 tags : Bible/Si/3
 ---
 
-# Chapitre 3
+# Ecclesiasticus (Sira 3
 
 ###### 1
 Filii sapientiae ecclesia iustorum, et natio illorum oboedientia et dilectio.

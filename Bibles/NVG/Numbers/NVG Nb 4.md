@@ -1,9 +1,13 @@
 ---
-aliases : Nb 4
+aliases : 
+- Numbers 4
+- Nombres 4
+- Nb 4
+- Numbers 4
 tags : Bible/Nb/4
 ---
 
-# Chapitre 4
+# Numbers 4
 
 ###### 1
 Locutusque est Dominus ad Moysen et Aaron dicens: 

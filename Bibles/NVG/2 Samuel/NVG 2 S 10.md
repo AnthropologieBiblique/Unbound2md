@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 10
+aliases : 
+- 2 Samuel 10
+- 2 Samuel 10
+- 2 S 10
 tags : Bible/2S/10
 ---
 
-# Chapitre 10
+# 2 Samuel 10
 
 ###### 1
 Factum est autem post haec, ut moreretur rex filiorum Ammon, et regnaret Hanon filius eius pro eo. 

@@ -1,9 +1,13 @@
 ---
-aliases : Col 2
+aliases : 
+- Colossians 2
+- Colossiens 2
+- Col 2
+- Colossians 2
 tags : Bible/Col/2
 ---
 
-# Chapitre 2
+# Colossians 2
 
 ###### 1
 Volo enim vos scire qualem sollicitudinem habeam pro vo bis et pro his, qui sunt Laodiciae, et quicumque non viderunt faciem meam in carne, 

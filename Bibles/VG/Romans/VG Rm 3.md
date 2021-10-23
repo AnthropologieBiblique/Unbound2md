@@ -1,9 +1,13 @@
 ---
-aliases : Rm 3
+aliases : 
+- Romans 3
+- Romains 3
+- Rm 3
+- Romans 3
 tags : Bible/Rm/3
 ---
 
-# Chapitre 3
+# Romans 3
 
 ###### 1
 Quid ergo amplius Judæo est ? aut quæ utilitas circumcisionis ?

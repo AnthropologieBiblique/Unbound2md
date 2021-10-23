@@ -1,9 +1,13 @@
 ---
-aliases : Si 15
+aliases : 
+- Ecclesiasticus (Sira 15
+- Siracide 15
+- Si 15
+- Ecclesiasticus (Sira 15
 tags : Bible/Si/15
 ---
 
-# Chapitre 15
+# Ecclesiasticus (Sira 15
 
 ###### 1
 Qui timet Deum faciet bona, et qui continens est justitiæ apprehendet illam :

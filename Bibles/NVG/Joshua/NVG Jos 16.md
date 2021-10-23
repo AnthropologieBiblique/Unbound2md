@@ -1,9 +1,13 @@
 ---
-aliases : Jos 16
+aliases : 
+- Joshua 16
+- Josué 16
+- Jos 16
+- Joshua 16
 tags : Bible/Jos/16
 ---
 
-# Chapitre 16
+# Joshua 16
 
 ###### 1
 Cecidit quoque sors filiorum Ioseph ab Iordane contra Ie richo et aquas eius ab oriente, solitudo, quae ascendit de Iericho ad montem Bethel 

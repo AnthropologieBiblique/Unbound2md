@@ -1,9 +1,13 @@
 ---
-aliases : Ex 37
+aliases : 
+- Exodus 37
+- Exode 37
+- Ex 37
+- Exodus 37
 tags : Bible/Ex/37
 ---
 
-# Chapitre 37
+# Exodus 37
 
 ###### 1
 Fecit autem Beseleel et ar cam de lignis acaciae haben tem duos semis cubitos in longitudine et cubitum ac semissem in latitudine, altitudo quoque unius cubiti fuit et dimidii; vestivitque eam auro purissimo intus ac foris. 

@@ -1,9 +1,12 @@
 ---
-aliases : Am 6
+aliases : 
+- Amos 6
+- Amos 6
+- Am 6
 tags : Bible/Am/6
 ---
 
-# Chapitre 6
+# Amos 6
 
 ###### 1
 Vae, qui tranquilli sunt in Sion et confidunt in monte Samariae; designati primitiae populorum, ad quos venit domus Israel!

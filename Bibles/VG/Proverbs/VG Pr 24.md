@@ -1,9 +1,13 @@
 ---
-aliases : Pr 24
+aliases : 
+- Proverbs 24
+- Proverbes 24
+- Pr 24
+- Proverbs 24
 tags : Bible/Pr/24
 ---
 
-# Chapitre 24
+# Proverbs 24
 
 ###### 1
 Ne æmuleris viros malos, nec desideres esse cum eis ;

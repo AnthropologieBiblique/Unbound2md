@@ -1,9 +1,13 @@
 ---
-aliases : Jos 19
+aliases : 
+- Joshua 19
+- Josué 19
+- Jos 19
+- Joshua 19
 tags : Bible/Jos/19
 ---
 
-# Chapitre 19
+# Joshua 19
 
 ###### 1
 Et egressa est sors secunda fi liorum Simeon per cognatio nes suas; fuitque hereditas 

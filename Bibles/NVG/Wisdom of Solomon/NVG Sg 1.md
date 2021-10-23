@@ -1,9 +1,13 @@
 ---
-aliases : Sg 1
+aliases : 
+- Wisdom of Solomon 1
+- Sagesse 1
+- Sg 1
+- Wisdom of Solomon 1
 tags : Bible/Sg/1
 ---
 
-# Chapitre 1
+# Wisdom of Solomon 1
 
 ###### 1
 Diligite iustitiam, qui iudicatis terram, sentite de Domino in bonitate et in simplicitate cordis quaerite illum,

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 87
+aliases : 
+- Psalms 86
+- Psaumes 87
+- Ps 87
+- Psalms 87
 tags : Bible/Ps/87
 ---
 
-# Chapitre 86
+# Psalms 86
 
 ###### 1
 Filiis Core. Psalmus cantici. Fundamenta ejus in montibus sanctis ;

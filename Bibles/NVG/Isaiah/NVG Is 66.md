@@ -1,9 +1,13 @@
 ---
-aliases : Is 66
+aliases : 
+- Isaiah 66
+- Isaïe 66
+- Is 66
+- Isaiah 66
 tags : Bible/Is/66
 ---
 
-# Chapitre 66
+# Isaiah 66
 
 ###### 1
 Haec dicit Dominus: “ Caelum thronus meus, terra autem scabellum pedum meorum. Quae ista domus, quam aedificabitis mihi, et quis iste locus quietis meae?

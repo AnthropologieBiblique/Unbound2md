@@ -1,9 +1,13 @@
 ---
-aliases : Jos 13
+aliases : 
+- Joshua 13
+- Josué 13
+- Jos 13
+- Joshua 13
 tags : Bible/Jos/13
 ---
 
-# Chapitre 13
+# Joshua 13
 
 ###### 1
 Josue senex provectæque ætatis erat, et dixit Dominus ad eum : Senuisti, et longævus es, terraque latissima derelicta est, quæ necdum sorte divisa est :

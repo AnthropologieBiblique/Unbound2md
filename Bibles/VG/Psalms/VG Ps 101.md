@@ -1,9 +1,13 @@
 ---
-aliases : Ps 102
+aliases : 
+- Psalms 101
+- Psaumes 102
+- Ps 102
+- Psalms 102
 tags : Bible/Ps/102
 ---
 
-# Chapitre 101
+# Psalms 101
 
 ###### 1
 Oratio pauperis, cum anxius fuerit, et in conspectu Domini effuderit precem suam.

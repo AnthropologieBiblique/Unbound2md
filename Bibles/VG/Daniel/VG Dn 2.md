@@ -1,9 +1,12 @@
 ---
-aliases : Dn 2
+aliases : 
+- Daniel 2
+- Daniel 2
+- Dn 2
 tags : Bible/Dn/2
 ---
 
-# Chapitre 2
+# Daniel 2
 
 ###### 1
 In anno secundo regni Nabuchodonosor, vidit Nabuchodonosor somnium, et conterritus est spiritus ejus, et somnium ejus fugit ab eo.

@@ -1,9 +1,13 @@
 ---
-aliases : Jn 17
+aliases : 
+- John 17
+- Jean 17
+- Jn 17
+- John 17
 tags : Bible/Jn/17
 ---
 
-# Chapitre 17
+# John 17
 
 ###### 1
 Hæc locutus est Jesus : et sublevatis oculis in cælum, dixit : Pater, venit hora : clarifica Filium tuum, ut Filius tuus clarificet te :

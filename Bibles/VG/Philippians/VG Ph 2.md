@@ -1,9 +1,13 @@
 ---
-aliases : Ph 2
+aliases : 
+- Philippians 2
+- Philippiens 2
+- Ph 2
+- Philippians 2
 tags : Bible/Ph/2
 ---
 
-# Chapitre 2
+# Philippians 2
 
 ###### 1
 Si qua ergo consolatio in Christo, si quod solatium caritatis, si qua societas spiritus, si qua viscera miserationis :

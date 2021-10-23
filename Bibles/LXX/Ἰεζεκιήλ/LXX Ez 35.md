@@ -1,9 +1,13 @@
 ---
-aliases : Ez 35
+aliases : 
+- Ἰεζεκιήλ 35
+- Ézéchiel 35
+- Ez 35
+- Ezekiel 35
 tags : Bible/Ez/35
 ---
 
-# Chapitre 35
+# Ἰεζεκιήλ 35
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

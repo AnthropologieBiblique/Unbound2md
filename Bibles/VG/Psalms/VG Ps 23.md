@@ -1,9 +1,13 @@
 ---
-aliases : Ps 24
+aliases : 
+- Psalms 23
+- Psaumes 24
+- Ps 24
+- Psalms 24
 tags : Bible/Ps/24
 ---
 
-# Chapitre 23
+# Psalms 23
 
 ###### 1
 Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus ; orbis terrarum, et universi qui habitant in eo.

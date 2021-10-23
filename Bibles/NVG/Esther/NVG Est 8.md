@@ -1,9 +1,12 @@
 ---
-aliases : Est 8
+aliases : 
+- Esther 8
+- Esther 8
+- Est 8
 tags : Bible/Est/8
 ---
 
-# Chapitre 8
+# Esther 8
 
 ###### 1
 Die illo dedit rex Asuerus Esther reginae domum Aman adversarii Iudaeorum, et Mardochaeus ingressus est ante faciem regis; confessa est enim ei Esther quid esset sibi. 

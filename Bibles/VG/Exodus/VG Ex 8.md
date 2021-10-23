@@ -1,9 +1,13 @@
 ---
-aliases : Ex 8
+aliases : 
+- Exodus 8
+- Exode 8
+- Ex 8
+- Exodus 8
 tags : Bible/Ex/8
 ---
 
-# Chapitre 8
+# Exodus 8
 
 ###### 1
 Dixit quoque Dominus ad Moysen : Ingredere ad Pharaonem, et dices ad eum : Hæc dicit Dominus : Dimitte populum meum, ut sacrificet mihi :

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 23
+aliases : 
+- Ἰώβ 23
+- Job 23
+- Jb 23
 tags : Bible/Jb/23
 ---
 
-# Chapitre 23
+# Ἰώβ 23
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

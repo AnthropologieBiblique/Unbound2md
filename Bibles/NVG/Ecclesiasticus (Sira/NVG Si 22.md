@@ -1,9 +1,13 @@
 ---
-aliases : Si 22
+aliases : 
+- Ecclesiasticus (Sira 22
+- Siracide 22
+- Si 22
+- Ecclesiasticus (Sira 22
 tags : Bible/Si/22
 ---
 
-# Chapitre 22
+# Ecclesiasticus (Sira 22
 
 ###### 1
 Lapidi luteo comparatus est piger, et omnes sibilabunt super aspernationem illius;

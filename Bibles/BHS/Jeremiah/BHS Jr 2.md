@@ -1,9 +1,13 @@
 ---
-aliases : Jr 2
+aliases : 
+- Jeremiah 2
+- Jérémie 2
+- Jr 2
+- Jeremiah 2
 tags : Bible/Jr/2
 ---
 
-# Chapitre 2
+# Jeremiah 2
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

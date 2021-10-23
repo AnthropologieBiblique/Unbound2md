@@ -1,9 +1,13 @@
 ---
-aliases : Pr 27
+aliases : 
+- Proverbs 27
+- Proverbes 27
+- Pr 27
+- Proverbs 27
 tags : Bible/Pr/27
 ---
 
-# Chapitre 27
+# Proverbs 27
 
 ###### 1
 אַל־תִּתְהַלֵּל בְּיֹום מָחָר כִּי לֹא־תֵדַע מַה־יֵּלֶד יֹום׃

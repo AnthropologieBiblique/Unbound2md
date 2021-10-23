@@ -1,9 +1,13 @@
 ---
-aliases : Is 48
+aliases : 
+- Isaiah 48
+- Isaïe 48
+- Is 48
+- Isaiah 48
 tags : Bible/Is/48
 ---
 
-# Chapitre 48
+# Isaiah 48
 
 ###### 1
 Audite hoc, domus Iacob, qui vocamini nomine Israel et de aquis Iudae existis, qui iuratis in nomine Domini et Deum Israel invocatis non in veritate neque in iustitia.

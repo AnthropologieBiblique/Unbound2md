@@ -1,9 +1,13 @@
 ---
-aliases : Si 44
+aliases : 
+- Ecclesiasticus (Sira 44
+- Siracide 44
+- Si 44
+- Ecclesiasticus (Sira 44
 tags : Bible/Si/44
 ---
 
-# Chapitre 44
+# Ecclesiasticus (Sira 44
 
 ###### 1
 Laudemus viros gloriosos, et parentes nostros in generatione sua.

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 16
+aliases : 
+- Job 16
+- Job 16
+- Jb 16
 tags : Bible/Jb/16
 ---
 
-# Chapitre 16
+# Job 16
 
 ###### 1
 וַיַּעַן אִיֹּוב וַיֹּאמַר׃

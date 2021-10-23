@@ -1,9 +1,13 @@
 ---
-aliases : Pr 20
+aliases : 
+- Proverbs 20
+- Proverbes 20
+- Pr 20
+- Proverbs 20
 tags : Bible/Pr/20
 ---
 
-# Chapitre 20
+# Proverbs 20
 
 ###### 1
 Luxuriosa res vinum, et tumultuosa ebrietas : quicumque his delectatur non erit sapiens.

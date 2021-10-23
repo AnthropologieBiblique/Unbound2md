@@ -1,9 +1,13 @@
 ---
-aliases : Qo 1
+aliases : 
+- Ecclesiastes 1
+- Ecclésiaste 1
+- Qo 1
+- Ecclesiastes 1
 tags : Bible/Qo/1
 ---
 
-# Chapitre 1
+# Ecclesiastes 1
 
 ###### 1
 Verba Ecclesiastæ, filii David, regis Jerusalem.

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 17
+aliases : 
+- Numbers 17
+- Nombres 17
+- Nb 17
+- Numbers 17
 tags : Bible/Nb/17
 ---
 
-# Chapitre 17
+# Numbers 17
 
 ###### 1
 Et locutus est Dominus ad Moysen, dicens :

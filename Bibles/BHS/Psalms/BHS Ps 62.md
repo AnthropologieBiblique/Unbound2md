@@ -1,9 +1,13 @@
 ---
-aliases : Ps 62
+aliases : 
+- Psalms 62
+- Psaumes 62
+- Ps 62
+- Psalms 62
 tags : Bible/Ps/62
 ---
 
-# Chapitre 62
+# Psalms 62
 
 ###### 1
 לַמְנַצֵּחַ עַל־יְדוּתוּן מִזְמֹור לְדָוִד׃

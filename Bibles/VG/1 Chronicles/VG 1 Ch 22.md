@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 22
+aliases : 
+- 1 Chronicles 22
+- 1 Chroniques 22
+- 1 Ch 22
+- 1 Chronicles 22
 tags : Bible/1Ch/22
 ---
 
-# Chapitre 22
+# 1 Chronicles 22
 
 ###### 1
 Dixitque David : Hæc est domus Dei, et hoc altare in holocaustum Israëli.

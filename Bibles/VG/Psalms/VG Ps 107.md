@@ -1,9 +1,13 @@
 ---
-aliases : Ps 108
+aliases : 
+- Psalms 107
+- Psaumes 108
+- Ps 108
+- Psalms 108
 tags : Bible/Ps/108
 ---
 
-# Chapitre 107
+# Psalms 107
 
 ###### 1
 Canticum Psalmi, ipsi David.

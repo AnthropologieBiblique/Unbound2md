@@ -1,9 +1,13 @@
 ---
-aliases : Lc 23
+aliases : 
+- Luke 23
+- Luc 23
+- Lc 23
+- Luke 23
 tags : Bible/Lc/23
 ---
 
-# Chapitre 23
+# Luke 23
 
 ###### 1
 Et surgens omnis multitudo eorum, duxerunt illum ad Pilatum.

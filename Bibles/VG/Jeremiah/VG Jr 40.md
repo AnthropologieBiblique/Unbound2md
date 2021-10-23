@@ -1,9 +1,13 @@
 ---
-aliases : Jr 40
+aliases : 
+- Jeremiah 40
+- Jérémie 40
+- Jr 40
+- Jeremiah 40
 tags : Bible/Jr/40
 ---
 
-# Chapitre 40
+# Jeremiah 40
 
 ###### 1
 Sermo qui factus est ad Jeremiam a Domino, postquam dimissus est a Nabuzardan magistro militiæ de Rama, quando tulit eum vinctum catenis in medio omnium qui migrabant de Jerusalem et Juda, et ducebantur in Babylonem.

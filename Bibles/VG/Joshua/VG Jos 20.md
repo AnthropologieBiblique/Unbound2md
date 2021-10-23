@@ -1,9 +1,13 @@
 ---
-aliases : Jos 20
+aliases : 
+- Joshua 20
+- Josué 20
+- Jos 20
+- Joshua 20
 tags : Bible/Jos/20
 ---
 
-# Chapitre 20
+# Joshua 20
 
 ###### 1
 Et locutus est Dominus ad Josue, dicens : Loquere filiis Israël, et dic eis :

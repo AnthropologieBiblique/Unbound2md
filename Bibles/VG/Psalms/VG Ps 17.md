@@ -1,9 +1,13 @@
 ---
-aliases : Ps 18
+aliases : 
+- Psalms 17
+- Psaumes 18
+- Ps 18
+- Psalms 18
 tags : Bible/Ps/18
 ---
 
-# Chapitre 17
+# Psalms 17
 
 ###### 1
 In finem. Puero Domini David, qui locutus est Domino verba cantici hujus, in die qua eripuit eum Dominus de manu omnium inimicorum ejus, et de manu Saul, et dixit :

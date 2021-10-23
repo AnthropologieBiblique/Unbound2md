@@ -1,9 +1,13 @@
 ---
-aliases : Ac 5
+aliases : 
+- Acts of the Apostles 5
+- Actes 5
+- Ac 5
+- Acts of the Apostles 5
 tags : Bible/Ac/5
 ---
 
-# Chapitre 5
+# Acts of the Apostles 5
 
 ###### 1
 Vir autem quidam nomine Ananias cum Sapphira uxore sua vendidit agrum 

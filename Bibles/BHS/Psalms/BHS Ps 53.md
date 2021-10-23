@@ -1,9 +1,13 @@
 ---
-aliases : Ps 53
+aliases : 
+- Psalms 53
+- Psaumes 53
+- Ps 53
+- Psalms 53
 tags : Bible/Ps/53
 ---
 
-# Chapitre 53
+# Psalms 53
 
 ###### 1
 לַמְנַצֵּחַ עַל־מָחֲלַת מַשְׂכִּיל לְדָוִד׃

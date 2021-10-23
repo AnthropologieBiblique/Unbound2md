@@ -1,9 +1,13 @@
 ---
-aliases : Ps 49
+aliases : 
+- Psalms 48
+- Psaumes 49
+- Ps 49
+- Psalms 49
 tags : Bible/Ps/49
 ---
 
-# Chapitre 48
+# Psalms 48
 
 ###### 1
 In finem, filiis Core. Psalmus.

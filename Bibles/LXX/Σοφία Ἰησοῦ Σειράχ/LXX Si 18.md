@@ -1,9 +1,13 @@
 ---
-aliases : Si 18
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 18
+- Siracide 18
+- Si 18
+- Ecclesiasticus (Sira 18
 tags : Bible/Si/18
 ---
 
-# Chapitre 18
+# Σοφία Ἰησοῦ Σειράχ 18
 
 ###### 1
 ὁ ζῶν εἰς τὸν αἰῶνα ἔκτισεν τὰ πάντα κοινῇ

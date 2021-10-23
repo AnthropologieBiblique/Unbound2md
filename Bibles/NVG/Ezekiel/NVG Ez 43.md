@@ -1,9 +1,13 @@
 ---
-aliases : Ez 43
+aliases : 
+- Ezekiel 43
+- Ézéchiel 43
+- Ez 43
+- Ezekiel 43
 tags : Bible/Ez/43
 ---
 
-# Chapitre 43
+# Ezekiel 43
 
 ###### 1
 Et duxit me ad portam, quae respiciebat ad viam orientalem, 

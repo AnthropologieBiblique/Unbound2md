@@ -1,9 +1,12 @@
 ---
-aliases : Jb 39
+aliases : 
+- Job 39
+- Job 39
+- Jb 39
 tags : Bible/Jb/39
 ---
 
-# Chapitre 39
+# Job 39
 
 ###### 1
 Numquid nosti tempus partus ibicum in petris ? vel parturientes cervas observasti ?

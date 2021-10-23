@@ -1,9 +1,13 @@
 ---
-aliases : Ps 92
+aliases : 
+- Psalms 91
+- Psaumes 92
+- Ps 92
+- Psalms 92
 tags : Bible/Ps/92
 ---
 
-# Chapitre 91
+# Psalms 91
 
 ###### 1
 Psalmus cantici, in die sabbati.

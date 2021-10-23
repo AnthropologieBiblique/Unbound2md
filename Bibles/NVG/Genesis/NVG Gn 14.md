@@ -1,9 +1,13 @@
 ---
-aliases : Gn 14
+aliases : 
+- Genesis 14
+- Genèse 14
+- Gn 14
+- Genesis 14
 tags : Bible/Gn/14
 ---
 
-# Chapitre 14
+# Genesis 14
 
 ###### 1
 Factum est autem in illo tempore, ut Amraphel rex Sennaar et Arioch rex Ellasar et Chodorlahomor rex Elam et Thadal rex gentium 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 117
+aliases : 
+- Psalms 117
+- Psaumes 117
+- Ps 117
+- Psalms 117
 tags : Bible/Ps/117
 ---
 
-# Chapitre 117
+# Psalms 117
 
 ###### 1
 Alleluja. Confitemini Domino, quoniam bonus, quoniam in sæculum misericordia ejus.

@@ -1,9 +1,13 @@
 ---
-aliases : Is 7
+aliases : 
+- Isaiah 7
+- Isaïe 7
+- Is 7
+- Isaiah 7
 tags : Bible/Is/7
 ---
 
-# Chapitre 7
+# Isaiah 7
 
 ###### 1
 Et factum est in diebus Achaz filii Ioatham filii Oziae regis Iu dae, ascendit Rasin rex Syriae et Phacee filius Romeliae rex Israel in Ierusalem ad proeliandum contra eam; et non potuerunt debellare eam. 

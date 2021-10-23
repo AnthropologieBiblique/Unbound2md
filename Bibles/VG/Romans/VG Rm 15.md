@@ -1,9 +1,13 @@
 ---
-aliases : Rm 15
+aliases : 
+- Romans 15
+- Romains 15
+- Rm 15
+- Romans 15
 tags : Bible/Rm/15
 ---
 
-# Chapitre 15
+# Romans 15
 
 ###### 1
 Debemus autem nos firmiores imbecillitates infirmorum sustinere, et non nobis placere.

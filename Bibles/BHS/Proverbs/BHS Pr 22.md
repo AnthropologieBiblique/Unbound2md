@@ -1,9 +1,13 @@
 ---
-aliases : Pr 22
+aliases : 
+- Proverbs 22
+- Proverbes 22
+- Pr 22
+- Proverbs 22
 tags : Bible/Pr/22
 ---
 
-# Chapitre 22
+# Proverbs 22
 
 ###### 1
 נִבְחָר שֵׁם מֵעֹשֶׁר רָב מִכֶּסֶף וּמִזָּהָב חֵן טֹוב׃

@@ -1,9 +1,13 @@
 ---
-aliases : Ct 5
+aliases : 
+- Song of Solomon 5
+- Cantique des cantiques 5
+- Ct 5
+- Song of Solomon 5
 tags : Bible/Ct/5
 ---
 
-# Chapitre 5
+# Song of Solomon 5
 
 ###### 1
 Veniat dilectus meus in hortum suum et comedat fructus eius optimos. Veni in hortum meum, soror mea, sponsa; messui myrrham meam cum aromatibus meis, comedi favum cum melle, bibi vinum cum lacte meo. Comedite, amici, et bibite et inebriamini, carissimi.

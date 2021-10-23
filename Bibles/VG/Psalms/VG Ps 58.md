@@ -1,9 +1,13 @@
 ---
-aliases : Ps 59
+aliases : 
+- Psalms 58
+- Psaumes 59
+- Ps 59
+- Psalms 59
 tags : Bible/Ps/59
 ---
 
-# Chapitre 58
+# Psalms 58
 
 ###### 1
 In finem, ne disperdas. David in tituli inscriptionem, quando misit Saul, et custodivit domum ejus, ut eum interficeret.

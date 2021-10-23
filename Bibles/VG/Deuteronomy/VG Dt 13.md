@@ -1,9 +1,13 @@
 ---
-aliases : Dt 13
+aliases : 
+- Deuteronomy 13
+- Deutéronome 13
+- Dt 13
+- Deuteronomy 13
 tags : Bible/Dt/13
 ---
 
-# Chapitre 13
+# Deuteronomy 13
 
 ###### 1
 Si surrexerit in medio tui prophetes, aut qui somnium vidisse se dicat, et prædixerit signum atque portentum,

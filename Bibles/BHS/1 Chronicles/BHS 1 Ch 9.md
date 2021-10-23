@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 9
+aliases : 
+- 1 Chronicles 9
+- 1 Chroniques 9
+- 1 Ch 9
+- 1 Chronicles 9
 tags : Bible/1Ch/9
 ---
 
-# Chapitre 9
+# 1 Chronicles 9
 
 ###### 1
 וְכָל־יִשְׂרָאֵל הִתְיַחְשׂוּ וְהִנָּם כְּתוּבִים עַל־סֵפֶר מַלְכֵי יִשְׂרָאֵל וִיהוּדָה הָגְלוּ לְבָבֶל בְּמַעֲלָם׃ ס

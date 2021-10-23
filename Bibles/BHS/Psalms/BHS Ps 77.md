@@ -1,9 +1,13 @@
 ---
-aliases : Ps 77
+aliases : 
+- Psalms 77
+- Psaumes 77
+- Ps 77
+- Psalms 77
 tags : Bible/Ps/77
 ---
 
-# Chapitre 77
+# Psalms 77
 
 ###### 1
 לַמְנַצֵּחַ עַל־[כ= יְדִיתוּן] [ק= יְדוּתוּן] לְאָסָף מִזְמֹור׃

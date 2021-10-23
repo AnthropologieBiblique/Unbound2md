@@ -1,9 +1,13 @@
 ---
-aliases : Gn 33
+aliases : 
+- Genesis 33
+- Genèse 33
+- Gn 33
+- Genesis 33
 tags : Bible/Gn/33
 ---
 
-# Chapitre 33
+# Genesis 33
 
 ###### 1
 Elevans autem Jacob oculos suos, vidit venientem Esau, et cum eo quadringentos viros : divisitque filios Liæ et Rachel, ambarumque famularum :

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 46
+aliases : 
+- Psalms 45
+- Psaumes 46
+- Ps 46
+- Psalms 46
 tags : Bible/Ps/46
 ---
 
-# Chapitre 45
+# Psalms 45
 
 ###### 1
 In finem, filiis Core, pro arcanis. Psalmus.

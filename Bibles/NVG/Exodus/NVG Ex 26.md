@@ -1,9 +1,13 @@
 ---
-aliases : Ex 26
+aliases : 
+- Exodus 26
+- Exode 26
+- Ex 26
+- Exodus 26
 tags : Bible/Ex/26
 ---
 
-# Chapitre 26
+# Exodus 26
 
 ###### 1
 Habitaculum vero ita facies: decem cortinas de bysso re torta et hyacintho ac purpura coccoque cum cherubim opere polymito facies. 

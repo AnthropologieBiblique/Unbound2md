@@ -1,9 +1,12 @@
 ---
-aliases : Est 4
+aliases : 
+- Esther 4
+- Esther 4
+- Est 4
 tags : Bible/Est/4
 ---
 
-# Chapitre 4
+# Esther 4
 
 ###### 1
 Quæ cum audisset Mardochæus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti : et in platea mediæ civitatis voce magna clamabat, ostendens amaritudinem animi sui,

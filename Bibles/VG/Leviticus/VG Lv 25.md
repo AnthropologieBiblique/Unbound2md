@@ -1,9 +1,13 @@
 ---
-aliases : Lv 25
+aliases : 
+- Leviticus 25
+- Lévitique 25
+- Lv 25
+- Leviticus 25
 tags : Bible/Lv/25
 ---
 
-# Chapitre 25
+# Leviticus 25
 
 ###### 1
 Locutusque est Dominus ad Moysen in monte Sinai, dicens :

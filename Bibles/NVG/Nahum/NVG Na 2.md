@@ -1,9 +1,12 @@
 ---
-aliases : Na 1
+aliases : 
+- Nahum 2
+- Nahum 1
+- Na 1
 tags : Bible/Na/1
 ---
 
-# Chapitre 2
+# Nahum 2
 
 ###### 1
 Ecce super montes pedes evan gelizantis et annuntiantis pacem. Celebra, Iuda, festivitates tuas et redde vota tua, quia non adiciet ultra ut pertranseat in te Belial: totus interiit.

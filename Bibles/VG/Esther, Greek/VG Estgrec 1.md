@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 1
+aliases : 
+- Esther, Greek 1
+- Esther, Grec 1
+- Estgrec 1
+- Esther, Greek 1
 tags : Bible/Estgrec/1
 ---
 
-# Chapitre 1
+# Esther, Greek 1
 
 ###### 1
 In diebus Assueri, qui regnavit ab India usque Æthiopiam super centum viginti septem provincias :

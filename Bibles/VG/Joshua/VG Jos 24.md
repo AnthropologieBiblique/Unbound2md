@@ -1,9 +1,13 @@
 ---
-aliases : Jos 24
+aliases : 
+- Joshua 24
+- Josué 24
+- Jos 24
+- Joshua 24
 tags : Bible/Jos/24
 ---
 
-# Chapitre 24
+# Joshua 24
 
 ###### 1
 Congregavitque Josue omnes tribus Israël in Sichem, et vocavit majores natu, ac principes, et judices, et magistros : steteruntque in conspectu Domini :

@@ -1,9 +1,13 @@
 ---
-aliases : Os 11
+aliases : 
+- Hosea 12
+- Osée 11
+- Os 11
+- Hosea 11
 tags : Bible/Os/11
 ---
 
-# Chapitre 12
+# Hosea 12
 
 ###### 1
 Circumdedit me in fraude Ephraim, et in dolo domus Israel; C Iudas autem, dum adhuc vagatur, est cum Deo et cum Sancto fidelis ” C.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 5
+aliases : 
+- Psalms 5
+- Psaumes 5
+- Ps 5
+- Psalms 5
 tags : Bible/Ps/5
 ---
 
-# Chapitre 5
+# Psalms 5
 
 ###### 1
 לַמְנַצֵּחַ אֶל־הַנְּחִילֹות מִזְמֹור לְדָוִד׃

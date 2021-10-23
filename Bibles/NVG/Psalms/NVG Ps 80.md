@@ -1,9 +1,13 @@
 ---
-aliases : Ps 80
+aliases : 
+- Psalms 80
+- Psaumes 80
+- Ps 80
+- Psalms 80
 tags : Bible/Ps/80
 ---
 
-# Chapitre 80
+# Psalms 80
 
 ###### 1
 Magistro chori. Secundum " Lilium praecepti ". Asaph. PSALMUS.

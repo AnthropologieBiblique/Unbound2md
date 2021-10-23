@@ -1,9 +1,13 @@
 ---
-aliases : Nb 6
+aliases : 
+- Numbers 6
+- Nombres 6
+- Nb 6
+- Numbers 6
 tags : Bible/Nb/6
 ---
 
-# Chapitre 6
+# Numbers 6
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

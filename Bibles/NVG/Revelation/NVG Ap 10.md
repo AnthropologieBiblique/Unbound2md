@@ -1,9 +1,13 @@
 ---
-aliases : Ap 10
+aliases : 
+- Revelation 10
+- Apocalypse 10
+- Ap 10
+- Revelation 10
 tags : Bible/Ap/10
 ---
 
-# Chapitre 10
+# Revelation 10
 
 ###### 1
 Et vidi alium angelum for tem descendentem de caelo amictum nube, et iris super caput, et facies eius erat ut sol, et pedes eius tamquam columnae ignis; 

@@ -1,9 +1,13 @@
 ---
-aliases : Gn 15
+aliases : 
+- Genesis 15
+- Genèse 15
+- Gn 15
+- Genesis 15
 tags : Bible/Gn/15
 ---
 
-# Chapitre 15
+# Genesis 15
 
 ###### 1
 His itaque transactis, factus est sermo Domini ad Abram per visionem dicens: “Noli timere, Abram! Ego protector tuus sum, et merces tua magna erit nimis”. 

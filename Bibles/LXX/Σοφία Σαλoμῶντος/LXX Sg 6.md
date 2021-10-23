@@ -1,9 +1,13 @@
 ---
-aliases : Sg 6
+aliases : 
+- Σοφία Σαλoμῶντος 6
+- Sagesse 6
+- Sg 6
+- Wisdom of Solomon 6
 tags : Bible/Sg/6
 ---
 
-# Chapitre 6
+# Σοφία Σαλoμῶντος 6
 
 ###### 1
 ἀκούσατε οὖν βασιλεῖς καὶ σύνετε μάθετε δικασταὶ περάτων γῆς

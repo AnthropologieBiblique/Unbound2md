@@ -1,9 +1,13 @@
 ---
-aliases : Os 4
+aliases : 
+- Hosea 4
+- Osée 4
+- Os 4
+- Hosea 4
 tags : Bible/Os/4
 ---
 
-# Chapitre 4
+# Hosea 4
 
 ###### 1
 “ Audite verbum Domini, filii Israel, quia iudicium Domino cum habitatoribus terrae: non est enim veritas, et non est benignitas, et non est scientia Dei in terra;

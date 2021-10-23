@@ -1,9 +1,13 @@
 ---
-aliases : Is 34
+aliases : 
+- Isaiah 34
+- Isaïe 34
+- Is 34
+- Isaiah 34
 tags : Bible/Is/34
 ---
 
-# Chapitre 34
+# Isaiah 34
 
 ###### 1
 Accedite, gentes, et audite ; et populi, attendite : audiat terra, et plenitudo ejus ; orbis, et omne germen ejus.

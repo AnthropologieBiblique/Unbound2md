@@ -1,9 +1,13 @@
 ---
-aliases : Jr 25
+aliases : 
+- Jeremiah 25
+- Jérémie 25
+- Jr 25
+- Jeremiah 25
 tags : Bible/Jr/25
 ---
 
-# Chapitre 25
+# Jeremiah 25
 
 ###### 1
 Verbum quod factum est ad Jeremiam, de omni populo Juda, in anno quarto Joakim, filii Josiæ, regis Juda (ipse est annus primus Nabuchodonosor regis Babylonis),

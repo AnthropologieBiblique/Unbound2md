@@ -1,9 +1,13 @@
 ---
-aliases : Si 46
+aliases : 
+- Ecclesiasticus (Sira 46
+- Siracide 46
+- Si 46
+- Ecclesiasticus (Sira 46
 tags : Bible/Si/46
 ---
 
-# Chapitre 46
+# Ecclesiasticus (Sira 46
 
 ###### 1
 Fortis in bello Jesus Nave, successor Moysi in prophetis, qui fuit magnus secundum nomen suum,

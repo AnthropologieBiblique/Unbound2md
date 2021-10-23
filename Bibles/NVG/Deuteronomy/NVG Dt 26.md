@@ -1,9 +1,13 @@
 ---
-aliases : Dt 26
+aliases : 
+- Deuteronomy 26
+- Deutéronome 26
+- Dt 26
+- Deuteronomy 26
 tags : Bible/Dt/26
 ---
 
-# Chapitre 26
+# Deuteronomy 26
 
 ###### 1
 Cumque intraveris terram, quam Dominus Deus tuus ti bi daturus est possidendam, et obtinueris eam atque habitaveris in illa, 

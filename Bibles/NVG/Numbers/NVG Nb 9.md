@@ -1,9 +1,13 @@
 ---
-aliases : Nb 9
+aliases : 
+- Numbers 9
+- Nombres 9
+- Nb 9
+- Numbers 9
 tags : Bible/Nb/9
 ---
 
-# Chapitre 9
+# Numbers 9
 
 ###### 1
 Locutus est Dominus ad Moy sen in deserto Sinai anno secun do, postquam egressi sunt de terra Aegypti, mense primo dicens: 

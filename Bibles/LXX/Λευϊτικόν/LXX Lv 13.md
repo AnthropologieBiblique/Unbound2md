@@ -1,9 +1,13 @@
 ---
-aliases : Lv 13
+aliases : 
+- Λευϊτικόν 13
+- Lévitique 13
+- Lv 13
+- Leviticus 13
 tags : Bible/Lv/13
 ---
 
-# Chapitre 13
+# Λευϊτικόν 13
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν καὶ ααρων λέγων

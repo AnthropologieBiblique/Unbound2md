@@ -1,9 +1,13 @@
 ---
-aliases : Nb 7
+aliases : 
+- Numbers 7
+- Nombres 7
+- Nb 7
+- Numbers 7
 tags : Bible/Nb/7
 ---
 
-# Chapitre 7
+# Numbers 7
 
 ###### 1
 Factum est autem in die, qua complevit Moyses habitaculum et erexit illud unxitque et sanctificavit cum omnibus vasis suis, altare similiter et omnia vasa eius, 

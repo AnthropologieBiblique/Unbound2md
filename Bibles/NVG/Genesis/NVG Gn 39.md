@@ -1,9 +1,13 @@
 ---
-aliases : Gn 39
+aliases : 
+- Genesis 39
+- Genèse 39
+- Gn 39
+- Genesis 39
 tags : Bible/Gn/39
 ---
 
-# Chapitre 39
+# Genesis 39
 
 ###### 1
 Igitur Ioseph ductus est in Aegyptum; emitque eum Pu tiphar eunuchus pharaonis, princeps satellitum, vir Aegyptius, de manu Ismaelitarum, a quibus perductus erat. 

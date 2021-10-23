@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 23
+aliases : 
+- 1 Samuel 24
+- 1 Samuel 23
+- 1 S 23
 tags : Bible/1S/23
 ---
 
-# Chapitre 24
+# 1 Samuel 24
 
 ###### 1
 וַיַּעַל דָּוִד מִשָּׁם וַיֵּשֶׁב בִּמְצָדֹות עֵין־גֶּדִי׃

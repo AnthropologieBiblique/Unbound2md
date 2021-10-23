@@ -1,9 +1,13 @@
 ---
-aliases : Mc 9
+aliases : 
+- Mark 9
+- Marc 9
+- Mc 9
+- Mark 9
 tags : Bible/Mc/9
 ---
 
-# Chapitre 9
+# Mark 9
 
 ###### 1
 Et dicebat illis: “ Amen dico vobis: Sunt quidam de hic stan tibus, qui non gustabunt mortem, donec videant regnum Dei venisse in virtute ”.

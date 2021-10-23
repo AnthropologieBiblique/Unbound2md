@@ -1,9 +1,13 @@
 ---
-aliases : Ct 4
+aliases : 
+- Song of Solomon 4
+- Cantique des cantiques 4
+- Ct 4
+- Song of Solomon 4
 tags : Bible/Ct/4
 ---
 
-# Chapitre 4
+# Song of Solomon 4
 
 ###### 1
 Quam pulchra es, amica mea, quam pulchra es: oculi tui columbarum per velamen tuum. Capilli tui sicut grex caprarum, quae descenderunt de monte Galaad;

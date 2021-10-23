@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 9
+aliases : 
+- Ἐσθήρ 9
+- Esther, Grec 9
+- Estgrec 9
+- Esther, Greek 9
 tags : Bible/Estgrec/9
 ---
 
-# Chapitre 9
+# Ἐσθήρ 9
 
 ###### 1
 ἐν γὰρ τῷ δωδεκάτῳ μηνὶ τρισκαιδεκάτῃ τοῦ μηνός ὅς ἐστιν αδαρ παρῆν τὰ γράμματα τὰ γραφέντα ὑπὸ τοῦ βασιλέως

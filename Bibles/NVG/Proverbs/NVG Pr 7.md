@@ -1,9 +1,13 @@
 ---
-aliases : Pr 7
+aliases : 
+- Proverbs 7
+- Proverbes 7
+- Pr 7
+- Proverbs 7
 tags : Bible/Pr/7
 ---
 
-# Chapitre 7
+# Proverbs 7
 
 ###### 1
 Fili mi, custodi sermones meos et praecepta mea reconde tibi.

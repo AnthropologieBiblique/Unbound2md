@@ -1,9 +1,13 @@
 ---
-aliases : Si 49
+aliases : 
+- Ecclesiasticus (Sira 49
+- Siracide 49
+- Si 49
+- Ecclesiasticus (Sira 49
 tags : Bible/Si/49
 ---
 
-# Chapitre 49
+# Ecclesiasticus (Sira 49
 
 ###### 1
 Memoria Iosiae in compositionem odoris facta opere pigmentarii;

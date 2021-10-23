@@ -1,9 +1,13 @@
 ---
-aliases : Mt 14
+aliases : 
+- Matthew 14
+- Matthieu 14
+- Mt 14
+- Matthew 14
 tags : Bible/Mt/14
 ---
 
-# Chapitre 14
+# Matthew 14
 
 ###### 1
 In illo tempore audivit Herodes tetrarcha fama Jesu :

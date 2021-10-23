@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 15
+aliases : 
+- Judith 15
+- Judith 15
+- Jdt 15
 tags : Bible/Jdt/15
 ---
 
-# Chapitre 15
+# Judith 15
 
 ###### 1
 Cumque omnis exercitus decollatum Holofernem audisset, fugit mens et consilium ab eis, et solo tremore et metu agitati, fugæ præsidium sumunt,

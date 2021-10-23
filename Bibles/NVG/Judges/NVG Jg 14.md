@@ -1,9 +1,13 @@
 ---
-aliases : Jg 14
+aliases : 
+- Judges 14
+- Juges 14
+- Jg 14
+- Judges 14
 tags : Bible/Jg/14
 ---
 
-# Chapitre 14
+# Judges 14
 
 ###### 1
 Descendit igitur Samson in Thamna vidensque ibi mulie rem de filiabus Philisthim 

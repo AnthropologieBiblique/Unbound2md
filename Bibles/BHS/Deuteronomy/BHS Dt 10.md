@@ -1,9 +1,13 @@
 ---
-aliases : Dt 10
+aliases : 
+- Deuteronomy 10
+- Deutéronome 10
+- Dt 10
+- Deuteronomy 10
 tags : Bible/Dt/10
 ---
 
-# Chapitre 10
+# Deuteronomy 10
 
 ###### 1
 בָּעֵת הַהִוא אָמַר יְהוָה אֵלַי פְּסָל־לְךָ שְׁנֵי־לוּחֹת אֲבָנִים כָּרִאשֹׁנִים וַעֲלֵה אֵלַי הָהָרָה וְעָשִׂיתָ לְּךָ אֲרֹון עֵץ׃

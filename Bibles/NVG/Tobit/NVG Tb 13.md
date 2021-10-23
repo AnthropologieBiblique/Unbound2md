@@ -1,9 +1,13 @@
 ---
-aliases : Tb 13
+aliases : 
+- Tobit 13
+- Tobie 13
+- Tb 13
+- Tobit 13
 tags : Bible/Tb/13
 ---
 
-# Chapitre 13
+# Tobit 13
 
 ###### 1
 Et scripsit orationem Thobi in laetitiam et dixit:

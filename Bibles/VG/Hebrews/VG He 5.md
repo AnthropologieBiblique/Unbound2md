@@ -1,9 +1,13 @@
 ---
-aliases : He 5
+aliases : 
+- Hebrews 5
+- Hébreux 5
+- He 5
+- Hebrews 5
 tags : Bible/He/5
 ---
 
-# Chapitre 5
+# Hebrews 5
 
 ###### 1
 Omnis namque pontifex ex hominibus assumptus, pro hominibus constituitur in iis quæ sunt ad Deum, ut offerat dona, et sacrificia pro peccatis :

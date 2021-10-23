@@ -1,9 +1,12 @@
 ---
-aliases : Jb 37
+aliases : 
+- Job 37
+- Job 37
+- Jb 37
 tags : Bible/Jb/37
 ---
 
-# Chapitre 37
+# Job 37
 
 ###### 1
 אַף־לְזֹאת יֶחֱרַד לִבִּי וְיִתַּר מִמְּקֹומֹו׃

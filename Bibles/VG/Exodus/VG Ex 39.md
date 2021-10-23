@@ -1,9 +1,13 @@
 ---
-aliases : Ex 39
+aliases : 
+- Exodus 39
+- Exode 39
+- Ex 39
+- Exodus 39
 tags : Bible/Ex/39
 ---
 
-# Chapitre 39
+# Exodus 39
 
 ###### 1
 De hyacintho vero et purpura, vermiculo ac bysso, fecit vestes, quibus indueretur Aaron quando ministrabat in sanctis, sicut præcepit Dominus Moysi.

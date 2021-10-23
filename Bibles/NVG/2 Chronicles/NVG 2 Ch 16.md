@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 16
+aliases : 
+- 2 Chronicles 16
+- 2 Chroniques 16
+- 2 Ch 16
+- 2 Chronicles 16
 tags : Bible/2Ch/16
 ---
 
-# Chapitre 16
+# 2 Chronicles 16
 
 ###### 1
 Anno autem tricesimo sexto regni eius ascendit Baasa rex Israel in Iudam; et muro circumdabat Rama, ut nullus tute posset egredi et ingredi de regno Asa.

@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 11
+aliases : 
+- 2 Kings 11
+- 2 Rois 11
+- 2 R 11
+- 2 Kings 11
 tags : Bible/2R/11
 ---
 
-# Chapitre 11
+# 2 Kings 11
 
 ###### 1
 Athalia vero mater Ochoziae videns mortuum filium suum surrexit et interfecit omne semen regium. 

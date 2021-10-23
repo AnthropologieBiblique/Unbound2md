@@ -1,9 +1,13 @@
 ---
-aliases : Si 27
+aliases : 
+- Ecclesiasticus (Sira 27
+- Siracide 27
+- Si 27
+- Ecclesiasticus (Sira 27
 tags : Bible/Si/27
 ---
 
-# Chapitre 27
+# Ecclesiasticus (Sira 27
 
 ###### 1
 Propter inopiam multi deliquerunt : et qui quærit locupletari avertit oculum suum.

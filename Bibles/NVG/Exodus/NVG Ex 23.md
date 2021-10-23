@@ -1,9 +1,13 @@
 ---
-aliases : Ex 23
+aliases : 
+- Exodus 23
+- Exode 23
+- Ex 23
+- Exodus 23
 tags : Bible/Ex/23
 ---
 
-# Chapitre 23
+# Exodus 23
 
 ###### 1
 Non suscipies famam falsam nec iunges manum tuam cum impio, ut dicas falsum testimonium.

@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 5
+aliases : 
+- 2 Maccabees 5
+- 2 Maccabees 5
+- 2 M 5
 tags : Bible/2M/5
 ---
 
-# Chapitre 5
+# 2 Maccabees 5
 
 ###### 1
 Circa hoc autem tempus Anti ochus secundam profectionem paravit in Aegyptum. 

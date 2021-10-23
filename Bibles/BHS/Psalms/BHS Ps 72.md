@@ -1,9 +1,13 @@
 ---
-aliases : Ps 72
+aliases : 
+- Psalms 72
+- Psaumes 72
+- Ps 72
+- Psalms 72
 tags : Bible/Ps/72
 ---
 
-# Chapitre 72
+# Psalms 72
 
 ###### 1
 לִשְׁלֹמֹה אֱלֹהִים מִשְׁפָּטֶיךָ לְמֶלֶךְ תֵּן וְצִדְקָתְךָ לְבֶן־מֶלֶךְ׃

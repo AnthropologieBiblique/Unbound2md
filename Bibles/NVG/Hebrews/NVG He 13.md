@@ -1,9 +1,13 @@
 ---
-aliases : He 13
+aliases : 
+- Hebrews 13
+- Hébreux 13
+- He 13
+- Hebrews 13
 tags : Bible/He/13
 ---
 
-# Chapitre 13
+# Hebrews 13
 
 ###### 1
 Caritas fraternitatis maneat. 

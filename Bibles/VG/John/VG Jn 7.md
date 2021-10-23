@@ -1,9 +1,13 @@
 ---
-aliases : Jn 7
+aliases : 
+- John 7
+- Jean 7
+- Jn 7
+- John 7
 tags : Bible/Jn/7
 ---
 
-# Chapitre 7
+# John 7
 
 ###### 1
 Post hæc autem ambulabat Jesus in Galilæam : non enim volebat in Judæam ambulare, quia quærebant eum Judæi interficere.

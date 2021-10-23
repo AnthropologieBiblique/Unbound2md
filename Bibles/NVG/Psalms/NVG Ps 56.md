@@ -1,9 +1,13 @@
 ---
-aliases : Ps 56
+aliases : 
+- Psalms 56
+- Psaumes 56
+- Ps 56
+- Psalms 56
 tags : Bible/Ps/56
 ---
 
-# Chapitre 56
+# Psalms 56
 
 ###### 1
 Magistro chori. Secundum " Ionat elem rehoqim ". David. Miktam. Cum Gath Philistaei eum tenerent.

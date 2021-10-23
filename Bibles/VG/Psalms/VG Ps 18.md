@@ -1,9 +1,13 @@
 ---
-aliases : Ps 19
+aliases : 
+- Psalms 18
+- Psaumes 19
+- Ps 19
+- Psalms 19
 tags : Bible/Ps/19
 ---
 
-# Chapitre 18
+# Psalms 18
 
 ###### 1
 In finem. Psalmus David.

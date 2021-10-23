@@ -1,9 +1,12 @@
 ---
-aliases : Lm 3
+aliases : 
+- Lamentations 3
+- Lamentations 3
+- Lm 3
 tags : Bible/Lm/3
 ---
 
-# Chapitre 3
+# Lamentations 3
 
 ###### 1
 ALEPH. Ego vir videns paupertatem meam in virga indignationis eius.

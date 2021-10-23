@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 3
+aliases : 
+- 2 Chronicles 3
+- 2 Chroniques 3
+- 2 Ch 3
+- 2 Chronicles 3
 tags : Bible/2Ch/3
 ---
 
-# Chapitre 3
+# 2 Chronicles 3
 
 ###### 1
 Et cœpit Salomon ædificare domum Domini in Jerusalem in monte Moria, qui demonstratus fuerat David patri ejus, in loco, quem paraverat David in area Ornan Jebusæi.

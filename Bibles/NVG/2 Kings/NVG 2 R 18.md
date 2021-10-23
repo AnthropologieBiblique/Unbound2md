@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 18
+aliases : 
+- 2 Kings 18
+- 2 Rois 18
+- 2 R 18
+- 2 Kings 18
 tags : Bible/2R/18
 ---
 
-# Chapitre 18
+# 2 Kings 18
 
 ###### 1
 Anno tertio Osee filii Ela regis Israel regnavit Ezechias filius Achaz regis Iudae. 

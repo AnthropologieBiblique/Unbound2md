@@ -1,9 +1,13 @@
 ---
-aliases : Ps 61
+aliases : 
+- Psalms 61
+- Psaumes 61
+- Ps 61
+- Psalms 61
 tags : Bible/Ps/61
 ---
 
-# Chapitre 61
+# Psalms 61
 
 ###### 1
 Magistro chori. Fidibus. David.

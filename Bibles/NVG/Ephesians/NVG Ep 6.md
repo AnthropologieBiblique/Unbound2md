@@ -1,9 +1,13 @@
 ---
-aliases : Ep 6
+aliases : 
+- Ephesians 6
+- Éphésiens 6
+- Ep 6
+- Ephesians 6
 tags : Bible/Ep/6
 ---
 
-# Chapitre 6
+# Ephesians 6
 
 ###### 1
 Filii, oboedite parentibus vestris in Domino; hoc enim est iu stum. 

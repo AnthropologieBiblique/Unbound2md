@@ -1,9 +1,13 @@
 ---
-aliases : Sg 16
+aliases : 
+- Wisdom of Solomon 16
+- Sagesse 16
+- Sg 16
+- Wisdom of Solomon 16
 tags : Bible/Sg/16
 ---
 
-# Chapitre 16
+# Wisdom of Solomon 16
 
 ###### 1
 Propter hæc et per his similia passi sunt digne tormenta, et per multitudinem bestiarum exterminati sunt.

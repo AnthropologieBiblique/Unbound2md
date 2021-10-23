@@ -1,9 +1,13 @@
 ---
-aliases : Ps 142
+aliases : 
+- Psalms 142
+- Psaumes 142
+- Ps 142
+- Psalms 142
 tags : Bible/Ps/142
 ---
 
-# Chapitre 142
+# Psalms 142
 
 ###### 1
 Maskil. David, cum esset in caverna. Precatio.

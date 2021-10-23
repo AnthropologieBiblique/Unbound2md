@@ -1,9 +1,13 @@
 ---
-aliases : Pr 28
+aliases : 
+- Proverbs 28
+- Proverbes 28
+- Pr 28
+- Proverbs 28
 tags : Bible/Pr/28
 ---
 
-# Chapitre 28
+# Proverbs 28
 
 ###### 1
 Fugit impius, nemine persequente; iustus autem quasi leo confidens.

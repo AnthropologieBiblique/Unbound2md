@@ -1,9 +1,13 @@
 ---
-aliases : 1 Th 1
+aliases : 
+- 1 Thessalonians 1
+- 1 Thessaloniciens 1
+- 1 Th 1
+- 1 Thessalonians 1
 tags : Bible/1Th/1
 ---
 
-# Chapitre 1
+# 1 Thessalonians 1
 
 ###### 1
 Paulus, et Silvanus, et Timotheus ecclesiæ Thessalonicensium in Deo Patre, et Domino Jesu Christo.

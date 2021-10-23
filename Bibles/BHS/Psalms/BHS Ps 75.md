@@ -1,9 +1,13 @@
 ---
-aliases : Ps 75
+aliases : 
+- Psalms 75
+- Psaumes 75
+- Ps 75
+- Psalms 75
 tags : Bible/Ps/75
 ---
 
-# Chapitre 75
+# Psalms 75
 
 ###### 1
 לַמְנַצֵּחַ אַל־תַּשְׁחֵת מִזְמֹור לְאָסָף שִׁיר׃

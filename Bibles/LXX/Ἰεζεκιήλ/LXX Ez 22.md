@@ -1,9 +1,13 @@
 ---
-aliases : Ez 22
+aliases : 
+- Ἰεζεκιήλ 22
+- Ézéchiel 22
+- Ez 22
+- Ezekiel 22
 tags : Bible/Ez/22
 ---
 
-# Chapitre 22
+# Ἰεζεκιήλ 22
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

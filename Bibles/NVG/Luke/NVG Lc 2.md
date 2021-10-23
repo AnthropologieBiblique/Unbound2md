@@ -1,9 +1,13 @@
 ---
-aliases : Lc 2
+aliases : 
+- Luke 2
+- Luc 2
+- Lc 2
+- Luke 2
 tags : Bible/Lc/2
 ---
 
-# Chapitre 2
+# Luke 2
 
 ###### 1
 Factum est autem, in diebus il lis exiit edictum a Caesare Au gusto, ut describeretur universus orbis. 

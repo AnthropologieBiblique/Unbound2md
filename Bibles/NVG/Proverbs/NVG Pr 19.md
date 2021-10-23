@@ -1,9 +1,13 @@
 ---
-aliases : Pr 19
+aliases : 
+- Proverbs 19
+- Proverbes 19
+- Pr 19
+- Proverbs 19
 tags : Bible/Pr/19
 ---
 
-# Chapitre 19
+# Proverbs 19
 
 ###### 1
 Melior est pauper, qui ambulat in simplicitate sua, quam qui torquet labia et est insipiens.

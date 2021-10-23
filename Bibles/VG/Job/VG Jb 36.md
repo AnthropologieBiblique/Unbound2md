@@ -1,9 +1,12 @@
 ---
-aliases : Jb 36
+aliases : 
+- Job 36
+- Job 36
+- Jb 36
 tags : Bible/Jb/36
 ---
 
-# Chapitre 36
+# Job 36
 
 ###### 1
 Addens quoque Eliu, hæc locutus est :

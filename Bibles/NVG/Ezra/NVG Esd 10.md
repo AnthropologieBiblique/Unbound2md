@@ -1,9 +1,13 @@
 ---
-aliases : Esd 10
+aliases : 
+- Ezra 10
+- Esdras 10
+- Esd 10
+- Ezra 10
 tags : Bible/Esd/10
 ---
 
-# Chapitre 10
+# Ezra 10
 
 ###### 1
 Dum ergo oraret Esdras et imploraret flens et prostratus ante templum Dei, collectus est ad eum de Israel coetus grandis nimis virorum et mulierum et puerorum; et flevit populus fletu multo. 

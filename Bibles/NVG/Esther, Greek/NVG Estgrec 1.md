@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 11
+aliases : 
+- Esther, Greek 1
+- Esther, Grec 11
+- Estgrec 11
+- Esther, Greek 11
 tags : Bible/Estgrec/11
 ---
 
-# Chapitre 1
+# Esther, Greek 1
 
 ###### 1a
 Anno secundo, regnante Artaxerxe rege magno, prima die mensis Nisan vidit somnium Mardochaeus filius Iair filii Semei filii Cis de tribu Beniamin, 

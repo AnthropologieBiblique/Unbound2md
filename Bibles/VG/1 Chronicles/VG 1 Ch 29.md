@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 29
+aliases : 
+- 1 Chronicles 29
+- 1 Chroniques 29
+- 1 Ch 29
+- 1 Chronicles 29
 tags : Bible/1Ch/29
 ---
 
-# Chapitre 29
+# 1 Chronicles 29
 
 ###### 1
 Locutusque est David rex ad omnem ecclesiam : Salomonem filium meum unum elegit Deus, adhuc puerum et tenellum : opus namque grande est, neque enim homini præparatur habitatio, sed Deo.

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Jn 4
+aliases : 
+- 1 John 4
+- 1 Jean 4
+- 1 Jn 4
+- 1 John 4
 tags : Bible/1Jn/4
 ---
 
-# Chapitre 4
+# 1 John 4
 
 ###### 1
 Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint : quoniam multi pseudoprophetæ exierunt in mundum.

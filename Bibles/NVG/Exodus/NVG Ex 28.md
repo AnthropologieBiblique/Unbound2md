@@ -1,9 +1,13 @@
 ---
-aliases : Ex 28
+aliases : 
+- Exodus 28
+- Exode 28
+- Ex 28
+- Exodus 28
 tags : Bible/Ex/28
 ---
 
-# Chapitre 28
+# Exodus 28
 
 ###### 1
 Applica quoque ad te Aaron fratrem tuum cum filiis suis de medio filiorum Israel, ut sacerdotio fungantur mihi: Aaron, Nadab et Abiu, Eleazar et Ithamar.

@@ -1,9 +1,13 @@
 ---
-aliases : Ez 22
+aliases : 
+- Ezekiel 22
+- Ézéchiel 22
+- Ez 22
+- Ezekiel 22
 tags : Bible/Ez/22
 ---
 
-# Chapitre 22
+# Ezekiel 22
 
 ###### 1
 Et factum est verbum Domini ad me, dicens :

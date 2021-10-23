@@ -1,9 +1,12 @@
 ---
-aliases : Est 10
+aliases : 
+- Esther 10
+- Esther 10
+- Est 10
 tags : Bible/Est/10
 ---
 
-# Chapitre 10
+# Esther 10
 
 ###### 1
 Rex vero Asuerus terrae et maris insulis imposuit tribu tum. 

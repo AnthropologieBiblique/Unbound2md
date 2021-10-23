@@ -1,9 +1,13 @@
 ---
-aliases : Ez 8
+aliases : 
+- Ezekiel 8
+- Ézéchiel 8
+- Ez 8
+- Ezekiel 8
 tags : Bible/Ez/8
 ---
 
-# Chapitre 8
+# Ezekiel 8
 
 ###### 1
 Et factum est in anno sexto, in sexto mense, in quinta mensis, ego sedebam in domo mea, et senes Iudae sedebant coram me, et cecidit super me ibi manus Domini Dei, 

@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 30
+aliases : 
+- 1 Samuel 30
+- 1 Samuel 30
+- 1 S 30
 tags : Bible/1S/30
 ---
 
-# Chapitre 30
+# 1 Samuel 30
 
 ###### 1
 Cumque venissent David et viri eius in Siceleg die tertia, Amalecitae impetum fecerant contra Nageb et contra Siceleg et percusserant Siceleg et succenderant eam igni; 

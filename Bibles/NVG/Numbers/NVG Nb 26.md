@@ -1,9 +1,13 @@
 ---
-aliases : Nb 26
+aliases : 
+- Numbers 26
+- Nombres 26
+- Nb 26
+- Numbers 26
 tags : Bible/Nb/26
 ---
 
-# Chapitre 26
+# Numbers 26
 
 ###### 1
 Post hanc plagam dixit Do minus ad Moysen et Eleaza rum filium Aaron sacerdotem: 

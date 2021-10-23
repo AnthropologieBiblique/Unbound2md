@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 29
+aliases : 
+- 2 Chronicles 29
+- 2 Chroniques 29
+- 2 Ch 29
+- 2 Chronicles 29
 tags : Bible/2Ch/29
 ---
 
-# Chapitre 29
+# 2 Chronicles 29
 
 ###### 1
 Igitur Ezechias regnare cœpit, cum viginti quinque esset annorum, et viginti novem annis regnavit in Jerusalem : nomen matris ejus Abia, filia Zachariæ.

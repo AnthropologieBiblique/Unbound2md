@@ -1,9 +1,13 @@
 ---
-aliases : Dt 18
+aliases : 
+- Deuteronomy 18
+- Deutéronome 18
+- Dt 18
+- Deuteronomy 18
 tags : Bible/Dt/18
 ---
 
-# Chapitre 18
+# Deuteronomy 18
 
 ###### 1
 Non habebunt sacerdotes et Levitæ, et omnes qui de eadem tribu sunt, partem et hæreditatem cum reliquo Israël, quia sacrificia Domini, et oblationes ejus comedent,

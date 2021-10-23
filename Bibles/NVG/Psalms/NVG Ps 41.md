@@ -1,9 +1,13 @@
 ---
-aliases : Ps 41
+aliases : 
+- Psalms 41
+- Psaumes 41
+- Ps 41
+- Psalms 41
 tags : Bible/Ps/41
 ---
 
-# Chapitre 41
+# Psalms 41
 
 ###### 1
 Magistro chori. PSALMUS. David.

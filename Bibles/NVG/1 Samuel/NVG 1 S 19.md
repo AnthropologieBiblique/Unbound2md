@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 19
+aliases : 
+- 1 Samuel 19
+- 1 Samuel 19
+- 1 S 19
 tags : Bible/1S/19
 ---
 
-# Chapitre 19
+# 1 Samuel 19
 
 ###### 1
 Locutus est autem Saul ad Ionathan filium suum et ad omnes servos suos de occisione David; porro Ionathan filius Saul diligebat David valde. 

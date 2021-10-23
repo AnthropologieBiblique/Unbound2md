@@ -1,9 +1,13 @@
 ---
-aliases : Is 56
+aliases : 
+- Isaiah 56
+- Isaïe 56
+- Is 56
+- Isaiah 56
 tags : Bible/Is/56
 ---
 
-# Chapitre 56
+# Isaiah 56
 
 ###### 1
 Haec dicit Dominus: “ Custodite iudicium et facite iustitiam, quia iuxta est salus mea, ut veniat, et iustitia mea, ut reveletur ”.

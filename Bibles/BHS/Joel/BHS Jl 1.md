@@ -1,9 +1,13 @@
 ---
-aliases : Jl 1
+aliases : 
+- Joel 1
+- Joël 1
+- Jl 1
+- Joel 1
 tags : Bible/Jl/1
 ---
 
-# Chapitre 1
+# Joel 1
 
 ###### 1
 דְּבַר־יְהוָה אֲשֶׁר הָיָה אֶל־יֹואֵל בֶּן־פְּתוּאֵל׃

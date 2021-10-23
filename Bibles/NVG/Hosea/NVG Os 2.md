@@ -1,9 +1,13 @@
 ---
-aliases : Os 1
+aliases : 
+- Hosea 2
+- Osée 1
+- Os 1
+- Hosea 1
 tags : Bible/Os/1
 ---
 
-# Chapitre 2
+# Hosea 2
 
 ###### 1
 Et erit numerus filiorum Israel quasi arena maris, quae sine mensura est et non numerabitur. Et erit: in loco, ubi dicebatur eis: “Non populus meus vos”, dicetur eis: “Filii Dei viventis”.

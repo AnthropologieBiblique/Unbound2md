@@ -1,9 +1,13 @@
 ---
-aliases : Lv 18
+aliases : 
+- Leviticus 18
+- Lévitique 18
+- Lv 18
+- Leviticus 18
 tags : Bible/Lv/18
 ---
 
-# Chapitre 18
+# Leviticus 18
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

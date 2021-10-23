@@ -1,9 +1,13 @@
 ---
-aliases : Is 8
+aliases : 
+- Isaiah 8
+- Isaïe 8
+- Is 8
+- Isaiah 8
 tags : Bible/Is/8
 ---
 
-# Chapitre 8
+# Isaiah 8
 
 ###### 1
 Et dixit Dominus ad me: “ Sume tibi tabulam grandem et scribe in ea stilo hominis: Maher Salal Has Baz (id est Velociter spolia detrahe, cito praedare). 

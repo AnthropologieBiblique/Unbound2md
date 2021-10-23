@@ -1,9 +1,13 @@
 ---
-aliases : Ex 2
+aliases : 
+- Exodus 2
+- Exode 2
+- Ex 2
+- Exodus 2
 tags : Bible/Ex/2
 ---
 
-# Chapitre 2
+# Exodus 2
 
 ###### 1
 וַיֵּלֶךְ אִישׁ מִבֵּית לֵוִי וַיִּקַּח אֶת־בַּת־לֵוִי׃

@@ -1,9 +1,13 @@
 ---
-aliases : Dt 29
+aliases : 
+- Deuteronomy 29
+- Deutéronome 29
+- Dt 29
+- Deuteronomy 29
 tags : Bible/Dt/29
 ---
 
-# Chapitre 29
+# Deuteronomy 29
 
 ###### 1
 Vocavitque Moyses omnem Israel et dixit ad eos: “ Vos vidistis universa, quae fecit Dominus coram vobis in terra Aegypti pharaoni et omnibus servis eius universaeque terrae illius, 

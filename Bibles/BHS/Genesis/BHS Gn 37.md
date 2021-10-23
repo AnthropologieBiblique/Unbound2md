@@ -1,9 +1,13 @@
 ---
-aliases : Gn 37
+aliases : 
+- Genesis 37
+- Genèse 37
+- Gn 37
+- Genesis 37
 tags : Bible/Gn/37
 ---
 
-# Chapitre 37
+# Genesis 37
 
 ###### 1
 וַיֵּשֶׁב יַעֲקֹב בְּאֶרֶץ מְגוּרֵי אָבִיו בְּאֶרֶץ כְּנָעַן׃

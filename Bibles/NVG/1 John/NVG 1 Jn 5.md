@@ -1,9 +1,13 @@
 ---
-aliases : 1 Jn 5
+aliases : 
+- 1 John 5
+- 1 Jean 5
+- 1 Jn 5
+- 1 John 5
 tags : Bible/1Jn/5
 ---
 
-# Chapitre 5
+# 1 John 5
 
 ###### 1
 Omnis, qui credit quoniam Iesus est Christus, ex Deo natus est; et omnis, qui diligit Deum, qui genuit, diligit et eum, qui natus est ex eo. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 147
+aliases : 
+- Psalms 146
+- Psaumes 147
+- Ps 147
+- Psalms 147
 tags : Bible/Ps/147
 ---
 
-# Chapitre 146
+# Psalms 146
 
 ###### 1
 Alleluja. Laudate Dominum, quoniam bonus est psalmus ; Deo nostro sit jucunda, decoraque laudatio.

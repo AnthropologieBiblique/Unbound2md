@@ -1,9 +1,13 @@
 ---
-aliases : Pr 3
+aliases : 
+- Proverbs 3
+- Proverbes 3
+- Pr 3
+- Proverbs 3
 tags : Bible/Pr/3
 ---
 
-# Chapitre 3
+# Proverbs 3
 
 ###### 1
 Fili mi, ne obliviscaris legis meæ, et præcepta mea cor tuum custodiat ;

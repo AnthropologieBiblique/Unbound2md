@@ -1,9 +1,13 @@
 ---
-aliases : Ps 129
+aliases : 
+- Psalms 128
+- Psaumes 129
+- Ps 129
+- Psalms 129
 tags : Bible/Ps/129
 ---
 
-# Chapitre 128
+# Psalms 128
 
 ###### 1
 Canticum graduum. Sæpe expugnaverunt me a juventute mea, dicat nunc Israël ;

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 90
+aliases : 
+- Psalms 90
+- Psaumes 90
+- Ps 90
+- Psalms 90
 tags : Bible/Ps/90
 ---
 
-# Chapitre 90
+# Psalms 90
 
 ###### 1
 תְּפִלָּה לְמֹשֶׁה אִישׁ־הָאֱלֹהִיםאֲדֹנָי מָעֹון אַתָּה הָיִיתָ לָּנוּ בְּדֹר וָדֹר׃

@@ -1,9 +1,13 @@
 ---
-aliases : Tt 3
+aliases : 
+- Titus 3
+- Tite 3
+- Tt 3
+- Titus 3
 tags : Bible/Tt/3
 ---
 
-# Chapitre 3
+# Titus 3
 
 ###### 1
 Admone illos principibus, et potestatibus subditos esse, dicto obedire, ad omne opus bonum paratos esse :

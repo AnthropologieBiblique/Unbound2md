@@ -1,9 +1,13 @@
 ---
-aliases : Is 53
+aliases : 
+- Isaiah 53
+- Isaïe 53
+- Is 53
+- Isaiah 53
 tags : Bible/Is/53
 ---
 
-# Chapitre 53
+# Isaiah 53
 
 ###### 1
 Quis credidit auditui nostro ? et brachium Domini cui revelatum est ?

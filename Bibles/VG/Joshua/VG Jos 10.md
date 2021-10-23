@@ -1,9 +1,13 @@
 ---
-aliases : Jos 10
+aliases : 
+- Joshua 10
+- Josué 10
+- Jos 10
+- Joshua 10
 tags : Bible/Jos/10
 ---
 
-# Chapitre 10
+# Joshua 10
 
 ###### 1
 Quæ cum audisset Adonisedec rex Jerusalem, quod scilicet cepisset Josue Hai, et subvertisset eam (sicut enim fecerat Jericho et regi ejus, sic fecit Hai, et regi illius), et quod transfugissent Gabaonitæ ad Israël, et essent fœderati eorum,

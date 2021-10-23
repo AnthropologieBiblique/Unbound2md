@@ -1,9 +1,13 @@
 ---
-aliases : Lc 22
+aliases : 
+- Luke 22
+- Luc 22
+- Lc 22
+- Luke 22
 tags : Bible/Lc/22
 ---
 
-# Chapitre 22
+# Luke 22
 
 ###### 1
 Appropinquabat autem dies festus Azymorum, qui dici tur Pascha. 

@@ -1,9 +1,13 @@
 ---
-aliases : Jr 45
+aliases : 
+- Jeremiah 45
+- Jérémie 45
+- Jr 45
+- Jeremiah 45
 tags : Bible/Jr/45
 ---
 
-# Chapitre 45
+# Jeremiah 45
 
 ###### 1
 Verbum, quod locutus est Ieremias propheta ad Baruch filium Neriae, cum scriberet verba haec in libro ex ore Ieremiae, anno quarto Ioachim filii Iosiae regis Iudae, dicens: 

@@ -1,9 +1,13 @@
 ---
-aliases : Jr 42
+aliases : 
+- Jeremiah 42
+- Jérémie 42
+- Jr 42
+- Jeremiah 42
 tags : Bible/Jr/42
 ---
 
-# Chapitre 42
+# Jeremiah 42
 
 ###### 1
 Et accesserunt omnes principes bellatorum, et Johanan filius Caree, et Jezonias filius Osaiæ, et reliquum vulgus, a parvo usque ad magnum,

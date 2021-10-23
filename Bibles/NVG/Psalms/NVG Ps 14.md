@@ -1,9 +1,13 @@
 ---
-aliases : Ps 14
+aliases : 
+- Psalms 14
+- Psaumes 14
+- Ps 14
+- Psalms 14
 tags : Bible/Ps/14
 ---
 
-# Chapitre 14
+# Psalms 14
 
 ###### 1
 Magistro chori. David. Dixit insipiens in corde suo: “ Non est Deus ”. Corrupti sunt et abominationes operati sunt; non est qui faciat bonum.

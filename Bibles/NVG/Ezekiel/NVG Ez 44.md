@@ -1,9 +1,13 @@
 ---
-aliases : Ez 44
+aliases : 
+- Ezekiel 44
+- Ézéchiel 44
+- Ez 44
+- Ezekiel 44
 tags : Bible/Ez/44
 ---
 
-# Chapitre 44
+# Ezekiel 44
 
 ###### 1
 Et convertit me ad viam portae sanctuarii exterioris, quae respiciebat ad orientem, et erat clausa; 

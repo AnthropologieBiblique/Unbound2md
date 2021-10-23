@@ -1,9 +1,13 @@
 ---
-aliases : Ex 36
+aliases : 
+- Ἔξοδος 37
+- Exode 36
+- Ex 36
+- Exodus 36
 tags : Bible/Ex/36
 ---
 
-# Chapitre 37
+# Ἔξοδος 37
 
 ###### 1
 καὶ ἐποίησαν τῇ σκηνῇ δέκα αὐλαίας

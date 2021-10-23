@@ -1,9 +1,13 @@
 ---
-aliases : Lv 14
+aliases : 
+- Λευϊτικόν 14
+- Lévitique 14
+- Lv 14
+- Leviticus 14
 tags : Bible/Lv/14
 ---
 
-# Chapitre 14
+# Λευϊτικόν 14
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

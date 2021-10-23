@@ -1,9 +1,13 @@
 ---
-aliases : Ps 21
+aliases : 
+- Psalms 20
+- Psaumes 21
+- Ps 21
+- Psalms 21
 tags : Bible/Ps/21
 ---
 
-# Chapitre 20
+# Psalms 20
 
 ###### 1
 In finem. Psalmus David.

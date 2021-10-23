@@ -1,9 +1,13 @@
 ---
-aliases : Nb 13
+aliases : 
+- Ἀριθμοί 13
+- Nombres 13
+- Nb 13
+- Numbers 13
 tags : Bible/Nb/13
 ---
 
-# Chapitre 13
+# Ἀριθμοί 13
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

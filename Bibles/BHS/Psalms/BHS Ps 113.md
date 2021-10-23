@@ -1,9 +1,13 @@
 ---
-aliases : Ps 113
+aliases : 
+- Psalms 113
+- Psaumes 113
+- Ps 113
+- Psalms 113
 tags : Bible/Ps/113
 ---
 
-# Chapitre 113
+# Psalms 113
 
 ###### 1
 הַלְלוּ יָהּ הַלְלוּ עַבְדֵי יְהוָה הַלְלוּ אֶת־שֵׁם יְהוָה׃

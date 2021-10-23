@@ -1,9 +1,13 @@
 ---
-aliases : Ps 54
+aliases : 
+- Psalms 54
+- Psaumes 54
+- Ps 54
+- Psalms 54
 tags : Bible/Ps/54
 ---
 
-# Chapitre 54
+# Psalms 54
 
 ###### 1
 לַמְנַצֵּחַ בִּנְגִינֹת מַשְׂכִּיל לְדָוִד׃

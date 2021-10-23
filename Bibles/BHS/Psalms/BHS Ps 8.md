@@ -1,9 +1,13 @@
 ---
-aliases : Ps 8
+aliases : 
+- Psalms 8
+- Psaumes 8
+- Ps 8
+- Psalms 8
 tags : Bible/Ps/8
 ---
 
-# Chapitre 8
+# Psalms 8
 
 ###### 1
 לַמְנַצֵּחַ עַל־הַגִּתִּית מִזְמֹור לְדָוִד׃

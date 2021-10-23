@@ -1,9 +1,13 @@
 ---
-aliases : Is 28
+aliases : 
+- Isaiah 28
+- Isaïe 28
+- Is 28
+- Isaiah 28
 tags : Bible/Is/28
 ---
 
-# Chapitre 28
+# Isaiah 28
 
 ###### 1
 Vae coronae superbiae ebriorum Ephraim et flori decidenti gloriae maiestatis eius, qui erant in vertice vallis pinguissimae, errantes a vino!

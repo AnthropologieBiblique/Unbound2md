@@ -1,9 +1,13 @@
 ---
-aliases : Ct 8
+aliases : 
+- Song of Solomon 8
+- Cantique des cantiques 8
+- Ct 8
+- Song of Solomon 8
 tags : Bible/Ct/8
 ---
 
-# Chapitre 8
+# Song of Solomon 8
 
 ###### 1
 Quis mihi det te fratrem meum, sugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam me nemo despiciat ?

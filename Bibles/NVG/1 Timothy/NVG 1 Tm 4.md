@@ -1,9 +1,13 @@
 ---
-aliases : 1 Tm 4
+aliases : 
+- 1 Timothy 4
+- 1 Timothée 4
+- 1 Tm 4
+- 1 Timothy 4
 tags : Bible/1Tm/4
 ---
 
-# Chapitre 4
+# 1 Timothy 4
 
 ###### 1
 Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus seductoribus et doctrinis daemoniorum, 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 115
+aliases : 
+- Psalms 114
+- Psaumes 115
+- Ps 115
+- Psalms 115
 tags : Bible/Ps/115
 ---
 
-# Chapitre 114
+# Psalms 114
 
 ###### 1
 Alleluja. Dilexi, quoniam exaudiet Dominus vocem orationis meæ.

@@ -1,9 +1,13 @@
 ---
-aliases : 2 Jn 1
+aliases : 
+- 2 John 1
+- 2 Jean 1
+- 2 Jn 1
+- 2 John 1
 tags : Bible/2Jn/1
 ---
 
-# Chapitre 1
+# 2 John 1
 
 ###### 1
 Senior Electæ dominæ, et natis ejus, quos ego diligo in veritate, et non ego solus, sed et omnes qui cognoverunt veritatem,

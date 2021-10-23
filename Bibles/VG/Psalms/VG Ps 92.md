@@ -1,9 +1,13 @@
 ---
-aliases : Ps 93
+aliases : 
+- Psalms 92
+- Psaumes 93
+- Ps 93
+- Psalms 93
 tags : Bible/Ps/93
 ---
 
-# Chapitre 92
+# Psalms 92
 
 ###### 1
 Laus cantici ipsi David, in die ante sabbatum, quando fundata est terra. Dominus regnavit, decorem indutus est : indutus est Dominus fortitudinem, et præcinxit se. Etenim firmavit orbem terræ, qui non commovebitur.

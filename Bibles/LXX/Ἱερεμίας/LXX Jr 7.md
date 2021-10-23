@@ -1,9 +1,13 @@
 ---
-aliases : Jr 7
+aliases : 
+- Ἱερεμίας 7
+- Jérémie 7
+- Jr 7
+- Jeremiah 7
 tags : Bible/Jr/7
 ---
 
-# Chapitre 7
+# Ἱερεμίας 7
 
 ###### 2
 ἀκούσατε λόγον κυρίου πᾶσα ἡ ιουδαία

@@ -1,9 +1,13 @@
 ---
-aliases : Ha 2
+aliases : 
+- Habakkuk 2
+- Habaquq 2
+- Ha 2
+- Habakkuk 2
 tags : Bible/Ha/2
 ---
 
-# Chapitre 2
+# Habakkuk 2
 
 ###### 1
 Super custodiam meam stabo et consistam super speculam et contemplabor, ut videam quid dicat mihi et quid respondeat ad querelam meam.

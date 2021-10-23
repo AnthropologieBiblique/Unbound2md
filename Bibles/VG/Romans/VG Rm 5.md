@@ -1,9 +1,13 @@
 ---
-aliases : Rm 5
+aliases : 
+- Romans 5
+- Romains 5
+- Rm 5
+- Romans 5
 tags : Bible/Rm/5
 ---
 
-# Chapitre 5
+# Romans 5
 
 ###### 1
 Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum :

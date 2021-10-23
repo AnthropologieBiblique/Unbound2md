@@ -1,9 +1,13 @@
 ---
-aliases : Ps 25
+aliases : 
+- Psalms 25
+- Psaumes 25
+- Ps 25
+- Psalms 25
 tags : Bible/Ps/25
 ---
 
-# Chapitre 25
+# Psalms 25
 
 ###### 1
 לְדָוִד אֵלֶיךָ יְהוָה נַפְשִׁי אֶשָּׂא׃

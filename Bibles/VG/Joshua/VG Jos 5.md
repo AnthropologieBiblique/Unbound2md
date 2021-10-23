@@ -1,9 +1,13 @@
 ---
-aliases : Jos 5
+aliases : 
+- Joshua 5
+- Josué 5
+- Jos 5
+- Joshua 5
 tags : Bible/Jos/5
 ---
 
-# Chapitre 5
+# Joshua 5
 
 ###### 1
 Postquam ergo audierunt omnes reges Amorrhæorum, qui habitabant trans Jordanem ad occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant magni maris loca, quod siccasset Dominus fluenta Jordanis coram filiis Israël donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum Israël.

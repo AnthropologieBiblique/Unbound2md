@@ -1,9 +1,13 @@
 ---
-aliases : Qo 2
+aliases : 
+- Ecclesiastes 2
+- Ecclésiaste 2
+- Qo 2
+- Ecclesiastes 2
 tags : Bible/Qo/2
 ---
 
-# Chapitre 2
+# Ecclesiastes 2
 
 ###### 1
 Dixi ego in corde meo: “ Veni, tentabo te gaudio: fruere bo nis ”; et ecce hoc quoque vanitas.

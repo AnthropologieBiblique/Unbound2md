@@ -1,9 +1,13 @@
 ---
-aliases : Is 2
+aliases : 
+- Isaiah 2
+- Isaïe 2
+- Is 2
+- Isaiah 2
 tags : Bible/Is/2
 ---
 
-# Chapitre 2
+# Isaiah 2
 
 ###### 1
 הַדָּבָר אֲשֶׁר חָזָה יְשַׁעְיָהוּ בֶּן־אָמֹוץ עַל־יְהוּדָה וִירוּשָׁלִָם׃

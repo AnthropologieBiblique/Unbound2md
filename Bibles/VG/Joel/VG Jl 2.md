@@ -1,9 +1,13 @@
 ---
-aliases : Jl 2
+aliases : 
+- Joel 2
+- Joël 2
+- Jl 2
+- Joel 2
 tags : Bible/Jl/2
 ---
 
-# Chapitre 2
+# Joel 2
 
 ###### 1
 Canite tuba in Sion, ululate in monte sancto meo, conturbentur omnes habitatores terræ : quia venit dies Domini, quia prope est.

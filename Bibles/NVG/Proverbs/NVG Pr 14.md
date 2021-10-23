@@ -1,9 +1,13 @@
 ---
-aliases : Pr 14
+aliases : 
+- Proverbs 14
+- Proverbes 14
+- Pr 14
+- Proverbs 14
 tags : Bible/Pr/14
 ---
 
-# Chapitre 14
+# Proverbs 14
 
 ###### 1
 Sapientia mulierum aedificat domum suam, insipientia eam manibus destruet.

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 5
+aliases : 
+- Daniel 5
+- Daniel 5
+- Dn 5
 tags : Bible/Dn/5
 ---
 
-# Chapitre 5
+# Daniel 5
 
 ###### 1
 Baltassar rex fecit grande convivium optimatibus suis mille : et unusquisque secundum suam bibebat ætatem.

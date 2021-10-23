@@ -1,9 +1,13 @@
 ---
-aliases : Za 13
+aliases : 
+- Zechariah 13
+- Zacharie 13
+- Za 13
+- Zechariah 13
 tags : Bible/Za/13
 ---
 
-# Chapitre 13
+# Zechariah 13
 
 ###### 1
 בַּיֹּום הַהוּא יִהְיֶה מָקֹור נִפְתָּח לְבֵית דָּוִיד וּלְיֹשְׁבֵי יְרוּשָׁלִָם לְחַטַּאת וּלְנִדָּה׃

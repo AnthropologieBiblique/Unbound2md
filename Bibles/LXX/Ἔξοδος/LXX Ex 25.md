@@ -1,9 +1,13 @@
 ---
-aliases : Ex 25
+aliases : 
+- Ἔξοδος 25
+- Exode 25
+- Ex 25
+- Exodus 25
 tags : Bible/Ex/25
 ---
 
-# Chapitre 25
+# Ἔξοδος 25
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

@@ -1,9 +1,13 @@
 ---
-aliases : Gn 22
+aliases : 
+- Genesis 22
+- Genèse 22
+- Gn 22
+- Genesis 22
 tags : Bible/Gn/22
 ---
 
-# Chapitre 22
+# Genesis 22
 
 ###### 1
 Quae postquam gesta sunt, tentavit Deus Abraham et di xit ad eum: “Abraham”. Ille respondit: “Adsum”. 

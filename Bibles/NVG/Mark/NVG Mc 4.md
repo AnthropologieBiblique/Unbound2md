@@ -1,9 +1,13 @@
 ---
-aliases : Mc 4
+aliases : 
+- Mark 4
+- Marc 4
+- Mc 4
+- Mark 4
 tags : Bible/Mc/4
 ---
 
-# Chapitre 4
+# Mark 4
 
 ###### 1
 Et iterum coepit docere ad ma re. Et congregatur ad eum tur ba plurima, ita ut in navem ascendens sederet in mari, et omnis turba circa mare super terram erant. 

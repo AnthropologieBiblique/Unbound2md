@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 12
+aliases : 
+- 2 Chronicles 12
+- 2 Chroniques 12
+- 2 Ch 12
+- 2 Chronicles 12
 tags : Bible/2Ch/12
 ---
 
-# Chapitre 12
+# 2 Chronicles 12
 
 ###### 1
 Cumque roboratum fuisset regnum Roboam et conforta tum, dereliquit legem Domini, et omnis Israel cum eo.

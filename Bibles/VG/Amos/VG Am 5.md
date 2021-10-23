@@ -1,9 +1,12 @@
 ---
-aliases : Am 5
+aliases : 
+- Amos 5
+- Amos 5
+- Am 5
 tags : Bible/Am/5
 ---
 
-# Chapitre 5
+# Amos 5
 
 ###### 1
 Audite verbum istud, quod ego levo super vos planctum : domus Israël cecidit, et non adjiciet ut resurgat.

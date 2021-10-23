@@ -1,9 +1,13 @@
 ---
-aliases : Ez 38
+aliases : 
+- Ἰεζεκιήλ 38
+- Ézéchiel 38
+- Ez 38
+- Ezekiel 38
 tags : Bible/Ez/38
 ---
 
-# Chapitre 38
+# Ἰεζεκιήλ 38
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

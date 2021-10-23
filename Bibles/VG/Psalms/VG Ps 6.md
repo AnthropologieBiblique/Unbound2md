@@ -1,9 +1,13 @@
 ---
-aliases : Ps 6
+aliases : 
+- Psalms 6
+- Psaumes 6
+- Ps 6
+- Psalms 6
 tags : Bible/Ps/6
 ---
 
-# Chapitre 6
+# Psalms 6
 
 ###### 1
 In finem, in carminibus. Psalmus David. Pro octava.

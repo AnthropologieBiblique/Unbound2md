@@ -1,9 +1,13 @@
 ---
-aliases : 2 P 2
+aliases : 
+- 2 Peter 2
+- 2 Pierre 2
+- 2 P 2
+- 2 Peter 2
 tags : Bible/2P/2
 ---
 
-# Chapitre 2
+# 2 Peter 2
 
 ###### 1
 Fuerunt vero et pseudopro phetae in populo, sicut et in vo bis erunt magistri mendaces, qui introducent sectas perditionis et eum, qui emit eos, Dominatorem negantes superducent sibi celerem perditionem. 

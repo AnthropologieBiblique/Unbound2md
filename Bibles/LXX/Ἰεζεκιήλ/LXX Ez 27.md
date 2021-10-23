@@ -1,9 +1,13 @@
 ---
-aliases : Ez 27
+aliases : 
+- Ἰεζεκιήλ 27
+- Ézéchiel 27
+- Ez 27
+- Ezekiel 27
 tags : Bible/Ez/27
 ---
 
-# Chapitre 27
+# Ἰεζεκιήλ 27
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

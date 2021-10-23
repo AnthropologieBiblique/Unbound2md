@@ -1,9 +1,13 @@
 ---
-aliases : Tb 10
+aliases : 
+- Tobit 10
+- Tobie 10
+- Tb 10
+- Tobit 10
 tags : Bible/Tb/10
 ---
 
-# Chapitre 10
+# Tobit 10
 
 ###### 1
 Cum vero moras faceret Tobias, causa nuptiarum, sollicitus erat pater ejus Tobias, dicens : Putas quare moratur filius meus, aut quare detentus est ibi ?

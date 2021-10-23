@@ -1,9 +1,13 @@
 ---
-aliases : Dt 28
+aliases : 
+- Deuteronomy 28
+- Deutéronome 28
+- Dt 28
+- Deuteronomy 28
 tags : Bible/Dt/28
 ---
 
-# Chapitre 28
+# Deuteronomy 28
 
 ###### 1
 Si autem audieris vocem Domini Dei tui, ut facias atque custodias omnia mandata ejus, quæ ego præcipio tibi hodie, faciet te Dominus Deus tuus excelsiorem cunctis gentibus, quæ versantur in terra.

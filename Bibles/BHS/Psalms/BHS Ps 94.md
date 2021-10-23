@@ -1,9 +1,13 @@
 ---
-aliases : Ps 94
+aliases : 
+- Psalms 94
+- Psaumes 94
+- Ps 94
+- Psalms 94
 tags : Bible/Ps/94
 ---
 
-# Chapitre 94
+# Psalms 94
 
 ###### 1
 אֵל־נְקָמֹות יְהוָה אֵל נְקָמֹות הֹופִיַע׃

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 34
+aliases : 
+- Psalms 34
+- Psaumes 34
+- Ps 34
+- Psalms 34
 tags : Bible/Ps/34
 ---
 
-# Chapitre 34
+# Psalms 34
 
 ###### 1
 David, quando se mente alienatum simulavit coram Abimelech et, ab illo dimissus, abiit.

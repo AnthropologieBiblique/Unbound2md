@@ -1,9 +1,12 @@
 ---
-aliases : Jb 6
+aliases : 
+- Ἰώβ 6
+- Job 6
+- Jb 6
 tags : Bible/Jb/6
 ---
 
-# Chapitre 6
+# Ἰώβ 6
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

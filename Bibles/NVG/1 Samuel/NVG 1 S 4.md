@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 4
+aliases : 
+- 1 Samuel 4
+- 1 Samuel 4
+- 1 S 4
 tags : Bible/1S/4
 ---
 
-# Chapitre 4
+# 1 Samuel 4
 
 ###### 1
 Et factum est in diebus illis, convenerunt Philisthim in pu gnam; et egressus est Israel obviam Philisthim in proelium et castrametatus est iuxta Abenezer. Porro Philisthim venerunt in Aphec 

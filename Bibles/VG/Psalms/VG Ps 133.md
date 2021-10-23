@@ -1,9 +1,13 @@
 ---
-aliases : Ps 134
+aliases : 
+- Psalms 133
+- Psaumes 134
+- Ps 134
+- Psalms 134
 tags : Bible/Ps/134
 ---
 
-# Chapitre 133
+# Psalms 133
 
 ###### 1
 Canticum graduum. Ecce nunc benedicite Dominum, omnes servi Domini : qui statis in domo Domini, in atriis domus Dei nostri.

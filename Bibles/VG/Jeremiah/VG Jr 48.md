@@ -1,9 +1,13 @@
 ---
-aliases : Jr 48
+aliases : 
+- Jeremiah 48
+- Jérémie 48
+- Jr 48
+- Jeremiah 48
 tags : Bible/Jr/48
 ---
 
-# Chapitre 48
+# Jeremiah 48
 
 ###### 1
 Ad Moab hæc dicit Dominus exercituum, Deus Israël : Væ super Nabo, quoniam vastata est, et confusa ! capta est Cariathaim, confusa est fortis, et tremuit.

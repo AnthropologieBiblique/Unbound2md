@@ -1,9 +1,13 @@
 ---
-aliases : Ps 75
+aliases : 
+- Psalms 74
+- Psaumes 75
+- Ps 75
+- Psalms 75
 tags : Bible/Ps/75
 ---
 
-# Chapitre 74
+# Psalms 74
 
 ###### 1
 In finem, ne corrumpas. Psalmus cantici Asaph.

@@ -1,9 +1,13 @@
 ---
-aliases : Ap 2
+aliases : 
+- Revelation 2
+- Apocalypse 2
+- Ap 2
+- Revelation 2
 tags : Bible/Ap/2
 ---
 
-# Chapitre 2
+# Revelation 2
 
 ###### 1
 Angelo ecclesiae, quae est Ephesi, scribe: Haec dicit, qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum: 

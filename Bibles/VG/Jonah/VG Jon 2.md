@@ -1,9 +1,13 @@
 ---
-aliases : Jon 1
+aliases : 
+- Jonah 2
+- Jonas 1
+- Jon 1
+- Jonah 1
 tags : Bible/Jon/1
 ---
 
-# Chapitre 2
+# Jonah 2
 
 ###### 1
 Et præparavit Dominus piscem grandem ut deglutiret Jonam : et erat Jonas in ventre piscis tribus diebus et tribus noctibus.

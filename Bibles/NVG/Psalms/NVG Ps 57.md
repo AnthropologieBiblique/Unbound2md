@@ -1,9 +1,13 @@
 ---
-aliases : Ps 57
+aliases : 
+- Psalms 57
+- Psaumes 57
+- Ps 57
+- Psalms 57
 tags : Bible/Ps/57
 ---
 
-# Chapitre 57
+# Psalms 57
 
 ###### 1
 Magistro chori. Secundum " Ne destruxeris ". David. Miktam. Quando a Saul in cavernam fugit.

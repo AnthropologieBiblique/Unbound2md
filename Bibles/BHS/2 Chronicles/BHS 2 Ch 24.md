@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 24
+aliases : 
+- 2 Chronicles 24
+- 2 Chroniques 24
+- 2 Ch 24
+- 2 Chronicles 24
 tags : Bible/2Ch/24
 ---
 
-# Chapitre 24
+# 2 Chronicles 24
 
 ###### 1
 בֶּן־שֶׁבַע שָׁנִים יֹאָשׁ בְּמָלְכֹו וְאַרְבָּעִים שָׁנָה מָלַךְ בִּירוּשָׁלִָם וְשֵׁם אִמֹּו צִבְיָה מִבְּאֵר שָׁבַע׃

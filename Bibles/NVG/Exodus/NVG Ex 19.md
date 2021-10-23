@@ -1,9 +1,13 @@
 ---
-aliases : Ex 19
+aliases : 
+- Exodus 19
+- Exode 19
+- Ex 19
+- Exodus 19
 tags : Bible/Ex/19
 ---
 
-# Chapitre 19
+# Exodus 19
 
 ###### 1
 Mense tertio egressionis Israel de terra Aegypti, in die hac venerunt in solitudinem Sinai. 

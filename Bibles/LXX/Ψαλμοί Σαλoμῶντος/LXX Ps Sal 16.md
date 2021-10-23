@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 16
+aliases : 
+- Ψαλμοί Σαλoμῶντος 16
+- Psaume extra numerum 16
+- Ps Sal 16
+- Psalm of Solomon 16
 tags : Bible/PsSal/16
 ---
 
-# Chapitre 16
+# Ψαλμοί Σαλoμῶντος 16
 
 ###### 1
 ἐν τῷ νυστάξαι ψυχήν μου ἀπὸ κυρίου παρὰ μικρὸν ὠλίσθησα ἐν καταφορᾷ ὑπνούντων μακρὰν ἀπὸ θεοῦ

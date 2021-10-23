@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 27
+aliases : 
+- 1 Samuel 27
+- 1 Samuel 27
+- 1 S 27
 tags : Bible/1S/27
 ---
 
-# Chapitre 27
+# 1 Samuel 27
 
 ###### 1
 Et ait David in corde suo: “ Aliquando incidam in uno die in manu Saul; nonne melius est ut fugiam et salver in terra Philisthinorum, ut desperet Saul cessetque me quaerere in cunctis finibus Israel? Fugiam ergo manus eius ”. 

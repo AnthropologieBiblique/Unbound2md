@@ -1,9 +1,13 @@
 ---
-aliases : Lc 6
+aliases : 
+- Luke 6
+- Luc 6
+- Lc 6
+- Luke 6
 tags : Bible/Lc/6
 ---
 
-# Chapitre 6
+# Luke 6
 
 ###### 1
 Factum est autem in sabbato secundo, primo, cum transiret per sata, vellebant discipuli ejus spicas, et manducabant confricantes manibus.

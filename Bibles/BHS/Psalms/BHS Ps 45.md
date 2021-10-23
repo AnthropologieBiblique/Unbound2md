@@ -1,9 +1,13 @@
 ---
-aliases : Ps 45
+aliases : 
+- Psalms 45
+- Psaumes 45
+- Ps 45
+- Psalms 45
 tags : Bible/Ps/45
 ---
 
-# Chapitre 45
+# Psalms 45
 
 ###### 1
 לַמְנַצֵּחַ עַל־שֹׁשַׁנִּים לִבְנֵי־קֹרַח מַשְׂכִּיל שִׁיר יְדִידֹת׃

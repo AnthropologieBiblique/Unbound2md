@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 22
+aliases : 
+- 2 Kings 22
+- 2 Rois 22
+- 2 R 22
+- 2 Kings 22
 tags : Bible/2R/22
 ---
 
-# Chapitre 22
+# 2 Kings 22
 
 ###### 1
 Octo annorum erat Iosias, cum regnare coepisset, et tri ginta et uno anno regnavit in Ierusalem. Nomen matris eius Idida filia Adaia de Bascath. 

@@ -1,9 +1,13 @@
 ---
-aliases : Gn 38
+aliases : 
+- Genesis 38
+- Genèse 38
+- Gn 38
+- Genesis 38
 tags : Bible/Gn/38
 ---
 
-# Chapitre 38
+# Genesis 38
 
 ###### 1
 Eodem tempore, descendens Judas a fratribus suis, divertit ad virum Odollamitem, nomine Hiram.

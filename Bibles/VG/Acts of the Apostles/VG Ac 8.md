@@ -1,9 +1,13 @@
 ---
-aliases : Ac 8
+aliases : 
+- Acts of the Apostles 8
+- Actes 8
+- Ac 8
+- Acts of the Apostles 8
 tags : Bible/Ac/8
 ---
 
-# Chapitre 8
+# Acts of the Apostles 8
 
 ###### 1
 Facta est autem in illa die persecutio magna in ecclesia, quæ erat Jerosolymis, et omnes dispersi sunt per regiones Judææ et Samariæ præter Apostolos.

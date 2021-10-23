@@ -1,9 +1,13 @@
 ---
-aliases : Mt 24
+aliases : 
+- Matthew 24
+- Matthieu 24
+- Mt 24
+- Matthew 24
 tags : Bible/Mt/24
 ---
 
-# Chapitre 24
+# Matthew 24
 
 ###### 1
 Et egressus Iesus de templo ibat, et accesserunt discipuli eius, ut ostenderent ei aedificationes templi; 

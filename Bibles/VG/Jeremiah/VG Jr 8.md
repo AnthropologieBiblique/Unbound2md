@@ -1,9 +1,13 @@
 ---
-aliases : Jr 8
+aliases : 
+- Jeremiah 8
+- Jérémie 8
+- Jr 8
+- Jeremiah 8
 tags : Bible/Jr/8
 ---
 
-# Chapitre 8
+# Jeremiah 8
 
 ###### 1
 In illo tempore, ait Dominus, ejicient ossa regum Juda, et ossa principum ejus, et ossa sacerdotum, et ossa prophetarum, et ossa eorum qui habitaverunt Jerusalem, de sepulchris suis :

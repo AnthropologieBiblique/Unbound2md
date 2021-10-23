@@ -1,9 +1,13 @@
 ---
-aliases : Ga 4
+aliases : 
+- Galatians 4
+- Galates 4
+- Ga 4
+- Galatians 4
 tags : Bible/Ga/4
 ---
 
-# Chapitre 4
+# Galatians 4
 
 ###### 1
 Dico autem : quanto tempore hæres parvulus est, nihil differt a servo, cum sit dominus omnium :

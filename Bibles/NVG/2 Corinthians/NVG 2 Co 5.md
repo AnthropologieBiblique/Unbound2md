@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 5
+aliases : 
+- 2 Corinthians 5
+- 2 Corinthiens 5
+- 2 Co 5
+- 2 Corinthians 5
 tags : Bible/2Co/5
 ---
 
-# Chapitre 5
+# 2 Corinthians 5
 
 ###### 1
 Scimus enim quoniam, si terre stris domus nostra huius taber naculi dissolvatur, aedificationem ex Deo habemus domum non manufactam, aeternam in caelis. 

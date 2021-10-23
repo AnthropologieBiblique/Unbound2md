@@ -1,9 +1,13 @@
 ---
-aliases : Ps 69
+aliases : 
+- Psalms 68
+- Psaumes 69
+- Ps 69
+- Psalms 69
 tags : Bible/Ps/69
 ---
 
-# Chapitre 68
+# Psalms 68
 
 ###### 1
 In finem, pro iis qui commutabuntur. David.

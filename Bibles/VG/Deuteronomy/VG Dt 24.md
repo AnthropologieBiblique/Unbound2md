@@ -1,9 +1,13 @@
 ---
-aliases : Dt 24
+aliases : 
+- Deuteronomy 24
+- Deutéronome 24
+- Dt 24
+- Deuteronomy 24
 tags : Bible/Dt/24
 ---
 
-# Chapitre 24
+# Deuteronomy 24
 
 ###### 1
 Si acceperit homo uxorem, et habuerit eam, et non invenerit gratiam ante oculos ejus propter aliquam fœditatem : scribet libellum repudii, et dabit in manu illius, et dimittet eam de domo sua.

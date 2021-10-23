@@ -1,9 +1,13 @@
 ---
-aliases : Esd 6
+aliases : 
+- Ezra 6
+- Esdras 6
+- Esd 6
+- Ezra 6
 tags : Bible/Esd/6
 ---
 
-# Chapitre 6
+# Ezra 6
 
 ###### 1
 Tunc Darius rex præcepit : et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone,

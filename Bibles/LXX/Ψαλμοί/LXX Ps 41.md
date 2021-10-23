@@ -1,9 +1,13 @@
 ---
-aliases : Ps 42
+aliases : 
+- Ψαλμοί 41
+- Psaumes 42
+- Ps 42
+- Psalms 42
 tags : Bible/Ps/42
 ---
 
-# Chapitre 41
+# Ψαλμοί 41
 
 ###### 1
 εἰς τὸ τέλος εἰς σύνεσιν τοῖς υἱοῖς κορε

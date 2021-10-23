@@ -1,9 +1,12 @@
 ---
-aliases : Jb 1
+aliases : 
+- Job 1
+- Job 1
+- Jb 1
 tags : Bible/Jb/1
 ---
 
-# Chapitre 1
+# Job 1
 
 ###### 1
 Vir erat in terra Hus, nomine Job ; et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo.

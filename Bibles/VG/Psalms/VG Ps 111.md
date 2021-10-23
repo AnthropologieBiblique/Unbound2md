@@ -1,9 +1,13 @@
 ---
-aliases : Ps 112
+aliases : 
+- Psalms 111
+- Psaumes 112
+- Ps 112
+- Psalms 112
 tags : Bible/Ps/112
 ---
 
-# Chapitre 111
+# Psalms 111
 
 ###### 1
 Alleluja, reversionis Aggæi et Zachariæ. Beatus vir qui timet Dominum, in mandatis ejus volet nimis.

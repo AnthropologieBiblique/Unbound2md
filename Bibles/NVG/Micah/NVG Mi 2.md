@@ -1,9 +1,13 @@
 ---
-aliases : Mi 2
+aliases : 
+- Micah 2
+- Michée 2
+- Mi 2
+- Micah 2
 tags : Bible/Mi/2
 ---
 
-# Chapitre 2
+# Micah 2
 
 ###### 1
 Vae, qui cogitant iniquitatem et operantur malum in cubilibus suis! In luce matutina faciunt illud, quoniam est in potestate manus eorum.

@@ -1,9 +1,13 @@
 ---
-aliases : Rm 6
+aliases : 
+- Romans 6
+- Romains 6
+- Rm 6
+- Romans 6
 tags : Bible/Rm/6
 ---
 
-# Chapitre 6
+# Romans 6
 
 ###### 1
 Quid ergo dicemus? Perma nebimus in peccato, ut gratia abundet?

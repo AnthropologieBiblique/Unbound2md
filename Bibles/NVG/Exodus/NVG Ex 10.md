@@ -1,9 +1,13 @@
 ---
-aliases : Ex 10
+aliases : 
+- Exodus 10
+- Exode 10
+- Ex 10
+- Exodus 10
 tags : Bible/Ex/10
 ---
 
-# Chapitre 10
+# Exodus 10
 
 ###### 1
 Et dixit Dominus ad Moy sen: “ Ingredere ad pharao nem: ego enim induravi cor eius et servorum illius, ut faciam signa mea haec in medio eorum, 

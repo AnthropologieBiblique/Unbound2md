@@ -1,9 +1,13 @@
 ---
-aliases : Ps 82
+aliases : 
+- Psalms 82
+- Psaumes 82
+- Ps 82
+- Psalms 82
 tags : Bible/Ps/82
 ---
 
-# Chapitre 82
+# Psalms 82
 
 ###### 1
 PSALMUS. Asaph. Deus stetit in concilio divino, in medio deorum iudicat.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 137
+aliases : 
+- Psalms 136
+- Psaumes 137
+- Ps 137
+- Psalms 137
 tags : Bible/Ps/137
 ---
 
-# Chapitre 136
+# Psalms 136
 
 ###### 1
 Psalmus David, Jeremiæ. Super flumina Babylonis illic sedimus et flevimus, cum recordaremur Sion.

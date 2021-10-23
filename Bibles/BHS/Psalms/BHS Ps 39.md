@@ -1,9 +1,13 @@
 ---
-aliases : Ps 39
+aliases : 
+- Psalms 39
+- Psaumes 39
+- Ps 39
+- Psalms 39
 tags : Bible/Ps/39
 ---
 
-# Chapitre 39
+# Psalms 39
 
 ###### 1
 לַמְנַצֵּחַ [כ= לִידִיתוּן] [ק= לִידוּתוּן] מִזְמֹור לְדָוִד׃

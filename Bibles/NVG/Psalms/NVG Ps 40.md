@@ -1,9 +1,13 @@
 ---
-aliases : Ps 40
+aliases : 
+- Psalms 40
+- Psaumes 40
+- Ps 40
+- Psalms 40
 tags : Bible/Ps/40
 ---
 
-# Chapitre 40
+# Psalms 40
 
 ###### 1
 Magistro chori. David. PSALMUS.

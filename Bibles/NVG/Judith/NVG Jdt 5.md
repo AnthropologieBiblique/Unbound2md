@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 5
+aliases : 
+- Judith 5
+- Judith 5
+- Jdt 5
 tags : Bible/Jdt/5
 ---
 
-# Chapitre 5
+# Judith 5
 
 ###### 1
 Et renuntiatum est Holoferni principi militiae virtutis Assyriae quoniam filii Israel praeparaverant se ad pugnam et transitus montanae concluserant et muris cinxerant omnem verticem montis excelsi et posuerant in campis offendicula. 

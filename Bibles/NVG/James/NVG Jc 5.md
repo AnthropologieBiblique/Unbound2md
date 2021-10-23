@@ -1,9 +1,13 @@
 ---
-aliases : Jc 5
+aliases : 
+- James 5
+- Jacques 5
+- Jc 5
+- James 5
 tags : Bible/Jc/5
 ---
 
-# Chapitre 5
+# James 5
 
 ###### 1
 Age nunc, divites, plorate ulu lantes in miseriis, quae adve nient vobis. 

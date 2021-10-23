@@ -1,9 +1,13 @@
 ---
-aliases : Si 7
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 7
+- Siracide 7
+- Si 7
+- Ecclesiasticus (Sira 7
 tags : Bible/Si/7
 ---
 
-# Chapitre 7
+# Σοφία Ἰησοῦ Σειράχ 7
 
 ###### 1
 μὴ ποίει κακά καὶ οὐ μή σε καταλάβῃ κακόν

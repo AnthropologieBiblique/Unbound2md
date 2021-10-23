@@ -1,9 +1,13 @@
 ---
-aliases : 1 P 4
+aliases : 
+- 1 Peter 4
+- 1 Pierre 4
+- 1 P 4
+- 1 Peter 4
 tags : Bible/1P/4
 ---
 
-# Chapitre 4
+# 1 Peter 4
 
 ###### 1
 Christo igitur passo in carne, et vos eadem cogitatione armami ni, quia, qui passus est carne, desiit a peccato; 

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 11
+aliases : 
+- Job 11
+- Job 11
+- Jb 11
 tags : Bible/Jb/11
 ---
 
-# Chapitre 11
+# Job 11
 
 ###### 1
 Respondens autem Sophar Naamathites, dixit :

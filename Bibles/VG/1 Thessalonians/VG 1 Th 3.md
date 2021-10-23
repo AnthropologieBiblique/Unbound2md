@@ -1,9 +1,13 @@
 ---
-aliases : 1 Th 3
+aliases : 
+- 1 Thessalonians 3
+- 1 Thessaloniciens 3
+- 1 Th 3
+- 1 Thessalonians 3
 tags : Bible/1Th/3
 ---
 
-# Chapitre 3
+# 1 Thessalonians 3
 
 ###### 1
 Propter quod non sustinentes amplius, placuit nobis remanere Athenis, solis :

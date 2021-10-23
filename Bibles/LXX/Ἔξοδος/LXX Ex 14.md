@@ -1,9 +1,13 @@
 ---
-aliases : Ex 14
+aliases : 
+- Ἔξοδος 14
+- Exode 14
+- Ex 14
+- Exodus 14
 tags : Bible/Ex/14
 ---
 
-# Chapitre 14
+# Ἔξοδος 14
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

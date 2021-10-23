@@ -1,9 +1,13 @@
 ---
-aliases : Ps 108
+aliases : 
+- Psalms 108
+- Psaumes 108
+- Ps 108
+- Psalms 108
 tags : Bible/Ps/108
 ---
 
-# Chapitre 108
+# Psalms 108
 
 ###### 1
 Canticum. PSALMUS. David.

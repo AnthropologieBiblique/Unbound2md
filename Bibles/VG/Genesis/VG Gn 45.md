@@ -1,9 +1,13 @@
 ---
-aliases : Gn 45
+aliases : 
+- Genesis 45
+- Genèse 45
+- Gn 45
+- Genesis 45
 tags : Bible/Gn/45
 ---
 
-# Chapitre 45
+# Genesis 45
 
 ###### 1
 Non se poterat ultra cohibere Joseph multis coram astantibus : unde præcepit ut egrederentur cuncti foras, et nullus interesset alienus agnitioni mutuæ.

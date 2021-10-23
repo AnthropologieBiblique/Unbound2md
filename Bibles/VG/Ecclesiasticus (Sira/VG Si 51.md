@@ -1,9 +1,13 @@
 ---
-aliases : Si 51
+aliases : 
+- Ecclesiasticus (Sira 51
+- Siracide 51
+- Si 51
+- Ecclesiasticus (Sira 51
 tags : Bible/Si/51
 ---
 
-# Chapitre 51
+# Ecclesiasticus (Sira 51
 
 ###### 1
 Oratio Jesu filii Sirach. Confitebor tibi, Domine rex, et collaudabo te Deum salvatorem meum.

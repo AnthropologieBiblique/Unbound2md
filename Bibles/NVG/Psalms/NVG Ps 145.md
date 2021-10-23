@@ -1,9 +1,13 @@
 ---
-aliases : Ps 145
+aliases : 
+- Psalms 145
+- Psaumes 145
+- Ps 145
+- Psalms 145
 tags : Bible/Ps/145
 ---
 
-# Chapitre 145
+# Psalms 145
 
 ###### 1
 Laudes. David. ALEPH. Exaltabo te, Deus meus, rex, et benedicam nomini tuo in saeculum et in saeculum saeculi.

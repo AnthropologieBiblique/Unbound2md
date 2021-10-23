@@ -1,9 +1,13 @@
 ---
-aliases : Is 30
+aliases : 
+- Isaiah 30
+- Isaïe 30
+- Is 30
+- Isaiah 30
 tags : Bible/Is/30
 ---
 
-# Chapitre 30
+# Isaiah 30
 
 ###### 1
 Væ filii desertores, dicit Dominus, ut faceretis consilium, et non ex me, et ordiremini telam, et non per spiritum meum, ut adderetis peccatum super peccatum ;

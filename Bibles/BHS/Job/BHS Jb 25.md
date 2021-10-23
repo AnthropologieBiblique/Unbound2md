@@ -1,9 +1,12 @@
 ---
-aliases : Jb 25
+aliases : 
+- Job 25
+- Job 25
+- Jb 25
 tags : Bible/Jb/25
 ---
 
-# Chapitre 25
+# Job 25
 
 ###### 1
 וַיַּעַן בִּלְדַּד הַשֻּׁחִי וַיֹּאמַר׃

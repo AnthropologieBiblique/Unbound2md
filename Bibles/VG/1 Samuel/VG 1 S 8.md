@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 8
+aliases : 
+- 1 Samuel 8
+- 1 Samuel 8
+- 1 S 8
 tags : Bible/1S/8
 ---
 
-# Chapitre 8
+# 1 Samuel 8
 
 ###### 1
 Factum est autem cum senuisset Samuel, posuit filios suos judices Israël.

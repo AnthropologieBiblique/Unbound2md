@@ -1,9 +1,13 @@
 ---
-aliases : Ag 1
+aliases : 
+- Haggai 2
+- Aggée 1
+- Ag 1
+- Haggai 1
 tags : Bible/Ag/1
 ---
 
-# Chapitre 2
+# Haggai 2
 
 ###### 1
 In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.

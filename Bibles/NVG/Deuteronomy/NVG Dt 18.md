@@ -1,9 +1,13 @@
 ---
-aliases : Dt 18
+aliases : 
+- Deuteronomy 18
+- Deutéronome 18
+- Dt 18
+- Deuteronomy 18
 tags : Bible/Dt/18
 ---
 
-# Chapitre 18
+# Deuteronomy 18
 
 ###### 1
 Non habebunt sacerdotes le vitae, omnis tribus Levi, par tem et hereditatem cum reliquo Israel; de sacrificiis Domini et hereditate eius comedent 

@@ -1,9 +1,13 @@
 ---
-aliases : Mt 10
+aliases : 
+- Matthew 10
+- Matthieu 10
+- Mt 10
+- Matthew 10
 tags : Bible/Mt/10
 ---
 
-# Chapitre 10
+# Matthew 10
 
 ###### 1
 Et convocatis duodecim discipulis suis, dedit illis potestatem spirituum immundorum, ut ejicerent eos, et curarent omnem languorem, et omnem infirmitatem.

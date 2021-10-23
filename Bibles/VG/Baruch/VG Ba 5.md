@@ -1,9 +1,12 @@
 ---
-aliases : Ba 5
+aliases : 
+- Baruch 5
+- Baruch 5
+- Ba 5
 tags : Bible/Ba/5
 ---
 
-# Chapitre 5
+# Baruch 5
 
 ###### 1
 Exue te, Jerusalem, stola luctus et vexationis tuæ, et indue te decore, et honore ejus, quæ a Deo tibi est, sempiternæ gloriæ.

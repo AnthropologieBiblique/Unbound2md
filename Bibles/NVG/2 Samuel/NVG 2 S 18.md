@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 18
+aliases : 
+- 2 Samuel 18
+- 2 Samuel 18
+- 2 S 18
 tags : Bible/2S/18
 ---
 
-# Chapitre 18
+# 2 Samuel 18
 
 ###### 1
 Igitur, recensito David populo suo, constituit super eum tribunos et centuriones. 

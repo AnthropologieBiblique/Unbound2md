@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 15
+aliases : 
+- 1 Kings 15
+- 1 Rois 15
+- 1 R 15
+- 1 Kings 15
 tags : Bible/1R/15
 ---
 
-# Chapitre 15
+# 1 Kings 15
 
 ###### 1
 Igitur in octavo decimo anno regni Ieroboam filii Nabat regnavit Abiam super Iudam. 

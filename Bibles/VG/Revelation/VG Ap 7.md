@@ -1,9 +1,13 @@
 ---
-aliases : Ap 7
+aliases : 
+- Revelation 7
+- Apocalypse 7
+- Ap 7
+- Revelation 7
 tags : Bible/Ap/7
 ---
 
-# Chapitre 7
+# Revelation 7
 
 ###### 1
 Post hæc vidi quatuor angelos stantes super quatuor angulos terræ, tenentes quatuor ventos terræ, ne flarent super terram, neque super mare, neque in ullam arborem.

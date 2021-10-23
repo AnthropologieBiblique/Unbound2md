@@ -1,9 +1,13 @@
 ---
-aliases : Ps 12
+aliases : 
+- Psalms 12
+- Psaumes 12
+- Ps 12
+- Psalms 12
 tags : Bible/Ps/12
 ---
 
-# Chapitre 12
+# Psalms 12
 
 ###### 1
 לַמְנַצֵּחַ עַל־הַשְּׁמִינִית מִזְמֹור לְדָוִד׃

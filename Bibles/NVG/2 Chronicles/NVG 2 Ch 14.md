@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 14
+aliases : 
+- 2 Chronicles 14
+- 2 Chroniques 14
+- 2 Ch 14
+- 2 Chronicles 14
 tags : Bible/2Ch/14
 ---
 
-# Chapitre 14
+# 2 Chronicles 14
 
 ###### 1
 Fecit autem Asa, quod bo num et placitum erat in con spectu Domini Dei sui, et subvertit altaria peregrini cultus et excelsa 

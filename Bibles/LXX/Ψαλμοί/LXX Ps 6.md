@@ -1,9 +1,13 @@
 ---
-aliases : Ps 6
+aliases : 
+- Ψαλμοί 6
+- Psaumes 6
+- Ps 6
+- Psalms 6
 tags : Bible/Ps/6
 ---
 
-# Chapitre 6
+# Ψαλμοί 6
 
 ###### 1
 εἰς τὸ τέλος ἐν ὕμνοις ὑπὲρ τῆς ὀγδόης ψαλμὸς τῷ δαυιδ

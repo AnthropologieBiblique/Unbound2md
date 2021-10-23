@@ -1,9 +1,13 @@
 ---
-aliases : Nb 18
+aliases : 
+- Numbers 18
+- Nombres 18
+- Nb 18
+- Numbers 18
 tags : Bible/Nb/18
 ---
 
-# Chapitre 18
+# Numbers 18
 
 ###### 1
 Dixitque Dominus ad Aaron : Tu, et filii tui, et domus patris tui tecum, portabitis iniquitatem sanctuarii : et tu et filii tui simul sustinebitis peccata sacerdotii vestri.

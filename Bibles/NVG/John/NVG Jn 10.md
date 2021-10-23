@@ -1,9 +1,13 @@
 ---
-aliases : Jn 10
+aliases : 
+- John 10
+- Jean 10
+- Jn 10
+- John 10
 tags : Bible/Jn/10
 ---
 
-# Chapitre 10
+# John 10
 
 ###### 1
 “ Amen, amen dico vobis: Qui non intrat per ostium in ovile ovium, sed ascendit aliunde, ille fur est et latro; 

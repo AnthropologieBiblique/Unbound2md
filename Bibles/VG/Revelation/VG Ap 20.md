@@ -1,9 +1,13 @@
 ---
-aliases : Ap 20
+aliases : 
+- Revelation 20
+- Apocalypse 20
+- Ap 20
+- Revelation 20
 tags : Bible/Ap/20
 ---
 
-# Chapitre 20
+# Revelation 20
 
 ###### 1
 Et vidi angelum descendentem de cælo, habentem clavem abyssi, et catenam magnam in manu sua.

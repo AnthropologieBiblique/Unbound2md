@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 12
+aliases : 
+- Judith 12
+- Judith 12
+- Jdt 12
 tags : Bible/Jdt/12
 ---
 
-# Chapitre 12
+# Judith 12
 
 ###### 1
 Tunc jussit eam introire ubi repositi erant thesauri ejus, et jussit illic manere eam, et constituit quid daretur illi de convivio suo.

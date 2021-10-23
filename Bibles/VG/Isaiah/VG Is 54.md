@@ -1,9 +1,13 @@
 ---
-aliases : Is 54
+aliases : 
+- Isaiah 54
+- Isaïe 54
+- Is 54
+- Isaiah 54
 tags : Bible/Is/54
 ---
 
-# Chapitre 54
+# Isaiah 54
 
 ###### 1
 Lauda, sterilis, quæ non paris ; decanta laudem, et hinni, quæ non pariebas : quoniam multi filii desertæ magis quam ejus quæ habet virum, dicit Dominus.

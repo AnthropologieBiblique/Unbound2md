@@ -1,9 +1,13 @@
 ---
-aliases : He 2
+aliases : 
+- Hebrews 2
+- Hébreux 2
+- He 2
+- Hebrews 2
 tags : Bible/He/2
 ---
 
-# Chapitre 2
+# Hebrews 2
 
 ###### 1
 Propterea abundantius oportet observare nos ea, quae audivi mus, ne forte praeterfluamus. 

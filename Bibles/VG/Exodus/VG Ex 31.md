@@ -1,9 +1,13 @@
 ---
-aliases : Ex 31
+aliases : 
+- Exodus 31
+- Exode 31
+- Ex 31
+- Exodus 31
 tags : Bible/Ex/31
 ---
 
-# Chapitre 31
+# Exodus 31
 
 ###### 1
 Locutusque est Dominus ad Moysen, dicens :

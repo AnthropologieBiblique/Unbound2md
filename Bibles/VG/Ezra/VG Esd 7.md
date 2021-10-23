@@ -1,9 +1,13 @@
 ---
-aliases : Esd 7
+aliases : 
+- Ezra 7
+- Esdras 7
+- Esd 7
+- Ezra 7
 tags : Bible/Esd/7
 ---
 
-# Chapitre 7
+# Ezra 7
 
 ###### 1
 Post hæc autem verba in regno Artaxerxis regis Persarum, Esdras filius Saraiæ, filii Azariæ, filii Helciæ,

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 135
+aliases : 
+- Psalms 134
+- Psaumes 135
+- Ps 135
+- Psalms 135
 tags : Bible/Ps/135
 ---
 
-# Chapitre 134
+# Psalms 134
 
 ###### 1
 Alleluja. Laudate nomen Dominum ; laudate, servi, Dominum :

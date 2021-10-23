@@ -1,9 +1,13 @@
 ---
-aliases : Ez 18
+aliases : 
+- Ἰεζεκιήλ 18
+- Ézéchiel 18
+- Ez 18
+- Ezekiel 18
 tags : Bible/Ez/18
 ---
 
-# Chapitre 18
+# Ἰεζεκιήλ 18
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

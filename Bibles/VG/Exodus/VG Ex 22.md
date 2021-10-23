@@ -1,9 +1,13 @@
 ---
-aliases : Ex 22
+aliases : 
+- Exodus 22
+- Exode 22
+- Ex 22
+- Exodus 22
 tags : Bible/Ex/22
 ---
 
-# Chapitre 22
+# Exodus 22
 
 ###### 1
 Si quis furatus fuerit bovem aut ovem, et occiderit vel vendiderit : quinque boves pro uno bove restituet, et quatuor oves pro una ove.

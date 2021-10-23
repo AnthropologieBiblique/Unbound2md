@@ -1,9 +1,13 @@
 ---
-aliases : Ez 30
+aliases : 
+- Ezekiel 30
+- Ézéchiel 30
+- Ez 30
+- Ezekiel 30
 tags : Bible/Ez/30
 ---
 
-# Chapitre 30
+# Ezekiel 30
 
 ###### 1
 Et factum est verbum Do mini ad me dicens: 

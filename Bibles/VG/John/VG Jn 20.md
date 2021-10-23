@@ -1,9 +1,13 @@
 ---
-aliases : Jn 20
+aliases : 
+- John 20
+- Jean 20
+- Jn 20
+- John 20
 tags : Bible/Jn/20
 ---
 
-# Chapitre 20
+# John 20
 
 ###### 1
 Una autem sabbati, Maria Magdalene venit mane, cum adhuc tenebræ essent, ad monumentum : et vidit lapidem sublatum a monumento.

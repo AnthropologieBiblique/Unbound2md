@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 11
+aliases : 
+- 1 Maccabees 11
+- 1 Maccabees 11
+- 1 M 11
 tags : Bible/1M/11
 ---
 
-# Chapitre 11
+# 1 Maccabees 11
 
 ###### 1
 Et rex Aegypti congregavit exercitum sicut arena, quae est circa oram maris, et naves multas et quaerebat obtinere regnum Alexandri dolo et addere illud regno suo. 

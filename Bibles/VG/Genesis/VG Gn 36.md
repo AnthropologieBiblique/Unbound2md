@@ -1,9 +1,13 @@
 ---
-aliases : Gn 36
+aliases : 
+- Genesis 36
+- Genèse 36
+- Gn 36
+- Genesis 36
 tags : Bible/Gn/36
 ---
 
-# Chapitre 36
+# Genesis 36
 
 ###### 1
 Hæ sunt autem generationes Esau, ipse est Edom.

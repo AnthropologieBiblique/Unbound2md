@@ -1,9 +1,13 @@
 ---
-aliases : Ps 8
+aliases : 
+- Ψαλμοί 8
+- Psaumes 8
+- Ps 8
+- Psalms 8
 tags : Bible/Ps/8
 ---
 
-# Chapitre 8
+# Ψαλμοί 8
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῶν ληνῶν ψαλμὸς τῷ δαυιδ

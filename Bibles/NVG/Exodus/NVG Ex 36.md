@@ -1,9 +1,13 @@
 ---
-aliases : Ex 36
+aliases : 
+- Exodus 36
+- Exode 36
+- Ex 36
+- Exodus 36
 tags : Bible/Ex/36
 ---
 
-# Chapitre 36
+# Exodus 36
 
 ###### 1
 Fecit ergo Beseleel et Ooliab et omnis vir sapiens, quibus dedit Dominus sapientiam et intellectum, ut scirent fabre operari, quae in usus sanctuarii necessaria sunt et quae praecepit Dominus.

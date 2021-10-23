@@ -1,9 +1,13 @@
 ---
-aliases : Os 13
+aliases : 
+- Hosea 13
+- Osée 13
+- Os 13
+- Hosea 13
 tags : Bible/Os/13
 ---
 
-# Chapitre 13
+# Hosea 13
 
 ###### 1
 Loquente Ephraim, horror factus est; dux erat in Israel. Et deliquit in Baal et mortuus est.

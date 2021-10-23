@@ -1,9 +1,13 @@
 ---
-aliases : Mt 10
+aliases : 
+- Matthew 10
+- Matthieu 10
+- Mt 10
+- Matthew 10
 tags : Bible/Mt/10
 ---
 
-# Chapitre 10
+# Matthew 10
 
 ###### 1
 Et convocatis Duodecim di scipulis suis, dedit illis pote statem spirituum immundorum, ut eicerent eos et curarent omnem languorem et omnem infirmitatem.

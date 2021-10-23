@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 8
+aliases : 
+- 2 Chronicles 8
+- 2 Chroniques 8
+- 2 Ch 8
+- 2 Chronicles 8
 tags : Bible/2Ch/8
 ---
 
-# Chapitre 8
+# 2 Chronicles 8
 
 ###### 1
 וַיְהִי מִקֵּץ עֶשְׂרִים שָׁנָה אֲשֶׁר בָּנָה שְׁלֹמֹה אֶת־בֵּית יְהוָה וְאֶת־בֵּיתֹו׃

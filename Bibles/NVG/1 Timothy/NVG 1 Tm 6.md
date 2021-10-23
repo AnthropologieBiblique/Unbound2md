@@ -1,9 +1,13 @@
 ---
-aliases : 1 Tm 6
+aliases : 
+- 1 Timothy 6
+- 1 Timothée 6
+- 1 Tm 6
+- 1 Timothy 6
 tags : Bible/1Tm/6
 ---
 
-# Chapitre 6
+# 1 Timothy 6
 
 ###### 1
 Quicumque sunt sub iugo, servi dominos suos omni honore di gnos arbitrentur, ne nomen Dei et doctrina blasphemetur. 

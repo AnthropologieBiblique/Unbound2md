@@ -1,9 +1,13 @@
 ---
-aliases : Si 19
+aliases : 
+- Ecclesiasticus (Sira 19
+- Siracide 19
+- Si 19
+- Ecclesiasticus (Sira 19
 tags : Bible/Si/19
 ---
 
-# Chapitre 19
+# Ecclesiasticus (Sira 19
 
 ###### 1
 Operarius ebriosus non locupletabitur; et, qui spernit modica, paulatim decidet.

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 9
+aliases : 
+- Daniel 9
+- Daniel 9
+- Dn 9
 tags : Bible/Dn/9
 ---
 
-# Chapitre 9
+# Daniel 9
 
 ###### 1
 In anno primo Darii filii Assueri de semine Medorum, qui imperavit super regnum Chaldæorum,

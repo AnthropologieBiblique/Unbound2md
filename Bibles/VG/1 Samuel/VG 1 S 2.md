@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 2
+aliases : 
+- 1 Samuel 2
+- 1 Samuel 2
+- 1 S 2
 tags : Bible/1S/2
 ---
 
-# Chapitre 2
+# 1 Samuel 2
 
 ###### 1
 Exultavit cor meum in Domino, et exaltatum est cornu meum in Deo meo : dilatatum est os meum super inimicos meos : quia lætata sum in salutari tuo.

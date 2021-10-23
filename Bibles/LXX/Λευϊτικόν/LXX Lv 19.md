@@ -1,9 +1,13 @@
 ---
-aliases : Lv 19
+aliases : 
+- Λευϊτικόν 19
+- Lévitique 19
+- Lv 19
+- Leviticus 19
 tags : Bible/Lv/19
 ---
 
-# Chapitre 19
+# Λευϊτικόν 19
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

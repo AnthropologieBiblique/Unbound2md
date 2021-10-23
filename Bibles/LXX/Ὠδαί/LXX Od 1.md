@@ -1,9 +1,12 @@
 ---
-aliases : Od 1
+aliases : 
+- Ὠδαί 1
+- Odes 1
+- Od 1
 tags : Bible/Od/1
 ---
 
-# Chapitre 1
+# Ὠδαί 1
 
 ###### 1a
 ᾠδὴ μωυσέως ἐν τῇ ἐξόδῳ

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Tm 1
+aliases : 
+- 1 Timothy 1
+- 1 Timothée 1
+- 1 Tm 1
+- 1 Timothy 1
 tags : Bible/1Tm/1
 ---
 
-# Chapitre 1
+# 1 Timothy 1
 
 ###### 1
 Paulus Apostolus Jesu Christi secundum imperium Dei Salvatoris nostri, et Christi Jesu spei nostræ,

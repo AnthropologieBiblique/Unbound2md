@@ -1,9 +1,12 @@
 ---
-aliases : Jb 32
+aliases : 
+- Job 32
+- Job 32
+- Jb 32
 tags : Bible/Jb/32
 ---
 
-# Chapitre 32
+# Job 32
 
 ###### 1
 Omiserunt autem tres viri isti respondere Iob, eo quod iustus sibi videretur. 

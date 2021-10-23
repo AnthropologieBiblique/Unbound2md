@@ -1,9 +1,13 @@
 ---
-aliases : Ne 13
+aliases : 
+- Nehemiah 13
+- Néhémie 13
+- Ne 13
+- Nehemiah 13
 tags : Bible/Ne/13
 ---
 
-# Chapitre 13
+# Nehemiah 13
 
 ###### 1
 In die autem illo lectum est in volumine Moysi, audiente populo, et inventum est scriptum in eo quod non debeant introire Ammonites et Moabites in ecclesiam Dei usque in aeternum, 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 21
+aliases : 
+- Psalms 21
+- Psaumes 21
+- Ps 21
+- Psalms 21
 tags : Bible/Ps/21
 ---
 
-# Chapitre 21
+# Psalms 21
 
 ###### 1
 לַמְנַצֵּחַ מִזְמֹור לְדָוִד׃

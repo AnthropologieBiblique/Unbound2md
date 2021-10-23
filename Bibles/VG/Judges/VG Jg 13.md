@@ -1,9 +1,13 @@
 ---
-aliases : Jg 13
+aliases : 
+- Judges 13
+- Juges 13
+- Jg 13
+- Judges 13
 tags : Bible/Jg/13
 ---
 
-# Chapitre 13
+# Judges 13
 
 ###### 1
 Rursumque filii Israël fecerunt malum in conspectu Domini : qui tradidit eos in manus Philisthinorum quadraginta annis.

@@ -1,9 +1,13 @@
 ---
-aliases : Lc 8
+aliases : 
+- Luke 8
+- Luc 8
+- Lc 8
+- Luke 8
 tags : Bible/Lc/8
 ---
 
-# Chapitre 8
+# Luke 8
 
 ###### 1
 Et factum est deinceps, et ipse iter faciebat per civitates, et castella prædicans, et evangelizans regnum Dei : et duodecim cum illo,

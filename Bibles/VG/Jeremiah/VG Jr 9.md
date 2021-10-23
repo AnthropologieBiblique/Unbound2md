@@ -1,9 +1,13 @@
 ---
-aliases : Jr 9
+aliases : 
+- Jeremiah 9
+- Jérémie 9
+- Jr 9
+- Jeremiah 9
 tags : Bible/Jr/9
 ---
 
-# Chapitre 9
+# Jeremiah 9
 
 ###### 1
 Quis dabit capiti meo aquam, et oculis meis fontem lacrimarum, et plorabo die ac nocte interfectos filiæ populi mei ?

@@ -1,9 +1,13 @@
 ---
-aliases : Si 8
+aliases : 
+- Ecclesiasticus (Sira 8
+- Siracide 8
+- Si 8
+- Ecclesiasticus (Sira 8
 tags : Bible/Si/8
 ---
 
-# Chapitre 8
+# Ecclesiasticus (Sira 8
 
 ###### 1
 Non litiges cum homine potente, ne forte incidas in manus illius.

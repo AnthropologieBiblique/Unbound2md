@@ -1,9 +1,13 @@
 ---
-aliases : Is 42
+aliases : 
+- Isaiah 42
+- Isaïe 42
+- Is 42
+- Isaiah 42
 tags : Bible/Is/42
 ---
 
-# Chapitre 42
+# Isaiah 42
 
 ###### 1
 Ecce servus meus, suscipiam eum; electus meus, complacet sibi in illo anima mea; dedi spiritum meum super eum, iudicium gentibus proferet.

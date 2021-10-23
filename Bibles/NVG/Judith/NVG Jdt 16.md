@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 16
+aliases : 
+- Judith 16
+- Judith 16
+- Jdt 16
 tags : Bible/Jdt/16
 ---
 
-# Chapitre 16
+# Judith 16
 
 ###### 1
 Dixitque Iudith: “ Incipite Deo meo in tym panis, cantate Domino meo in cymbalis, modulamini illi psalmum novum, exaltate et invocate nomen ipsius.

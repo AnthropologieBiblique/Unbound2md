@@ -1,9 +1,13 @@
 ---
-aliases : Is 61
+aliases : 
+- Isaiah 61
+- Isaïe 61
+- Is 61
+- Isaiah 61
 tags : Bible/Is/61
 ---
 
-# Chapitre 61
+# Isaiah 61
 
 ###### 1
 Spiritus Domini super me, eo quod unxerit Dominus me ; ad annuntiandum mansuetis misit me, ut mederer contritis corde, et prædicarem captivis indulgentiam, et clausis apertionem ;

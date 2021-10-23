@@ -1,9 +1,13 @@
 ---
-aliases : Ps 30
+aliases : 
+- Psalms 29
+- Psaumes 30
+- Ps 30
+- Psalms 30
 tags : Bible/Ps/30
 ---
 
-# Chapitre 29
+# Psalms 29
 
 ###### 1
 Psalmus canti, in dedicatione domus David.

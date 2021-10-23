@@ -1,9 +1,13 @@
 ---
-aliases : Is 5
+aliases : 
+- Isaiah 5
+- Isaïe 5
+- Is 5
+- Isaiah 5
 tags : Bible/Is/5
 ---
 
-# Chapitre 5
+# Isaiah 5
 
 ###### 1
 Cantabo dilecto meo canticum amici mei de vinea sua: Vinea facta est dilecto meo in colle pingui;

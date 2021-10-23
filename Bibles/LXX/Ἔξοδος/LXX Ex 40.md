@@ -1,9 +1,13 @@
 ---
-aliases : Ex 40
+aliases : 
+- Ἔξοδος 40
+- Exode 40
+- Ex 40
+- Exodus 40
 tags : Bible/Ex/40
 ---
 
-# Chapitre 40
+# Ἔξοδος 40
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

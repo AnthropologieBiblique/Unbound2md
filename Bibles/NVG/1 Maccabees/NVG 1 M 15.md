@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 15
+aliases : 
+- 1 Maccabees 15
+- 1 Maccabees 15
+- 1 M 15
 tags : Bible/1M/15
 ---
 
-# Chapitre 15
+# 1 Maccabees 15
 
 ###### 1
 Et misit rex Antiochus filius Demetrii epistulas ab insulis maris Simoni sacerdoti et principi gentis Iudaeorum et universae genti, 

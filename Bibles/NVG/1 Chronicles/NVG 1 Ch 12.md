@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 12
+aliases : 
+- 1 Chronicles 12
+- 1 Chroniques 12
+- 1 Ch 12
+- 1 Chronicles 12
 tags : Bible/1Ch/12
 ---
 
-# Chapitre 12
+# 1 Chronicles 12
 
 ###### 1
 Hi quoque venerunt ad Da vid in Siceleg, cum adhuc fu geret Saul filium Cis; qui erant fortissimi et egregii pugnatores 

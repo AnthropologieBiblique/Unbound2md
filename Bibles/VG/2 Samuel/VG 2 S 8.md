@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 8
+aliases : 
+- 2 Samuel 8
+- 2 Samuel 8
+- 2 S 8
 tags : Bible/2S/8
 ---
 
-# Chapitre 8
+# 2 Samuel 8
 
 ###### 1
 Factum est autem post hæc, percussit David Philisthiim, et humiliavit eos, et tulit David frenum tributi de manu Philisthiim.

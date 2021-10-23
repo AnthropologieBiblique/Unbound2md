@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 20
+aliases : 
+- 1 Samuel 20
+- 1 Samuel 20
+- 1 S 20
 tags : Bible/1S/20
 ---
 
-# Chapitre 20
+# 1 Samuel 20
 
 ###### 1
 Fugit autem David de Naioth, quae est in Rama, veniensque locutus est coram Ionathan: “ Quid feci? Quae est iniquitas mea et quod peccatum meum in patrem tuum, quia quaerit animam meam? ”. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 61
+aliases : 
+- Ψαλμοί 60
+- Psaumes 61
+- Ps 61
+- Psalms 61
 tags : Bible/Ps/61
 ---
 
-# Chapitre 60
+# Ψαλμοί 60
 
 ###### 1
 εἰς τὸ τέλος ἐν ὕμνοις τῷ δαυιδ

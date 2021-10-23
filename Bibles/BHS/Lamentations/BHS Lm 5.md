@@ -1,9 +1,12 @@
 ---
-aliases : Lm 5
+aliases : 
+- Lamentations 5
+- Lamentations 5
+- Lm 5
 tags : Bible/Lm/5
 ---
 
-# Chapitre 5
+# Lamentations 5
 
 ###### 1
 זְכֹר יְהוָה מֶה־הָיָה לָנוּ [כ= הַבֵּיט] [ק= הַבִּיטָה] וּרְאֵה אֶת־חֶרְפָּתֵנוּ׃

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 13
+aliases : 
+- Ψαλμοί 12
+- Psaumes 13
+- Ps 13
+- Psalms 13
 tags : Bible/Ps/13
 ---
 
-# Chapitre 12
+# Ψαλμοί 12
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

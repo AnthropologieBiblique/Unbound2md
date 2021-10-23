@@ -1,9 +1,13 @@
 ---
-aliases : Jr 12
+aliases : 
+- Jeremiah 12
+- Jérémie 12
+- Jr 12
+- Jeremiah 12
 tags : Bible/Jr/12
 ---
 
-# Chapitre 12
+# Jeremiah 12
 
 ###### 1
 Justus quidem tu es, Domine, si disputem tecum : verumtamen justa loquar ad te : Quare via impiorum prosperatur, bene est omnibus qui prævaricantur, et inique agunt ?

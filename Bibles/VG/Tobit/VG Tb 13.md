@@ -1,9 +1,13 @@
 ---
-aliases : Tb 13
+aliases : 
+- Tobit 13
+- Tobie 13
+- Tb 13
+- Tobit 13
 tags : Bible/Tb/13
 ---
 
-# Chapitre 13
+# Tobit 13
 
 ###### 1
 Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit : Magnus es, Domine, in æternum, et in omnia sæcula regnum tuum :

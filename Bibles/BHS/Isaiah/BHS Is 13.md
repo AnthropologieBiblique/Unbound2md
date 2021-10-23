@@ -1,9 +1,13 @@
 ---
-aliases : Is 13
+aliases : 
+- Isaiah 13
+- Isaïe 13
+- Is 13
+- Isaiah 13
 tags : Bible/Is/13
 ---
 
-# Chapitre 13
+# Isaiah 13
 
 ###### 1
 מַשָּׂא בָּבֶל אֲשֶׁר חָזָה יְשַׁעְיָהוּ בֶּן־אָמֹוץ׃

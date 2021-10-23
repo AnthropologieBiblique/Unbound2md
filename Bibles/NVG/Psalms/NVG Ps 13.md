@@ -1,9 +1,13 @@
 ---
-aliases : Ps 13
+aliases : 
+- Psalms 13
+- Psaumes 13
+- Ps 13
+- Psalms 13
 tags : Bible/Ps/13
 ---
 
-# Chapitre 13
+# Psalms 13
 
 ###### 1
 Magistro chori. PSALMUS. David.

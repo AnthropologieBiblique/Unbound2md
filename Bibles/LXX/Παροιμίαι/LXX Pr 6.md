@@ -1,9 +1,13 @@
 ---
-aliases : Pr 6
+aliases : 
+- Παροιμίαι 6
+- Proverbes 6
+- Pr 6
+- Proverbs 6
 tags : Bible/Pr/6
 ---
 
-# Chapitre 6
+# Παροιμίαι 6
 
 ###### 1
 υἱέ ἐὰν ἐγγυήσῃ σὸν φίλον παραδώσεις σὴν χεῖρα ἐχθρῷ

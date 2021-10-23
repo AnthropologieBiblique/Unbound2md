@@ -1,9 +1,13 @@
 ---
-aliases : Is 45
+aliases : 
+- Isaiah 45
+- Isaïe 45
+- Is 45
+- Isaiah 45
 tags : Bible/Is/45
 ---
 
-# Chapitre 45
+# Isaiah 45
 
 ###### 1
 Haec dicit Dominus de uncto suo Cyro: “ Apprehendi dexteram eius, ut subiciam ante faciem eius gentes et dorsa regum vertam et aperiam coram eo ianuas; et portae non claudentur.

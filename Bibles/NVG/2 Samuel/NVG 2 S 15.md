@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 15
+aliases : 
+- 2 Samuel 15
+- 2 Samuel 15
+- 2 S 15
 tags : Bible/2S/15
 ---
 
-# Chapitre 15
+# 2 Samuel 15
 
 ###### 1
 Post haec fecit sibi Absalom currus et equos et quinqua ginta viros, qui praecederent eum. 

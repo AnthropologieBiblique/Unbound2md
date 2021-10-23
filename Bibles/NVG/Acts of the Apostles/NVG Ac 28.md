@@ -1,9 +1,13 @@
 ---
-aliases : Ac 28
+aliases : 
+- Acts of the Apostles 28
+- Actes 28
+- Ac 28
+- Acts of the Apostles 28
 tags : Bible/Ac/28
 ---
 
-# Chapitre 28
+# Acts of the Apostles 28
 
 ###### 1
 Et cum evasissemus, tunc cognovimus quia Melita in sula vocatur. 

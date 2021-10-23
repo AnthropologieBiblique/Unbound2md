@@ -1,9 +1,13 @@
 ---
-aliases : Pr 9
+aliases : 
+- Proverbs 9
+- Proverbes 9
+- Pr 9
+- Proverbs 9
 tags : Bible/Pr/9
 ---
 
-# Chapitre 9
+# Proverbs 9
 
 ###### 1
 חָכְמֹות בָּנְתָה בֵיתָהּ חָצְבָה עַמּוּדֶיהָ שִׁבְעָה׃

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 1
+aliases : 
+- Daniel 13
+- Daniel 1
+- Dn 1
 tags : Bible/Dn/1
 ---
 
-# Chapitre 13
+# Daniel 13
 
 ###### 1
 Et erat vir habitans in Babylone, et nomen ejus Joakim :

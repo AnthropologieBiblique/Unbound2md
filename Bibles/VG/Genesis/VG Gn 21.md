@@ -1,9 +1,13 @@
 ---
-aliases : Gn 21
+aliases : 
+- Genesis 21
+- Genèse 21
+- Gn 21
+- Genesis 21
 tags : Bible/Gn/21
 ---
 
-# Chapitre 21
+# Genesis 21
 
 ###### 1
 Visitavit autem Dominus Saram, sicut promiserat : et implevit quæ locutus est.

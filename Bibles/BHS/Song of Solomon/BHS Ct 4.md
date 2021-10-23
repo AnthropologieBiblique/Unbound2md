@@ -1,9 +1,13 @@
 ---
-aliases : Ct 4
+aliases : 
+- Song of Solomon 4
+- Cantique des cantiques 4
+- Ct 4
+- Song of Solomon 4
 tags : Bible/Ct/4
 ---
 
-# Chapitre 4
+# Song of Solomon 4
 
 ###### 1
 הִנָּךְ יָפָה רַעְיָתִי הִנָּךְ יָפָה עֵינַיִךְ יֹונִים מִבַּעַד לְצַמָּתֵךְ שַׂעְרֵךְ כְּעֵדֶר הָעִזִּים שֶׁגָּלְשׁוּ מֵהַר גִּלְעָד׃

@@ -1,9 +1,13 @@
 ---
-aliases : Tb 2
+aliases : 
+- Tobit 2
+- Tobie 2
+- Tb 2
+- Tobit 2
 tags : Bible/Tb/2
 ---
 
-# Chapitre 2
+# Tobit 2
 
 ###### 1
 Et sub Asarhaddon rege de scendi in domum meam, et red dita est mihi uxor mea Anna et filius meus Thobias. In Pentecoste, die festo nostro, qui est sanctus a Septimanis, factum est mihi prandium bonum, et discubui, ut pranderem. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ex 12
+aliases : 
+- Exodus 12
+- Exode 12
+- Ex 12
+- Exodus 12
 tags : Bible/Ex/12
 ---
 
-# Chapitre 12
+# Exodus 12
 
 ###### 1
 Dixit Dominus ad Moysen et Aaron in terra Aegypti: 

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 16
+aliases : 
+- Ἀριθμοί 17
+- Nombres 16
+- Nb 16
+- Numbers 16
 tags : Bible/Nb/16
 ---
 
-# Chapitre 17
+# Ἀριθμοί 17
 
 ###### 1
 καὶ εἶπεν κύριος πρὸς μωυσῆν

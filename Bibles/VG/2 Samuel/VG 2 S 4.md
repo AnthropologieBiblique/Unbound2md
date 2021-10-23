@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 4
+aliases : 
+- 2 Samuel 4
+- 2 Samuel 4
+- 2 S 4
 tags : Bible/2S/4
 ---
 
-# Chapitre 4
+# 2 Samuel 4
 
 ###### 1
 Audivit autem Isboseth filius Saul quod cecidisset Abner in Hebron : et dissolutæ sunt manus ejus, omnisque Israël perturbatus est.

@@ -1,9 +1,13 @@
 ---
-aliases : Ep 1
+aliases : 
+- Ephesians 1
+- Éphésiens 1
+- Ep 1
+- Ephesians 1
 tags : Bible/Ep/1
 ---
 
-# Chapitre 1
+# Ephesians 1
 
 ###### 1
 Paulus, apostolus Christi Iesu per voluntatem Dei, sanctis, qui sunt Ephesi, et fidelibus in Christo Iesu: 

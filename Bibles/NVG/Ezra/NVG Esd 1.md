@@ -1,9 +1,13 @@
 ---
-aliases : Esd 1
+aliases : 
+- Ezra 1
+- Esdras 1
+- Esd 1
+- Ezra 1
 tags : Bible/Esd/1
 ---
 
-# Chapitre 1
+# Ezra 1
 
 ###### 1
 In anno primo Cyri regis Persarum, ut compleretur verbum Domini ex ore Ieremiae, suscitavit Dominus spiritum Cyri regis Persarum, qui emisit edictum in omni regno suo etiam per scripturam dicens: 

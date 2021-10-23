@@ -1,9 +1,13 @@
 ---
-aliases : Dt 21
+aliases : 
+- Deuteronomy 21
+- Deutéronome 21
+- Dt 21
+- Deuteronomy 21
 tags : Bible/Dt/21
 ---
 
-# Chapitre 21
+# Deuteronomy 21
 
 ###### 1
 Quando inventum fuerit in terra, quam Dominus Deus tuus daturus est tibi, hominis cadaver occisi, et ignoratur caedis reus, 

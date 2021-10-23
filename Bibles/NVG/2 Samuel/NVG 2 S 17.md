@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 17
+aliases : 
+- 2 Samuel 17
+- 2 Samuel 17
+- 2 S 17
 tags : Bible/2S/17
 ---
 
-# Chapitre 17
+# 2 Samuel 17
 
 ###### 1
 Dixitque Achitophel ad Ab salom: “ Eligam mihi duode cim milia virorum et consurgens persequar David hac nocte 

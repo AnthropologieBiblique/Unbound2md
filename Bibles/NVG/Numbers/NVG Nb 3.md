@@ -1,9 +1,13 @@
 ---
-aliases : Nb 3
+aliases : 
+- Numbers 3
+- Nombres 3
+- Nb 3
+- Numbers 3
 tags : Bible/Nb/3
 ---
 
-# Chapitre 3
+# Numbers 3
 
 ###### 1
 Hae sunt generationes Aaron et Moysi in die, qua locutus est Dominus ad Moysen in monte Sinai.

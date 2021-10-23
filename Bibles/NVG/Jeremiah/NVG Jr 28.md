@@ -1,9 +1,13 @@
 ---
-aliases : Jr 28
+aliases : 
+- Jeremiah 28
+- Jérémie 28
+- Jr 28
+- Jeremiah 28
 tags : Bible/Jr/28
 ---
 
-# Chapitre 28
+# Jeremiah 28
 
 ###### 1
 Et factum est in anno illo, in principio regni Sedeciae regis Iudae, in anno quarto in mense quinto, dixit ad me Hananias filius Azur propheta de Gabaon in domo Domini coram sacerdotibus et omni populo dicens: 

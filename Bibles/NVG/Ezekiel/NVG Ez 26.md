@@ -1,9 +1,13 @@
 ---
-aliases : Ez 26
+aliases : 
+- Ezekiel 26
+- Ézéchiel 26
+- Ez 26
+- Ezekiel 26
 tags : Bible/Ez/26
 ---
 
-# Chapitre 26
+# Ezekiel 26
 
 ###### 1
 Et factum est in undecimo anno, prima mensis, factus est sermo Domini ad me dicens: 

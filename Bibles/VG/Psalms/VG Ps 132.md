@@ -1,9 +1,13 @@
 ---
-aliases : Ps 133
+aliases : 
+- Psalms 132
+- Psaumes 133
+- Ps 133
+- Psalms 133
 tags : Bible/Ps/133
 ---
 
-# Chapitre 132
+# Psalms 132
 
 ###### 1
 Canticum graduum David. Ecce quam bonum et quam jucundum, habitare fratres in unum !

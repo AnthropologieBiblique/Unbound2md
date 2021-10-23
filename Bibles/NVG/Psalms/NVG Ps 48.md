@@ -1,9 +1,13 @@
 ---
-aliases : Ps 48
+aliases : 
+- Psalms 48
+- Psaumes 48
+- Ps 48
+- Psalms 48
 tags : Bible/Ps/48
 ---
 
-# Chapitre 48
+# Psalms 48
 
 ###### 1
 Canticum. PSALMUS. Filiorum Core.

@@ -1,9 +1,12 @@
 ---
-aliases : Est 2
+aliases : 
+- Esther 2
+- Esther 2
+- Est 2
 tags : Bible/Est/2
 ---
 
-# Chapitre 2
+# Esther 2
 
 ###### 1
 His ita gestis, postquam regis Assueri indignatio deferbuerat, recordatus est Vasthi, et quæ fecisset, vel quæ passa esset :

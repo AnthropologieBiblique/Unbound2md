@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 11
+aliases : 
+- 2 Kings 12
+- 2 Rois 11
+- 2 R 11
+- 2 Kings 11
 tags : Bible/2R/11
 ---
 
-# Chapitre 12
+# 2 Kings 12
 
 ###### 1
 בֶּן־שֶׁבַע שָׁנִים יְהֹואָשׁ בְּמָלְכֹו׃ ף

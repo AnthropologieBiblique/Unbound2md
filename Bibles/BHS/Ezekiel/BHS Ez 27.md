@@ -1,9 +1,13 @@
 ---
-aliases : Ez 27
+aliases : 
+- Ezekiel 27
+- Ézéchiel 27
+- Ez 27
+- Ezekiel 27
 tags : Bible/Ez/27
 ---
 
-# Chapitre 27
+# Ezekiel 27
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

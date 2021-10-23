@@ -1,9 +1,13 @@
 ---
-aliases : Sg 17
+aliases : 
+- Wisdom of Solomon 17
+- Sagesse 17
+- Sg 17
+- Wisdom of Solomon 17
 tags : Bible/Sg/17
 ---
 
-# Chapitre 17
+# Wisdom of Solomon 17
 
 ###### 1
 Magna sunt enim judicia tua, Domine, et inenarrabilia verba tua. Propter hoc indisciplinatæ animæ erraverunt.

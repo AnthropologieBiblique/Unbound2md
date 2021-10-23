@@ -1,9 +1,13 @@
 ---
-aliases : Is 1
+aliases : 
+- Isaiah 1
+- Isaïe 1
+- Is 1
+- Isaiah 1
 tags : Bible/Is/1
 ---
 
-# Chapitre 1
+# Isaiah 1
 
 ###### 1
 Visio Isaiae filii Amos, quam vidit super Iudam et Ierusalem in diebus Oziae, Ioatham, Achaz, Ezechiae regum Iudae.

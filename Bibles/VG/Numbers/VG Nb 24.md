@@ -1,9 +1,13 @@
 ---
-aliases : Nb 24
+aliases : 
+- Numbers 24
+- Nombres 24
+- Nb 24
+- Numbers 24
 tags : Bible/Nb/24
 ---
 
-# Chapitre 24
+# Numbers 24
 
 ###### 1
 Cumque vidisset Balaam quod placeret Domino ut benediceret Israëli, nequaquam abiit ut ante perrexerat, ut augurium quæreret : sed dirigens contra desertum vultum suum,

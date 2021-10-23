@@ -1,9 +1,13 @@
 ---
-aliases : Pr 11
+aliases : 
+- Proverbs 11
+- Proverbes 11
+- Pr 11
+- Proverbs 11
 tags : Bible/Pr/11
 ---
 
-# Chapitre 11
+# Proverbs 11
 
 ###### 1
 Statera dolosa abominatio est apud Dominum, et pondus æquum voluntas ejus.

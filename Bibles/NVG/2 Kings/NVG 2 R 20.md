@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 20
+aliases : 
+- 2 Kings 20
+- 2 Rois 20
+- 2 R 20
+- 2 Kings 20
 tags : Bible/2R/20
 ---
 
-# Chapitre 20
+# 2 Kings 20
 
 ###### 1
 In diebus illis aegrotavit Ezechias usque ad mortem. Et venit ad eum Isaias filius Amos prophetes dixitque ei: “ Haec dicit Dominus: Dispone domui tuae, morieris enim et non vives ”. 

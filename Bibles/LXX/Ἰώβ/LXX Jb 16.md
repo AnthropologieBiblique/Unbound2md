@@ -1,9 +1,12 @@
 ---
-aliases : Jb 16
+aliases : 
+- Ἰώβ 16
+- Job 16
+- Jb 16
 tags : Bible/Jb/16
 ---
 
-# Chapitre 16
+# Ἰώβ 16
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

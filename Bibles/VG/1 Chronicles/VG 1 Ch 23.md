@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 23
+aliases : 
+- 1 Chronicles 23
+- 1 Chroniques 23
+- 1 Ch 23
+- 1 Chronicles 23
 tags : Bible/1Ch/23
 ---
 
-# Chapitre 23
+# 1 Chronicles 23
 
 ###### 1
 Igitur David senex et plenus dierum, regem constituit Salomonem filium suum super Israël.

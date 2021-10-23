@@ -1,9 +1,13 @@
 ---
-aliases : Nb 28
+aliases : 
+- Ἀριθμοί 28
+- Nombres 28
+- Nb 28
+- Numbers 28
 tags : Bible/Nb/28
 ---
 
-# Chapitre 28
+# Ἀριθμοί 28
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

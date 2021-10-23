@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 3
+aliases : 
+- 1 Chronicles 3
+- 1 Chroniques 3
+- 1 Ch 3
+- 1 Chronicles 3
 tags : Bible/1Ch/3
 ---
 
-# Chapitre 3
+# 1 Chronicles 3
 
 ###### 1
 David vero hos habuit filios, qui ei nati sunt in Hebron: primoge nitum Amnon ex Achinoam Iezrahelitide, secundum Daniel de Abigail de Carmel, 

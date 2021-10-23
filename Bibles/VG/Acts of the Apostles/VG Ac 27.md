@@ -1,9 +1,13 @@
 ---
-aliases : Ac 27
+aliases : 
+- Acts of the Apostles 27
+- Actes 27
+- Ac 27
+- Acts of the Apostles 27
 tags : Bible/Ac/27
 ---
 
-# Chapitre 27
+# Acts of the Apostles 27
 
 ###### 1
 Ut autem judicatum est navigare eum in Italiam, et tradi Paulum cum reliquis custodiis centurioni nomine Julio cohortis Augustæ,

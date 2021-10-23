@@ -1,9 +1,13 @@
 ---
-aliases : Ps 74
+aliases : 
+- Psalms 73
+- Psaumes 74
+- Ps 74
+- Psalms 74
 tags : Bible/Ps/74
 ---
 
-# Chapitre 73
+# Psalms 73
 
 ###### 1
 Intellectus Asaph. Ut quid, Deus, repulisti in finem, iratus est furor tuus super oves pascuæ tuæ ?

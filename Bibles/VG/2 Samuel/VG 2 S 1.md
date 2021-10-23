@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 1
+aliases : 
+- 2 Samuel 1
+- 2 Samuel 1
+- 2 S 1
 tags : Bible/2S/1
 ---
 
-# Chapitre 1
+# 2 Samuel 1
 
 ###### 1
 Factum est autem, postquam mortuus est Saul, ut David reverteretur a cæde Amalec, et maneret in Siceleg duos dies.

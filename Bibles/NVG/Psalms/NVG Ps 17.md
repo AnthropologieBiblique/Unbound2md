@@ -1,9 +1,13 @@
 ---
-aliases : Ps 17
+aliases : 
+- Psalms 17
+- Psaumes 17
+- Ps 17
+- Psalms 17
 tags : Bible/Ps/17
 ---
 
-# Chapitre 17
+# Psalms 17
 
 ###### 1
 Precatio. David. Exaudi, Domine, iustitiam meam, intende deprecationem meam. Auribus percipe orationem meam, non in labiis dolosis.

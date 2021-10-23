@@ -1,9 +1,12 @@
 ---
-aliases : Jb 12
+aliases : 
+- Job 12
+- Job 12
+- Jb 12
 tags : Bible/Jb/12
 ---
 
-# Chapitre 12
+# Job 12
 
 ###### 1
 Respondens autem Iob dixit:

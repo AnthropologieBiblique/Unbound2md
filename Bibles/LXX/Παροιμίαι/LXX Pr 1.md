@@ -1,9 +1,13 @@
 ---
-aliases : Pr 1
+aliases : 
+- Παροιμίαι 1
+- Proverbes 1
+- Pr 1
+- Proverbs 1
 tags : Bible/Pr/1
 ---
 
-# Chapitre 1
+# Παροιμίαι 1
 
 ###### 1
 παροιμίαι σαλωμῶντος υἱοῦ δαυιδ ὃς ἐβασίλευσεν ἐν ισραηλ

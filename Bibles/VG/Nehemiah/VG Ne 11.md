@@ -1,9 +1,13 @@
 ---
-aliases : Ne 11
+aliases : 
+- Nehemiah 11
+- Néhémie 11
+- Ne 11
+- Nehemiah 11
 tags : Bible/Ne/11
 ---
 
-# Chapitre 11
+# Nehemiah 11
 
 ###### 1
 Habitaverunt autem principes populi in Jerusalem : reliqua vero plebs misit sortem, ut tollerent unam partem de decem qui habitaturi essent in Jerusalem civitate sancta, novem vero partes in civitatibus.

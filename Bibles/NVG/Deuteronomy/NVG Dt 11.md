@@ -1,9 +1,13 @@
 ---
-aliases : Dt 11
+aliases : 
+- Deuteronomy 11
+- Deutéronome 11
+- Dt 11
+- Deuteronomy 11
 tags : Bible/Dt/11
 ---
 
-# Chapitre 11
+# Deuteronomy 11
 
 ###### 1
 Ama itaque Dominum Deum tuum et custodi obser vationem eius et praecepta, iudicia atque mandata omni tempore.

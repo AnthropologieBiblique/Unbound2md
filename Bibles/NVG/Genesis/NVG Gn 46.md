@@ -1,9 +1,13 @@
 ---
-aliases : Gn 46
+aliases : 
+- Genesis 46
+- Genèse 46
+- Gn 46
+- Genesis 46
 tags : Bible/Gn/46
 ---
 
-# Chapitre 46
+# Genesis 46
 
 ###### 1
 Profectusque Israel cum omnibus, quae habebat, venit Bersabee et, mactatis ibi victimis Deo patris sui Isaac, 

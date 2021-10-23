@@ -1,9 +1,13 @@
 ---
-aliases : Ez 45
+aliases : 
+- Ezekiel 45
+- Ézéchiel 45
+- Ez 45
+- Ezekiel 45
 tags : Bible/Ez/45
 ---
 
-# Chapitre 45
+# Ezekiel 45
 
 ###### 1
 Cumque cœperitis terram dividere sortito, separate primitias Domino, sanctificatum de terra, longitudine viginti quinque millia, et latitudine decem millia : sanctificatum erit in omni termino ejus per circuitum.

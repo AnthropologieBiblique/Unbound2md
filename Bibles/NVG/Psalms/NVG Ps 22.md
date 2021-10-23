@@ -1,9 +1,13 @@
 ---
-aliases : Ps 22
+aliases : 
+- Psalms 22
+- Psaumes 22
+- Ps 22
+- Psalms 22
 tags : Bible/Ps/22
 ---
 
-# Chapitre 22
+# Psalms 22
 
 ###### 1
 Magistro chori. Ad modum cantici " Cerva diluculo ". PSALMUS. David.

@@ -1,9 +1,13 @@
 ---
-aliases : Za 4
+aliases : 
+- Zechariah 4
+- Zacharie 4
+- Za 4
+- Zechariah 4
 tags : Bible/Za/4
 ---
 
-# Chapitre 4
+# Zechariah 4
 
 ###### 1
 Et reversus est angelus, qui loquebatur in me, et excitavit me quasi virum, qui excitatur de somno suo. 

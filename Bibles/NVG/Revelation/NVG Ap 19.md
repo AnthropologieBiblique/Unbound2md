@@ -1,9 +1,13 @@
 ---
-aliases : Ap 19
+aliases : 
+- Revelation 19
+- Apocalypse 19
+- Ap 19
+- Revelation 19
 tags : Bible/Ap/19
 ---
 
-# Chapitre 19
+# Revelation 19
 
 ###### 1
 Post haec audivi quasi vo cem magnam turbae multae in caelo dicentium: “ Alleluia! Salus et gloria et virtus Deo nostro, 

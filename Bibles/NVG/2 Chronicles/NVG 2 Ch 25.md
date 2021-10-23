@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 25
+aliases : 
+- 2 Chronicles 25
+- 2 Chroniques 25
+- 2 Ch 25
+- 2 Chronicles 25
 tags : Bible/2Ch/25
 ---
 
-# Chapitre 25
+# 2 Chronicles 25
 
 ###### 1
 Viginti quinque annorum erat Amasias, cum regnare coepisset, et viginti novem annis regnavit in Ierusalem. Nomen matris eius Ioaden de Ierusalem. 

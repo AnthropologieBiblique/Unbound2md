@@ -1,9 +1,13 @@
 ---
-aliases : Ex 5
+aliases : 
+- Exodus 5
+- Exode 5
+- Ex 5
+- Exodus 5
 tags : Bible/Ex/5
 ---
 
-# Chapitre 5
+# Exodus 5
 
 ###### 1
 Post haec ingressi sunt Moyses et Aaron et dixerunt pharaoni: “ Haec dicit Dominus, Deus Israel: Dimitte populum meum, ut sacrificet mihi in deserto ”. 

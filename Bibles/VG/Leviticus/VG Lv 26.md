@@ -1,9 +1,13 @@
 ---
-aliases : Lv 26
+aliases : 
+- Leviticus 26
+- Lévitique 26
+- Lv 26
+- Leviticus 26
 tags : Bible/Lv/26
 ---
 
-# Chapitre 26
+# Leviticus 26
 
 ###### 1
 Ego Dominus Deus vester : non facietis vobis idolum, et sculptile, nec titulos erigetis, nec insignem lapidem ponetis in terra vestra, ut adoretis eum. Ego enim sum Dominus Deus vester.

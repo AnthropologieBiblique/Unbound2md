@@ -1,9 +1,13 @@
 ---
-aliases : Ps 11
+aliases : 
+- Psalms 10
+- Psaumes 11
+- Ps 11
+- Psalms 11
 tags : Bible/Ps/11
 ---
 
-# Chapitre 10
+# Psalms 10
 
 ###### 1
 In finem. Psalmus David.

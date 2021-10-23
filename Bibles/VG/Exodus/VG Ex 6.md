@@ -1,9 +1,13 @@
 ---
-aliases : Ex 6
+aliases : 
+- Exodus 6
+- Exode 6
+- Ex 6
+- Exodus 6
 tags : Bible/Ex/6
 ---
 
-# Chapitre 6
+# Exodus 6
 
 ###### 1
 Dixitque Dominus ad Moysen : Nunc videbis quæ facturus sim Pharaoni : per manum enim fortem dimittet eos, et in manu robusta ejiciet illos de terra sua.

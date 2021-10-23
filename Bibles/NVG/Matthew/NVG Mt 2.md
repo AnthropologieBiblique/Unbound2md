@@ -1,9 +1,13 @@
 ---
-aliases : Mt 2
+aliases : 
+- Matthew 2
+- Matthieu 2
+- Mt 2
+- Matthew 2
 tags : Bible/Mt/2
 ---
 
-# Chapitre 2
+# Matthew 2
 
 ###### 1
 Cum autem natus esset Iesus in Bethlehem Iudaeae in diebus Herodis regis, ecce Magi ab oriente venerunt Hierosolymam 

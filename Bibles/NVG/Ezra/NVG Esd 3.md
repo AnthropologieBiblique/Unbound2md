@@ -1,9 +1,13 @@
 ---
-aliases : Esd 3
+aliases : 
+- Ezra 3
+- Esdras 3
+- Esd 3
+- Ezra 3
 tags : Bible/Esd/3
 ---
 
-# Chapitre 3
+# Ezra 3
 
 ###### 1
 Iamque venerat mensis septi mus, et erant filii Israel in civita tibus suis. Congregatus est ergo populus quasi vir unus in Ierusalem. 

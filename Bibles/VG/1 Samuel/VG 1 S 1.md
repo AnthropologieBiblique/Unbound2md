@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 1
+aliases : 
+- 1 Samuel 1
+- 1 Samuel 1
+- 1 S 1
 tags : Bible/1S/1
 ---
 
-# Chapitre 1
+# 1 Samuel 1
 
 ###### 1
 Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen ejus Elcana, filius Jeroham, filii Eliu, filii Thohu, filii Suph, Ephrathæus :

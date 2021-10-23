@@ -1,9 +1,13 @@
 ---
-aliases : Gn 44
+aliases : 
+- Genesis 44
+- Genèse 44
+- Gn 44
+- Genesis 44
 tags : Bible/Gn/44
 ---
 
-# Chapitre 44
+# Genesis 44
 
 ###### 1
 Præcepit autem Joseph dispensatori domus suæ, dicens : Imple saccos eorum frumento, quantum possunt capere : et pone pecuniam singulorum in summitate sacci.

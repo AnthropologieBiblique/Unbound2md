@@ -1,9 +1,13 @@
 ---
-aliases : Pr 2
+aliases : 
+- Παροιμίαι 2
+- Proverbes 2
+- Pr 2
+- Proverbs 2
 tags : Bible/Pr/2
 ---
 
-# Chapitre 2
+# Παροιμίαι 2
 
 ###### 1
 υἱέ ἐὰν δεξάμενος ῥῆσιν ἐμῆς ἐντολῆς κρύψῃς παρὰ σεαυτῷ

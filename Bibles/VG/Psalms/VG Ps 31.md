@@ -1,9 +1,13 @@
 ---
-aliases : Ps 32
+aliases : 
+- Psalms 31
+- Psaumes 32
+- Ps 32
+- Psalms 32
 tags : Bible/Ps/32
 ---
 
-# Chapitre 31
+# Psalms 31
 
 ###### 1
 Ipsi David intellectus. Beati quorum remissæ sunt iniquitates, et quorum tecta sunt peccata.

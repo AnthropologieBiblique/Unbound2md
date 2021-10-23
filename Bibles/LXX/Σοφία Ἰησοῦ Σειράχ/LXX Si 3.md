@@ -1,9 +1,13 @@
 ---
-aliases : Si 3
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 3
+- Siracide 3
+- Si 3
+- Ecclesiasticus (Sira 3
 tags : Bible/Si/3
 ---
 
-# Chapitre 3
+# Σοφία Ἰησοῦ Σειράχ 3
 
 ###### 1
 ἐμοῦ τοῦ πατρὸς ἀκούσατε τέκνα καὶ οὕτως ποιήσατε ἵνα σωθῆτε

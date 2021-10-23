@@ -1,9 +1,13 @@
 ---
-aliases : Ps 74
+aliases : 
+- Psalms 74
+- Psaumes 74
+- Ps 74
+- Psalms 74
 tags : Bible/Ps/74
 ---
 
-# Chapitre 74
+# Psalms 74
 
 ###### 1
 מַשְׂכִּיל לְאָסָף לָמָה אֱלֹהִים זָנַחְתָּ לָנֶצַח יֶעְשַׁן אַפְּךָ בְּצֹאן מַרְעִיתֶךָ׃

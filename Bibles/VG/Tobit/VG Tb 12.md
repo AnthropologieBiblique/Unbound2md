@@ -1,9 +1,13 @@
 ---
-aliases : Tb 12
+aliases : 
+- Tobit 12
+- Tobie 12
+- Tb 12
+- Tobit 12
 tags : Bible/Tb/12
 ---
 
-# Chapitre 12
+# Tobit 12
 
 ###### 1
 Tunc vocavit ad se Tobias filium suum, dixitque ei : Quid possumus dare viro isti sancto, qui venit tecum ?

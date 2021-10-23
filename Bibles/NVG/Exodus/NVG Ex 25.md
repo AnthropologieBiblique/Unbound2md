@@ -1,9 +1,13 @@
 ---
-aliases : Ex 25
+aliases : 
+- Exodus 25
+- Exode 25
+- Ex 25
+- Exodus 25
 tags : Bible/Ex/25
 ---
 
-# Chapitre 25
+# Exodus 25
 
 ###### 1
 Locutusque est Dominus ad Moysen dicens: 

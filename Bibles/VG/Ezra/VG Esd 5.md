@@ -1,9 +1,13 @@
 ---
-aliases : Esd 5
+aliases : 
+- Ezra 5
+- Esdras 5
+- Esd 5
+- Ezra 5
 tags : Bible/Esd/5
 ---
 
-# Chapitre 5
+# Ezra 5
 
 ###### 1
 Prophetaverunt autem Aggæus propheta, et Zacharias filius Addo, prophetantes ad Judæos, qui erant in Judæa et Jerusalem, in nomine Dei Israël.

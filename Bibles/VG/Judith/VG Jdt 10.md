@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 10
+aliases : 
+- Judith 10
+- Judith 10
+- Jdt 10
 tags : Bible/Jdt/10
 ---
 
-# Chapitre 10
+# Judith 10
 
 ###### 1
 Factum est autem, cum cessasset clamare ad Dominum, surrexit de loco in quo jacuerat prostrata ad Dominum.

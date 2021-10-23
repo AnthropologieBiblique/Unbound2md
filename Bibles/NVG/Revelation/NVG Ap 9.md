@@ -1,9 +1,13 @@
 ---
-aliases : Ap 9
+aliases : 
+- Revelation 9
+- Apocalypse 9
+- Ap 9
+- Revelation 9
 tags : Bible/Ap/9
 ---
 
-# Chapitre 9
+# Revelation 9
 
 ###### 1
 Et quintus angelus tuba cecinit. Et vidi stellam de caelo cecidis se in terram, et data est illi clavis putei abyssi. 

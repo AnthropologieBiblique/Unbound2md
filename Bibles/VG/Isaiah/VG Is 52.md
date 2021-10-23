@@ -1,9 +1,13 @@
 ---
-aliases : Is 52
+aliases : 
+- Isaiah 52
+- Isaïe 52
+- Is 52
+- Isaiah 52
 tags : Bible/Is/52
 ---
 
-# Chapitre 52
+# Isaiah 52
 
 ###### 1
 Consurge, consurge, induere fortitudini tua, Sion ! induere vestimentis gloriæ tuæ, Jerusalem, civitas Sancti, quia non adjiciet ultra ut pertranseat per te incircumcisus et immundus.

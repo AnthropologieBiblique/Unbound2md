@@ -1,9 +1,12 @@
 ---
-aliases : Jb 8
+aliases : 
+- Job 8
+- Job 8
+- Jb 8
 tags : Bible/Jb/8
 ---
 
-# Chapitre 8
+# Job 8
 
 ###### 1
 Respondens autem Baldad Suhites, dixit :

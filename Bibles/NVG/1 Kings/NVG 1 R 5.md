@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 4
+aliases : 
+- 1 Kings 5
+- 1 Rois 4
+- 1 R 4
+- 1 Kings 4
 tags : Bible/1R/4
 ---
 
-# Chapitre 5
+# 1 Kings 5
 
 ###### 1
 Salomon autem erat in dicione sua habens omnia regna a Flu mine usque ad terram Philisthim et ad terminum Aegypti offerentium sibi munera et servientium ei cunctis diebus vitae eius. 

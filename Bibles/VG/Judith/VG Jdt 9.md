@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 9
+aliases : 
+- Judith 9
+- Judith 9
+- Jdt 9
 tags : Bible/Jdt/9
 ---
 
-# Chapitre 9
+# Judith 9
 
 ###### 1
 Quibus ascendentibus, Judith ingressa est oratorium suum : et induens se cilicio, posuit cinerem super caput suum : et prosternens se Domino, clamabat ad Dominum, dicens :

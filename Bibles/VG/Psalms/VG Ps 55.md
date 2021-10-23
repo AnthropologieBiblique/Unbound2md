@@ -1,9 +1,13 @@
 ---
-aliases : Ps 56
+aliases : 
+- Psalms 55
+- Psaumes 56
+- Ps 56
+- Psalms 56
 tags : Bible/Ps/56
 ---
 
-# Chapitre 55
+# Psalms 55
 
 ###### 1
 In finem, pro populo qui a sanctis longe factus est. David in tituli inscriptionem, cum tenuerunt eum Allophyli in Geth.

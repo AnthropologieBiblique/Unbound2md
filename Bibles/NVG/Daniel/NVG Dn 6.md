@@ -1,9 +1,12 @@
 ---
-aliases : Dn 5
+aliases : 
+- Daniel 6
+- Daniel 5
+- Dn 5
 tags : Bible/Dn/5
 ---
 
-# Chapitre 6
+# Daniel 6
 
 ###### 1
 Et Darius Medus successit in regnum annos natus sexaginta duos. 

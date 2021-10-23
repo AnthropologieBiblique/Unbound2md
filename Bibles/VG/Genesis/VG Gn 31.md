@@ -1,9 +1,13 @@
 ---
-aliases : Gn 31
+aliases : 
+- Genesis 31
+- Genèse 31
+- Gn 31
+- Genesis 31
 tags : Bible/Gn/31
 ---
 
-# Chapitre 31
+# Genesis 31
 
 ###### 1
 Postquam autem audivit verba filiorum Laban dicentium : Tulit Jacob omnia quæ fuerunt patris nostri, et de illius facultate ditatus, factus est inclytus :

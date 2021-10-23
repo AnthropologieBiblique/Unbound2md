@@ -1,9 +1,13 @@
 ---
-aliases : Ps 42
+aliases : 
+- Psalms 42
+- Psaumes 42
+- Ps 42
+- Psalms 42
 tags : Bible/Ps/42
 ---
 
-# Chapitre 42
+# Psalms 42
 
 ###### 1
 לַמְנַצֵּחַ מַשְׂכִּיל לִבְנֵי־קֹרַח׃

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 1
+aliases : 
+- Daniel 14
+- Daniel 1
+- Dn 1
 tags : Bible/Dn/1
 ---
 
-# Chapitre 14
+# Daniel 14
 
 ###### 1
 Erat autem Daniel conviva regis, et honoratus super omnes amicos ejus.

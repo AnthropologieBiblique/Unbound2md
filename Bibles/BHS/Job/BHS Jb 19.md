@@ -1,9 +1,12 @@
 ---
-aliases : Jb 19
+aliases : 
+- Job 19
+- Job 19
+- Jb 19
 tags : Bible/Jb/19
 ---
 
-# Chapitre 19
+# Job 19
 
 ###### 1
 וַיַּעַן אִיֹּוב וַיֹּאמַר׃

@@ -1,9 +1,13 @@
 ---
-aliases : Pr 6
+aliases : 
+- Proverbs 6
+- Proverbes 6
+- Pr 6
+- Proverbs 6
 tags : Bible/Pr/6
 ---
 
-# Chapitre 6
+# Proverbs 6
 
 ###### 1
 Fili mi, si spoponderis pro amico tuo, defixisti apud extraneum manum tuam ;

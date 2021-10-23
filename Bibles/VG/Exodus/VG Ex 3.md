@@ -1,9 +1,13 @@
 ---
-aliases : Ex 3
+aliases : 
+- Exodus 3
+- Exode 3
+- Ex 3
+- Exodus 3
 tags : Bible/Ex/3
 ---
 
-# Chapitre 3
+# Exodus 3
 
 ###### 1
 Moyses autem pascebat oves Jethro soceri sui sacerdotis Madian : cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.

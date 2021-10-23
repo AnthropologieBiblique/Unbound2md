@@ -1,9 +1,13 @@
 ---
-aliases : He 4
+aliases : 
+- Hebrews 4
+- Hébreux 4
+- He 4
+- Hebrews 4
 tags : Bible/He/4
 ---
 
-# Chapitre 4
+# Hebrews 4
 
 ###### 1
 Timeamus ergo ne forte relicta pollicitatione introëundi in requiem ejus, existimetur aliquis ex vobis deesse.

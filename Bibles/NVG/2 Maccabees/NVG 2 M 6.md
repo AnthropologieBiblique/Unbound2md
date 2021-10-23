@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 6
+aliases : 
+- 2 Maccabees 6
+- 2 Maccabees 6
+- 2 M 6
 tags : Bible/2M/6
 ---
 
-# Chapitre 6
+# 2 Maccabees 6
 
 ###### 1
 Sed non post multum temporis misit rex senem quendam Athe niensem, qui compelleret Iudaeos, ut se transferrent a patriis legibus et Dei legibus ne uterentur; 

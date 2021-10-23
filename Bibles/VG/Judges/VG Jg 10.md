@@ -1,9 +1,13 @@
 ---
-aliases : Jg 10
+aliases : 
+- Judges 10
+- Juges 10
+- Jg 10
+- Judges 10
 tags : Bible/Jg/10
 ---
 
-# Chapitre 10
+# Judges 10
 
 ###### 1
 Post Abimelech surrexit dux in Israël Thola filius Phua patrui Abimelech, vir de Issachar, qui habitavit in Samir montis Ephraim :

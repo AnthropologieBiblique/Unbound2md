@@ -1,9 +1,13 @@
 ---
-aliases : Ps 121
+aliases : 
+- Psalms 121
+- Psaumes 121
+- Ps 121
+- Psalms 121
 tags : Bible/Ps/121
 ---
 
-# Chapitre 121
+# Psalms 121
 
 ###### 1
 שִׁיר לַמַּעֲלֹות אֶשָּׂא עֵינַי אֶל־הֶהָרִים מֵאַיִן יָבֹא עֶזְרִי׃

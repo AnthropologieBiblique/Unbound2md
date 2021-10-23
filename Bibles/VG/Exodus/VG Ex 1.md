@@ -1,9 +1,13 @@
 ---
-aliases : Ex 1
+aliases : 
+- Exodus 1
+- Exode 1
+- Ex 1
+- Exodus 1
 tags : Bible/Ex/1
 ---
 
-# Chapitre 1
+# Exodus 1
 
 ###### 1
 Hæc sunt nomina filiorum Israël qui ingressi sunt in Ægyptum cum Jacob : singuli cum domibus suis introierunt :

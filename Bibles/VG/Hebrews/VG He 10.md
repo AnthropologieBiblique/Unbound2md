@@ -1,9 +1,13 @@
 ---
-aliases : He 10
+aliases : 
+- Hebrews 10
+- Hébreux 10
+- He 10
+- Hebrews 10
 tags : Bible/He/10
 ---
 
-# Chapitre 10
+# Hebrews 10
 
 ###### 1
 Umbram enim habens lex futurorum bonorum, non ipsam imaginem rerum : per singulos annos, eisdem ipsis hostiis quas offerunt indesinenter, numquam potest accedentes perfectos facere :

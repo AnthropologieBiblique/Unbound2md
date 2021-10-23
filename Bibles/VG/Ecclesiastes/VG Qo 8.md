@@ -1,9 +1,13 @@
 ---
-aliases : Qo 8
+aliases : 
+- Ecclesiastes 8
+- Ecclésiaste 8
+- Qo 8
+- Ecclesiastes 8
 tags : Bible/Qo/8
 ---
 
-# Chapitre 8
+# Ecclesiastes 8
 
 ###### 1
 Sapientia hominis lucet in vultu ejus, et potentissimus faciem illius commutabit.

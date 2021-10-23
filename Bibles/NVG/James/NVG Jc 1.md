@@ -1,9 +1,13 @@
 ---
-aliases : Jc 1
+aliases : 
+- James 1
+- Jacques 1
+- Jc 1
+- James 1
 tags : Bible/Jc/1
 ---
 
-# Chapitre 1
+# James 1
 
 ###### 1
 Iacobus, Dei et Domini Iesu Christi servus, duodecim tribu bus, quae sunt in dispersione, salutem.

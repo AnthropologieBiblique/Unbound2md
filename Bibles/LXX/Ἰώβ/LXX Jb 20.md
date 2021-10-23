@@ -1,9 +1,12 @@
 ---
-aliases : Jb 20
+aliases : 
+- Ἰώβ 20
+- Job 20
+- Jb 20
 tags : Bible/Jb/20
 ---
 
-# Chapitre 20
+# Ἰώβ 20
 
 ###### 1
 ὑπολαβὼν δὲ σωφαρ ὁ μιναῖος λέγει

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 23
+aliases : 
+- Numbers 23
+- Nombres 23
+- Nb 23
+- Numbers 23
 tags : Bible/Nb/23
 ---
 
-# Chapitre 23
+# Numbers 23
 
 ###### 1
 Dixitque Balaam ad Balac : Ædifica mihi hic septem aras, et para totidem vitulos, ejusdemque numeri arietes.

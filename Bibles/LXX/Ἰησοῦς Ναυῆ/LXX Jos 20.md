@@ -1,9 +1,13 @@
 ---
-aliases : Jos 20
+aliases : 
+- Ἰησοῦς Ναυῆ 20
+- Josué 20
+- Jos 20
+- Joshua 20
 tags : Bible/Jos/20
 ---
 
-# Chapitre 20
+# Ἰησοῦς Ναυῆ 20
 
 ###### 1
 καὶ ἐλάλησεν κύριος τῷ ἰησοῖ λέγων

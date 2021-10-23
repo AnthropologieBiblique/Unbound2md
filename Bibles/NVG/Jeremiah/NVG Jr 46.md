@@ -1,9 +1,13 @@
 ---
-aliases : Jr 46
+aliases : 
+- Jeremiah 46
+- Jérémie 46
+- Jr 46
+- Jeremiah 46
 tags : Bible/Jr/46
 ---
 
-# Chapitre 46
+# Jeremiah 46
 
 ###### 1
 Quod factum est verbum Domini ad Ieremiam prophetam contra gentes.

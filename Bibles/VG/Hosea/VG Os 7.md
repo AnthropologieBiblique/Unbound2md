@@ -1,9 +1,13 @@
 ---
-aliases : Os 7
+aliases : 
+- Hosea 7
+- Osée 7
+- Os 7
+- Hosea 7
 tags : Bible/Os/7
 ---
 
-# Chapitre 7
+# Hosea 7
 
 ###### 1
 Cum sanare vellem Israël, revelata est iniquitas Ephraim, et malitia Samariæ, quia operati sunt mendacium ; et fur ingressus est spolians, latrunculus foris.

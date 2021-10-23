@@ -1,9 +1,13 @@
 ---
-aliases : Ex 31
+aliases : 
+- Ἔξοδος 31
+- Exode 31
+- Ex 31
+- Exodus 31
 tags : Bible/Ex/31
 ---
 
-# Chapitre 31
+# Ἔξοδος 31
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 5
+aliases : 
+- 1 Chronicles 5
+- 1 Chroniques 5
+- 1 Ch 5
+- 1 Chronicles 5
 tags : Bible/1Ch/5
 ---
 
-# Chapitre 5
+# 1 Chronicles 5
 
 ###### 1
 Filii quoque Ruben primogeniti Israel: ipse quippe fuit primoge nitus eius, sed, cum violasset torum patris sui, data sunt primogenita eius filiis Ioseph filii Israel, ut non computaretur in primogenitum, 

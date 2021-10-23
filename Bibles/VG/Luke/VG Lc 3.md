@@ -1,9 +1,13 @@
 ---
-aliases : Lc 3
+aliases : 
+- Luke 3
+- Luc 3
+- Lc 3
+- Luke 3
 tags : Bible/Lc/3
 ---
 
-# Chapitre 3
+# Luke 3
 
 ###### 1
 Anno autem quintodecimo imperii Tiberii Cæsaris, procurante Pontio Pilato Judæam, tetrarcha autem Galiææ Herode, Philippo autem fratre ejus tetrarcha Iturææ, et Trachonitidis regionis, et Lysania Abilinæ tetrarcha,

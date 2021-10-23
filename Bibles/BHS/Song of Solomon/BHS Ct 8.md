@@ -1,9 +1,13 @@
 ---
-aliases : Ct 8
+aliases : 
+- Song of Solomon 8
+- Cantique des cantiques 8
+- Ct 8
+- Song of Solomon 8
 tags : Bible/Ct/8
 ---
 
-# Chapitre 8
+# Song of Solomon 8
 
 ###### 1
 מִי יִתֶּנְךָ כְּאָח לִי יֹונֵק שְׁדֵי אִמִּי אֶמְצָאֲךָ בַחוּץ אֶשָּׁקְךָ גַּם לֹא־יָבוּזוּ לִי׃

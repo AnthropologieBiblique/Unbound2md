@@ -1,9 +1,13 @@
 ---
-aliases : Sg 11
+aliases : 
+- Σοφία Σαλoμῶντος 11
+- Sagesse 11
+- Sg 11
+- Wisdom of Solomon 11
 tags : Bible/Sg/11
 ---
 
-# Chapitre 11
+# Σοφία Σαλoμῶντος 11
 
 ###### 1
 εὐόδωσεν τὰ ἔργα αὐτῶν ἐν χειρὶ προφήτου ἁγίου

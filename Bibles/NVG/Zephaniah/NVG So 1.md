@@ -1,9 +1,13 @@
 ---
-aliases : So 1
+aliases : 
+- Zephaniah 1
+- Sophonie 1
+- So 1
+- Zephaniah 1
 tags : Bible/So/1
 ---
 
-# Chapitre 1
+# Zephaniah 1
 
 ###### 1
 Verbum Domini, quod factum est ad Sophoniam filium Chusi filii Godoliae filii Amariae filii Ezechiae, in diebus Iosiae filii Amon regis Iudae.

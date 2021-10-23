@@ -1,9 +1,13 @@
 ---
-aliases : Dt 4
+aliases : 
+- Deuteronomy 4
+- Deutéronome 4
+- Dt 4
+- Deuteronomy 4
 tags : Bible/Dt/4
 ---
 
-# Chapitre 4
+# Deuteronomy 4
 
 ###### 1
 Et nunc, Israël, audi præcepta et judicia, quæ ego doceo te : ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.

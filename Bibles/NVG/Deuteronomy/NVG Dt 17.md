@@ -1,9 +1,13 @@
 ---
-aliases : Dt 17
+aliases : 
+- Deuteronomy 17
+- Deutéronome 17
+- Dt 17
+- Deuteronomy 17
 tags : Bible/Dt/17
 ---
 
-# Chapitre 17
+# Deuteronomy 17
 
 ###### 1
 Non immolabis Domino Deo tuo ovem et bovem, in quo est macula aut quippiam vitii, quia abominatio est Domino Deo tuo.

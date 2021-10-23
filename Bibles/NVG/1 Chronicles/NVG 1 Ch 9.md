@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 9
+aliases : 
+- 1 Chronicles 9
+- 1 Chroniques 9
+- 1 Ch 9
+- 1 Chronicles 9
 tags : Bible/1Ch/9
 ---
 
-# Chapitre 9
+# 1 Chronicles 9
 
 ###### 1
 Universus ergo Israel dinume ratus est, et summa eorum scrip ta est in libro regum Israel et Iudae. Translatique sunt in Babylonem propter delictum suum. 

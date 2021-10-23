@@ -1,9 +1,13 @@
 ---
-aliases : Ap 8
+aliases : 
+- Revelation 8
+- Apocalypse 8
+- Ap 8
+- Revelation 8
 tags : Bible/Ap/8
 ---
 
-# Chapitre 8
+# Revelation 8
 
 ###### 1
 Et cum aperuisset sigillum septimum, factum est silentium in cælo, quasi media hora.

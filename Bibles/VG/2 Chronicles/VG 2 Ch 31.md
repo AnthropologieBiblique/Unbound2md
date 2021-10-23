@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 31
+aliases : 
+- 2 Chronicles 31
+- 2 Chroniques 31
+- 2 Ch 31
+- 2 Chronicles 31
 tags : Bible/2Ch/31
 ---
 
-# Chapitre 31
+# 2 Chronicles 31
 
 ###### 1
 Cumque hæc fuissent rite celebrata, egressus est omnis Israël, qui inventus fuerat in urbibus Juda, et fregerunt simulacra, succideruntque lucos, demoliti sunt excelsa, et altaria destruxerunt, non solum de universo Juda et Benjamin, sed et de Ephraim quoque et Manasse, donec penitus everterent : reversique sunt omnes filii Israël in possessiones et civitates suas.

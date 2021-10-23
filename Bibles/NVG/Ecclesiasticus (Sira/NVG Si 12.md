@@ -1,9 +1,13 @@
 ---
-aliases : Si 12
+aliases : 
+- Ecclesiasticus (Sira 12
+- Siracide 12
+- Si 12
+- Ecclesiasticus (Sira 12
 tags : Bible/Si/12
 ---
 
-# Chapitre 12
+# Ecclesiasticus (Sira 12
 
 ###### 1
 Si benefeceris, scito cui feceris, et erit gratia in bonis tuis multa.

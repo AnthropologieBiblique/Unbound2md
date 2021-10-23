@@ -1,9 +1,13 @@
 ---
-aliases : Mt 26
+aliases : 
+- Matthew 26
+- Matthieu 26
+- Mt 26
+- Matthew 26
 tags : Bible/Mt/26
 ---
 
-# Chapitre 26
+# Matthew 26
 
 ###### 1
 Et factum est, cum consum masset Iesus sermones hos omnes, dixit discipulis suis: 

@@ -1,9 +1,13 @@
 ---
-aliases : Ac 24
+aliases : 
+- Acts of the Apostles 24
+- Actes 24
+- Ac 24
+- Acts of the Apostles 24
 tags : Bible/Ac/24
 ---
 
-# Chapitre 24
+# Acts of the Apostles 24
 
 ###### 1
 Post quinque autem dies, descendit princeps sacerdo tum Ananias cum senioribus quibusdam et Tertullo quodam oratore, qui adierunt praesidem adversus Paulum. 

@@ -1,9 +1,13 @@
 ---
-aliases : Sg 15
+aliases : 
+- Wisdom of Solomon 15
+- Sagesse 15
+- Sg 15
+- Wisdom of Solomon 15
 tags : Bible/Sg/15
 ---
 
-# Chapitre 15
+# Wisdom of Solomon 15
 
 ###### 1
 Tu autem, Deus noster, suavis et verus es, patiens et in misericordia disponens omnia.

@@ -1,9 +1,13 @@
 ---
-aliases : Jr 31
+aliases : 
+- Jeremiah 31
+- Jérémie 31
+- Jr 31
+- Jeremiah 31
 tags : Bible/Jr/31
 ---
 
-# Chapitre 31
+# Jeremiah 31
 
 ###### 1
 In tempore illo, dicit Dominus, ero Deus universis cognationibus Israel, et ipsi erunt mihi in populum.

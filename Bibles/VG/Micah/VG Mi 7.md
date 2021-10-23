@@ -1,9 +1,13 @@
 ---
-aliases : Mi 7
+aliases : 
+- Micah 7
+- Michée 7
+- Mi 7
+- Micah 7
 tags : Bible/Mi/7
 ---
 
-# Chapitre 7
+# Micah 7
 
 ###### 1
 Væ mihi, quia factus sum sicut qui colligit in autumno racemos vindemia ! non est botrus ad comedendum, præcoquas ficus desideravit anima mea.

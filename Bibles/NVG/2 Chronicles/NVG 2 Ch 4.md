@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 4
+aliases : 
+- 2 Chronicles 4
+- 2 Chroniques 4
+- 2 Ch 4
+- 2 Chronicles 4
 tags : Bible/2Ch/4
 ---
 
-# Chapitre 4
+# 2 Chronicles 4
 
 ###### 1
 Fecit quoque altare aeneum viginti cubitorum longitudinis et viginti cubitorum latitudinis et decem cubitorum 

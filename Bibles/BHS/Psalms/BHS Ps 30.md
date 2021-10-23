@@ -1,9 +1,13 @@
 ---
-aliases : Ps 30
+aliases : 
+- Psalms 30
+- Psaumes 30
+- Ps 30
+- Psalms 30
 tags : Bible/Ps/30
 ---
 
-# Chapitre 30
+# Psalms 30
 
 ###### 1
 מִזְמֹור שִׁיר־חֲנֻכַּת הַבַּיִת לְדָוִד׃

@@ -1,9 +1,13 @@
 ---
-aliases : Pr 30
+aliases : 
+- Proverbs 30
+- Proverbes 30
+- Pr 30
+- Proverbs 30
 tags : Bible/Pr/30
 ---
 
-# Chapitre 30
+# Proverbs 30
 
 ###### 1
 Verba Congregantis, filii Vomentis. Visio quam locutus est vir cum quo est Deus, et qui Deo secum morante confortatus, ait :

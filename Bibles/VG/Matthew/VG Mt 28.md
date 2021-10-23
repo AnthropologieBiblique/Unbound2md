@@ -1,9 +1,13 @@
 ---
-aliases : Mt 28
+aliases : 
+- Matthew 28
+- Matthieu 28
+- Mt 28
+- Matthew 28
 tags : Bible/Mt/28
 ---
 
-# Chapitre 28
+# Matthew 28
 
 ###### 1
 Vespere autem sabbati, quæ lucescit in prima sabbati, venit Maria Magdalene, et altera Maria, videre sepulchrum.

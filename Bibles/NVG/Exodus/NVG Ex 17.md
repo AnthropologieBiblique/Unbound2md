@@ -1,9 +1,13 @@
 ---
-aliases : Ex 17
+aliases : 
+- Exodus 17
+- Exode 17
+- Ex 17
+- Exodus 17
 tags : Bible/Ex/17
 ---
 
-# Chapitre 17
+# Exodus 17
 
 ###### 1
 Igitur profecta omnis congregatio filiorum Israel de deserto Sin per mansiones suas iuxta sermonem Domini, castrametati sunt in Raphidim, ubi non erat aqua ad bibendum populo. 

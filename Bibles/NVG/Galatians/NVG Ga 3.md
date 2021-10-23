@@ -1,9 +1,13 @@
 ---
-aliases : Ga 3
+aliases : 
+- Galatians 3
+- Galates 3
+- Ga 3
+- Galatians 3
 tags : Bible/Ga/3
 ---
 
-# Chapitre 3
+# Galatians 3
 
 ###### 1
 O insensati Galatae, quis vos fascinavit, ante quorum oculos Iesus Christus descriptus est crucifixus? 

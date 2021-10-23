@@ -1,9 +1,13 @@
 ---
-aliases : Ez 30
+aliases : 
+- Ἰεζεκιήλ 30
+- Ézéchiel 30
+- Ez 30
+- Ezekiel 30
 tags : Bible/Ez/30
 ---
 
-# Chapitre 30
+# Ἰεζεκιήλ 30
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

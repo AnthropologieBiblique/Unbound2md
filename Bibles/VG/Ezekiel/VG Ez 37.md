@@ -1,9 +1,13 @@
 ---
-aliases : Ez 37
+aliases : 
+- Ezekiel 37
+- Ézéchiel 37
+- Ez 37
+- Ezekiel 37
 tags : Bible/Ez/37
 ---
 
-# Chapitre 37
+# Ezekiel 37
 
 ###### 1
 Facta est super me manus Domini, et eduxit me in spiritu Domini, et dimisit me in medio campi, qui erat plenus ossibus.

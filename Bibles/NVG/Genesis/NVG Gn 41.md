@@ -1,9 +1,13 @@
 ---
-aliases : Gn 41
+aliases : 
+- Genesis 41
+- Genèse 41
+- Gn 41
+- Genesis 41
 tags : Bible/Gn/41
 ---
 
-# Chapitre 41
+# Genesis 41
 
 ###### 1
 Post duos annos vidit pharao somnium. Putabat se stare super fluvium, 

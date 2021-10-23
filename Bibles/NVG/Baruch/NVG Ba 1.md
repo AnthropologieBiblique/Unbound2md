@@ -1,9 +1,12 @@
 ---
-aliases : Ba 1
+aliases : 
+- Baruch 1
+- Baruch 1
+- Ba 1
 tags : Bible/Ba/1
 ---
 
-# Chapitre 1
+# Baruch 1
 
 ###### 1
 Et haec verba, quae scripsit Baruch filius Neriae filii Maasiae filii Sedeciae filii Asadei filii Helciae in Babylone, 

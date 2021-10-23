@@ -1,9 +1,13 @@
 ---
-aliases : Tb 14
+aliases : 
+- Τωβίτ 14
+- Tobie 14
+- Tb 14
+- Tobit 14
 tags : Bible/Tb/14
 ---
 
-# Chapitre 14
+# Τωβίτ 14
 
 ###### 1
 καὶ ἐπαύσατο ἐξομολογούμενος τωβιτ

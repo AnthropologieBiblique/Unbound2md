@@ -1,9 +1,12 @@
 ---
-aliases : Jb 15
+aliases : 
+- Job 15
+- Job 15
+- Jb 15
 tags : Bible/Jb/15
 ---
 
-# Chapitre 15
+# Job 15
 
 ###### 1
 וַיַּעַן אֱלִיפַז הַתֵּימָנִי וַיֹּאמַר׃

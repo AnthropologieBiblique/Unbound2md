@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 4
+aliases : 
+- 2 Maccabees 4
+- 2 Maccabees 4
+- 2 M 4
 tags : Bible/2M/4
 ---
 
-# Chapitre 4
+# 2 Maccabees 4
 
 ###### 1
 Simon autem prædictus pecuniarum, et patriæ delator, male loquebatur de Onia, tamquam ipse Heliodorum instigasset ad hæc, et ipse fuisset incentor malorum :

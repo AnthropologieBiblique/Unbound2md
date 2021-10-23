@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 22
+aliases : 
+- 2 Chronicles 22
+- 2 Chroniques 22
+- 2 Ch 22
+- 2 Chronicles 22
 tags : Bible/2Ch/22
 ---
 
-# Chapitre 22
+# 2 Chronicles 22
 
 ###### 1
 Constituerunt autem habita tores Ierusalem Ochoziam fi lium eius minimum regem pro eo; omnes enim maiores natu interfecerat turba, quae irruerat cum Arabibus in castra. Regnavitque Ochozias filius Ioram regis Iudae. 

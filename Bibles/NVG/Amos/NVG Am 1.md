@@ -1,9 +1,12 @@
 ---
-aliases : Am 1
+aliases : 
+- Amos 1
+- Amos 1
+- Am 1
 tags : Bible/Am/1
 ---
 
-# Chapitre 1
+# Amos 1
 
 ###### 1
 Verba Amos, qui fuit in pastori bus de Thecua; quae vidit super Israel in diebus Oziae regis Iudae et in diebus Ieroboam filii Ioas regis Israel, duobus annis ante terraemotum.

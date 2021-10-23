@@ -1,9 +1,13 @@
 ---
-aliases : Ps 127
+aliases : 
+- Psalms 126
+- Psaumes 127
+- Ps 127
+- Psalms 127
 tags : Bible/Ps/127
 ---
 
-# Chapitre 126
+# Psalms 126
 
 ###### 1
 Canticum graduum Salomonis. Nisi Dominus ædificaverit domum, in vanum laboraverunt qui ædificant eam. Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam.

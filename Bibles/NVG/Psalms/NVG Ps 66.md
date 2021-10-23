@@ -1,9 +1,13 @@
 ---
-aliases : Ps 66
+aliases : 
+- Psalms 66
+- Psaumes 66
+- Ps 66
+- Psalms 66
 tags : Bible/Ps/66
 ---
 
-# Chapitre 66
+# Psalms 66
 
 ###### 1
 Magistro chori. Canticum. PSALMUS. Iubilate Deo, omnis terra,

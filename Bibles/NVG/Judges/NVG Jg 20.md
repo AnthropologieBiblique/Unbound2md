@@ -1,9 +1,13 @@
 ---
-aliases : Jg 20
+aliases : 
+- Judges 20
+- Juges 20
+- Jg 20
+- Judges 20
 tags : Bible/Jg/20
 ---
 
-# Chapitre 20
+# Judges 20
 
 ###### 1
 Egressi sunt itaque omnes fi lii Israel et pariter congrega ti, quasi vir unus, de Dan usque Bersabee et terra Galaad ad Dominum in Maspha. 

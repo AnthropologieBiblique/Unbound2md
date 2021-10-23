@@ -1,9 +1,12 @@
 ---
-aliases : Na 3
+aliases : 
+- Nahum 3
+- Nahum 3
+- Na 3
 tags : Bible/Na/3
 ---
 
-# Chapitre 3
+# Nahum 3
 
 ###### 1
 Vae, civitas sanguinum, universa mendacii praeda plena! Non recedet a te rapina.

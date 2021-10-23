@@ -1,9 +1,13 @@
 ---
-aliases : Is 10
+aliases : 
+- Isaiah 10
+- Isaïe 10
+- Is 10
+- Isaiah 10
 tags : Bible/Is/10
 ---
 
-# Chapitre 10
+# Isaiah 10
 
 ###### 1
 הֹוי הַחֹקְקִים חִקְקֵי־אָוֶן וּמְכַתְּבִים עָמָל כִּתֵּבוּ׃

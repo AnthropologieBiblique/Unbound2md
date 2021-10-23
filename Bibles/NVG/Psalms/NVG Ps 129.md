@@ -1,9 +1,13 @@
 ---
-aliases : Ps 129
+aliases : 
+- Psalms 129
+- Psaumes 129
+- Ps 129
+- Psalms 129
 tags : Bible/Ps/129
 ---
 
-# Chapitre 129
+# Psalms 129
 
 ###### 1
 Canticum ascensionum. Saepe expugnaverunt me a iuventute mea, dicat nunc Israel,

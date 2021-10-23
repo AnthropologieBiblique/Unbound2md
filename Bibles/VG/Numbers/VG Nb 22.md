@@ -1,9 +1,13 @@
 ---
-aliases : Nb 22
+aliases : 
+- Numbers 22
+- Nombres 22
+- Nb 22
+- Numbers 22
 tags : Bible/Nb/22
 ---
 
-# Chapitre 22
+# Numbers 22
 
 ###### 1
 Profectique castrametati sunt in campestribus Moab, ubi trans Jordanem Jericho sita est.

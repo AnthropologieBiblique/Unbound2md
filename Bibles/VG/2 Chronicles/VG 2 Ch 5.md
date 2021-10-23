@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 5
+aliases : 
+- 2 Chronicles 5
+- 2 Chroniques 5
+- 2 Ch 5
+- 2 Chronicles 5
 tags : Bible/2Ch/5
 ---
 
-# Chapitre 5
+# 2 Chronicles 5
 
 ###### 1
 Intulit igitur Salomon omnia, quæ voverat David pater suus : argentum, et aurum, et universa vasa posuit in thesauris domus Dei.

@@ -1,9 +1,13 @@
 ---
-aliases : Jon 1
+aliases : 
+- Jonah 1
+- Jonas 1
+- Jon 1
+- Jonah 1
 tags : Bible/Jon/1
 ---
 
-# Chapitre 1
+# Jonah 1
 
 ###### 1
 וַיְהִי דְּבַר־יְהוָה אֶל־יֹונָה בֶן־אֲמִתַּי לֵאמֹר׃

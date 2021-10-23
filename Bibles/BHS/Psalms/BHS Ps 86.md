@@ -1,9 +1,13 @@
 ---
-aliases : Ps 86
+aliases : 
+- Psalms 86
+- Psaumes 86
+- Ps 86
+- Psalms 86
 tags : Bible/Ps/86
 ---
 
-# Chapitre 86
+# Psalms 86
 
 ###### 1
 תְּפִלָּה לְדָוִד הַטֵּה־יְהוָה אָזְנְךָ עֲנֵנִי כִּי־עָנִי וְאֶבְיֹון אָנִי׃

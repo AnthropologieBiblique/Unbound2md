@@ -1,9 +1,13 @@
 ---
-aliases : Ps 85
+aliases : 
+- Ψαλμοί 84
+- Psaumes 85
+- Ps 85
+- Psalms 85
 tags : Bible/Ps/85
 ---
 
-# Chapitre 84
+# Ψαλμοί 84
 
 ###### 1
 εἰς τὸ τέλος τοῖς υἱοῖς κορε ψαλμός

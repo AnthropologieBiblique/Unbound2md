@@ -1,9 +1,13 @@
 ---
-aliases : Si 28
+aliases : 
+- Ecclesiasticus (Sira 28
+- Siracide 28
+- Si 28
+- Ecclesiasticus (Sira 28
 tags : Bible/Si/28
 ---
 
-# Chapitre 28
+# Ecclesiasticus (Sira 28
 
 ###### 1
 Qui vindicari vult, a Domino inveniet vindictam, et peccata illius servans servabit.

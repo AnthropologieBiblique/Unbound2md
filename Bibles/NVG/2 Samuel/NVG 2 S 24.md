@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 24
+aliases : 
+- 2 Samuel 24
+- 2 Samuel 24
+- 2 S 24
 tags : Bible/2S/24
 ---
 
-# Chapitre 24
+# 2 Samuel 24
 
 ###### 1
 Et addidit furor Domini ira sci contra Israel; commovit que David contra eos dicens: “ Vade, numera Israel et Iudam ”. 

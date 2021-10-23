@@ -1,9 +1,12 @@
 ---
-aliases : Jb 23
+aliases : 
+- Job 23
+- Job 23
+- Jb 23
 tags : Bible/Jb/23
 ---
 
-# Chapitre 23
+# Job 23
 
 ###### 1
 וַיַּעַן אִיֹּוב וַיֹּאמַר׃

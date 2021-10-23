@@ -1,9 +1,13 @@
 ---
-aliases : Sg 12
+aliases : 
+- Wisdom of Solomon 12
+- Sagesse 12
+- Sg 12
+- Wisdom of Solomon 12
 tags : Bible/Sg/12
 ---
 
-# Chapitre 12
+# Wisdom of Solomon 12
 
 ###### 1
 O quam bonus et suavis est, Domine, spiritus tuus in omnibus !

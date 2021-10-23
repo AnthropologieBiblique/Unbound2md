@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 16
+aliases : 
+- 1 Chronicles 16
+- 1 Chroniques 16
+- 1 Ch 16
+- 1 Chronicles 16
 tags : Bible/1Ch/16
 ---
 
-# Chapitre 16
+# 1 Chronicles 16
 
 ###### 1
 Attulerunt igitur arcam Dei et constituerunt eam in me dio tabernaculi, quod tetenderat ei David, et obtulerunt holocausta et pacifica coram Deo. 

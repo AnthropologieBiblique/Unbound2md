@@ -1,9 +1,13 @@
 ---
-aliases : Ps 73
+aliases : 
+- Psalms 73
+- Psaumes 73
+- Ps 73
+- Psalms 73
 tags : Bible/Ps/73
 ---
 
-# Chapitre 73
+# Psalms 73
 
 ###### 1
 PSALMUS. Asaph. Quam bonus rectis est Deus, Deus his, qui mundo sunt corde!

@@ -1,9 +1,13 @@
 ---
-aliases : Ac 9
+aliases : 
+- Acts of the Apostles 9
+- Actes 9
+- Ac 9
+- Acts of the Apostles 9
 tags : Bible/Ac/9
 ---
 
-# Chapitre 9
+# Acts of the Apostles 9
 
 ###### 1
 Saulus autem, adhuc spirans minarum et caedis in discipulos Domini, accessit ad principem sacerdotum 

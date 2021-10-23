@@ -1,9 +1,13 @@
 ---
-aliases : Ps 19
+aliases : 
+- Psalms 19
+- Psaumes 19
+- Ps 19
+- Psalms 19
 tags : Bible/Ps/19
 ---
 
-# Chapitre 19
+# Psalms 19
 
 ###### 1
 לַמְנַצֵּחַ מִזְמֹור לְדָוִד׃

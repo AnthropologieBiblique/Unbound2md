@@ -1,9 +1,13 @@
 ---
-aliases : Tb 10
+aliases : 
+- Tobit 10
+- Tobie 10
+- Tb 10
+- Tobit 10
 tags : Bible/Tb/10
 ---
 
-# Chapitre 10
+# Tobit 10
 
 ###### 1
 Et cotidie ex illo die computabat Thobi dies, in quibus iret et in quibus reverteretur filius eius. Et, postquam consummati sunt dies, et filius eius non veniebat, 

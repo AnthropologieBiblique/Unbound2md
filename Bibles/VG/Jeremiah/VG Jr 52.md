@@ -1,9 +1,13 @@
 ---
-aliases : Jr 52
+aliases : 
+- Jeremiah 52
+- Jérémie 52
+- Jr 52
+- Jeremiah 52
 tags : Bible/Jr/52
 ---
 
-# Chapitre 52
+# Jeremiah 52
 
 ###### 1
 Filius viginti et unius anni erat Sedecias cum regnare cœpisset, et undecim annis regnavit in Jerusalem. Et nomen matris ejus Amital, filia Jeremiæ, de Lobna.

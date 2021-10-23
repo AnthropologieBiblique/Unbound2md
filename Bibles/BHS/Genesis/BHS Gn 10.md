@@ -1,9 +1,13 @@
 ---
-aliases : Gn 10
+aliases : 
+- Genesis 10
+- Genèse 10
+- Gn 10
+- Genesis 10
 tags : Bible/Gn/10
 ---
 
-# Chapitre 10
+# Genesis 10
 
 ###### 1
 וְאֵלֶּה תֹּולְדֹת בְּנֵי־נֹחַ שֵׁם חָם וָיָפֶת וַיִּוָּלְדוּ לָהֶם בָּנִים אַחַר הַמַּבּוּל׃

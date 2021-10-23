@@ -1,9 +1,13 @@
 ---
-aliases : Nb 12
+aliases : 
+- Numbers 12
+- Nombres 12
+- Nb 12
+- Numbers 12
 tags : Bible/Nb/12
 ---
 
-# Chapitre 12
+# Numbers 12
 
 ###### 1
 Locutaque est Maria et Aaron contra Moysen propter uxorem ejus Æthiopissam,

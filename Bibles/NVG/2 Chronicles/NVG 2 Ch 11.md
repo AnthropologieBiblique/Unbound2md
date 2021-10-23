@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 11
+aliases : 
+- 2 Chronicles 11
+- 2 Chroniques 11
+- 2 Ch 11
+- 2 Chronicles 11
 tags : Bible/2Ch/11
 ---
 
-# Chapitre 11
+# 2 Chronicles 11
 
 ###### 1
 Venit autem Roboam in Ie rusalem et convocavit univer sam domum Iudae et Beniamin, centum octoginta milia electorum bellantium, ut dimicaret contra Israel et converteret ad se regnum suum. 

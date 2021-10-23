@@ -1,9 +1,12 @@
 ---
-aliases : Jb 41
+aliases : 
+- Job 41
+- Job 41
+- Jb 41
 tags : Bible/Jb/41
 ---
 
-# Chapitre 41
+# Job 41
 
 ###### 1
 הֵן־תֹּחַלְתֹּו נִכְזָבָה הֲגַם אֶל־מַרְאָיו יֻטָל׃

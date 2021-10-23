@@ -1,9 +1,13 @@
 ---
-aliases : Nb 15
+aliases : 
+- Ἀριθμοί 15
+- Nombres 15
+- Nb 15
+- Numbers 15
 tags : Bible/Nb/15
 ---
 
-# Chapitre 15
+# Ἀριθμοί 15
 
 ###### 1
 καὶ εἶπεν κύριος πρὸς μωυσῆν λέγων

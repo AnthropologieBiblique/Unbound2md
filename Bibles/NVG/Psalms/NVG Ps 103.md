@@ -1,9 +1,13 @@
 ---
-aliases : Ps 103
+aliases : 
+- Psalms 103
+- Psaumes 103
+- Ps 103
+- Psalms 103
 tags : Bible/Ps/103
 ---
 
-# Chapitre 103
+# Psalms 103
 
 ###### 1
 David. Benedic, anima mea, Domino, et omnia, quae intra me sunt, nomini sancto eius.

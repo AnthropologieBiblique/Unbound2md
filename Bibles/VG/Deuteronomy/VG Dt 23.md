@@ -1,9 +1,13 @@
 ---
-aliases : Dt 23
+aliases : 
+- Deuteronomy 23
+- Deutéronome 23
+- Dt 23
+- Deuteronomy 23
 tags : Bible/Dt/23
 ---
 
-# Chapitre 23
+# Deuteronomy 23
 
 ###### 1
 Non intravit eunuchus, attritis vel amputatis testiculis et abscisso veretro, ecclesiam Domini.

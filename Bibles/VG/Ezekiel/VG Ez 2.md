@@ -1,9 +1,13 @@
 ---
-aliases : Ez 2
+aliases : 
+- Ezekiel 2
+- Ézéchiel 2
+- Ez 2
+- Ezekiel 2
 tags : Bible/Ez/2
 ---
 
-# Chapitre 2
+# Ezekiel 2
 
 ###### 1
 Hæc visio similitudinis gloriæ Domini. Et vidi, et cecidi in faciem meam, et audivi vocem loquentis, et dixit ad me : Fili hominis, sta super pedes tuos, et loquar tecum.

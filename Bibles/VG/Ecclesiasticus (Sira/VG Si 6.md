@@ -1,9 +1,13 @@
 ---
-aliases : Si 6
+aliases : 
+- Ecclesiasticus (Sira 6
+- Siracide 6
+- Si 6
+- Ecclesiasticus (Sira 6
 tags : Bible/Si/6
 ---
 
-# Chapitre 6
+# Ecclesiasticus (Sira 6
 
 ###### 1
 Noli fieri pro amico inimicus proximo : improperium enim et contumeliam malus hæreditabit : et omnis peccator invidus et bilinguis.

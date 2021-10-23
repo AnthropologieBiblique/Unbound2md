@@ -1,9 +1,13 @@
 ---
-aliases : Jr 24
+aliases : 
+- Jeremiah 24
+- Jérémie 24
+- Jr 24
+- Jeremiah 24
 tags : Bible/Jr/24
 ---
 
-# Chapitre 24
+# Jeremiah 24
 
 ###### 1
 Ostendit mihi Dominus, et ecce duo calathi pleni ficis positi ante templum Domini, postquam transtulit Nabuchodonosor rex Babylonis Iechoniam filium Ioachim regem Iudae et principes eius et fabrum et inclusorem de Ierusalem et adduxit eos in Babylonem. 

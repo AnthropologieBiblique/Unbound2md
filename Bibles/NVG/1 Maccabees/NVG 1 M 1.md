@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 1
+aliases : 
+- 1 Maccabees 1
+- 1 Maccabees 1
+- 1 M 1
 tags : Bible/1M/1
 ---
 
-# Chapitre 1
+# 1 Maccabees 1
 
 ###### 1
 Et factum est, postquam per cussit Alexander Philippi Mace do, qui prius regnavit in Graecia, egressus de terra Cetthim, Darium regem Persarum et Medorum, 

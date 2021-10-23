@@ -1,9 +1,13 @@
 ---
-aliases : Ps 116
+aliases : 
+- Psalms 115
+- Psaumes 116
+- Ps 116
+- Psalms 116
 tags : Bible/Ps/116
 ---
 
-# Chapitre 115
+# Psalms 115
 
 ###### 1
 Alleluja. Credidi, propter quod locutus sum ; ego autem humiliatus sum nimis.

@@ -1,9 +1,13 @@
 ---
-aliases : Ez 34
+aliases : 
+- Ezekiel 34
+- Ézéchiel 34
+- Ez 34
+- Ezekiel 34
 tags : Bible/Ez/34
 ---
 
-# Chapitre 34
+# Ezekiel 34
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

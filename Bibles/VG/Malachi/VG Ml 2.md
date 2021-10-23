@@ -1,9 +1,13 @@
 ---
-aliases : Ml 2
+aliases : 
+- Malachi 2
+- Malachie 2
+- Ml 2
+- Malachi 2
 tags : Bible/Ml/2
 ---
 
-# Chapitre 2
+# Malachi 2
 
 ###### 1
 Et nunc ad vos mandatum hoc, o sacerdotes.

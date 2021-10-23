@@ -1,9 +1,13 @@
 ---
-aliases : Jr 47
+aliases : 
+- Ἱερεμίας 29
+- Jérémie 47
+- Jr 47
+- Jeremiah 47
 tags : Bible/Jr/47
 ---
 
-# Chapitre 29
+# Ἱερεμίας 29
 
 ###### 1
 ἐπὶ τοὺς ἀλλοφύλους

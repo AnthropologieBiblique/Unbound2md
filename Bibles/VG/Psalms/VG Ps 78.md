@@ -1,9 +1,13 @@
 ---
-aliases : Ps 79
+aliases : 
+- Psalms 78
+- Psaumes 79
+- Ps 79
+- Psalms 79
 tags : Bible/Ps/79
 ---
 
-# Chapitre 78
+# Psalms 78
 
 ###### 1
 Psalmus Asaph. Deus, venerunt gentes in hæreditatem tuam ; polluerunt templum sanctum tuum ; posuerunt Jerusalem in pomorum custodiam.

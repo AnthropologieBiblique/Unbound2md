@@ -1,9 +1,13 @@
 ---
-aliases : Si 1
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 1
+- Siracide 1
+- Si 1
+- Ecclesiasticus (Sira 1
 tags : Bible/Si/1
 ---
 
-# Chapitre 1
+# Σοφία Ἰησοῦ Σειράχ 1
 
 ###### 1.1
 πολλῶν καὶ μεγάλων ἡμῖν διὰ τοῦ νόμου καὶ τῶν προφητῶν

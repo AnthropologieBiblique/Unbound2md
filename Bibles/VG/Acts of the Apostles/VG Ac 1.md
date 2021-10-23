@@ -1,9 +1,13 @@
 ---
-aliases : Ac 1
+aliases : 
+- Acts of the Apostles 1
+- Actes 1
+- Ac 1
+- Acts of the Apostles 1
 tags : Bible/Ac/1
 ---
 
-# Chapitre 1
+# Acts of the Apostles 1
 
 ###### 1
 Primum quidem sermonem feci de omnibus, o Theophile, quæ cœpit Jesus facere, et docere

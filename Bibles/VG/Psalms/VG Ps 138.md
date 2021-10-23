@@ -1,9 +1,13 @@
 ---
-aliases : Ps 139
+aliases : 
+- Psalms 138
+- Psaumes 139
+- Ps 139
+- Psalms 139
 tags : Bible/Ps/139
 ---
 
-# Chapitre 138
+# Psalms 138
 
 ###### 1
 In finem, psalmus David. Domine, probasti me, et cognovisti me ;

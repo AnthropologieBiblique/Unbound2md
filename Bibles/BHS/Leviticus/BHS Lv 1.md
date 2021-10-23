@@ -1,9 +1,13 @@
 ---
-aliases : Lv 1
+aliases : 
+- Leviticus 1
+- Lévitique 1
+- Lv 1
+- Leviticus 1
 tags : Bible/Lv/1
 ---
 
-# Chapitre 1
+# Leviticus 1
 
 ###### 1
 וַיִּקְרָא אֶל־מֹשֶׁה וַיְדַבֵּר יְהוָה אֵלָיו מֵאֹהֶל מֹועֵד לֵאמֹר׃

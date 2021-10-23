@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 30
+aliases : 
+- 2 Chronicles 30
+- 2 Chroniques 30
+- 2 Ch 30
+- 2 Chronicles 30
 tags : Bible/2Ch/30
 ---
 
-# Chapitre 30
+# 2 Chronicles 30
 
 ###### 1
 Misit quoque Ezechias ad omnem Israel et Iudam scri psitque et epistulas ad Ephraim et Manassen, ut venirent ad domum Domini in Ierusalem et facerent Pascha Domino, Deo Israel. 

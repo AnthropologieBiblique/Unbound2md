@@ -1,9 +1,13 @@
 ---
-aliases : Ez 15
+aliases : 
+- Ἰεζεκιήλ 15
+- Ézéchiel 15
+- Ez 15
+- Ezekiel 15
 tags : Bible/Ez/15
 ---
 
-# Chapitre 15
+# Ἰεζεκιήλ 15
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

@@ -1,9 +1,13 @@
 ---
-aliases : Gn 35
+aliases : 
+- Genesis 35
+- Genèse 35
+- Gn 35
+- Genesis 35
 tags : Bible/Gn/35
 ---
 
-# Chapitre 35
+# Genesis 35
 
 ###### 1
 Locutus est Deus ad Iacob: “ Surge et ascende Bethel et habita ibi; facque altare Deo, qui apparuit tibi, quando fugiebas Esau fratrem tuum ”. 

@@ -1,9 +1,13 @@
 ---
-aliases : Jr 51
+aliases : 
+- Jeremiah 51
+- Jérémie 51
+- Jr 51
+- Jeremiah 51
 tags : Bible/Jr/51
 ---
 
-# Chapitre 51
+# Jeremiah 51
 
 ###### 1
 Hæc dicit Dominus : Ecce ego suscitabo super Babylonem et super habitatores ejus, qui cor suum levaverunt contra me, quasi ventum pestilentem :

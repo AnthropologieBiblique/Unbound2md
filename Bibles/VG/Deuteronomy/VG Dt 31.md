@@ -1,9 +1,13 @@
 ---
-aliases : Dt 31
+aliases : 
+- Deuteronomy 31
+- Deutéronome 31
+- Dt 31
+- Deuteronomy 31
 tags : Bible/Dt/31
 ---
 
-# Chapitre 31
+# Deuteronomy 31
 
 ###### 1
 Abiit itaque Moyses, et locutus est omnia verba hæc ad universum Israël,

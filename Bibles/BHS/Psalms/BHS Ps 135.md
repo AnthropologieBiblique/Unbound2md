@@ -1,9 +1,13 @@
 ---
-aliases : Ps 135
+aliases : 
+- Psalms 135
+- Psaumes 135
+- Ps 135
+- Psalms 135
 tags : Bible/Ps/135
 ---
 
-# Chapitre 135
+# Psalms 135
 
 ###### 1
 הַלְלוּ יָהּ הַלְלוּ אֶת־שֵׁם יְהוָה הַלְלוּ עַבְדֵי יְהוָה׃

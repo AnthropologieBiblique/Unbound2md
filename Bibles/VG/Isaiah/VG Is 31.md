@@ -1,9 +1,13 @@
 ---
-aliases : Is 31
+aliases : 
+- Isaiah 31
+- Isaïe 31
+- Is 31
+- Isaiah 31
 tags : Bible/Is/31
 ---
 
-# Chapitre 31
+# Isaiah 31
 
 ###### 1
 Væ qui descendunt in Ægyptum ad auxilium, in equis sperantes, et habentes fiduciam super quadrigis, quia multæ sunt ; et super equitibus, quia prævalidi nimis ; et non sunt confisi super Sanctum Israël, et Dominum non requisierunt !

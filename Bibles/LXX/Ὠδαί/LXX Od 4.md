@@ -1,9 +1,12 @@
 ---
-aliases : Od 4
+aliases : 
+- Ὠδαί 4
+- Odes 4
+- Od 4
 tags : Bible/Od/4
 ---
 
-# Chapitre 4
+# Ὠδαί 4
 
 ###### 1
 προσευχὴ αμβακουμ

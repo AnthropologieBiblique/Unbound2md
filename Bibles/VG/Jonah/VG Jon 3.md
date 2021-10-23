@@ -1,9 +1,13 @@
 ---
-aliases : Jon 3
+aliases : 
+- Jonah 3
+- Jonas 3
+- Jon 3
+- Jonah 3
 tags : Bible/Jon/3
 ---
 
-# Chapitre 3
+# Jonah 3
 
 ###### 1
 Et factum est verbum Domini ad Jonam secundo, dicens :

@@ -1,9 +1,13 @@
 ---
-aliases : Ph 3
+aliases : 
+- Philippians 3
+- Philippiens 3
+- Ph 3
+- Philippians 3
 tags : Bible/Ph/3
 ---
 
-# Chapitre 3
+# Philippians 3
 
 ###### 1
 De cetero, fratres mei, gaudete in Domino. Eadem vobis scribe re mihi quidem non pigrum, vobis autem securum. 

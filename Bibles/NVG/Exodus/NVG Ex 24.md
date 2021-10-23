@@ -1,9 +1,13 @@
 ---
-aliases : Ex 24
+aliases : 
+- Exodus 24
+- Exode 24
+- Ex 24
+- Exodus 24
 tags : Bible/Ex/24
 ---
 
-# Chapitre 24
+# Exodus 24
 
 ###### 1
 Moysi quoque dixit: “ Ascende ad Dominum, tu et Aa ron, Nadab et Abiu et septuaginta senes ex Israel, et adorabitis procul. 

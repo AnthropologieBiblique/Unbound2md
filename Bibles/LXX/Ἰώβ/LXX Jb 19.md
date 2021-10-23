@@ -1,9 +1,12 @@
 ---
-aliases : Jb 19
+aliases : 
+- Ἰώβ 19
+- Job 19
+- Jb 19
 tags : Bible/Jb/19
 ---
 
-# Chapitre 19
+# Ἰώβ 19
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

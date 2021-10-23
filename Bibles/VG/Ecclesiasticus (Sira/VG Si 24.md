@@ -1,9 +1,13 @@
 ---
-aliases : Si 24
+aliases : 
+- Ecclesiasticus (Sira 24
+- Siracide 24
+- Si 24
+- Ecclesiasticus (Sira 24
 tags : Bible/Si/24
 ---
 
-# Chapitre 24
+# Ecclesiasticus (Sira 24
 
 ###### 1
 Sapientia laudabit animam suam, et in Deo honorabitur, et in medio populi sui gloriabitur,

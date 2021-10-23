@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 9
+aliases : 
+- Esther, Greek 9
+- Esther, Grec 9
+- Estgrec 9
+- Esther, Greek 9
 tags : Bible/Estgrec/9
 ---
 
-# Chapitre 9
+# Esther, Greek 9
 
 ###### 1
 Igitur duodecimi mensis — id est Adar — tertia decima die, quando verbum et edictum regis explendum erat, et hostes Iudaeorum sperabant quod dominarentur ipsis, versa vice Iudaei superaverunt adversarios suos. 

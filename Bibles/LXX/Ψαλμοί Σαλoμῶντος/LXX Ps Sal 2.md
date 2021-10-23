@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 2
+aliases : 
+- Ψαλμοί Σαλoμῶντος 2
+- Psaume extra numerum 2
+- Ps Sal 2
+- Psalm of Solomon 2
 tags : Bible/PsSal/2
 ---
 
-# Chapitre 2
+# Ψαλμοί Σαλoμῶντος 2
 
 ###### 1
 ἐν τῷ ὑπερηφανεύεσθαι τὸν ἁμαρτωλὸν ἐν κριῷ κατέβαλε τείχη ὀχυρά καὶ οὐκ ἐκώλυσας

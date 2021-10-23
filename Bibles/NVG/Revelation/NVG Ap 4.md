@@ -1,9 +1,13 @@
 ---
-aliases : Ap 4
+aliases : 
+- Revelation 4
+- Apocalypse 4
+- Ap 4
+- Revelation 4
 tags : Bible/Ap/4
 ---
 
-# Chapitre 4
+# Revelation 4
 
 ###### 1
 Post haec vidi: et ecce ostium apertum in caelo, et vox prima, quam audivi, tamquam tubae loquentis mecum dicens: “ Ascende huc, et ostendam tibi, quae oportet fieri post haec ”. 

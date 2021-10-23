@@ -1,9 +1,13 @@
 ---
-aliases : Lv 4
+aliases : 
+- Λευϊτικόν 4
+- Lévitique 4
+- Lv 4
+- Leviticus 4
 tags : Bible/Lv/4
 ---
 
-# Chapitre 4
+# Λευϊτικόν 4
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

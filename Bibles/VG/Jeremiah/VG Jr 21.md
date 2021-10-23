@@ -1,9 +1,13 @@
 ---
-aliases : Jr 21
+aliases : 
+- Jeremiah 21
+- Jérémie 21
+- Jr 21
+- Jeremiah 21
 tags : Bible/Jr/21
 ---
 
-# Chapitre 21
+# Jeremiah 21
 
 ###### 1
 Verbum quod factum est ad Jeremiam a Domino, quando misit ad eum rex Sedecias Phassur, filium Melchiæ, et Sophoniam, filium Maasiæ, sacerdotem, dicens :

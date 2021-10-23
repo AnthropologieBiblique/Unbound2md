@@ -1,9 +1,12 @@
 ---
-aliases : Est 7
+aliases : 
+- Esther 7
+- Esther 7
+- Est 7
 tags : Bible/Est/7
 ---
 
-# Chapitre 7
+# Esther 7
 
 ###### 1
 Intravit itaque rex et Aman, ut biberent cum regina.

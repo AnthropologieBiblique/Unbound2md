@@ -1,9 +1,12 @@
 ---
-aliases : Jb 9
+aliases : 
+- Job 9
+- Job 9
+- Jb 9
 tags : Bible/Jb/9
 ---
 
-# Chapitre 9
+# Job 9
 
 ###### 1
 Et respondens Iob ait:

@@ -1,9 +1,13 @@
 ---
-aliases : Ez 25
+aliases : 
+- Ezekiel 25
+- Ézéchiel 25
+- Ez 25
+- Ezekiel 25
 tags : Bible/Ez/25
 ---
 
-# Chapitre 25
+# Ezekiel 25
 
 ###### 1
 Et factus est sermo Domini ad me, dicens :

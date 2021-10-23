@@ -1,9 +1,13 @@
 ---
-aliases : Ex 18
+aliases : 
+- Exodus 18
+- Exode 18
+- Ex 18
+- Exodus 18
 tags : Bible/Ex/18
 ---
 
-# Chapitre 18
+# Exodus 18
 
 ###### 1
 Cumque audisset Iethro sacerdos Madian socer Moysi omnia, quae fecerat Deus Moysi et Israel populo suo, eo quod eduxisset Dominus Israel de Aegypto, 

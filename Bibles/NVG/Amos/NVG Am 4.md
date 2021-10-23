@@ -1,9 +1,12 @@
 ---
-aliases : Am 4
+aliases : 
+- Amos 4
+- Amos 4
+- Am 4
 tags : Bible/Am/4
 ---
 
-# Chapitre 4
+# Amos 4
 
 ###### 1
 Audite verbum hoc, vaccae Basan, quae estis in monte Samariae, quae opprimitis egenos et vexatis pauperes, quae dicitis dominis vestris: “ Affer, ut bibamus ”.

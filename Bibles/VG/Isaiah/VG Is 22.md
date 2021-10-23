@@ -1,9 +1,13 @@
 ---
-aliases : Is 22
+aliases : 
+- Isaiah 22
+- Isaïe 22
+- Is 22
+- Isaiah 22
 tags : Bible/Is/22
 ---
 
-# Chapitre 22
+# Isaiah 22
 
 ###### 1
 Onus vallis Visionis. Quidnam quoque tibi est, quia ascendisti et tu omnis in tecta ?

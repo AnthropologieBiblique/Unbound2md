@@ -1,9 +1,13 @@
 ---
-aliases : Tb 2
+aliases : 
+- Tobit 2
+- Tobie 2
+- Tb 2
+- Tobit 2
 tags : Bible/Tb/2
 ---
 
-# Chapitre 2
+# Tobit 2
 
 ###### 1
 Post hæc vero, cum esset dies festus Domini, et factum esset prandium bonum in domo Tobiæ,

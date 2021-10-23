@@ -1,9 +1,13 @@
 ---
-aliases : Ex 15
+aliases : 
+- Exodus 15
+- Exode 15
+- Ex 15
+- Exodus 15
 tags : Bible/Ex/15
 ---
 
-# Chapitre 15
+# Exodus 15
 
 ###### 1
 Tunc cecinit Moyses et filii Israël carmen hoc Domino, et dixerunt : Cantemus Domino : gloriose enim magnificatus est, equum et ascensorem dejecit in mare.

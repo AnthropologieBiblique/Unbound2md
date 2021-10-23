@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 4
+aliases : 
+- Παραλειπομένων Αʹ 4
+- 1 Chroniques 4
+- 1 Ch 4
+- 1 Chronicles 4
 tags : Bible/1Ch/4
 ---
 
-# Chapitre 4
+# Παραλειπομένων Αʹ 4
 
 ###### 1
 καὶ υἱοὶ ιουδα φαρες αρσων καὶ χαρμι καὶ ωρ σουβαλ

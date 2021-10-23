@@ -1,9 +1,13 @@
 ---
-aliases : Ps 29
+aliases : 
+- Psalms 29
+- Psaumes 29
+- Ps 29
+- Psalms 29
 tags : Bible/Ps/29
 ---
 
-# Chapitre 29
+# Psalms 29
 
 ###### 1
 PSALMUS. David. Afferte Domino, filii Dei, afferte Domino gloriam et potentiam,

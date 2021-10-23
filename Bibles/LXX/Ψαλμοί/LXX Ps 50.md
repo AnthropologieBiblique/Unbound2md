@@ -1,9 +1,13 @@
 ---
-aliases : Ps 51
+aliases : 
+- Ψαλμοί 50
+- Psaumes 51
+- Ps 51
+- Psalms 51
 tags : Bible/Ps/51
 ---
 
-# Chapitre 50
+# Ψαλμοί 50
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

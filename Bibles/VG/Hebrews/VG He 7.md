@@ -1,9 +1,13 @@
 ---
-aliases : He 7
+aliases : 
+- Hebrews 7
+- Hébreux 7
+- He 7
+- Hebrews 7
 tags : Bible/He/7
 ---
 
-# Chapitre 7
+# Hebrews 7
 
 ###### 1
 Hic enim Melchisedech, rex Salem, sacerdos Dei summi, qui obviavit Abrahæ regresso a cæde regum, et benedixit ei :

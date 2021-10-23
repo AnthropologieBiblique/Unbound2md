@@ -1,9 +1,13 @@
 ---
-aliases : Ps 67
+aliases : 
+- Psalms 66
+- Psaumes 67
+- Ps 67
+- Psalms 67
 tags : Bible/Ps/67
 ---
 
-# Chapitre 66
+# Psalms 66
 
 ###### 1
 In finem, in hymnis. Psalmus cantici David.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 115
+aliases : 
+- Psalms 115
+- Psaumes 115
+- Ps 115
+- Psalms 115
 tags : Bible/Ps/115
 ---
 
-# Chapitre 115
+# Psalms 115
 
 ###### 1
 Non nobis, Domine, non nobis, sed nomini tuo da gloriam super misericordia tua et veritate tua.

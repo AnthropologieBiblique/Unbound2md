@@ -1,9 +1,13 @@
 ---
-aliases : Ez 46
+aliases : 
+- Ezekiel 46
+- Ézéchiel 46
+- Ez 46
+- Ezekiel 46
 tags : Bible/Ez/46
 ---
 
-# Chapitre 46
+# Ezekiel 46
 
 ###### 1
 Haec dixit Dominus Deus: Porta atrii interioris, quae respicit ad orientem, erit clausa sex diebus, in quibus opus fit; die autem sabbati aperietur, sed et in die calendarum aperietur, 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 29
+aliases : 
+- Psalms 28
+- Psaumes 29
+- Ps 29
+- Psalms 29
 tags : Bible/Ps/29
 ---
 
-# Chapitre 28
+# Psalms 28
 
 ###### 1
 Psalmus David, in consummatione tabernaculi. Afferte Domino, filii Dei, afferte Domino, filios arietum.

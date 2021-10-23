@@ -1,9 +1,13 @@
 ---
-aliases : Lc 12
+aliases : 
+- Luke 12
+- Luc 12
+- Lc 12
+- Luke 12
 tags : Bible/Lc/12
 ---
 
-# Chapitre 12
+# Luke 12
 
 ###### 1
 Interea multis turbis cir cumstantibus, ita ut se invi cem conculcarent, coepit dicere ad discipulos suos primum: “ Attendite a fermento pharisaeorum, quod est hypocrisis. 

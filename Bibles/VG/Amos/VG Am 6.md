@@ -1,9 +1,12 @@
 ---
-aliases : Am 6
+aliases : 
+- Amos 6
+- Amos 6
+- Am 6
 tags : Bible/Am/6
 ---
 
-# Chapitre 6
+# Amos 6
 
 ###### 1
 Væ qui opulenti estis in Sion, et confiditis in monte Samariæ : optimates capita populorum, ingredientes pompatice domum Israël !

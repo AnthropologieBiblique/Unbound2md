@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 6
+aliases : 
+- 1 Corinthians 6
+- 1 Corinthiens 6
+- 1 Co 6
+- 1 Corinthians 6
 tags : Bible/1Co/6
 ---
 
-# Chapitre 6
+# 1 Corinthians 6
 
 ###### 1
 Audet aliquis vestrum habens negotium adversus alterum, judicari apud iniquos, et non apud sanctos ?

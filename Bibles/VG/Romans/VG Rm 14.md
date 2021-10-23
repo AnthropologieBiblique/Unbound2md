@@ -1,9 +1,13 @@
 ---
-aliases : Rm 14
+aliases : 
+- Romans 14
+- Romains 14
+- Rm 14
+- Romans 14
 tags : Bible/Rm/14
 ---
 
-# Chapitre 14
+# Romans 14
 
 ###### 1
 Infirmum autem in fide assumite, non in disceptationibus cogitationum.

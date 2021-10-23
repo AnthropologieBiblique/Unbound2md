@@ -1,9 +1,13 @@
 ---
-aliases : Ex 22
+aliases : 
+- Exodus 22
+- Exode 22
+- Ex 22
+- Exodus 22
 tags : Bible/Ex/22
 ---
 
-# Chapitre 22
+# Exodus 22
 
 ###### 1
 Si effringens fur domum sive suffodiens fuerit inventus et, accepto vulnere, mortuus fuerit, percussor non erit reus sanguinis. 

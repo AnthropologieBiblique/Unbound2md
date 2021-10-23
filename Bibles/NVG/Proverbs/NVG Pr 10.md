@@ -1,9 +1,13 @@
 ---
-aliases : Pr 10
+aliases : 
+- Proverbs 10
+- Proverbes 10
+- Pr 10
+- Proverbs 10
 tags : Bible/Pr/10
 ---
 
-# Chapitre 10
+# Proverbs 10
 
 ###### 1
 Parabolae Salomonis. Filius sapiens laetificat pa trem, filius vero stultus maestitia est matris suae.

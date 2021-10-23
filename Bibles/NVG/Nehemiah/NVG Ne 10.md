@@ -1,9 +1,13 @@
 ---
-aliases : Ne 9
+aliases : 
+- Nehemiah 10
+- Néhémie 9
+- Ne 9
+- Nehemiah 9
 tags : Bible/Ne/9
 ---
 
-# Chapitre 10
+# Nehemiah 10
 
 ###### 1
 “ Super omnibus ergo his nos ipsi percutimus foedus et scribimus, et signant principes nostri, Levitae nostri et sacerdotes nostri ”.

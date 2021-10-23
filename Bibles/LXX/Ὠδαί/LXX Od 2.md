@@ -1,9 +1,12 @@
 ---
-aliases : Od 2
+aliases : 
+- Ὠδαί 2
+- Odes 2
+- Od 2
 tags : Bible/Od/2
 ---
 
-# Chapitre 2
+# Ὠδαί 2
 
 ###### 1a
 ᾠδὴ μωυσέως ἐν τῷ δευτερονομίῳ

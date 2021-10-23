@@ -1,9 +1,13 @@
 ---
-aliases : Jg 10
+aliases : 
+- Judges 10
+- Juges 10
+- Jg 10
+- Judges 10
 tags : Bible/Jg/10
 ---
 
-# Chapitre 10
+# Judges 10
 
 ###### 1
 Post Abimelech surrexit dux ad salvandum Israel Thola fi lius Phua filii Dodo, vir de Issachar, qui habitavit in Samir montis Ephraim. 

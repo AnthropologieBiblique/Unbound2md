@@ -1,9 +1,13 @@
 ---
-aliases : Si 29
+aliases : 
+- Ecclesiasticus (Sira 29
+- Siracide 29
+- Si 29
+- Ecclesiasticus (Sira 29
 tags : Bible/Si/29
 ---
 
-# Chapitre 29
+# Ecclesiasticus (Sira 29
 
 ###### 1
 Qui facit misericordiam, feneratur proximo suo; et, qui confortat manu, mandata servat.

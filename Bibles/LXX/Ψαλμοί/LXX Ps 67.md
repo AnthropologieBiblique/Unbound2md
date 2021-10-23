@@ -1,9 +1,13 @@
 ---
-aliases : Ps 68
+aliases : 
+- Ψαλμοί 67
+- Psaumes 68
+- Ps 68
+- Psalms 68
 tags : Bible/Ps/68
 ---
 
-# Chapitre 67
+# Ψαλμοί 67
 
 ###### 1
 εἰς τὸ τέλος τῷ δαυιδ ψαλμὸς ᾠδῆς

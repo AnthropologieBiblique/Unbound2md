@@ -1,9 +1,13 @@
 ---
-aliases : Ct 2
+aliases : 
+- Ἆσμα Ἀσμάτων 2
+- Cantique des cantiques 2
+- Ct 2
+- Song of Solomon 2
 tags : Bible/Ct/2
 ---
 
-# Chapitre 2
+# Ἆσμα Ἀσμάτων 2
 
 ###### 1
 ἐγὼ ἄνθος τοῦ πεδίου κρίνον τῶν κοιλάδων

@@ -1,9 +1,13 @@
 ---
-aliases : So 3
+aliases : 
+- Zephaniah 3
+- Sophonie 3
+- So 3
+- Zephaniah 3
 tags : Bible/So/3
 ---
 
-# Chapitre 3
+# Zephaniah 3
 
 ###### 1
 Væ provocatrix, et redempta civitas, columba !

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 17
+aliases : 
+- Job 17
+- Job 17
+- Jb 17
 tags : Bible/Jb/17
 ---
 
-# Chapitre 17
+# Job 17
 
 ###### 1
 Spiritus meus attenuabitur, dies mei breviabuntur, et solum mihi superest sepulchrum.

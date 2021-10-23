@@ -1,9 +1,13 @@
 ---
-aliases : Is 50
+aliases : 
+- Isaiah 50
+- Isaïe 50
+- Is 50
+- Isaiah 50
 tags : Bible/Is/50
 ---
 
-# Chapitre 50
+# Isaiah 50
 
 ###### 1
 Haec dicit Dominus: “ Ubinam est liber repudii matris vestrae, quo dimisi eam? Aut quis est creditor meus, cui vendidi vos? Ecce in iniquitatibus vestris venditi estis, et in sceleribus vestris dimissa est mater vestra.

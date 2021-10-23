@@ -1,9 +1,13 @@
 ---
-aliases : 1 Th 5
+aliases : 
+- 1 Thessalonians 5
+- 1 Thessaloniciens 5
+- 1 Th 5
+- 1 Thessalonians 5
 tags : Bible/1Th/5
 ---
 
-# Chapitre 5
+# 1 Thessalonians 5
 
 ###### 1
 De temporibus autem, et momentis, fratres, non indigetis ut scribamus vobis.

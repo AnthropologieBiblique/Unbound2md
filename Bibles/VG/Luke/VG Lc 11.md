@@ -1,9 +1,13 @@
 ---
-aliases : Lc 11
+aliases : 
+- Luke 11
+- Luc 11
+- Lc 11
+- Luke 11
 tags : Bible/Lc/11
 ---
 
-# Chapitre 11
+# Luke 11
 
 ###### 1
 Et factum est : cum esset in quodam loco orans, ut cessavit, dixit unus ex discipulis ejus ad eum : Domine, doce nos orare, sicut docuit et Joannes discipulos suos.

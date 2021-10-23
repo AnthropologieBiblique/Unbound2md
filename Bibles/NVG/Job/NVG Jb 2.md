@@ -1,9 +1,12 @@
 ---
-aliases : Jb 2
+aliases : 
+- Job 2
+- Job 2
+- Jb 2
 tags : Bible/Jb/2
 ---
 
-# Chapitre 2
+# Job 2
 
 ###### 1
 Factum est autem, cum quadam die venissent filii Dei, ut starent coram Domino, venit quoque Satan inter eos, ut staret in conspectu eius. 

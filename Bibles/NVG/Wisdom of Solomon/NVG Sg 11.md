@@ -1,9 +1,13 @@
 ---
-aliases : Sg 11
+aliases : 
+- Wisdom of Solomon 11
+- Sagesse 11
+- Sg 11
+- Wisdom of Solomon 11
 tags : Bible/Sg/11
 ---
 
-# Chapitre 11
+# Wisdom of Solomon 11
 
 ###### 1
 Direxit opera eorum in manibus prophetae sancti.

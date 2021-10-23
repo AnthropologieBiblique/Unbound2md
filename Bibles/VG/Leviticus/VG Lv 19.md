@@ -1,9 +1,13 @@
 ---
-aliases : Lv 19
+aliases : 
+- Leviticus 19
+- Lévitique 19
+- Lv 19
+- Leviticus 19
 tags : Bible/Lv/19
 ---
 
-# Chapitre 19
+# Leviticus 19
 
 ###### 1
 Locutus est Dominus ad Moysen, dicens :

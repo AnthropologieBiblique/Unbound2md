@@ -1,9 +1,13 @@
 ---
-aliases : Ps 41
+aliases : 
+- Ψαλμοί 40
+- Psaumes 41
+- Ps 41
+- Psalms 41
 tags : Bible/Ps/41
 ---
 
-# Chapitre 40
+# Ψαλμοί 40
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

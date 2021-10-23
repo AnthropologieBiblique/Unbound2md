@@ -1,9 +1,13 @@
 ---
-aliases : Sg 14
+aliases : 
+- Wisdom of Solomon 14
+- Sagesse 14
+- Sg 14
+- Wisdom of Solomon 14
 tags : Bible/Sg/14
 ---
 
-# Chapitre 14
+# Wisdom of Solomon 14
 
 ###### 1
 Iterum alius navigare cogitans, et per feros fluctus iter facere incipiens, ligno portante se, fragilius lignum invocat.

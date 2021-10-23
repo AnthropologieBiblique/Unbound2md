@@ -1,9 +1,12 @@
 ---
-aliases : Est 6
+aliases : 
+- Esther 6
+- Esther 6
+- Est 6
 tags : Bible/Est/6
 ---
 
-# Chapitre 6
+# Esther 6
 
 ###### 1
 Noctem illam duxit rex insomnem, jussitque sibi afferri historias et annales priorum temporum. Quæ cum illo præsente legerentur,

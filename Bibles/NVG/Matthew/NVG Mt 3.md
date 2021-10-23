@@ -1,9 +1,13 @@
 ---
-aliases : Mt 3
+aliases : 
+- Matthew 3
+- Matthieu 3
+- Mt 3
+- Matthew 3
 tags : Bible/Mt/3
 ---
 
-# Chapitre 3
+# Matthew 3
 
 ###### 1
 In diebus autem illis venit Ioannes Baptista praedicans in deserto Iudaeae 

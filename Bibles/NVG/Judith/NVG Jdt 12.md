@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 12
+aliases : 
+- Judith 12
+- Judith 12
+- Jdt 12
 tags : Bible/Jdt/12
 ---
 
-# Chapitre 12
+# Judith 12
 
 ###### 1
 Et iussit introduci eam, ubi reponebatur argentum ipsius. Et praecepit sterni ei et dare ei ex obsoniis suis et ex vino suo bibere. 

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 9
+aliases : 
+- Ἰώβ 9
+- Job 9
+- Jb 9
 tags : Bible/Jb/9
 ---
 
-# Chapitre 9
+# Ἰώβ 9
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

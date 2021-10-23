@@ -1,9 +1,13 @@
 ---
-aliases : Ez 11
+aliases : 
+- Ezekiel 11
+- Ézéchiel 11
+- Ez 11
+- Ezekiel 11
 tags : Bible/Ez/11
 ---
 
-# Chapitre 11
+# Ezekiel 11
 
 ###### 1
 Et elevavit me spiritus, et introduxit me ad portam domus Domini orientalem, quæ respicit ad solis ortum : et ecce in introitu portæ viginti quinque viri : et vidi in medio eorum Jezoniam filium Azur, et Pheltiam filium Banaiæ, principes populi.

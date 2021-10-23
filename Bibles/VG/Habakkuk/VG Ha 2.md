@@ -1,9 +1,13 @@
 ---
-aliases : Ha 2
+aliases : 
+- Habakkuk 2
+- Habaquq 2
+- Ha 2
+- Habakkuk 2
 tags : Bible/Ha/2
 ---
 
-# Chapitre 2
+# Habakkuk 2
 
 ###### 1
 Super custodiam meam stabo, et figam gradum super munitionem : et contemplabor ut videam quid dicatur mihi, et quid respondeam ad arguentem me.

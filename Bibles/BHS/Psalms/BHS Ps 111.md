@@ -1,9 +1,13 @@
 ---
-aliases : Ps 111
+aliases : 
+- Psalms 111
+- Psaumes 111
+- Ps 111
+- Psalms 111
 tags : Bible/Ps/111
 ---
 
-# Chapitre 111
+# Psalms 111
 
 ###### 1
 הַלְלוּ יָהּ אֹודֶה יְהוָה בְּכָל־לֵבָב בְּסֹוד יְשָׁרִים וְעֵדָה׃

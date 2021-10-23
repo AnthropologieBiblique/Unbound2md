@@ -1,9 +1,13 @@
 ---
-aliases : Mt 27
+aliases : 
+- Matthew 27
+- Matthieu 27
+- Mt 27
+- Matthew 27
 tags : Bible/Mt/27
 ---
 
-# Chapitre 27
+# Matthew 27
 
 ###### 1
 Mane autem facto, consilium inierunt omnes principes sacerdotum et seniores populi adversus Jesum, ut eum morti traderent.

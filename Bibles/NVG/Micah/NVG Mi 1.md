@@ -1,9 +1,13 @@
 ---
-aliases : Mi 1
+aliases : 
+- Micah 1
+- Michée 1
+- Mi 1
+- Micah 1
 tags : Bible/Mi/1
 ---
 
-# Chapitre 1
+# Micah 1
 
 ###### 1
 Verbum Domini, quod factum est ad Michaeam Morasthiten in diebus Ioatham, Achaz, Ezechiae regum Iudae, quod vidit super Samariam et Ierusalem.

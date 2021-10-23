@@ -1,9 +1,13 @@
 ---
-aliases : Ps 143
+aliases : 
+- Psalms 143
+- Psaumes 143
+- Ps 143
+- Psalms 143
 tags : Bible/Ps/143
 ---
 
-# Chapitre 143
+# Psalms 143
 
 ###### 1
 PSALMUS. David. Domine, exaudi orationem meam, auribus percipe obsecrationem meam in veritate tua; exaudi me in tua iustitia.

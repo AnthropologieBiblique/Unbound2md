@@ -1,9 +1,13 @@
 ---
-aliases : Ps 64
+aliases : 
+- Ψαλμοί 63
+- Psaumes 64
+- Ps 64
+- Psalms 64
 tags : Bible/Ps/64
 ---
 
-# Chapitre 63
+# Ψαλμοί 63
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

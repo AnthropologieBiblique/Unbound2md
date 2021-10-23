@@ -1,9 +1,13 @@
 ---
-aliases : Gn 30
+aliases : 
+- Genesis 30
+- Genèse 30
+- Gn 30
+- Genesis 30
 tags : Bible/Gn/30
 ---
 
-# Chapitre 30
+# Genesis 30
 
 ###### 1
 Cernens autem Rachel quod infecunda esset, invidit sorori suæ, et ait marito suo : Da mihi liberos, alioquin moriar.

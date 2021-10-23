@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 1
+aliases : 
+- 1 Corinthians 1
+- 1 Corinthiens 1
+- 1 Co 1
+- 1 Corinthians 1
 tags : Bible/1Co/1
 ---
 
-# Chapitre 1
+# 1 Corinthians 1
 
 ###### 1
 Paulus vocatus Apostolus Jesu Christi per voluntatem Dei, et Sosthenes frater,

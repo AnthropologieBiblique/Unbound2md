@@ -1,9 +1,13 @@
 ---
-aliases : Mc 5
+aliases : 
+- Mark 5
+- Marc 5
+- Mc 5
+- Mark 5
 tags : Bible/Mc/5
 ---
 
-# Chapitre 5
+# Mark 5
 
 ###### 1
 Et venerunt trans fretum maris in regionem Gerasenorum.

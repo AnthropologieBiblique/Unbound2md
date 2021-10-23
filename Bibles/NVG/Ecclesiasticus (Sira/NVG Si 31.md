@@ -1,9 +1,13 @@
 ---
-aliases : Si 31
+aliases : 
+- Ecclesiasticus (Sira 31
+- Siracide 31
+- Si 31
+- Ecclesiasticus (Sira 31
 tags : Bible/Si/31
 ---
 
-# Chapitre 31
+# Ecclesiasticus (Sira 31
 
 ###### 1
 Vigilia divitis tabefacit carnes, et cogitatus illius aufert somnum;

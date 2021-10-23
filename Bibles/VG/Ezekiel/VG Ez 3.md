@@ -1,9 +1,13 @@
 ---
-aliases : Ez 3
+aliases : 
+- Ezekiel 3
+- Ézéchiel 3
+- Ez 3
+- Ezekiel 3
 tags : Bible/Ez/3
 ---
 
-# Chapitre 3
+# Ezekiel 3
 
 ###### 1
 Et dixit ad me : Fili hominis, quodcumque inveneris, comede : comede volumen istud, et vadens loquere ad filios Israël.

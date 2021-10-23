@@ -1,9 +1,13 @@
 ---
-aliases : Ps 84
+aliases : 
+- Psalms 84
+- Psaumes 84
+- Ps 84
+- Psalms 84
 tags : Bible/Ps/84
 ---
 
-# Chapitre 84
+# Psalms 84
 
 ###### 1
 Magistro chori. Secundum " Torcularia ". Filiorum Core. PSALMUS.

@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 13
+aliases : 
+- 2 Kings 13
+- 2 Rois 13
+- 2 R 13
+- 2 Kings 13
 tags : Bible/2R/13
 ---
 
-# Chapitre 13
+# 2 Kings 13
 
 ###### 1
 Anno vicesimo tertio Ioas fi lii Ochoziae regis Iudae re gnavit Ioachaz filius Iehu super Israel in Samaria decem et septem annis. 

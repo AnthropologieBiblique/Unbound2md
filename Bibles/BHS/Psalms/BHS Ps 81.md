@@ -1,9 +1,13 @@
 ---
-aliases : Ps 81
+aliases : 
+- Psalms 81
+- Psaumes 81
+- Ps 81
+- Psalms 81
 tags : Bible/Ps/81
 ---
 
-# Chapitre 81
+# Psalms 81
 
 ###### 1
 לַמְנַצֵּחַ עַל־הַגִּתִּית לְאָסָף׃

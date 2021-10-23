@@ -1,9 +1,13 @@
 ---
-aliases : Ps 89
+aliases : 
+- Psalms 88
+- Psaumes 89
+- Ps 89
+- Psalms 89
 tags : Bible/Ps/89
 ---
 
-# Chapitre 88
+# Psalms 88
 
 ###### 1
 Intellectus Ethan Ezrahitæ.

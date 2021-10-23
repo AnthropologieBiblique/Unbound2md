@@ -1,9 +1,13 @@
 ---
-aliases : Ap 12
+aliases : 
+- Revelation 12
+- Apocalypse 12
+- Ap 12
+- Revelation 12
 tags : Bible/Ap/12
 ---
 
-# Chapitre 12
+# Revelation 12
 
 ###### 1
 Et signum magnum appa ruit in caelo: mulier amicta sole, et luna sub pedibus eius, et super caput eius corona stellarum duodecim; 

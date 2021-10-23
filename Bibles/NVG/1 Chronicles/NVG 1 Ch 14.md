@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 14
+aliases : 
+- 1 Chronicles 14
+- 1 Chroniques 14
+- 1 Ch 14
+- 1 Chronicles 14
 tags : Bible/1Ch/14
 ---
 
-# Chapitre 14
+# 1 Chronicles 14
 
 ###### 1
 Misit quoque Hiram rex Tyri nuntios ad David et ligna cedrina et artifices parietum lignorumque, ut aedificarent ei domum. 

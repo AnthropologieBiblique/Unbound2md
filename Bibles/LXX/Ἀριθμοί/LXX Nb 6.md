@@ -1,9 +1,13 @@
 ---
-aliases : Nb 6
+aliases : 
+- Ἀριθμοί 6
+- Nombres 6
+- Nb 6
+- Numbers 6
 tags : Bible/Nb/6
 ---
 
-# Chapitre 6
+# Ἀριθμοί 6
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

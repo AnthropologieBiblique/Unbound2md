@@ -1,9 +1,13 @@
 ---
-aliases : Gn 11
+aliases : 
+- Genesis 11
+- Genèse 11
+- Gn 11
+- Genesis 11
 tags : Bible/Gn/11
 ---
 
-# Chapitre 11
+# Genesis 11
 
 ###### 1
 וַיְהִי כָל־הָאָרֶץ שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים׃

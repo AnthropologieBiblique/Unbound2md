@@ -1,9 +1,13 @@
 ---
-aliases : Ex 16
+aliases : 
+- Exodus 16
+- Exode 16
+- Ex 16
+- Exodus 16
 tags : Bible/Ex/16
 ---
 
-# Chapitre 16
+# Exodus 16
 
 ###### 1
 Profectique sunt de Elim, et venit omnis multitudo filiorum Israël in desertum Sin, quod est inter Elim et Sinai, quintodecimo die mensis secundi, postquam egressi sunt de terra Ægypti.

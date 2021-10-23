@@ -1,9 +1,13 @@
 ---
-aliases : Pr 21
+aliases : 
+- Proverbs 21
+- Proverbes 21
+- Pr 21
+- Proverbs 21
 tags : Bible/Pr/21
 ---
 
-# Chapitre 21
+# Proverbs 21
 
 ###### 1
 פַּלְגֵי־מַיִם לֶב־מֶלֶךְ בְּיַד־יְהוָה עַל־כָּל־אֲשֶׁר יַחְפֹּץ יַטֶּנּוּ׃

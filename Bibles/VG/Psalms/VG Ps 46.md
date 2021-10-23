@@ -1,9 +1,13 @@
 ---
-aliases : Ps 47
+aliases : 
+- Psalms 46
+- Psaumes 47
+- Ps 47
+- Psalms 47
 tags : Bible/Ps/47
 ---
 
-# Chapitre 46
+# Psalms 46
 
 ###### 1
 In finem, pro filiis Core. Psalmus.

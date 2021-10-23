@@ -1,9 +1,13 @@
 ---
-aliases : Ml 4
+aliases : 
+- Malachi 4
+- Malachie 4
+- Ml 4
+- Malachi 4
 tags : Bible/Ml/4
 ---
 
-# Chapitre 4
+# Malachi 4
 
 ###### 1
 Ecce enim dies veniet succensa quasi caminus : et erunt omnes superbi et omnes facientes impietatem stipula : et inflammabit eos dies veniens, dicit Dominus exercituum, quæ non derelinquet eis radicem et germen.

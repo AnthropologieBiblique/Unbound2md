@@ -1,9 +1,13 @@
 ---
-aliases : Jr 25
+aliases : 
+- Jeremiah 25
+- Jérémie 25
+- Jr 25
+- Jeremiah 25
 tags : Bible/Jr/25
 ---
 
-# Chapitre 25
+# Jeremiah 25
 
 ###### 1
 Verbum, quod factum est ad Ieremiam de omni populo Iudae in anno quarto Ioachim filii Iosiae regis Iudae — ipse est annus primus Nabuchodonosor regis Babylonis — 

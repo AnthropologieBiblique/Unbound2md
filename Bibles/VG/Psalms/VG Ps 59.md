@@ -1,9 +1,13 @@
 ---
-aliases : Ps 60
+aliases : 
+- Psalms 59
+- Psaumes 60
+- Ps 60
+- Psalms 60
 tags : Bible/Ps/60
 ---
 
-# Chapitre 59
+# Psalms 59
 
 ###### 1
 In finem. Pro his qui immutabuntur, in tituli inscriptionem ipsi David, in doctrinam,

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 31
+aliases : 
+- Psalms 30
+- Psaumes 31
+- Ps 31
+- Psalms 31
 tags : Bible/Ps/31
 ---
 
-# Chapitre 30
+# Psalms 30
 
 ###### 1
 In finem. Psalmus David, pro extasi.

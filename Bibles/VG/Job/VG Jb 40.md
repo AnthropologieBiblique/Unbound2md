@@ -1,9 +1,12 @@
 ---
-aliases : Jb 40
+aliases : 
+- Job 40
+- Job 40
+- Jb 40
 tags : Bible/Jb/40
 ---
 
-# Chapitre 40
+# Job 40
 
 ###### 1
 Respondens autem Dominus Job de turbine, dixit :

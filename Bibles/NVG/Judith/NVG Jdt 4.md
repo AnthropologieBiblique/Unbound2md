@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 4
+aliases : 
+- Judith 4
+- Judith 4
+- Jdt 4
 tags : Bible/Jdt/4
 ---
 
-# Chapitre 4
+# Judith 4
 
 ###### 1
 Et audierunt filii Israel, qui habitabant in Iudaea, omnia, quaecumque fecerat gentibus Holofernes princeps militiae Nabuchodonosor regis Assyriorum, et quemadmodum spoliaverat omnia sancta eorum et dederat ea in exterminium. 

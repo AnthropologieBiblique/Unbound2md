@@ -1,9 +1,13 @@
 ---
-aliases : Is 15
+aliases : 
+- Isaiah 15
+- Isaïe 15
+- Is 15
+- Isaiah 15
 tags : Bible/Is/15
 ---
 
-# Chapitre 15
+# Isaiah 15
 
 ###### 1
 Onus Moab. Quia nocte vastata est Ar Moab, conticuit ; quia nocte vastatus est murus Moab, conticuit.

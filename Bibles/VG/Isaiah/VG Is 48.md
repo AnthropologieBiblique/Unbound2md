@@ -1,9 +1,13 @@
 ---
-aliases : Is 48
+aliases : 
+- Isaiah 48
+- Isaïe 48
+- Is 48
+- Isaiah 48
 tags : Bible/Is/48
 ---
 
-# Chapitre 48
+# Isaiah 48
 
 ###### 1
 Audite hæc, domus Jacob, qui vocamini nomine Israël, et de aquis Juda existis, qui juratis in nomine Domini, et Dei Israël recordamini non in veritate neque in justitia.

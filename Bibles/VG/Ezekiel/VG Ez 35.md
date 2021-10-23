@@ -1,9 +1,13 @@
 ---
-aliases : Ez 35
+aliases : 
+- Ezekiel 35
+- Ézéchiel 35
+- Ez 35
+- Ezekiel 35
 tags : Bible/Ez/35
 ---
 
-# Chapitre 35
+# Ezekiel 35
 
 ###### 1
 Et factus est sermo Domini ad me, dicens :

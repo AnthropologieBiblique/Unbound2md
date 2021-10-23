@@ -1,9 +1,13 @@
 ---
-aliases : Esd 9
+aliases : 
+- Ezra 9
+- Esdras 9
+- Esd 9
+- Ezra 9
 tags : Bible/Esd/9
 ---
 
-# Chapitre 9
+# Ezra 9
 
 ###### 1
 Postquam autem haec completa sunt, accesserunt ad me princi pes dicentes: “ Non est separatus populus Israel, sacerdotes et Levitae a populis terrarum et abominationibus eorum, Chananaei videlicet et Hetthaei et Pherezaei et Iebusaei et Ammonitarum et Moabitarum et Aegyptiorum et Amorraeorum. 

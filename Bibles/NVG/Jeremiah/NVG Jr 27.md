@@ -1,9 +1,13 @@
 ---
-aliases : Jr 27
+aliases : 
+- Jeremiah 27
+- Jérémie 27
+- Jr 27
+- Jeremiah 27
 tags : Bible/Jr/27
 ---
 
-# Chapitre 27
+# Jeremiah 27
 
 ###### 1
 In principio regni Sedeciae filii Iosiae regis Iudae factum est verbum istud ad Ieremiam a Domino dicens: 

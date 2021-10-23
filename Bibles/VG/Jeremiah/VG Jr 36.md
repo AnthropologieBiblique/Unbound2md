@@ -1,9 +1,13 @@
 ---
-aliases : Jr 36
+aliases : 
+- Jeremiah 36
+- Jérémie 36
+- Jr 36
+- Jeremiah 36
 tags : Bible/Jr/36
 ---
 
-# Chapitre 36
+# Jeremiah 36
 
 ###### 1
 Et factum est in anno quarto Joakim filii Josiæ regis Juda, factum est verbum hoc ad Jeremiam a Domino, dicens :

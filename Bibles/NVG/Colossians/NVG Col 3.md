@@ -1,9 +1,13 @@
 ---
-aliases : Col 3
+aliases : 
+- Colossians 3
+- Colossiens 3
+- Col 3
+- Colossians 3
 tags : Bible/Col/3
 ---
 
-# Chapitre 3
+# Colossians 3
 
 ###### 1
 Igitur, si conresurrexistis Chri sto, quae sursum sunt quaerite, ubi Christus est in dextera Dei sedens; 

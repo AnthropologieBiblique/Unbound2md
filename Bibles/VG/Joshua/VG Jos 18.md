@@ -1,9 +1,13 @@
 ---
-aliases : Jos 18
+aliases : 
+- Joshua 18
+- Josué 18
+- Jos 18
+- Joshua 18
 tags : Bible/Jos/18
 ---
 
-# Chapitre 18
+# Joshua 18
 
 ###### 1
 Congregatique sunt omnes filii Israël in Silo, ibique fixerunt tabernaculum testimonii, et fuit eis terra subjecta.

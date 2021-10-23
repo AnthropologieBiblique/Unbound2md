@@ -1,9 +1,13 @@
 ---
-aliases : Za 8
+aliases : 
+- Ζαχαρίας ΙΑʹ 8
+- Zacharie 8
+- Za 8
+- Zechariah 8
 tags : Bible/Za/8
 ---
 
-# Chapitre 8
+# Ζαχαρίας ΙΑʹ 8
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου παντοκράτορος λέγων

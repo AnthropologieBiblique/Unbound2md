@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 21
+aliases : 
+- 1 Kings 21
+- 1 Rois 21
+- 1 R 21
+- 1 Kings 21
 tags : Bible/1R/21
 ---
 
-# Chapitre 21
+# 1 Kings 21
 
 ###### 1
 Postea autem factum est hoc. Vinea erat Naboth Iez rahelitae, quae erat in Iezrahel iuxta palatium Achab regis Samariae. 

@@ -1,9 +1,13 @@
 ---
-aliases : Dt 27
+aliases : 
+- Deuteronomy 27
+- Deutéronome 27
+- Dt 27
+- Deuteronomy 27
 tags : Bible/Dt/27
 ---
 
-# Chapitre 27
+# Deuteronomy 27
 
 ###### 1
 Praecepit autem Moyses et seniores Israel populo dicen tes: “ Custodite omne mandatum, quod praecipio vobis hodie. 

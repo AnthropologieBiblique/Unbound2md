@@ -1,9 +1,12 @@
 ---
-aliases : Dn 6
+aliases : 
+- Daniel 6
+- Daniel 6
+- Dn 6
 tags : Bible/Dn/6
 ---
 
-# Chapitre 6
+# Daniel 6
 
 ###### 1
 Placuit Dario, et constituit super regnum satrapas centum viginti ut essent in toto regno suo.

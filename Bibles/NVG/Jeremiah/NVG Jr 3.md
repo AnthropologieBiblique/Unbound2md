@@ -1,9 +1,13 @@
 ---
-aliases : Jr 3
+aliases : 
+- Jeremiah 3
+- Jérémie 3
+- Jr 3
+- Jeremiah 3
 tags : Bible/Jr/3
 ---
 
-# Chapitre 3
+# Jeremiah 3
 
 ###### 1
 Si dimiserit vir uxorem suam, et recedens ab eo duxerit virum alterum, numquid revertetur ad eam ultra? Numquid non polluta et contaminata est terra illa? Tu autem fornicata es cum amatoribus multis et reverteris ad me?, dicit Dominus.

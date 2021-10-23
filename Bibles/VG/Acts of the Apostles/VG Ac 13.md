@@ -1,9 +1,13 @@
 ---
-aliases : Ac 13
+aliases : 
+- Acts of the Apostles 13
+- Actes 13
+- Ac 13
+- Acts of the Apostles 13
 tags : Bible/Ac/13
 ---
 
-# Chapitre 13
+# Acts of the Apostles 13
 
 ###### 1
 Erant autem in ecclesia, quæ erat Antiochiæ, prophetæ, et doctores, in quibus Barnabas, et Simon, qui vocabatur Niger, et Lucius Cyrenensis, et Manahen, qui erat Herodis Tetrarchæ collactaneus, et Saulus.

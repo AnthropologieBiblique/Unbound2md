@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 24
+aliases : 
+- 1 Chronicles 24
+- 1 Chroniques 24
+- 1 Ch 24
+- 1 Chronicles 24
 tags : Bible/1Ch/24
 ---
 
-# Chapitre 24
+# 1 Chronicles 24
 
 ###### 1
 וְלִבְנֵי אַהֲרֹן מַחְלְקֹותָם בְּנֵי אַהֲרֹן נָדָב וַאֲבִיהוּא אֶלְעָזָר וְאִיתָמָר׃

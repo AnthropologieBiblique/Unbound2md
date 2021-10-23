@@ -1,9 +1,13 @@
 ---
-aliases : Ez 18
+aliases : 
+- Ezekiel 18
+- Ézéchiel 18
+- Ez 18
+- Ezekiel 18
 tags : Bible/Ez/18
 ---
 
-# Chapitre 18
+# Ezekiel 18
 
 ###### 1
 Et factus est sermo Domini ad me dicens: 

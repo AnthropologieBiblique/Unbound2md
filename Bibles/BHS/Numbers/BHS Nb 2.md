@@ -1,9 +1,13 @@
 ---
-aliases : Nb 2
+aliases : 
+- Numbers 2
+- Nombres 2
+- Nb 2
+- Numbers 2
 tags : Bible/Nb/2
 ---
 
-# Chapitre 2
+# Numbers 2
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן לֵאמֹר׃

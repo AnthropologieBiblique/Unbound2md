@@ -1,9 +1,13 @@
 ---
-aliases : Qo 7
+aliases : 
+- Ecclesiastes 7
+- Ecclésiaste 7
+- Qo 7
+- Ecclesiastes 7
 tags : Bible/Qo/7
 ---
 
-# Chapitre 7
+# Ecclesiastes 7
 
 ###### 1
 Melius est nomen bonum quam unguenta pretiosa, et dies mortis die nativitatis.

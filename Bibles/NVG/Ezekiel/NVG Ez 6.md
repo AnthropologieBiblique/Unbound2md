@@ -1,9 +1,13 @@
 ---
-aliases : Ez 6
+aliases : 
+- Ezekiel 6
+- Ézéchiel 6
+- Ez 6
+- Ezekiel 6
 tags : Bible/Ez/6
 ---
 
-# Chapitre 6
+# Ezekiel 6
 
 ###### 1
 Et factus est sermo Domini ad me dicens: 

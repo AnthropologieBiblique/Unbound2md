@@ -1,9 +1,13 @@
 ---
-aliases : Mt 28
+aliases : 
+- Matthew 28
+- Matthieu 28
+- Mt 28
+- Matthew 28
 tags : Bible/Mt/28
 ---
 
-# Chapitre 28
+# Matthew 28
 
 ###### 1
 Sero autem post sabbatum, cum illucesceret in primam sabbati, venit Maria Magdalene et altera Maria videre sepulcrum. 

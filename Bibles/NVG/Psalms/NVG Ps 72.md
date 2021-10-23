@@ -1,9 +1,13 @@
 ---
-aliases : Ps 72
+aliases : 
+- Psalms 72
+- Psaumes 72
+- Ps 72
+- Psalms 72
 tags : Bible/Ps/72
 ---
 
-# Chapitre 72
+# Psalms 72
 
 ###### 1
 Salomonis. Deus, iudicium tuum regi da et iustitiam tuam filio regis;

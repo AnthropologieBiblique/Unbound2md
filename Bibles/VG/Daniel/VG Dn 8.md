@@ -1,9 +1,12 @@
 ---
-aliases : Dn 8
+aliases : 
+- Daniel 8
+- Daniel 8
+- Dn 8
 tags : Bible/Dn/8
 ---
 
-# Chapitre 8
+# Daniel 8
 
 ###### 1
 Anno tertio regni Baltassar regis, visio apparuit mihi. Ego Daniel, post id quod videram in principio,

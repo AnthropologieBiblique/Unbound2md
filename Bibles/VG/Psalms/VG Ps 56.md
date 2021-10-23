@@ -1,9 +1,13 @@
 ---
-aliases : Ps 57
+aliases : 
+- Psalms 56
+- Psaumes 57
+- Ps 57
+- Psalms 57
 tags : Bible/Ps/57
 ---
 
-# Chapitre 56
+# Psalms 56
 
 ###### 1
 In finem, ne disperdas. David in tituli inscriptionem, cum fugeret a facie Saul in speluncam.

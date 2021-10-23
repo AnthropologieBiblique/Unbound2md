@@ -1,9 +1,13 @@
 ---
-aliases : Is 21
+aliases : 
+- Isaiah 21
+- Isaïe 21
+- Is 21
+- Isaiah 21
 tags : Bible/Is/21
 ---
 
-# Chapitre 21
+# Isaiah 21
 
 ###### 1
 Onus deserti maris. Sicut turbines ab africo veniunt, de deserto venit, de terra horribili.

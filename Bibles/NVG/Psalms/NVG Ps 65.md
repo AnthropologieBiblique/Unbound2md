@@ -1,9 +1,13 @@
 ---
-aliases : Ps 65
+aliases : 
+- Psalms 65
+- Psaumes 65
+- Ps 65
+- Psalms 65
 tags : Bible/Ps/65
 ---
 
-# Chapitre 65
+# Psalms 65
 
 ###### 1
 Magistro chori. PSALMUS. David. Canticum.

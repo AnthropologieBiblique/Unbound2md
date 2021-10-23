@@ -1,9 +1,13 @@
 ---
-aliases : Ps 105
+aliases : 
+- Psalms 105
+- Psaumes 105
+- Ps 105
+- Psalms 105
 tags : Bible/Ps/105
 ---
 
-# Chapitre 105
+# Psalms 105
 
 ###### 1
 הֹודוּ לַיהוָה קִרְאוּ בִּשְׁמֹו הֹודִיעוּ בָעַמִּים עֲלִילֹותָיו׃

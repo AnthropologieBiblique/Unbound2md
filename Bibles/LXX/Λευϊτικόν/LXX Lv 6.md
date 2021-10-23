@@ -1,9 +1,13 @@
 ---
-aliases : Lv 6
+aliases : 
+- Λευϊτικόν 6
+- Lévitique 6
+- Lv 6
+- Leviticus 6
 tags : Bible/Lv/6
 ---
 
-# Chapitre 6
+# Λευϊτικόν 6
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

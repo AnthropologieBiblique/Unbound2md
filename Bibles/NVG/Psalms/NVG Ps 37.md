@@ -1,9 +1,13 @@
 ---
-aliases : Ps 37
+aliases : 
+- Psalms 37
+- Psaumes 37
+- Ps 37
+- Psalms 37
 tags : Bible/Ps/37
 ---
 
-# Chapitre 37
+# Psalms 37
 
 ###### 1
 David. ALEPH. Noli aemulari in malignantibus neque zelaveris facientes iniquitatem,

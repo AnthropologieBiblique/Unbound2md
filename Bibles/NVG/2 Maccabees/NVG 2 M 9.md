@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 9
+aliases : 
+- 2 Maccabees 9
+- 2 Maccabees 9
+- 2 M 9
 tags : Bible/2M/9
 ---
 
-# Chapitre 9
+# 2 Maccabees 9
 
 ###### 1
 Eodem autem tempore Anti ochus inhoneste revertebatur de regionibus circa Persidem. 

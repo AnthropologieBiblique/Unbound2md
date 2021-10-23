@@ -1,9 +1,13 @@
 ---
-aliases : Qo 9
+aliases : 
+- Ecclesiastes 9
+- Ecclésiaste 9
+- Qo 9
+- Ecclesiastes 9
 tags : Bible/Qo/9
 ---
 
-# Chapitre 9
+# Ecclesiastes 9
 
 ###### 1
 Omnia haec contuli in corde meo, ut curiose intellegerem quod iusti atque sapientes et opera eorum sunt in manu Dei. Utrum amor sit an odium, omnino nescit homo: coram illis omnia.

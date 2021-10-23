@@ -1,9 +1,13 @@
 ---
-aliases : Si 13
+aliases : 
+- Ecclesiasticus (Sira 13
+- Siracide 13
+- Si 13
+- Ecclesiasticus (Sira 13
 tags : Bible/Si/13
 ---
 
-# Chapitre 13
+# Ecclesiasticus (Sira 13
 
 ###### 1
 Qui tetigerit picem, inquinabitur ab ea; et, qui communicaverit superbo, induet superbiam.

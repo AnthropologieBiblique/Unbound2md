@@ -1,9 +1,13 @@
 ---
-aliases : Ps 52
+aliases : 
+- Psalms 51
+- Psaumes 52
+- Ps 52
+- Psalms 52
 tags : Bible/Ps/52
 ---
 
-# Chapitre 51
+# Psalms 51
 
 ###### 1
 In finem. Intellectus David,

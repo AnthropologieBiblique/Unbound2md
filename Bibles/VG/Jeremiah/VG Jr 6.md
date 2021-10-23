@@ -1,9 +1,13 @@
 ---
-aliases : Jr 6
+aliases : 
+- Jeremiah 6
+- Jérémie 6
+- Jr 6
+- Jeremiah 6
 tags : Bible/Jr/6
 ---
 
-# Chapitre 6
+# Jeremiah 6
 
 ###### 1
 Confortamini, filii Benjamin, in medio Jerusalem : et in Thecua clangite buccina, et super Bethacarem levate vexillum, quia malum visum est ab aquilone, et contritio magna.

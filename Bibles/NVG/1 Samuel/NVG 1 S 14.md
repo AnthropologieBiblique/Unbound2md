@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 14
+aliases : 
+- 1 Samuel 14
+- 1 Samuel 14
+- 1 S 14
 tags : Bible/1S/14
 ---
 
-# Chapitre 14
+# 1 Samuel 14
 
 ###### 1
 Et accidit quadam die, ut diceret Ionathan filius Saul ad adulescentem armigerum suum: “ Veni, et transeamus ad stationem Philisthim, quae est ibi ex adverso ”. Patri autem suo hoc ipsum non indicavit. 

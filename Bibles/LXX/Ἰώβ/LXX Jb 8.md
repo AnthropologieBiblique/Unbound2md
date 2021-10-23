@@ -1,9 +1,12 @@
 ---
-aliases : Jb 8
+aliases : 
+- Ἰώβ 8
+- Job 8
+- Jb 8
 tags : Bible/Jb/8
 ---
 
-# Chapitre 8
+# Ἰώβ 8
 
 ###### 1
 ὑπολαβὼν δὲ βαλδαδ ὁ σαυχίτης λέγει

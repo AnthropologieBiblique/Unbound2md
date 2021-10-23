@@ -1,9 +1,13 @@
 ---
-aliases : Ex 34
+aliases : 
+- Exodus 34
+- Exode 34
+- Ex 34
+- Exodus 34
 tags : Bible/Ex/34
 ---
 
-# Chapitre 34
+# Exodus 34
 
 ###### 1
 Dixitque Dominus ad Moy sen: “ Praecide tibi duas ta bulas lapideas instar priorum, et scribam super eas verba, quae habuerunt tabulae, quas fregisti. 

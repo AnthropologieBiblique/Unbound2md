@@ -1,9 +1,13 @@
 ---
-aliases : Os 5
+aliases : 
+- Hosea 5
+- Osée 5
+- Os 5
+- Hosea 5
 tags : Bible/Os/5
 ---
 
-# Chapitre 5
+# Hosea 5
 
 ###### 1
 Audite hoc, sacerdotes,  et attendite, domus Israël, et domus regis, auscultate : quia vobis judicium est, quoniam laqueus facti estis speculationi, et rete expansum super Thabor.

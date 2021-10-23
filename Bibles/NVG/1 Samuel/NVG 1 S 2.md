@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 2
+aliases : 
+- 1 Samuel 2
+- 1 Samuel 2
+- 1 S 2
 tags : Bible/1S/2
 ---
 
-# Chapitre 2
+# 1 Samuel 2
 
 ###### 1
 Et oravit Anna et ait: “ Exsultavit cor meum in Do mino, exaltatum est cornu meum in Deo meo; dilatatum est os meum super inimicos meos, quoniam laetata sum in salutari tuo.

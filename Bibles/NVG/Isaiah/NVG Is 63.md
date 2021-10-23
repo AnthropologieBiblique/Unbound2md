@@ -1,9 +1,13 @@
 ---
-aliases : Is 63
+aliases : 
+- Isaiah 63
+- Isaïe 63
+- Is 63
+- Isaiah 63
 tags : Bible/Is/63
 ---
 
-# Chapitre 63
+# Isaiah 63
 
 ###### 1
 “ Quis est iste, qui venit de Edom, tinctis vestibus de Bosra? Iste formosus in stola sua, gradiens in multitudine fortitudinis suae ”. “ Sum ego, qui loquor iustitiam, potens ad salvandum ”.

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 34
+aliases : 
+- Job 34
+- Job 34
+- Jb 34
 tags : Bible/Jb/34
 ---
 
-# Chapitre 34
+# Job 34
 
 ###### 1
 וַיַּעַן אֱלִיהוּא וַיֹּאמַר׃

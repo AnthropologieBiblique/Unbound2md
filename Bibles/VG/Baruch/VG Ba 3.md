@@ -1,9 +1,12 @@
 ---
-aliases : Ba 3
+aliases : 
+- Baruch 3
+- Baruch 3
+- Ba 3
 tags : Bible/Ba/3
 ---
 
-# Chapitre 3
+# Baruch 3
 
 ###### 1
 Et nunc, Domine omnipotens, Deus Israël, anima in angustiis, et spiritus anxius clamat ad te.

@@ -1,9 +1,13 @@
 ---
-aliases : Ez 48
+aliases : 
+- Ezekiel 48
+- Ézéchiel 48
+- Ez 48
+- Ezekiel 48
 tags : Bible/Ez/48
 ---
 
-# Chapitre 48
+# Ezekiel 48
 
 ###### 1
 Et hæc nomina tribuum a finibus aquilonis, juxta viam Hethalon, pergentibus Emath, atrium Enan terminus Damasci ad aquilonem, juxta viam Emath : et erit ei plaga orientalis mare, Dan una.

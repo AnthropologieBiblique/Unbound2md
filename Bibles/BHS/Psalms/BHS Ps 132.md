@@ -1,9 +1,13 @@
 ---
-aliases : Ps 132
+aliases : 
+- Psalms 132
+- Psaumes 132
+- Ps 132
+- Psalms 132
 tags : Bible/Ps/132
 ---
 
-# Chapitre 132
+# Psalms 132
 
 ###### 1
 שִׁיר הַמַּעֲלֹות זְכֹור־יְהוָה לְדָוִד אֵת כָּל־עֻנֹּותֹו׃

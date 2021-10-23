@@ -1,9 +1,13 @@
 ---
-aliases : Ps 88
+aliases : 
+- Psalms 88
+- Psaumes 88
+- Ps 88
+- Psalms 88
 tags : Bible/Ps/88
 ---
 
-# Chapitre 88
+# Psalms 88
 
 ###### 1
 Canticum. PSALMUS. Filiorum Core. Magistro chori. Secundum " Mahalat ". Ad cantandum. Maskil. Heman Ezrahitae.

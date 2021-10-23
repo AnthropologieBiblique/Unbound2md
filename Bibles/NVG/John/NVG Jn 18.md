@@ -1,9 +1,13 @@
 ---
-aliases : Jn 18
+aliases : 
+- John 18
+- Jean 18
+- Jn 18
+- John 18
 tags : Bible/Jn/18
 ---
 
-# Chapitre 18
+# John 18
 
 ###### 1
 Haec cum dixisset Iesus, egressus est cum discipulis suis trans torrentem Cedron, ubi erat hortus, in quem introivit ipse et discipuli eius. 

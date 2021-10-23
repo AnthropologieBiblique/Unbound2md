@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 6
+aliases : 
+- 2 Chronicles 6
+- 2 Chroniques 6
+- 2 Ch 6
+- 2 Chronicles 6
 tags : Bible/2Ch/6
 ---
 
-# Chapitre 6
+# 2 Chronicles 6
 
 ###### 1
 אָז אָמַר שְׁלֹמֹה יְהוָה אָמַר לִשְׁכֹּון בָּעֲרָפֶל׃

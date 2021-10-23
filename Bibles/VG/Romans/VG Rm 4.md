@@ -1,9 +1,13 @@
 ---
-aliases : Rm 4
+aliases : 
+- Romans 4
+- Romains 4
+- Rm 4
+- Romans 4
 tags : Bible/Rm/4
 ---
 
-# Chapitre 4
+# Romans 4
 
 ###### 1
 Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem ?

@@ -1,9 +1,13 @@
 ---
-aliases : Qo 1
+aliases : 
+- Ἐκκλησιαστής 1
+- Ecclésiaste 1
+- Qo 1
+- Ecclesiastes 1
 tags : Bible/Qo/1
 ---
 
-# Chapitre 1
+# Ἐκκλησιαστής 1
 
 ###### 1
 ῥήματα ἐκκλησιαστοῦ υἱοῦ δαυιδ βασιλέως ισραηλ ἐν ιερουσαλημ

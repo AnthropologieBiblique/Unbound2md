@@ -1,9 +1,13 @@
 ---
-aliases : Gn 18
+aliases : 
+- Genesis 18
+- Genèse 18
+- Gn 18
+- Genesis 18
 tags : Bible/Gn/18
 ---
 
-# Chapitre 18
+# Genesis 18
 
 ###### 1
 וַיֵּרָא אֵלָיו יְהוָה בְּאֵלֹנֵי מַמְרֵא וְהוּא יֹשֵׁב פֶּתַח־הָאֹהֶל כְּחֹם הַיֹּום׃

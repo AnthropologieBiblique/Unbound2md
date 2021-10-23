@@ -1,9 +1,13 @@
 ---
-aliases : Ps 26
+aliases : 
+- Psalms 25
+- Psaumes 26
+- Ps 26
+- Psalms 26
 tags : Bible/Ps/26
 ---
 
-# Chapitre 25
+# Psalms 25
 
 ###### 1
 In finem. Psalmus David. Judica me, Domine, quoniam ego in innocentia mea ingressus sum, et in Domino sperans non infirmabor.

@@ -1,9 +1,13 @@
 ---
-aliases : Ne 10
+aliases : 
+- Nehemiah 10
+- Néhémie 10
+- Ne 10
+- Nehemiah 10
 tags : Bible/Ne/10
 ---
 
-# Chapitre 10
+# Nehemiah 10
 
 ###### 1
 Signatores autem fuerunt Nehemias, Athersatha filius Hachelai, et Sedecias,

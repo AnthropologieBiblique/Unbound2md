@@ -1,9 +1,13 @@
 ---
-aliases : Ps 76
+aliases : 
+- Psalms 76
+- Psaumes 76
+- Ps 76
+- Psalms 76
 tags : Bible/Ps/76
 ---
 
-# Chapitre 76
+# Psalms 76
 
 ###### 1
 Magistro chori. Fidibus. PSALMUS. Asaph. Canticum.

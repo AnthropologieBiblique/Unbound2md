@@ -1,9 +1,13 @@
 ---
-aliases : Ps 109
+aliases : 
+- Psalms 108
+- Psaumes 109
+- Ps 109
+- Psalms 109
 tags : Bible/Ps/109
 ---
 
-# Chapitre 108
+# Psalms 108
 
 ###### 1
 In finem. Psalmus David.

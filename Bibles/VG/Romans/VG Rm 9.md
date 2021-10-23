@@ -1,9 +1,13 @@
 ---
-aliases : Rm 9
+aliases : 
+- Romans 9
+- Romains 9
+- Rm 9
+- Romans 9
 tags : Bible/Rm/9
 ---
 
-# Chapitre 9
+# Romans 9
 
 ###### 1
 Veritatem dico in Christo, non mentior : testimonium mihi perhibente conscientia mea in Spiritu Sancto :

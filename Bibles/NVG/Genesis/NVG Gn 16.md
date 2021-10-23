@@ -1,9 +1,13 @@
 ---
-aliases : Gn 16
+aliases : 
+- Genesis 16
+- Genèse 16
+- Gn 16
+- Genesis 16
 tags : Bible/Gn/16
 ---
 
-# Chapitre 16
+# Genesis 16
 
 ###### 1
 Sarai autem uxor Abram non genuerat ei liberos; sed habens ancillam Aegyptiam nomine Agar, 

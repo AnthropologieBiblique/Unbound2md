@@ -1,9 +1,13 @@
 ---
-aliases : 2 Tm 3
+aliases : 
+- 2 Timothy 3
+- 2 Timothée 3
+- 2 Tm 3
+- 2 Timothy 3
 tags : Bible/2Tm/3
 ---
 
-# Chapitre 3
+# 2 Timothy 3
 
 ###### 1
 Hoc autem scito, quod in no vissimis diebus instabunt tem pora periculosa. 

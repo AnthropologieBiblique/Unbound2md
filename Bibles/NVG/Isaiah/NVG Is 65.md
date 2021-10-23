@@ -1,9 +1,13 @@
 ---
-aliases : Is 65
+aliases : 
+- Isaiah 65
+- Isaïe 65
+- Is 65
+- Isaiah 65
 tags : Bible/Is/65
 ---
 
-# Chapitre 65
+# Isaiah 65
 
 ###### 1
 “ Quaesitus sum ab his, qui non consulebant me, inventus sum ab his, qui non quaerebant me. Dixi: “Ecce ego, ecce ego!” ad gentem, quae non invocabat nomen meum.

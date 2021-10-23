@@ -1,9 +1,13 @@
 ---
-aliases : Gn 31
+aliases : 
+- Genesis 31
+- Genèse 31
+- Gn 31
+- Genesis 31
 tags : Bible/Gn/31
 ---
 
-# Chapitre 31
+# Genesis 31
 
 ###### 1
 Postquam autem audivit verba filiorum Laban dicen tium: “ Tulit Iacob omnia, quae fuerunt patris nostri, et de patris nostri facultate acquisivit has divitias ”, 

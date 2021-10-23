@@ -1,9 +1,13 @@
 ---
-aliases : Jr 11
+aliases : 
+- Jeremiah 11
+- Jérémie 11
+- Jr 11
+- Jeremiah 11
 tags : Bible/Jr/11
 ---
 
-# Chapitre 11
+# Jeremiah 11
 
 ###### 1
 הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃

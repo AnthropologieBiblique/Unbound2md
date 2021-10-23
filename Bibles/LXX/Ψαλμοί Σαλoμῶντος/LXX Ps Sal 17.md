@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 17
+aliases : 
+- Ψαλμοί Σαλoμῶντος 17
+- Psaume extra numerum 17
+- Ps Sal 17
+- Psalm of Solomon 17
 tags : Bible/PsSal/17
 ---
 
-# Chapitre 17
+# Ψαλμοί Σαλoμῶντος 17
 
 ###### 1
 κύριε σὺ αὐτὸς βασιλεὺς ἡμῶν εἰς τὸν αἰῶνα καὶ ἔτι ὅτι ἐν σοί ὁ θεός καυχήσεται ἡ ψυχὴ ἡμῶν

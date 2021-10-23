@@ -1,9 +1,13 @@
 ---
-aliases : Ap 5
+aliases : 
+- Revelation 5
+- Apocalypse 5
+- Ap 5
+- Revelation 5
 tags : Bible/Ap/5
 ---
 
-# Chapitre 5
+# Revelation 5
 
 ###### 1
 Et vidi in dextera sedentis super thronum librum scriptum intus et foris, signatum sigillis septem. 

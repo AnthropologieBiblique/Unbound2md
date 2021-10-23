@@ -1,9 +1,13 @@
 ---
-aliases : Ps 114
+aliases : 
+- Psalms 114
+- Psaumes 114
+- Ps 114
+- Psalms 114
 tags : Bible/Ps/114
 ---
 
-# Chapitre 114
+# Psalms 114
 
 ###### 1
 בְּצֵאת יִשְׂרָאֵל מִמִּצְרָיִם בֵּית יַעֲקֹב מֵעַם לֹעֵז׃

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 74
+aliases : 
+- Psalms 74
+- Psaumes 74
+- Ps 74
+- Psalms 74
 tags : Bible/Ps/74
 ---
 
-# Chapitre 74
+# Psalms 74
 
 ###### 1
 Maskil. Asaph. Ut quid, Deus, reppulisti in finem, iratus est furor tuus super oves pascuae tuae?

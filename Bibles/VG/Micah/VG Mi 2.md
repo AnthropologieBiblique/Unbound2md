@@ -1,9 +1,13 @@
 ---
-aliases : Mi 2
+aliases : 
+- Micah 2
+- Michée 2
+- Mi 2
+- Micah 2
 tags : Bible/Mi/2
 ---
 
-# Chapitre 2
+# Micah 2
 
 ###### 1
 Væ qui cogitatis inutile, et operamini malum in cubilibus vestris ! In luce matutina faciunt illud, quoniam contra Deum est manus eorum.

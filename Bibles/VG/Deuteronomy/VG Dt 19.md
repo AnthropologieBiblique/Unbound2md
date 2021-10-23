@@ -1,9 +1,13 @@
 ---
-aliases : Dt 19
+aliases : 
+- Deuteronomy 19
+- Deutéronome 19
+- Dt 19
+- Deuteronomy 19
 tags : Bible/Dt/19
 ---
 
-# Chapitre 19
+# Deuteronomy 19
 
 ###### 1
 Cum disperdiderit Dominus Deus tuus gentes, quarum tibi traditurus est terram, et possederis eam, habitaverisque in urbibus ejus et in ædibus :

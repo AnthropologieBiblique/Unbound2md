@@ -1,9 +1,13 @@
 ---
-aliases : Gn 25
+aliases : 
+- Genesis 25
+- Genèse 25
+- Gn 25
+- Genesis 25
 tags : Bible/Gn/25
 ---
 
-# Chapitre 25
+# Genesis 25
 
 ###### 1
 Abraham vero aliam duxit uxorem nomine Ceturam :

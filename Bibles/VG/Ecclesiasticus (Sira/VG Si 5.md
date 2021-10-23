@@ -1,9 +1,13 @@
 ---
-aliases : Si 5
+aliases : 
+- Ecclesiasticus (Sira 5
+- Siracide 5
+- Si 5
+- Ecclesiasticus (Sira 5
 tags : Bible/Si/5
 ---
 
-# Chapitre 5
+# Ecclesiasticus (Sira 5
 
 ###### 1
 Noli attendere ad possessiones iniquas, et ne dixeris : Est mihi sufficiens vita : nihil enim proderit in tempore vindictæ et obductionis.

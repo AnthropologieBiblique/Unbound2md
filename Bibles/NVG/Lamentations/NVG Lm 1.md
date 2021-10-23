@@ -1,9 +1,12 @@
 ---
-aliases : Lm 1
+aliases : 
+- Lamentations 1
+- Lamentations 1
+- Lm 1
 tags : Bible/Lm/1
 ---
 
-# Chapitre 1
+# Lamentations 1
 
 ###### 1
 ALEPH. Quomodo sedet sola civitas plena populo! Facta est quasi vidua domina gentium; princeps provinciarum facta est sub tributo.

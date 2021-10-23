@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 7
+aliases : 
+- 2 Kings 7
+- 2 Rois 7
+- 2 R 7
+- 2 Kings 7
 tags : Bible/2R/7
 ---
 
-# Chapitre 7
+# 2 Kings 7
 
 ###### 1
 Dixit autem Eliseus: “ Audite verbum Domini. Haec dicit Dominus: In tempore hoc cras modius similae uno statere erit, et duo modii hordei statere uno in porta Samariae ”. 

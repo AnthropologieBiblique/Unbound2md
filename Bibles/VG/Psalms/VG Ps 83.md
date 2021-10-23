@@ -1,9 +1,13 @@
 ---
-aliases : Ps 84
+aliases : 
+- Psalms 83
+- Psaumes 84
+- Ps 84
+- Psalms 84
 tags : Bible/Ps/84
 ---
 
-# Chapitre 83
+# Psalms 83
 
 ###### 1
 In finem, pro torcularibus filiis Core. Psalmus.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 49
+aliases : 
+- Ψαλμοί 48
+- Psaumes 49
+- Ps 49
+- Psalms 49
 tags : Bible/Ps/49
 ---
 
-# Chapitre 48
+# Ψαλμοί 48
 
 ###### 1
 εἰς τὸ τέλος τοῖς υἱοῖς κορε ψαλμός

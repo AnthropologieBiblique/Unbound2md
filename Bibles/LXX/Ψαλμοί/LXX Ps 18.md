@@ -1,9 +1,13 @@
 ---
-aliases : Ps 19
+aliases : 
+- Ψαλμοί 18
+- Psaumes 19
+- Ps 19
+- Psalms 19
 tags : Bible/Ps/19
 ---
 
-# Chapitre 18
+# Ψαλμοί 18
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 15
+aliases : 
+- Judith 16
+- Judith 15
+- Jdt 15
 tags : Bible/Jdt/15
 ---
 
-# Chapitre 16
+# Judith 16
 
 ###### 1
 Tunc cantavit canticum hoc Domino Judith, dicens :

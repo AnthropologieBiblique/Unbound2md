@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 1
+aliases : 
+- Judith 1
+- Judith 1
+- Jdt 1
 tags : Bible/Jdt/1
 ---
 
-# Chapitre 1
+# Judith 1
 
 ###### 1
 Arphaxad itaque, rex Medorum, subjugaverat multas gentes imperio suo, et ipse ædificavit civitatem potentissimam, quam appellavit Ecbatanis,

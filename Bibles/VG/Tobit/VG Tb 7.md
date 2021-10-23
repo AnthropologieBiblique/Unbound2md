@@ -1,9 +1,13 @@
 ---
-aliases : Tb 7
+aliases : 
+- Tobit 7
+- Tobie 7
+- Tb 7
+- Tobit 7
 tags : Bible/Tb/7
 ---
 
-# Chapitre 7
+# Tobit 7
 
 ###### 1
 Ingressi sunt autem ad Raguelem, et suscepit eos Raguel cum gaudio.

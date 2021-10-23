@@ -1,9 +1,13 @@
 ---
-aliases : Is 17
+aliases : 
+- Isaiah 17
+- Isaïe 17
+- Is 17
+- Isaiah 17
 tags : Bible/Is/17
 ---
 
-# Chapitre 17
+# Isaiah 17
 
 ###### 1
 Oraculum Damasci. “ Ecce Damascus desinet esse civitas et erit sicut acervus ruinarum.

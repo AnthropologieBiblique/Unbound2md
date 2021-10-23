@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 2
+aliases : 
+- 2 Corinthians 2
+- 2 Corinthiens 2
+- 2 Co 2
+- 2 Corinthians 2
 tags : Bible/2Co/2
 ---
 
-# Chapitre 2
+# 2 Corinthians 2
 
 ###### 1
 Statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos.

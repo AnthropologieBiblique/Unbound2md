@@ -1,9 +1,13 @@
 ---
-aliases : Ps 108
+aliases : 
+- Ψαλμοί 107
+- Psaumes 108
+- Ps 108
+- Psalms 108
 tags : Bible/Ps/108
 ---
 
-# Chapitre 107
+# Ψαλμοί 107
 
 ###### 1
 ᾠδὴ ψαλμοῦ τῷ δαυιδ

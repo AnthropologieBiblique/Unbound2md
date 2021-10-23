@@ -1,9 +1,13 @@
 ---
-aliases : Is 66
+aliases : 
+- Isaiah 66
+- Isaïe 66
+- Is 66
+- Isaiah 66
 tags : Bible/Is/66
 ---
 
-# Chapitre 66
+# Isaiah 66
 
 ###### 1
 Hæc dicit Dominus : Cælum sedes mea, terra autem scabellum pedum meorum. Quæ est ista domus quam ædificabitis mihi ? et quis est iste locus quietis meæ ?

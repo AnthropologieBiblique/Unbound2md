@@ -1,9 +1,13 @@
 ---
-aliases : Ps 83
+aliases : 
+- Psalms 82
+- Psaumes 83
+- Ps 83
+- Psalms 83
 tags : Bible/Ps/83
 ---
 
-# Chapitre 82
+# Psalms 82
 
 ###### 1
 Canticum Psalmi Asaph.

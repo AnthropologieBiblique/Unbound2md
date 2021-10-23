@@ -1,9 +1,13 @@
 ---
-aliases : Dt 32
+aliases : 
+- Deuteronomy 32
+- Deutéronome 32
+- Dt 32
+- Deuteronomy 32
 tags : Bible/Dt/32
 ---
 
-# Chapitre 32
+# Deuteronomy 32
 
 ###### 1
 “ Audite, caeli, quae loquor; audiat terra verba oris mei! 

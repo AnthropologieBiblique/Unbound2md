@@ -1,9 +1,12 @@
 ---
-aliases : Dn 1
+aliases : 
+- Daniel 1
+- Daniel 1
+- Dn 1
 tags : Bible/Dn/1
 ---
 
-# Chapitre 1
+# Daniel 1
 
 ###### 1
 Anno tertio regni Ioachim regis Iudae venit Nabuchodonosor rex Babylonis Ierusalem et obsedit eam; 

@@ -1,9 +1,13 @@
 ---
-aliases : Ne 1
+aliases : 
+- Nehemiah 1
+- Néhémie 1
+- Ne 1
+- Nehemiah 1
 tags : Bible/Ne/1
 ---
 
-# Chapitre 1
+# Nehemiah 1
 
 ###### 1
 Verba Nehemiae filii Hacha liae. Et factum est in mense Ca sleu, anno vicesimo, et ego eram in castro Susan. 

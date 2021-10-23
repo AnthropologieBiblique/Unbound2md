@@ -1,9 +1,12 @@
 ---
-aliases : Jb 35
+aliases : 
+- Job 35
+- Job 35
+- Jb 35
 tags : Bible/Jb/35
 ---
 
-# Chapitre 35
+# Job 35
 
 ###### 1
 Igitur Eliu haec rursum locutus est:

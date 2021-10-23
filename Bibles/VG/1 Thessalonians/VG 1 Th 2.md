@@ -1,9 +1,13 @@
 ---
-aliases : 1 Th 2
+aliases : 
+- 1 Thessalonians 2
+- 1 Thessaloniciens 2
+- 1 Th 2
+- 1 Thessalonians 2
 tags : Bible/1Th/2
 ---
 
-# Chapitre 2
+# 1 Thessalonians 2
 
 ###### 1
 Nam ipsi scitis, fratres, introitum nostrum ad vos, quia non inanis fuit :

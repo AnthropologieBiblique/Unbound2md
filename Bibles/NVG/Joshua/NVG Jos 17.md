@@ -1,9 +1,13 @@
 ---
-aliases : Jos 17
+aliases : 
+- Joshua 17
+- Josué 17
+- Jos 17
+- Joshua 17
 tags : Bible/Jos/17
 ---
 
-# Chapitre 17
+# Joshua 17
 
 ###### 1
 Cecidit autem sors tribui Manasse — ipse est enim pri mogenitus Ioseph C; Machir primogenito Manasse patri Galaad, quia fuit vir pugnator, accepit in possessionem Galaad et Basan. 

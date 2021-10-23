@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 4
+aliases : 
+- 1 Maccabees 4
+- 1 Maccabees 4
+- 1 M 4
 tags : Bible/1M/4
 ---
 
-# Chapitre 4
+# 1 Maccabees 4
 
 ###### 1
 Et assumpsit Gorgias quinque milia virorum et mille equites electos, et moverunt castra nocte, 

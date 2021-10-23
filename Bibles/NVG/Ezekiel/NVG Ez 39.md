@@ -1,9 +1,13 @@
 ---
-aliases : Ez 39
+aliases : 
+- Ezekiel 39
+- Ézéchiel 39
+- Ez 39
+- Ezekiel 39
 tags : Bible/Ez/39
 ---
 
-# Chapitre 39
+# Ezekiel 39
 
 ###### 1
 Tu autem, fili hominis, va ticinare adversum Gog et dices: Haec dicit Dominus Deus: Ecce ego super te, Gog, principem summum Mosoch e Thubal; 

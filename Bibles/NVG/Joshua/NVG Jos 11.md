@@ -1,9 +1,13 @@
 ---
-aliases : Jos 11
+aliases : 
+- Joshua 11
+- Josué 11
+- Jos 11
+- Joshua 11
 tags : Bible/Jos/11
 ---
 
-# Chapitre 11
+# Joshua 11
 
 ###### 1
 Quae cum audisset Iabin rex Asor, misit ad Iobab regem Madon et ad regern Semeron atque ad regem Achsaph, 

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 21
+aliases : 
+- Ἰώβ 21
+- Job 21
+- Jb 21
 tags : Bible/Jb/21
 ---
 
-# Chapitre 21
+# Ἰώβ 21
 
 ###### 1
 ὑπολαβὼν δὲ ιωβ λέγει

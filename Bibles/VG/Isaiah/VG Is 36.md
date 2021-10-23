@@ -1,9 +1,13 @@
 ---
-aliases : Is 36
+aliases : 
+- Isaiah 36
+- Isaïe 36
+- Is 36
+- Isaiah 36
 tags : Bible/Is/36
 ---
 
-# Chapitre 36
+# Isaiah 36
 
 ###### 1
 Et factum est in quartodecimo anno regis Ezechiæ, ascendit Sennacherib, rex Assyriorum, super omnes civitates Juda munitas, et cepit eas.

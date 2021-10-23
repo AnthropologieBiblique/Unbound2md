@@ -1,9 +1,13 @@
 ---
-aliases : Ps 88
+aliases : 
+- Psalms 87
+- Psaumes 88
+- Ps 88
+- Psalms 88
 tags : Bible/Ps/88
 ---
 
-# Chapitre 87
+# Psalms 87
 
 ###### 1
 Canticum Psalmi, filiis Core, in finem, pro Maheleth ad respondendum. Intellectus Eman Ezrahitæ.

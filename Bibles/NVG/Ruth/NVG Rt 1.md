@@ -1,9 +1,12 @@
 ---
-aliases : Rt 1
+aliases : 
+- Ruth 1
+- Ruth 1
+- Rt 1
 tags : Bible/Rt/1
 ---
 
-# Chapitre 1
+# Ruth 1
 
 ###### 1
 In diebus, quando iudices praeerant, facta est fames in ter ra. Abiitque homo de Bethlehem Iudae, ut peregrinaretur in regione Moabitide cum uxore sua ac duobus liberis. 

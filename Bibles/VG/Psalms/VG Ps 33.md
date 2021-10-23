@@ -1,9 +1,13 @@
 ---
-aliases : Ps 34
+aliases : 
+- Psalms 33
+- Psaumes 34
+- Ps 34
+- Psalms 34
 tags : Bible/Ps/34
 ---
 
-# Chapitre 33
+# Psalms 33
 
 ###### 1
 David, cum immutavit vultum suum coram Achimelech, et dimisit eum, et abiit.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 38
+aliases : 
+- Psalms 37
+- Psaumes 38
+- Ps 38
+- Psalms 38
 tags : Bible/Ps/38
 ---
 
-# Chapitre 37
+# Psalms 37
 
 ###### 1
 Psalmus David, in rememorationem de sabbato.

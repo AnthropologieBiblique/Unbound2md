@@ -1,9 +1,13 @@
 ---
-aliases : Gn 50
+aliases : 
+- Genesis 50
+- Genèse 50
+- Gn 50
+- Genesis 50
 tags : Bible/Gn/50
 ---
 
-# Chapitre 50
+# Genesis 50
 
 ###### 1
 Ioseph ruit super faciem patris flens et deosculans eum. 

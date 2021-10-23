@@ -1,9 +1,13 @@
 ---
-aliases : 1 Th 1
+aliases : 
+- 1 Thessalonians 1
+- 1 Thessaloniciens 1
+- 1 Th 1
+- 1 Thessalonians 1
 tags : Bible/1Th/1
 ---
 
-# Chapitre 1
+# 1 Thessalonians 1
 
 ###### 1
 Paulus et Silvanus et Timo theus ecclesiae Thessalonicen sium in Deo Patre et Domino Iesu Christo: gratia vobis et pax.

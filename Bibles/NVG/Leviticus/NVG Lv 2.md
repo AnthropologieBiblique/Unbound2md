@@ -1,9 +1,13 @@
 ---
-aliases : Lv 2
+aliases : 
+- Leviticus 2
+- Lévitique 2
+- Lv 2
+- Leviticus 2
 tags : Bible/Lv/2
 ---
 
-# Chapitre 2
+# Leviticus 2
 
 ###### 1
 Anima cum obtulerit oblationem sacrificii farinae Domino, simila erit eius oblatio, fundetque super eam oleum et ponet tus 

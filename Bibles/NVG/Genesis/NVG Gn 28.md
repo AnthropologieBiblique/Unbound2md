@@ -1,9 +1,13 @@
 ---
-aliases : Gn 28
+aliases : 
+- Genesis 28
+- Genèse 28
+- Gn 28
+- Genesis 28
 tags : Bible/Gn/28
 ---
 
-# Chapitre 28
+# Genesis 28
 
 ###### 1
 Vocavit itaque Isaac Iacob et benedixit eum praecepit que ei dicens: “ Noli accipere coniugem de filiabus Chanaan; 

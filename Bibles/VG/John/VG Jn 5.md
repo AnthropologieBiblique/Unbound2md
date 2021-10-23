@@ -1,9 +1,13 @@
 ---
-aliases : Jn 5
+aliases : 
+- John 5
+- Jean 5
+- Jn 5
+- John 5
 tags : Bible/Jn/5
 ---
 
-# Chapitre 5
+# John 5
 
 ###### 1
 Post hæc erat dies festus Judæorum, et ascendit Jesus Jerosolymam.

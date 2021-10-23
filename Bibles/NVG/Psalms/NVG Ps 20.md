@@ -1,9 +1,13 @@
 ---
-aliases : Ps 20
+aliases : 
+- Psalms 20
+- Psaumes 20
+- Ps 20
+- Psalms 20
 tags : Bible/Ps/20
 ---
 
-# Chapitre 20
+# Psalms 20
 
 ###### 1
 Magistro chori. PSALMUS. David.

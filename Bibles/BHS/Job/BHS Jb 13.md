@@ -1,9 +1,12 @@
 ---
-aliases : Jb 13
+aliases : 
+- Job 13
+- Job 13
+- Jb 13
 tags : Bible/Jb/13
 ---
 
-# Chapitre 13
+# Job 13
 
 ###### 1
 הֶן־כֹּל רָאֲתָה עֵינִי שָׁמְעָה אָזְנִי וַתָּבֶן לָהּ׃

@@ -1,9 +1,13 @@
 ---
-aliases : Is 9
+aliases : 
+- Isaiah 9
+- Isaïe 9
+- Is 9
+- Isaiah 9
 tags : Bible/Is/9
 ---
 
-# Chapitre 9
+# Isaiah 9
 
 ###### 1
 Populus, qui ambulabat in tenebris, vidit lucem magnam; habitantibus in regione umbrae mortis lux orta est eis.

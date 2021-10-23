@@ -1,9 +1,13 @@
 ---
-aliases : Ac 22
+aliases : 
+- Acts of the Apostles 22
+- Actes 22
+- Ac 22
+- Acts of the Apostles 22
 tags : Bible/Ac/22
 ---
 
-# Chapitre 22
+# Acts of the Apostles 22
 
 ###### 1
 “ Viri fratres et patres, audi te a me, quam ad vos nunc reddo, rationem ”. 

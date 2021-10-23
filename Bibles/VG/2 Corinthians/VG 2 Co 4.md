@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 4
+aliases : 
+- 2 Corinthians 4
+- 2 Corinthiens 4
+- 2 Co 4
+- 2 Corinthians 4
 tags : Bible/2Co/4
 ---
 
-# Chapitre 4
+# 2 Corinthians 4
 
 ###### 1
 Ideo habentes administrationem, juxta quod misericordiam consecuti sumus, non deficimus,

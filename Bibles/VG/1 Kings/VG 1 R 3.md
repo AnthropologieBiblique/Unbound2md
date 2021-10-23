@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 3
+aliases : 
+- 1 Kings 3
+- 1 Rois 3
+- 1 R 3
+- 1 Kings 3
 tags : Bible/1R/3
 ---
 
-# Chapitre 3
+# 1 Kings 3
 
 ###### 1
 Confirmatum est igitur regnum in manu Salomonis, et affinitate conjunctus est Pharaoni regi Ægypti : accepit namque filiam ejus, et adduxit in civitatem David, donec compleret ædificans domum suam, et domum Domini, et murum Jerusalem per circuitum.

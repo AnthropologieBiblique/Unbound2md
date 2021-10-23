@@ -1,9 +1,12 @@
 ---
-aliases : Jb 31
+aliases : 
+- Job 31
+- Job 31
+- Jb 31
 tags : Bible/Jb/31
 ---
 
-# Chapitre 31
+# Job 31
 
 ###### 1
 Pepigi fœdus cum oculis meis, ut ne cogitarem quidem de virgine.

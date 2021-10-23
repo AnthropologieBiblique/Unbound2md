@@ -1,9 +1,13 @@
 ---
-aliases : Ps 121
+aliases : 
+- Psalms 120
+- Psaumes 121
+- Ps 121
+- Psalms 121
 tags : Bible/Ps/121
 ---
 
-# Chapitre 120
+# Psalms 120
 
 ###### 1
 Canticum graduum. Levavi oculos meos in montes, unde veniet auxilium mihi.

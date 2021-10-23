@@ -1,9 +1,13 @@
 ---
-aliases : Ne 2
+aliases : 
+- Nehemiah 2
+- Néhémie 2
+- Ne 2
+- Nehemiah 2
 tags : Bible/Ne/2
 ---
 
-# Chapitre 2
+# Nehemiah 2
 
 ###### 1
 Factum est autem in mense Nisan, anno vicesimo Artaxerxis regis, dum biberet, levavi vinum et dedi regi; non enim eram ingratus coram eo. 

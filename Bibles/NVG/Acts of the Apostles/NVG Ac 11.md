@@ -1,9 +1,13 @@
 ---
-aliases : Ac 11
+aliases : 
+- Acts of the Apostles 11
+- Actes 11
+- Ac 11
+- Acts of the Apostles 11
 tags : Bible/Ac/11
 ---
 
-# Chapitre 11
+# Acts of the Apostles 11
 
 ###### 1
 Audierunt autem apostoli et fratres, qui erant in Iudaea, quoniam et gentes receperunt verbum Dei. 

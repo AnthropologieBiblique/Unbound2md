@@ -1,9 +1,13 @@
 ---
-aliases : Ac 26
+aliases : 
+- Acts of the Apostles 26
+- Actes 26
+- Ac 26
+- Acts of the Apostles 26
 tags : Bible/Ac/26
 ---
 
-# Chapitre 26
+# Acts of the Apostles 26
 
 ###### 1
 Agrippa vero ad Paulum ait : Permittitur tibi loqui pro temetipso. Tunc Paulus extenta manu cœpit rationem reddere.

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 10
+aliases : 
+- Daniel 10
+- Daniel 10
+- Dn 10
 tags : Bible/Dn/10
 ---
 
-# Chapitre 10
+# Daniel 10
 
 ###### 1
 Anno tertio Cyri regis Per sarum verbum revelatum est Danieli cognomento Baltassar, et verum verbum et acies magna; intellexitque sermonem, intellegentia enim fuit ei in visione. 

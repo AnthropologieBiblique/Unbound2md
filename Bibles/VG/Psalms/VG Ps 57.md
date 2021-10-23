@@ -1,9 +1,13 @@
 ---
-aliases : Ps 58
+aliases : 
+- Psalms 57
+- Psaumes 58
+- Ps 58
+- Psalms 58
 tags : Bible/Ps/58
 ---
 
-# Chapitre 57
+# Psalms 57
 
 ###### 1
 In finem, ne disperdas. David in tituli inscriptionem.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 119
+aliases : 
+- Psalms 119
+- Psaumes 119
+- Ps 119
+- Psalms 119
 tags : Bible/Ps/119
 ---
 
-# Chapitre 119
+# Psalms 119
 
 ###### 1
 אַשְׁרֵי תְמִימֵי־דָרֶךְ הַהֹלְכִים בְּתֹורַת יְהוָה׃

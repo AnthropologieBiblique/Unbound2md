@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 6
+aliases : 
+- 2 Samuel 6
+- 2 Samuel 6
+- 2 S 6
 tags : Bible/2S/6
 ---
 
-# Chapitre 6
+# 2 Samuel 6
 
 ###### 1
 וַיֹּסֶף עֹוד דָּוִד אֶת־כָּל־בָּחוּר בְּיִשְׂרָאֵל שְׁלֹשִׁים אָלֶף׃

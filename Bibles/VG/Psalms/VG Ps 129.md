@@ -1,9 +1,13 @@
 ---
-aliases : Ps 130
+aliases : 
+- Psalms 129
+- Psaumes 130
+- Ps 130
+- Psalms 130
 tags : Bible/Ps/130
 ---
 
-# Chapitre 129
+# Psalms 129
 
 ###### 1
 Canticum graduum. De profundis clamavi ad te, Domine ;

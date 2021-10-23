@@ -1,9 +1,12 @@
 ---
-aliases : Dn 5
+aliases : 
+- Daniel 5
+- Daniel 5
+- Dn 5
 tags : Bible/Dn/5
 ---
 
-# Chapitre 5
+# Daniel 5
 
 ###### 1
 Balthasar rex fecit grande con vivium optimatibus suis mille et coram his milibus vinum bibebat. 

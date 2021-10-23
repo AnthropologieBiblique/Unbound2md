@@ -1,9 +1,13 @@
 ---
-aliases : Os 3
+aliases : 
+- Hosea 3
+- Osée 3
+- Os 3
+- Hosea 3
 tags : Bible/Os/3
 ---
 
-# Chapitre 3
+# Hosea 3
 
 ###### 1
 Et dixit Dominus ad me : Adhuc vade, et dilige mulierem dilectam amico et adulteram, sicut diligit Dominus filios Israël, et ipsi respiciunt ad deos alienos, et diligunt vinacia uvarum.

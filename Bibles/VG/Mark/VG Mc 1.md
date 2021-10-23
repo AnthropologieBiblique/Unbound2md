@@ -1,9 +1,13 @@
 ---
-aliases : Mc 1
+aliases : 
+- Mark 1
+- Marc 1
+- Mc 1
+- Mark 1
 tags : Bible/Mc/1
 ---
 
-# Chapitre 1
+# Mark 1
 
 ###### 1
 Initium Evangelii Jesu Christi, Filii Dei.

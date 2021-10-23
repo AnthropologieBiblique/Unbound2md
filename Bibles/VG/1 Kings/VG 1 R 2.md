@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 2
+aliases : 
+- 1 Kings 2
+- 1 Rois 2
+- 1 R 2
+- 1 Kings 2
 tags : Bible/1R/2
 ---
 
-# Chapitre 2
+# 1 Kings 2
 
 ###### 1
 Appropinquaverunt autem dies David ut moreretur, præcepitque Salomoni filio suo, dicens :

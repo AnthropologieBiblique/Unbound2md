@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 23
+aliases : 
+- 2 Kings 23
+- 2 Rois 23
+- 2 R 23
+- 2 Kings 23
 tags : Bible/2R/23
 ---
 
-# Chapitre 23
+# 2 Kings 23
 
 ###### 1
 Qui misit, et congregati sunt ad eum omnes senes Iudae et Ierusalem; 

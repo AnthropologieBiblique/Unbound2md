@@ -1,9 +1,13 @@
 ---
-aliases : Ez 41
+aliases : 
+- Ezekiel 41
+- Ézéchiel 41
+- Ez 41
+- Ezekiel 41
 tags : Bible/Ez/41
 ---
 
-# Chapitre 41
+# Ezekiel 41
 
 ###### 1
 Et introduxit me in templum, et mensus est frontes, sex cubitos latitudinis hinc, et sex cubitos latitudinis inde, latitudinem tabernaculi.

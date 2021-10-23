@@ -1,9 +1,13 @@
 ---
-aliases : Ps 144
+aliases : 
+- Psalms 143
+- Psaumes 144
+- Ps 144
+- Psalms 144
 tags : Bible/Ps/144
 ---
 
-# Chapitre 143
+# Psalms 143
 
 ###### 1
 Psalmus David. Adversus Goliath. Benedictus Dominus Deus meus, qui docet manus meas ad prælium, et digitos meos ad bellum.

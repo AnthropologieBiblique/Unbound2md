@@ -1,9 +1,13 @@
 ---
-aliases : Nb 26
+aliases : 
+- Numbers 26
+- Nombres 26
+- Nb 26
+- Numbers 26
 tags : Bible/Nb/26
 ---
 
-# Chapitre 26
+# Numbers 26
 
 ###### 1
 Postquam noxiorum sanguis effusus est, dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem :

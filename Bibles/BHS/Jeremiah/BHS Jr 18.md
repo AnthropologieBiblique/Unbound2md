@@ -1,9 +1,13 @@
 ---
-aliases : Jr 18
+aliases : 
+- Jeremiah 18
+- Jérémie 18
+- Jr 18
+- Jeremiah 18
 tags : Bible/Jr/18
 ---
 
-# Chapitre 18
+# Jeremiah 18
 
 ###### 1
 הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃

@@ -1,9 +1,13 @@
 ---
-aliases : Sg 7
+aliases : 
+- Wisdom of Solomon 7
+- Sagesse 7
+- Sg 7
+- Wisdom of Solomon 7
 tags : Bible/Sg/7
 ---
 
-# Chapitre 7
+# Wisdom of Solomon 7
 
 ###### 1
 Sum quidem et ego mortalis homo similis omnibus et ex genere terreni illius, qui prior factus est, et in ventre matris figuratus sum caro;

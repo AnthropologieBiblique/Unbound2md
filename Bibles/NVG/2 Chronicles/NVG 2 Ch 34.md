@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 34
+aliases : 
+- 2 Chronicles 34
+- 2 Chroniques 34
+- 2 Ch 34
+- 2 Chronicles 34
 tags : Bible/2Ch/34
 ---
 
-# Chapitre 34
+# 2 Chronicles 34
 
 ###### 1
 Octo annorum erat Iosias, cum regnare coepisset, et tri ginta et uno annis regnavit in Ierusalem. 

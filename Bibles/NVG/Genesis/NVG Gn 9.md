@@ -1,9 +1,13 @@
 ---
-aliases : Gn 9
+aliases : 
+- Genesis 9
+- Genèse 9
+- Gn 9
+- Genesis 9
 tags : Bible/Gn/9
 ---
 
-# Chapitre 9
+# Genesis 9
 
 ###### 1
 Benedixitque Deus Noe et filiis eius et dixit ad eos: “Crescite et multiplicamini et implete terram.

@@ -1,9 +1,13 @@
 ---
-aliases : Ap 18
+aliases : 
+- Revelation 18
+- Apocalypse 18
+- Ap 18
+- Revelation 18
 tags : Bible/Ap/18
 ---
 
-# Chapitre 18
+# Revelation 18
 
 ###### 1
 Post haec vidi alium ange lum descendentem de caelo, habentem potestatem magnam; et terra illuminata est a claritate eius. 

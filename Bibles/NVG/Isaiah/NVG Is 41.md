@@ -1,9 +1,13 @@
 ---
-aliases : Is 41
+aliases : 
+- Isaiah 41
+- Isaïe 41
+- Is 41
+- Isaiah 41
 tags : Bible/Is/41
 ---
 
-# Chapitre 41
+# Isaiah 41
 
 ###### 1
 Taceant ante me insulae, et gentes renovent fortitudinem; accedant et tunc loquantur, simul ad iudicium propinquemus.

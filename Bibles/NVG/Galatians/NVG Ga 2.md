@@ -1,9 +1,13 @@
 ---
-aliases : Ga 2
+aliases : 
+- Galatians 2
+- Galates 2
+- Ga 2
+- Galatians 2
 tags : Bible/Ga/2
 ---
 
-# Chapitre 2
+# Galatians 2
 
 ###### 1
 Deinde post annos quattuor decim, iterum ascendi Hieroso lymam cum Barnaba, assumpto et Tito; 

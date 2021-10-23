@@ -1,9 +1,13 @@
 ---
-aliases : Jn 1
+aliases : 
+- John 1
+- Jean 1
+- Jn 1
+- John 1
 tags : Bible/Jn/1
 ---
 
-# Chapitre 1
+# John 1
 
 ###### 1
 In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. 

@@ -1,9 +1,13 @@
 ---
-aliases : Si 2
+aliases : 
+- Ecclesiasticus (Sira 2
+- Siracide 2
+- Si 2
+- Ecclesiasticus (Sira 2
 tags : Bible/Si/2
 ---
 
-# Chapitre 2
+# Ecclesiasticus (Sira 2
 
 ###### 1
 Fili, accedens ad servitutem Dei sta in justitia et timore, et præpara animam tuam ad tentationem.

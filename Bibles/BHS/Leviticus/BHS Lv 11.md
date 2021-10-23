@@ -1,9 +1,13 @@
 ---
-aliases : Lv 11
+aliases : 
+- Leviticus 11
+- Lévitique 11
+- Lv 11
+- Leviticus 11
 tags : Bible/Lv/11
 ---
 
-# Chapitre 11
+# Leviticus 11
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן לֵאמֹר אֲלֵהֶם׃

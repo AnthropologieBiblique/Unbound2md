@@ -1,9 +1,13 @@
 ---
-aliases : Jc 4
+aliases : 
+- James 4
+- Jacques 4
+- Jc 4
+- James 4
 tags : Bible/Jc/4
 ---
 
-# Chapitre 4
+# James 4
 
 ###### 1
 Unde bella et unde lites in vobis? Nonne hinc, ex concupi scentiis vestris, quae militant in membris vestris? 

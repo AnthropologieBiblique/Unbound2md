@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 12
+aliases : 
+- 2 Samuel 12
+- 2 Samuel 12
+- 2 S 12
 tags : Bible/2S/12
 ---
 
-# Chapitre 12
+# 2 Samuel 12
 
 ###### 1
 Misit ergo Dominus Nathan ad David. Qui cum venisset ad eum, dixit ei: “ Duo viri erant in civitate una, unus dives et alter pauper. 

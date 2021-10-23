@@ -1,9 +1,13 @@
 ---
-aliases : Ex 32
+aliases : 
+- Exodus 32
+- Exode 32
+- Ex 32
+- Exodus 32
 tags : Bible/Ex/32
 ---
 
-# Chapitre 32
+# Exodus 32
 
 ###### 1
 Videns autem populus quod moram faceret descendendi de monte Moyses, congregatus ad Aaron dixit: “ Surge, fac nobis deos, qui nos praecedant; Moysi enim, huic viro, qui nos eduxit de terra Aegypti, ignoramus quid acciderit ”. 

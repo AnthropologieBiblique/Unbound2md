@@ -1,9 +1,13 @@
 ---
-aliases : Dt 9
+aliases : 
+- Deuteronomy 9
+- Deutéronome 9
+- Dt 9
+- Deuteronomy 9
 tags : Bible/Dt/9
 ---
 
-# Chapitre 9
+# Deuteronomy 9
 
 ###### 1
 Audi, Israel: Tu transgredieris hodie Iordanem, ut possideas nationes maximas et fortiores te, civitates ingentes et ad caelum usque muratas, 

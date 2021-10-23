@@ -1,9 +1,13 @@
 ---
-aliases : Is 22
+aliases : 
+- Isaiah 22
+- Isaïe 22
+- Is 22
+- Isaiah 22
 tags : Bible/Is/22
 ---
 
-# Chapitre 22
+# Isaiah 22
 
 ###### 1
 Oraculum vallis Visionis. Quidnam tibi est, quia ascendisti omnis in tecta,

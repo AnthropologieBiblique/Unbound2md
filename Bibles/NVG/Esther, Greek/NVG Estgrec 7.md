@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 7
+aliases : 
+- Esther, Greek 7
+- Esther, Grec 7
+- Estgrec 7
+- Esther, Greek 7
 tags : Bible/Estgrec/7
 ---
 
-# Chapitre 7
+# Esther, Greek 7
 
 ###### 1
 Intravit itaque rex et Aman, ut biberent cum regina. 

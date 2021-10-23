@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 7
+aliases : 
+- Judith 7
+- Judith 7
+- Jdt 7
 tags : Bible/Jdt/7
 ---
 
-# Chapitre 7
+# Judith 7
 
 ###### 1
 Holofernes autem altera die præcepit exercitibus suis ut ascenderent contra Bethuliam.

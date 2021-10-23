@@ -1,9 +1,13 @@
 ---
-aliases : Lc 1
+aliases : 
+- Luke 1
+- Luc 1
+- Lc 1
+- Luke 1
 tags : Bible/Lc/1
 ---
 
-# Chapitre 1
+# Luke 1
 
 ###### 1
 Quoniam quidem multi conati sunt ordinare narrationem, quæ in nobis completæ sunt, rerum :

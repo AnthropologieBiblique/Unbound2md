@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 10
+aliases : 
+- Esther, Greek 10
+- Esther, Grec 10
+- Estgrec 10
+- Esther, Greek 10
 tags : Bible/Estgrec/10
 ---
 
-# Chapitre 10
+# Esther, Greek 10
 
 ###### 1
 Rex vero Assuerus omnem terram, et cunctas maris insulas fecit tributarias :

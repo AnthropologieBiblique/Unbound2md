@@ -1,9 +1,13 @@
 ---
-aliases : Pr 13
+aliases : 
+- Proverbs 13
+- Proverbes 13
+- Pr 13
+- Proverbs 13
 tags : Bible/Pr/13
 ---
 
-# Chapitre 13
+# Proverbs 13
 
 ###### 1
 בֵּן חָכָם מוּסַר אָב וְלֵץ לֹא־שָׁמַע גְּעָרָה׃

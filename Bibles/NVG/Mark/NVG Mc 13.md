@@ -1,9 +1,13 @@
 ---
-aliases : Mc 13
+aliases : 
+- Mark 13
+- Marc 13
+- Mc 13
+- Mark 13
 tags : Bible/Mc/13
 ---
 
-# Chapitre 13
+# Mark 13
 
 ###### 1
 Et cum egrederetur de tem plo, ait illi unus ex discipulis suis: “ Magister, aspice quales lapides et quales structurae ”. 

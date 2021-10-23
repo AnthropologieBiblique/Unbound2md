@@ -1,9 +1,12 @@
 ---
-aliases : Od 14
+aliases : 
+- Ὠδαί 14
+- Odes 14
+- Od 14
 tags : Bible/Od/14
 ---
 
-# Chapitre 14
+# Ὠδαί 14
 
 ###### 1a
 ὕμνος ἑωθινός

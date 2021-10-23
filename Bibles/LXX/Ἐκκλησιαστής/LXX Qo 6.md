@@ -1,9 +1,13 @@
 ---
-aliases : Qo 6
+aliases : 
+- Ἐκκλησιαστής 6
+- Ecclésiaste 6
+- Qo 6
+- Ecclesiastes 6
 tags : Bible/Qo/6
 ---
 
-# Chapitre 6
+# Ἐκκλησιαστής 6
 
 ###### 1
 ἔστιν πονηρία ἣν εἶδον ὑπὸ τὸν ἥλιον καὶ πολλή ἐστιν ἐπὶ τὸν ἄνθρωπον

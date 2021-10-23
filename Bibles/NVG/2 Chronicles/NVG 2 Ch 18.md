@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 18
+aliases : 
+- 2 Chronicles 18
+- 2 Chroniques 18
+- 2 Ch 18
+- 2 Chronicles 18
 tags : Bible/2Ch/18
 ---
 
-# Chapitre 18
+# 2 Chronicles 18
 
 ###### 1
 Fuit ergo Iosaphat dives et inclitus multum et affinitate coniunctus est Achab. 

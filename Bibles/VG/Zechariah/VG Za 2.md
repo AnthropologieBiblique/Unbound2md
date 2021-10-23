@@ -1,9 +1,13 @@
 ---
-aliases : Za 2
+aliases : 
+- Zechariah 2
+- Zacharie 2
+- Za 2
+- Zechariah 2
 tags : Bible/Za/2
 ---
 
-# Chapitre 2
+# Zechariah 2
 
 ###### 1
 Et levavi oculos meos, et vidi, et ecce vir, et in manu ejus funiculus mensorum.

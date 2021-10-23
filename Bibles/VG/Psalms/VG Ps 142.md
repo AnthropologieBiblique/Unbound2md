@@ -1,9 +1,13 @@
 ---
-aliases : Ps 143
+aliases : 
+- Psalms 142
+- Psaumes 143
+- Ps 143
+- Psalms 143
 tags : Bible/Ps/143
 ---
 
-# Chapitre 142
+# Psalms 142
 
 ###### 1
 Psalmus David, quando persequebatur eum Absalom, filius ejus. Domine, exaudi orationem meam ; auribus percipe obsecrationem meam in veritate tua ; exaudi me in tua justitia.

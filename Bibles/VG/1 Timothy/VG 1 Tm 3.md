@@ -1,9 +1,13 @@
 ---
-aliases : 1 Tm 3
+aliases : 
+- 1 Timothy 3
+- 1 Timothée 3
+- 1 Tm 3
+- 1 Timothy 3
 tags : Bible/1Tm/3
 ---
 
-# Chapitre 3
+# 1 Timothy 3
 
 ###### 1
 Fidelis sermo : si quis episcopatum desiderat, bonum opus desiderat.

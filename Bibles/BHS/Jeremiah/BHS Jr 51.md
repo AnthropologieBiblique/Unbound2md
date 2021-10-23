@@ -1,9 +1,13 @@
 ---
-aliases : Jr 51
+aliases : 
+- Jeremiah 51
+- Jérémie 51
+- Jr 51
+- Jeremiah 51
 tags : Bible/Jr/51
 ---
 
-# Chapitre 51
+# Jeremiah 51
 
 ###### 1
 כֹּה אָמַר יְהוָה הִנְנִי מֵעִיר עַל־בָּבֶל וְאֶל־יֹשְׁבֵי לֵב קָמָי רוּחַ מַשְׁחִית׃

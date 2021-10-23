@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 8
+aliases : 
+- 1 Chronicles 8
+- 1 Chroniques 8
+- 1 Ch 8
+- 1 Chronicles 8
 tags : Bible/1Ch/8
 ---
 
-# Chapitre 8
+# 1 Chronicles 8
 
 ###### 1
 Benjamin autem genuit Bale primogenitum suum, Asbel secundum, Ahara tertium,

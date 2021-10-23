@@ -1,9 +1,13 @@
 ---
-aliases : Si 25
+aliases : 
+- Ecclesiasticus (Sira 25
+- Siracide 25
+- Si 25
+- Ecclesiasticus (Sira 25
 tags : Bible/Si/25
 ---
 
-# Chapitre 25
+# Ecclesiasticus (Sira 25
 
 ###### 1
 In tribus placitum est spiritui meo, quæ sunt probata coram Deo et hominibus :

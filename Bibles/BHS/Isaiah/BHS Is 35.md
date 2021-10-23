@@ -1,9 +1,13 @@
 ---
-aliases : Is 35
+aliases : 
+- Isaiah 35
+- Isaïe 35
+- Is 35
+- Isaiah 35
 tags : Bible/Is/35
 ---
 
-# Chapitre 35
+# Isaiah 35
 
 ###### 1
 יְשֻׂשׂוּם מִדְבָּר וְצִיָּה וְתָגֵל עֲרָבָה וְתִפְרַח כַּחֲבַצָּלֶת׃

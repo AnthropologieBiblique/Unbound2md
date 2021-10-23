@@ -1,9 +1,13 @@
 ---
-aliases : Si 11
+aliases : 
+- Ecclesiasticus (Sira 11
+- Siracide 11
+- Si 11
+- Ecclesiasticus (Sira 11
 tags : Bible/Si/11
 ---
 
-# Chapitre 11
+# Ecclesiasticus (Sira 11
 
 ###### 1
 Sapientia humiliati exaltabit caput illius, et in medio magnatorum consedere illum faciet.

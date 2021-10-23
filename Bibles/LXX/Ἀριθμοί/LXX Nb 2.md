@@ -1,9 +1,13 @@
 ---
-aliases : Nb 2
+aliases : 
+- Ἀριθμοί 2
+- Nombres 2
+- Nb 2
+- Numbers 2
 tags : Bible/Nb/2
 ---
 
-# Chapitre 2
+# Ἀριθμοί 2
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν καὶ ααρων λέγων

@@ -1,9 +1,13 @@
 ---
-aliases : Lc 3
+aliases : 
+- Luke 3
+- Luc 3
+- Lc 3
+- Luke 3
 tags : Bible/Lc/3
 ---
 
-# Chapitre 3
+# Luke 3
 
 ###### 1
 Anno autem quinto decimo im perii Tiberii Caesaris, procu rante Pontio Pilato Iudaeam, tetrarcha autem Galilaeae Herode, Philippo autem fratre eius tetrarcha Ituraeae et Trachonitidis regionis, et Lysania Abilinae tetrarcha, 

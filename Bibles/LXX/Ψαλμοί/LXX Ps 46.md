@@ -1,9 +1,13 @@
 ---
-aliases : Ps 47
+aliases : 
+- Ψαλμοί 46
+- Psaumes 47
+- Ps 47
+- Psalms 47
 tags : Bible/Ps/47
 ---
 
-# Chapitre 46
+# Ψαλμοί 46
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῶν υἱῶν κορε ψαλμός

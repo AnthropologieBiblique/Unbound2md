@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 10
+aliases : 
+- 1 Kings 10
+- 1 Rois 10
+- 1 R 10
+- 1 Kings 10
 tags : Bible/1R/10
 ---
 
-# Chapitre 10
+# 1 Kings 10
 
 ###### 1
 Sed et regina Saba, audita fama Salomonis — in hono rem nominis Domini — venit tentare eum in aenigmatibus. 

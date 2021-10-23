@@ -1,9 +1,13 @@
 ---
-aliases : Gn 48
+aliases : 
+- Genesis 48
+- Genèse 48
+- Gn 48
+- Genesis 48
 tags : Bible/Gn/48
 ---
 
-# Chapitre 48
+# Genesis 48
 
 ###### 1
 His ita transactis, nuntiatum est Joseph quod ægrotaret pater suus : qui, assumptis duobus filiis Manasse et Ephraim, ire perrexit.

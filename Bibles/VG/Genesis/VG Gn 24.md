@@ -1,9 +1,13 @@
 ---
-aliases : Gn 24
+aliases : 
+- Genesis 24
+- Genèse 24
+- Gn 24
+- Genesis 24
 tags : Bible/Gn/24
 ---
 
-# Chapitre 24
+# Genesis 24
 
 ###### 1
 Erat autem Abraham senex, dierumque multorum : et Dominus in cunctis benedixerat ei.

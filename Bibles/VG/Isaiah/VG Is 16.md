@@ -1,9 +1,13 @@
 ---
-aliases : Is 16
+aliases : 
+- Isaiah 16
+- Isaïe 16
+- Is 16
+- Isaiah 16
 tags : Bible/Is/16
 ---
 
-# Chapitre 16
+# Isaiah 16
 
 ###### 1
 Emitte agnum, Domine, dominatorem terræ, de petra deserti ad montem filiæ Sion.

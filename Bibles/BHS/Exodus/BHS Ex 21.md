@@ -1,9 +1,13 @@
 ---
-aliases : Ex 21
+aliases : 
+- Exodus 21
+- Exode 21
+- Ex 21
+- Exodus 21
 tags : Bible/Ex/21
 ---
 
-# Chapitre 21
+# Exodus 21
 
 ###### 1
 וְאֵלֶּה הַמִּשְׁפָּטִים אֲשֶׁר תָּשִׂים לִפְנֵיהֶם׃

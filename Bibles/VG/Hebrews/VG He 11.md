@@ -1,9 +1,13 @@
 ---
-aliases : He 11
+aliases : 
+- Hebrews 11
+- Hébreux 11
+- He 11
+- Hebrews 11
 tags : Bible/He/11
 ---
 
-# Chapitre 11
+# Hebrews 11
 
 ###### 1
 Est autem fides sperandarum substantia rerum, argumentum non apparentium.

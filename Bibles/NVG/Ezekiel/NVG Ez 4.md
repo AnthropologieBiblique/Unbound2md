@@ -1,9 +1,13 @@
 ---
-aliases : Ez 4
+aliases : 
+- Ezekiel 4
+- Ézéchiel 4
+- Ez 4
+- Ezekiel 4
 tags : Bible/Ez/4
 ---
 
-# Chapitre 4
+# Ezekiel 4
 
 ###### 1
 “ Et tu, fili hominis, sume tibi laterem et pones eum coram te et describes in eo civitatem Ierusalem. 

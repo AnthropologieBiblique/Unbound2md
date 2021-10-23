@@ -1,9 +1,13 @@
 ---
-aliases : Ne 3
+aliases : 
+- Nehemiah 3
+- Néhémie 3
+- Ne 3
+- Nehemiah 3
 tags : Bible/Ne/3
 ---
 
-# Chapitre 3
+# Nehemiah 3
 
 ###### 1
 Et surrexit Eliasib sacerdos magnus et fratres eius sacerdotes et aedificaverunt portam Gregis; contignaverunt eam et statuerunt valvas eius et usque ad turrim Meah et turrim Hananeel. 

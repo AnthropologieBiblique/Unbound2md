@@ -1,9 +1,13 @@
 ---
-aliases : Jr 19
+aliases : 
+- Jeremiah 19
+- Jérémie 19
+- Jr 19
+- Jeremiah 19
 tags : Bible/Jr/19
 ---
 
-# Chapitre 19
+# Jeremiah 19
 
 ###### 1
 Hæc dicit Dominus : Vade, et accipe lagunculam figuli testeam a senioribus populi, et a senioribus sacerdotum,

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 67
+aliases : 
+- Ψαλμοί 66
+- Psaumes 67
+- Ps 67
+- Psalms 67
 tags : Bible/Ps/67
 ---
 
-# Chapitre 66
+# Ψαλμοί 66
 
 ###### 1
 εἰς τὸ τέλος ἐν ὕμνοις ψαλμὸς ᾠδῆς

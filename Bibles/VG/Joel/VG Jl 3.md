@@ -1,9 +1,13 @@
 ---
-aliases : Jl 3
+aliases : 
+- Joel 3
+- Joël 3
+- Jl 3
+- Joel 3
 tags : Bible/Jl/3
 ---
 
-# Chapitre 3
+# Joel 3
 
 ###### 1
 Quia ecce in diebus illis, et in tempore illo, cum convertero captivitatem Juda et Jerusalem,

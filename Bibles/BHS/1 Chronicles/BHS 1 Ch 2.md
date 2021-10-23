@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 2
+aliases : 
+- 1 Chronicles 2
+- 1 Chroniques 2
+- 1 Ch 2
+- 1 Chronicles 2
 tags : Bible/1Ch/2
 ---
 
-# Chapitre 2
+# 1 Chronicles 2
 
 ###### 1
 אֵלֶּה בְּנֵי יִשְׂרָאֵל רְאוּבֵן שִׁמְעֹון לֵוִי וִיהוּדָה יִשָׂשכָר וּזְבֻלוּן׃

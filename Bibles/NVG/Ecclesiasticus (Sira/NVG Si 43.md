@@ -1,9 +1,13 @@
 ---
-aliases : Si 43
+aliases : 
+- Ecclesiasticus (Sira 43
+- Siracide 43
+- Si 43
+- Ecclesiasticus (Sira 43
 tags : Bible/Si/43
 ---
 
-# Chapitre 43
+# Ecclesiasticus (Sira 43
 
 ###### 1
 Gloria altitudinis firmamentum puritatis, species caeli in visione gloriae.

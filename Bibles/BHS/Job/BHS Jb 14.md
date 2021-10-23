@@ -1,9 +1,12 @@
 ---
-aliases : Jb 14
+aliases : 
+- Job 14
+- Job 14
+- Jb 14
 tags : Bible/Jb/14
 ---
 
-# Chapitre 14
+# Job 14
 
 ###### 1
 אָדָם יְלוּד אִשָּׁה קְצַר יָמִים וּשְׂבַע־רֹגֶז׃

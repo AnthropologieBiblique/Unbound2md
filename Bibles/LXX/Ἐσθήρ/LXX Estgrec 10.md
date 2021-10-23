@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 10
+aliases : 
+- Ἐσθήρ 10
+- Esther, Grec 10
+- Estgrec 10
+- Esther, Greek 10
 tags : Bible/Estgrec/10
 ---
 
-# Chapitre 10
+# Ἐσθήρ 10
 
 ###### 1
 ἔγραψεν δὲ ὁ βασιλεὺς τέλη ἐπὶ τὴν βασιλείαν τῆς τε γῆς καὶ τῆς θαλάσσης

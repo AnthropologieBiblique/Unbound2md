@@ -1,9 +1,12 @@
 ---
-aliases : Ba 2
+aliases : 
+- Baruch 2
+- Baruch 2
+- Ba 2
 tags : Bible/Ba/2
 ---
 
-# Chapitre 2
+# Baruch 2
 
 ###### 1
 Et statuit Dominus verbum suum, quod locutus est super nos et super iudices nostros, qui iudicabant Israel, et super reges nostros et super principes nostros et super omnem hominem Israel et Iudae, 

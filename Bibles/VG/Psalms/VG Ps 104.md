@@ -1,9 +1,13 @@
 ---
-aliases : Ps 105
+aliases : 
+- Psalms 104
+- Psaumes 105
+- Ps 105
+- Psalms 105
 tags : Bible/Ps/105
 ---
 
-# Chapitre 104
+# Psalms 104
 
 ###### 1
 Alleluja. Confitemini Domino, et invocate nomen ejus ; annuntiate inter gentes opera ejus.

@@ -1,9 +1,13 @@
 ---
-aliases : Qo 3
+aliases : 
+- Ἐκκλησιαστής 3
+- Ecclésiaste 3
+- Qo 3
+- Ecclesiastes 3
 tags : Bible/Qo/3
 ---
 
-# Chapitre 3
+# Ἐκκλησιαστής 3
 
 ###### 1
 τοῖς πᾶσιν χρόνος καὶ καιρὸς τῷ παντὶ πράγματι ὑπὸ τὸν οὐρανόν

@@ -1,9 +1,13 @@
 ---
-aliases : Jos 6
+aliases : 
+- Joshua 6
+- Josué 6
+- Jos 6
+- Joshua 6
 tags : Bible/Jos/6
 ---
 
-# Chapitre 6
+# Joshua 6
 
 ###### 1
 Iericho autem erat munita et clausa coram filiis Israel, et nul lus egredi audebat aut ingredi.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 80
+aliases : 
+- Psalms 79
+- Psaumes 80
+- Ps 80
+- Psalms 80
 tags : Bible/Ps/80
 ---
 
-# Chapitre 79
+# Psalms 79
 
 ###### 1
 In finem, pro iis qui commutabuntur. Testimonium Asaph, psalmus.

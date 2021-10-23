@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 25
+aliases : 
+- 1 Samuel 25
+- 1 Samuel 25
+- 1 S 25
 tags : Bible/1S/25
 ---
 
-# Chapitre 25
+# 1 Samuel 25
 
 ###### 1
 Mortuus est autem Samuel; et congregatus est universus Israel, et planxerunt eum et sepelierunt eum in domo sua in Rama. Consurgensque David descendit in desertum Maon. 

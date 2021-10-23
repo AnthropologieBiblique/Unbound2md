@@ -1,9 +1,13 @@
 ---
-aliases : Jn 16
+aliases : 
+- John 16
+- Jean 16
+- Jn 16
+- John 16
 tags : Bible/Jn/16
 ---
 
-# Chapitre 16
+# John 16
 
 ###### 1
 Hæc locutus sum vobis, ut non scandalizemini.

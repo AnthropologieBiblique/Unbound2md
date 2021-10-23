@@ -1,9 +1,13 @@
 ---
-aliases : Lv 27
+aliases : 
+- Leviticus 27
+- Lévitique 27
+- Lv 27
+- Leviticus 27
 tags : Bible/Lv/27
 ---
 
-# Chapitre 27
+# Leviticus 27
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

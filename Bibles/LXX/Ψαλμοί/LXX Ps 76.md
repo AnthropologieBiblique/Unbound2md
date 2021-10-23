@@ -1,9 +1,13 @@
 ---
-aliases : Ps 77
+aliases : 
+- Ψαλμοί 76
+- Psaumes 77
+- Ps 77
+- Psalms 77
 tags : Bible/Ps/77
 ---
 
-# Chapitre 76
+# Ψαλμοί 76
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ ιδιθουν τῷ ασαφ ψαλμός

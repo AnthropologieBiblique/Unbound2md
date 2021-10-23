@@ -1,9 +1,13 @@
 ---
-aliases : Lv 15
+aliases : 
+- Leviticus 15
+- Lévitique 15
+- Lv 15
+- Leviticus 15
 tags : Bible/Lv/15
 ---
 
-# Chapitre 15
+# Leviticus 15
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן לֵאמֹר׃

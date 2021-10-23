@@ -1,9 +1,13 @@
 ---
-aliases : Mt 22
+aliases : 
+- Matthew 22
+- Matthieu 22
+- Mt 22
+- Matthew 22
 tags : Bible/Mt/22
 ---
 
-# Chapitre 22
+# Matthew 22
 
 ###### 1
 Et respondens Iesus dixit ite rum in parabolis eis dicens: 

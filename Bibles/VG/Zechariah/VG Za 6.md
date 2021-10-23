@@ -1,9 +1,13 @@
 ---
-aliases : Za 6
+aliases : 
+- Zechariah 6
+- Zacharie 6
+- Za 6
+- Zechariah 6
 tags : Bible/Za/6
 ---
 
-# Chapitre 6
+# Zechariah 6
 
 ###### 1
 Et conversus sum, et levavi oculos meos, et vidi : et ecce quatuor quadrigæ egredientes de medio duorum montium : et montes, montes ærei.

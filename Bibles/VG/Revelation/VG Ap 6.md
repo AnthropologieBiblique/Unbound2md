@@ -1,9 +1,13 @@
 ---
-aliases : Ap 6
+aliases : 
+- Revelation 6
+- Apocalypse 6
+- Ap 6
+- Revelation 6
 tags : Bible/Ap/6
 ---
 
-# Chapitre 6
+# Revelation 6
 
 ###### 1
 Et vidi quod aperuisset Agnus unum de septem sigillis, et audivi unum de quatuor animalibus, dicens tamquam vocem tonitrui : Veni, et vide.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 77
+aliases : 
+- Psalms 76
+- Psaumes 77
+- Ps 77
+- Psalms 77
 tags : Bible/Ps/77
 ---
 
-# Chapitre 76
+# Psalms 76
 
 ###### 1
 In finem, pro Idithun. Psalmus Asaph.

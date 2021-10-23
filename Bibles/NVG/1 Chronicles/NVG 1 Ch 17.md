@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 17
+aliases : 
+- 1 Chronicles 17
+- 1 Chroniques 17
+- 1 Ch 17
+- 1 Chronicles 17
 tags : Bible/1Ch/17
 ---
 
-# Chapitre 17
+# 1 Chronicles 17
 
 ###### 1
 Cum autem habitaret David in domo sua, dixit ad Nathan prophetam: “ Ecce ego habito in domo cedrina, arca autem foederis Domini sub pellibus est ”. 

@@ -1,9 +1,13 @@
 ---
-aliases : 1 P 2
+aliases : 
+- 1 Peter 2
+- 1 Pierre 2
+- 1 P 2
+- 1 Peter 2
 tags : Bible/1P/2
 ---
 
-# Chapitre 2
+# 1 Peter 2
 
 ###### 1
 Deponentes igitur omnem malitiam, et omnem dolum, et simulationes, et invidias, et omnes detractiones,

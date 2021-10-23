@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 1
+aliases : 
+- 2 Maccabees 1
+- 2 Maccabees 1
+- 2 M 1
 tags : Bible/2M/1
 ---
 
-# Chapitre 1
+# 2 Maccabees 1
 
 ###### 1
 Fratribus qui sunt per Ægyptum, Judæis, salutem dicunt fratres qui sunt in Jerosolymis, Judæi, et qui in regione Judææ, et pacem bonam.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 83
+aliases : 
+- Ψαλμοί 82
+- Psaumes 83
+- Ps 83
+- Psalms 83
 tags : Bible/Ps/83
 ---
 
-# Chapitre 82
+# Ψαλμοί 82
 
 ###### 1
 ᾠδὴ ψαλμοῦ τῷ ασαφ

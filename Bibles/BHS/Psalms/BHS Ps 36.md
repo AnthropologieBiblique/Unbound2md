@@ -1,9 +1,13 @@
 ---
-aliases : Ps 36
+aliases : 
+- Psalms 36
+- Psaumes 36
+- Ps 36
+- Psalms 36
 tags : Bible/Ps/36
 ---
 
-# Chapitre 36
+# Psalms 36
 
 ###### 1
 לַמְנַצֵּחַ לְעֶבֶד־יְהוָה לְדָוִד׃

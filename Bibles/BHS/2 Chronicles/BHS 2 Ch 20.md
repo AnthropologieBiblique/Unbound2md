@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 20
+aliases : 
+- 2 Chronicles 20
+- 2 Chroniques 20
+- 2 Ch 20
+- 2 Chronicles 20
 tags : Bible/2Ch/20
 ---
 
-# Chapitre 20
+# 2 Chronicles 20
 
 ###### 1
 וַיְהִי אַחֲרֵיכֵן בָּאוּ בְנֵי־מֹואָב וּבְנֵי עַמֹּון וְעִמָּהֶם מֵהָעַמֹּונִים עַל־יְהֹושָׁפָט לַמִּלְחָמָה׃

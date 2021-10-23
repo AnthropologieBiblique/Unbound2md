@@ -1,9 +1,13 @@
 ---
-aliases : Ps 98
+aliases : 
+- Psalms 98
+- Psaumes 98
+- Ps 98
+- Psalms 98
 tags : Bible/Ps/98
 ---
 
-# Chapitre 98
+# Psalms 98
 
 ###### 1
 PSALMUS. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera eius, et brachium sanctum eius.

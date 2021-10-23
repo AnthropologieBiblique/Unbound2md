@@ -1,9 +1,13 @@
 ---
-aliases : Is 58
+aliases : 
+- Isaiah 58
+- Isaïe 58
+- Is 58
+- Isaiah 58
 tags : Bible/Is/58
 ---
 
-# Chapitre 58
+# Isaiah 58
 
 ###### 1
 Clama fortiter, ne cesses; quasi tuba exalta vocem tuam et annuntia populo meo scelera eorum et domui Iacob peccata eorum.

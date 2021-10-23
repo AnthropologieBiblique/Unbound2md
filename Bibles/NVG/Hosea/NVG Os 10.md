@@ -1,9 +1,13 @@
 ---
-aliases : Os 10
+aliases : 
+- Hosea 10
+- Osée 10
+- Os 10
+- Hosea 10
 tags : Bible/Os/10
 ---
 
-# Chapitre 10
+# Hosea 10
 
 ###### 1
 Vitis frondosa Israel, fructum producens sibi; secundum multitudinem fructus sui multiplicavit altaria, iuxta ubertatem terrae suae decoravit simulacra.

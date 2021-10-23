@@ -1,9 +1,13 @@
 ---
-aliases : Tb 3
+aliases : 
+- Tobit 3
+- Tobie 3
+- Tb 3
+- Tobit 3
 tags : Bible/Tb/3
 ---
 
-# Chapitre 3
+# Tobit 3
 
 ###### 1
 Et contristatus animo et suspirans ploravi et coepi orare cum gemitibus: 

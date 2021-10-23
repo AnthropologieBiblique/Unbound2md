@@ -1,9 +1,13 @@
 ---
-aliases : Ps 101
+aliases : 
+- Psalms 101
+- Psaumes 101
+- Ps 101
+- Psalms 101
 tags : Bible/Ps/101
 ---
 
-# Chapitre 101
+# Psalms 101
 
 ###### 1
 לְדָוִד מִזְמֹור חֶסֶד־וּמִשְׁפָּט אָשִׁירָה לְךָ יְהוָה אֲזַמֵּרָה׃

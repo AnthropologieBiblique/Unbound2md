@@ -1,9 +1,13 @@
 ---
-aliases : Jr 34
+aliases : 
+- Jeremiah 34
+- Jérémie 34
+- Jr 34
+- Jeremiah 34
 tags : Bible/Jr/34
 ---
 
-# Chapitre 34
+# Jeremiah 34
 
 ###### 1
 Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis et omnis exercitus eius universaque regna terrae, quae erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem et contra omnes urbes eius, dicens: 

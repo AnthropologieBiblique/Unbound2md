@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 6
+aliases : 
+- 2 Kings 6
+- 2 Rois 6
+- 2 R 6
+- 2 Kings 6
 tags : Bible/2R/6
 ---
 
-# Chapitre 6
+# 2 Kings 6
 
 ###### 1
 Dixerunt autem filii prophetarum ad Eliseum : Ecce locus, in quo habitamus coram te, angustus est nobis.

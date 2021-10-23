@@ -1,9 +1,13 @@
 ---
-aliases : Gn 19
+aliases : 
+- Genesis 19
+- Genèse 19
+- Gn 19
+- Genesis 19
 tags : Bible/Gn/19
 ---
 
-# Chapitre 19
+# Genesis 19
 
 ###### 1
 Veneruntque duo angeli Sodomam vespere, sedente Lot in foribus civitatis. Qui cum vidisset eos, surrexit et ivit obviam eis adoravitque pronus in terram 

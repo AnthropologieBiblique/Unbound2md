@@ -1,9 +1,13 @@
 ---
-aliases : Ps 5
+aliases : 
+- Ψαλμοί 5
+- Psaumes 5
+- Ps 5
+- Psalms 5
 tags : Bible/Ps/5
 ---
 
-# Chapitre 5
+# Ψαλμοί 5
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῆς κληρονομούσης ψαλμὸς τῷ δαυιδ

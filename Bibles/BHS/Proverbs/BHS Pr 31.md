@@ -1,9 +1,13 @@
 ---
-aliases : Pr 31
+aliases : 
+- Proverbs 31
+- Proverbes 31
+- Pr 31
+- Proverbs 31
 tags : Bible/Pr/31
 ---
 
-# Chapitre 31
+# Proverbs 31
 
 ###### 1
 דִּבְרֵי לְמוּאֵל מֶלֶךְ מַשָּׂא אֲשֶׁר־יִסְּרַתּוּ אִמֹּו׃

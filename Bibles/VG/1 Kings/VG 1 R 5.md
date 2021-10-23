@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 5
+aliases : 
+- 1 Kings 5
+- 1 Rois 5
+- 1 R 5
+- 1 Kings 5
 tags : Bible/1R/5
 ---
 
-# Chapitre 5
+# 1 Kings 5
 
 ###### 1
 Misit quoque Hiram rex Tyri servos suos ad Salomonem : audivit enim quod ipsum unxissent regem pro patre ejus : quia amicus fuerat Hiram David omni tempore.

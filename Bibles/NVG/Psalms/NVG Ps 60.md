@@ -1,9 +1,13 @@
 ---
-aliases : Ps 60
+aliases : 
+- Psalms 60
+- Psaumes 60
+- Ps 60
+- Psalms 60
 tags : Bible/Ps/60
 ---
 
-# Chapitre 60
+# Psalms 60
 
 ###### 1
 Magistro chori. Secundum " Lilium praecepti ". Miktam. David. Ad docendum.

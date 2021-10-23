@@ -1,9 +1,13 @@
 ---
-aliases : Gn 17
+aliases : 
+- Genesis 17
+- Genèse 17
+- Gn 17
+- Genesis 17
 tags : Bible/Gn/17
 ---
 
-# Chapitre 17
+# Genesis 17
 
 ###### 1
 Postquam vero nonaginta et novem annorum esse cœperat, apparuit ei Dominus, dixitque ad eum : Ego Deus omnipotens : ambula coram me, et esto perfectus.

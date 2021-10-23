@@ -1,9 +1,13 @@
 ---
-aliases : Lc 14
+aliases : 
+- Luke 14
+- Luc 14
+- Lc 14
+- Luke 14
 tags : Bible/Lc/14
 ---
 
-# Chapitre 14
+# Luke 14
 
 ###### 1
 Et factum est, cum intraret in domum cuiusdam princi pis pharisaeorum sabbato manducare panem, et ipsi observabant eum. 

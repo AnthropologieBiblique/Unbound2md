@@ -1,9 +1,13 @@
 ---
-aliases : Dt 34
+aliases : 
+- Deuteronomy 34
+- Deutéronome 34
+- Dt 34
+- Deuteronomy 34
 tags : Bible/Dt/34
 ---
 
-# Chapitre 34
+# Deuteronomy 34
 
 ###### 1
 Ascendit ergo Moyses de campestribus Moab super montem Nabo in verticem Phasga contra Iericho; ostenditque ei Dominus omnem terram Galaad usque Dan 

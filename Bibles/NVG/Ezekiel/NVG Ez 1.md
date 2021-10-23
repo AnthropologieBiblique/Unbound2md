@@ -1,9 +1,13 @@
 ---
-aliases : Ez 1
+aliases : 
+- Ezekiel 1
+- Ézéchiel 1
+- Ez 1
+- Ezekiel 1
 tags : Bible/Ez/1
 ---
 
-# Chapitre 1
+# Ezekiel 1
 
 ###### 1
 Et factum est in tricesimo anno, in quarto mense, in quinta men sis, cum essem in medio captivorum iuxta fluvium Chobar, aperti sunt caeli, et vidi visiones Dei. 

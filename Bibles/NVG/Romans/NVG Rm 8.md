@@ -1,9 +1,13 @@
 ---
-aliases : Rm 8
+aliases : 
+- Romans 8
+- Romains 8
+- Rm 8
+- Romans 8
 tags : Bible/Rm/8
 ---
 
-# Chapitre 8
+# Romans 8
 
 ###### 1
 Nihil ergo nunc damnationis est his, qui sunt in Christo Iesu; 

@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 16
+aliases : 
+- 2 Samuel 16
+- 2 Samuel 16
+- 2 S 16
 tags : Bible/2S/16
 ---
 
-# Chapitre 16
+# 2 Samuel 16
 
 ###### 1
 Cumque David transisset paululum montis verticem, apparuit Siba puer Meribbaal in occursum eius cum duobus asinis stratis, qui onerati erant ducentis panibus et centum alligaturis uvae passae et centum fasciculis fructuum aestivorum et utre vini. 

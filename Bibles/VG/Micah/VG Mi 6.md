@@ -1,9 +1,13 @@
 ---
-aliases : Mi 6
+aliases : 
+- Micah 6
+- Michée 6
+- Mi 6
+- Micah 6
 tags : Bible/Mi/6
 ---
 
-# Chapitre 6
+# Micah 6
 
 ###### 1
 Audite quæ Dominus loquitur : Surge, contende judicio adversum montes, et audiant colles vocem tuam.

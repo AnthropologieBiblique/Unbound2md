@@ -1,9 +1,13 @@
 ---
-aliases : Ag 2
+aliases : 
+- Haggai 2
+- Aggée 2
+- Ag 2
+- Haggai 2
 tags : Bible/Ag/2
 ---
 
-# Chapitre 2
+# Haggai 2
 
 ###### 1
 In septimo mense, vicesima et prima mensis, factum est ver bum Domini in manu Aggaei prophetae dicens: 

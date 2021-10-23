@@ -1,9 +1,13 @@
 ---
-aliases : Ps 68
+aliases : 
+- Psalms 68
+- Psaumes 68
+- Ps 68
+- Psalms 68
 tags : Bible/Ps/68
 ---
 
-# Chapitre 68
+# Psalms 68
 
 ###### 1
 Magistro chori. David. PSALMUS. Canticum.

@@ -1,9 +1,13 @@
 ---
-aliases : Ac 7
+aliases : 
+- Acts of the Apostles 7
+- Actes 7
+- Ac 7
+- Acts of the Apostles 7
 tags : Bible/Ac/7
 ---
 
-# Chapitre 7
+# Acts of the Apostles 7
 
 ###### 1
 Dixit autem princeps sacerdo tum: “ Si haec ita se habent? ”. 

@@ -1,9 +1,13 @@
 ---
-aliases : Jn 4
+aliases : 
+- John 4
+- Jean 4
+- Jn 4
+- John 4
 tags : Bible/Jn/4
 ---
 
-# Chapitre 4
+# John 4
 
 ###### 1
 Ut ergo cognovit Jesus quia audierunt pharisæi quod Jesus plures discipulos facit, et baptizat, quam Joannes

@@ -1,9 +1,13 @@
 ---
-aliases : Mt 1
+aliases : 
+- Matthew 1
+- Matthieu 1
+- Mt 1
+- Matthew 1
 tags : Bible/Mt/1
 ---
 
-# Chapitre 1
+# Matthew 1
 
 ###### 1
 Liber generationis Jesu Christi filii David, filii Abraham.

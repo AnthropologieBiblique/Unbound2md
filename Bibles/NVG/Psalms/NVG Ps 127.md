@@ -1,9 +1,13 @@
 ---
-aliases : Ps 127
+aliases : 
+- Psalms 127
+- Psaumes 127
+- Ps 127
+- Psalms 127
 tags : Bible/Ps/127
 ---
 
-# Chapitre 127
+# Psalms 127
 
 ###### 1
 Canticum ascensionum. Salomonis. Nisi Dominus aedificaverit domum, in vanum laborant, qui aedificant eam. Nisi Dominus custodierit civitatem, frustra vigilat, qui custodit eam.

@@ -1,9 +1,13 @@
 ---
-aliases : Pr 1
+aliases : 
+- Proverbs 1
+- Proverbes 1
+- Pr 1
+- Proverbs 1
 tags : Bible/Pr/1
 ---
 
-# Chapitre 1
+# Proverbs 1
 
 ###### 1
 מִשְׁלֵי שְׁלֹמֹה בֶן־דָּוִד מֶלֶךְ יִשְׂרָאֵל׃

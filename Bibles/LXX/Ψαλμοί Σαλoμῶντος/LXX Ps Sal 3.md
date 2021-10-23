@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 3
+aliases : 
+- Ψαλμοί Σαλoμῶντος 3
+- Psaume extra numerum 3
+- Ps Sal 3
+- Psalm of Solomon 3
 tags : Bible/PsSal/3
 ---
 
-# Chapitre 3
+# Ψαλμοί Σαλoμῶντος 3
 
 ###### 1
 ἵνα τί ὑπνοῖς ψυχή καὶ οὐκ εὐλογεῖς τὸν κύριον ὕμνον καινὸν ψάλατε τῷ θεῷ τῷ αἰνετῷ

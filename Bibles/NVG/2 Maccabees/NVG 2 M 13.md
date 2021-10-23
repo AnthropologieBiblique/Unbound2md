@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 13
+aliases : 
+- 2 Maccabees 13
+- 2 Maccabees 13
+- 2 M 13
 tags : Bible/2M/13
 ---
 
-# Chapitre 13
+# 2 Maccabees 13
 
 ###### 1
 Anno centesimo quadrage simo nono his, qui erant cir ca Iudam, notum factum est Antiochum Eupatorem venire cum multitudine adversus Iudaeam 

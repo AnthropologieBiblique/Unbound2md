@@ -1,9 +1,13 @@
 ---
-aliases : Ps 90
+aliases : 
+- Psalms 89
+- Psaumes 90
+- Ps 90
+- Psalms 90
 tags : Bible/Ps/90
 ---
 
-# Chapitre 89
+# Psalms 89
 
 ###### 1
 Oratio Moysi, hominis Dei. Domine, refugium factus es nobis a generatione in generationem.

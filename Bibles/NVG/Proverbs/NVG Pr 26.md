@@ -1,9 +1,13 @@
 ---
-aliases : Pr 26
+aliases : 
+- Proverbs 26
+- Proverbes 26
+- Pr 26
+- Proverbs 26
 tags : Bible/Pr/26
 ---
 
-# Chapitre 26
+# Proverbs 26
 
 ###### 1
 Quomodo nix in aestate et pluvia in messe, sic indecens est stulto gloria.

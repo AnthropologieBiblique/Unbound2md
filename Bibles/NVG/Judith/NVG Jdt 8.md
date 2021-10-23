@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 8
+aliases : 
+- Judith 8
+- Judith 8
+- Jdt 8
 tags : Bible/Jdt/8
 ---
 
-# Chapitre 8
+# Judith 8
 
 ###### 1
 Et erat in civitate commorans in diebus illis Iudith filia Merari filii Ox filii Ioseph filii Oziel filii Elchiae filii Ananiae filii Gedeon filii Rafain filii Achitob filii Eliab filii Nathanael filii Salamiel filii Surisaddai filii Simeon filii Israel. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 138
+aliases : 
+- Psalms 138
+- Psaumes 138
+- Ps 138
+- Psalms 138
 tags : Bible/Ps/138
 ---
 
-# Chapitre 138
+# Psalms 138
 
 ###### 1
 David. Confitebor tibi, Domine, in toto corde meo, quoniam audisti verba oris mei. In conspectu angelorum psallam tibi,

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 36
+aliases : 
+- Numbers 36
+- Nombres 36
+- Nb 36
+- Numbers 36
 tags : Bible/Nb/36
 ---
 
-# Chapitre 36
+# Numbers 36
 
 ###### 1
 Accesserunt autem et principes familiarum Galaad filii Machir filii Manasse, de stirpe filiorum Joseph : locutique sunt Moysi coram principibus Israël, atque dixerunt :

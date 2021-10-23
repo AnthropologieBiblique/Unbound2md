@@ -1,9 +1,13 @@
 ---
-aliases : Lc 20
+aliases : 
+- Luke 20
+- Luc 20
+- Lc 20
+- Luke 20
 tags : Bible/Lc/20
 ---
 
-# Chapitre 20
+# Luke 20
 
 ###### 1
 Et factum est in una dierum, docente illo populum in templo, et evangelizante, convenerunt principes sacerdotum, et scribæ cum senioribus,

@@ -1,9 +1,13 @@
 ---
-aliases : Mt 20
+aliases : 
+- Matthew 20
+- Matthieu 20
+- Mt 20
+- Matthew 20
 tags : Bible/Mt/20
 ---
 
-# Chapitre 20
+# Matthew 20
 
 ###### 1
 Simile est regnum cælorum homini patrifamilias, qui exiit primo mane conducere operarios in vineam suam.

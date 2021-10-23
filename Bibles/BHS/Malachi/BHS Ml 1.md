@@ -1,9 +1,13 @@
 ---
-aliases : Ml 1
+aliases : 
+- Malachi 1
+- Malachie 1
+- Ml 1
+- Malachi 1
 tags : Bible/Ml/1
 ---
 
-# Chapitre 1
+# Malachi 1
 
 ###### 1
 מַשָּׂא דְבַר־יְהוָה אֶל־יִשְׂרָאֵל בְּיַד מַלְאָכִי׃

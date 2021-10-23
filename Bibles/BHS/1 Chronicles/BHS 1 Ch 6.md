@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 6
+aliases : 
+- 1 Chronicles 6
+- 1 Chroniques 6
+- 1 Ch 6
+- 1 Chronicles 6
 tags : Bible/1Ch/6
 ---
 
-# Chapitre 6
+# 1 Chronicles 6
 
 ###### 1
 בְּנֵי לֵוִי גֵּרְשֹׁם קְהָת וּמְרָרִי׃

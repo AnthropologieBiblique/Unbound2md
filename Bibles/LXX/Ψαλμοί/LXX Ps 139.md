@@ -1,9 +1,13 @@
 ---
-aliases : Ps 140
+aliases : 
+- Ψαλμοί 139
+- Psaumes 140
+- Ps 140
+- Psalms 140
 tags : Bible/Ps/140
 ---
 
-# Chapitre 139
+# Ψαλμοί 139
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 136
+aliases : 
+- Psalms 136
+- Psaumes 136
+- Ps 136
+- Psalms 136
 tags : Bible/Ps/136
 ---
 
-# Chapitre 136
+# Psalms 136
 
 ###### 1
 הֹודוּ לַיהוָה כִּי־טֹוב כִּי לְעֹולָם חַסְדֹּו׃

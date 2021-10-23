@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 2
+aliases : 
+- Esther, Greek 2
+- Esther, Grec 2
+- Estgrec 2
+- Esther, Greek 2
 tags : Bible/Estgrec/2
 ---
 
-# Chapitre 2
+# Esther, Greek 2
 
 ###### 1
 His ita gestis, postquam regis Assueri indignatio deferbuerat, recordatus est Vasthi, et quæ fecisset, vel quæ passa esset :

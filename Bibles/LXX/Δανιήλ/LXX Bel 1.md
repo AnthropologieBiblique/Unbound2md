@@ -1,9 +1,13 @@
 ---
-aliases : Bel 1
+aliases : 
+- Δανιήλ 1
+- Bel et le dragon 1
+- Bel 1
+- Bel and the Dragon 1
 tags : Bible/Bel/1
 ---
 
-# Chapitre 1
+# Δανιήλ 1
 
 ###### 1
 ἐκ προφητείας αμβακουμ υἱοῦ ἰησοῦ ἐκ τῆς φυλῆς λευι

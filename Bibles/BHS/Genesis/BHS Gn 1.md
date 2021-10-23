@@ -1,9 +1,13 @@
 ---
-aliases : Gn 1
+aliases : 
+- Genesis 1
+- Genèse 1
+- Gn 1
+- Genesis 1
 tags : Bible/Gn/1
 ---
 
-# Chapitre 1
+# Genesis 1
 
 ###### 1
 בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ׃

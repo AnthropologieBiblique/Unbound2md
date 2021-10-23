@@ -1,9 +1,13 @@
 ---
-aliases : Jn 19
+aliases : 
+- John 19
+- Jean 19
+- Jn 19
+- John 19
 tags : Bible/Jn/19
 ---
 
-# Chapitre 19
+# John 19
 
 ###### 1
 Tunc ergo apprehendit Pilatus Jesum, et flagellavit.

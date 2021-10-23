@@ -1,9 +1,13 @@
 ---
-aliases : Qo 9
+aliases : 
+- Ecclesiastes 9
+- Ecclésiaste 9
+- Qo 9
+- Ecclesiastes 9
 tags : Bible/Qo/9
 ---
 
-# Chapitre 9
+# Ecclesiastes 9
 
 ###### 1
 Omnia hæc tractavi in corde meo, ut curiose intelligerem. Sunt justi atque sapientes, et opera eorum in manu Dei ; et tamen nescit homo utrum amore an odio dignus sit.

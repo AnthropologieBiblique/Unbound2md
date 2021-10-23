@@ -1,9 +1,13 @@
 ---
-aliases : Ez 20
+aliases : 
+- Ezekiel 20
+- Ézéchiel 20
+- Ez 20
+- Ezekiel 20
 tags : Bible/Ez/20
 ---
 
-# Chapitre 20
+# Ezekiel 20
 
 ###### 1
 Et factum est in anno septimo, in quinto, in decima mensis, venerunt viri de senioribus Israël ut interrogarent Dominum, et sederunt coram me.

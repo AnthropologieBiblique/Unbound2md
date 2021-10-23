@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 16
+aliases : 
+- 2 Kings 16
+- 2 Rois 16
+- 2 R 16
+- 2 Kings 16
 tags : Bible/2R/16
 ---
 
-# Chapitre 16
+# 2 Kings 16
 
 ###### 1
 Anno septimo decimo Phacee filii Romeliae regnavit Achaz filius Ioatham regis Iudae. 

@@ -1,9 +1,13 @@
 ---
-aliases : Qo 11
+aliases : 
+- Ecclesiastes 11
+- Ecclésiaste 11
+- Qo 11
+- Ecclesiastes 11
 tags : Bible/Qo/11
 ---
 
-# Chapitre 11
+# Ecclesiastes 11
 
 ###### 1
 Mitte panem tuum super transeuntes aquas, quia post tempora multa invenies illum.

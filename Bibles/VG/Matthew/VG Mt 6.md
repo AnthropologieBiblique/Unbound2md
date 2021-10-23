@@ -1,9 +1,13 @@
 ---
-aliases : Mt 6
+aliases : 
+- Matthew 6
+- Matthieu 6
+- Mt 6
+- Matthew 6
 tags : Bible/Mt/6
 ---
 
-# Chapitre 6
+# Matthew 6
 
 ###### 1
 Attendite ne justitiam vestram faciatis coram hominibus, ut videamini ab eis : alioquin mercedem non habebitis apud Patrem vestrum qui in cælis est.

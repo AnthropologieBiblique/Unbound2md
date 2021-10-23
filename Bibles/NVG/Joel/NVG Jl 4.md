@@ -1,9 +1,13 @@
 ---
-aliases : Jl 3
+aliases : 
+- Joel 4
+- Joël 3
+- Jl 3
+- Joel 3
 tags : Bible/Jl/3
 ---
 
-# Chapitre 4
+# Joel 4
 
 ###### 1
 Quia ecce in diebus illis et in tempore illo, cum convertero sortem Iudae et Ierusalem,

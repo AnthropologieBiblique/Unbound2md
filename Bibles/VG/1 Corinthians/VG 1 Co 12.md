@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 12
+aliases : 
+- 1 Corinthians 12
+- 1 Corinthiens 12
+- 1 Co 12
+- 1 Corinthians 12
 tags : Bible/1Co/12
 ---
 
-# Chapitre 12
+# 1 Corinthians 12
 
 ###### 1
 De spiritualibus autem, nolo vos ignorare fratres.

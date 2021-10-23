@@ -1,9 +1,13 @@
 ---
-aliases : Ps 125
+aliases : 
+- Psalms 125
+- Psaumes 125
+- Ps 125
+- Psalms 125
 tags : Bible/Ps/125
 ---
 
-# Chapitre 125
+# Psalms 125
 
 ###### 1
 Canticum ascensionum. Qui confidunt in Domino, sicut mons Sion: non commovebitur, in aeternum manet.

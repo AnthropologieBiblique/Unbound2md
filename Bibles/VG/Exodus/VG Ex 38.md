@@ -1,9 +1,13 @@
 ---
-aliases : Ex 38
+aliases : 
+- Exodus 38
+- Exode 38
+- Ex 38
+- Exodus 38
 tags : Bible/Ex/38
 ---
 
-# Chapitre 38
+# Exodus 38
 
 ###### 1
 Fecit et altare holocausti de lignis setim, quinque cubitorum per quadrum, et trium in altitudine :

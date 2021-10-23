@@ -1,9 +1,13 @@
 ---
-aliases : Jg 11
+aliases : 
+- Judges 11
+- Juges 11
+- Jg 11
+- Judges 11
 tags : Bible/Jg/11
 ---
 
-# Chapitre 11
+# Judges 11
 
 ###### 1
 Fuit illo Jephte Galaadites vir fortissimus atque pugnator, filius mulieris meretricis, qui natus est de Galaad.

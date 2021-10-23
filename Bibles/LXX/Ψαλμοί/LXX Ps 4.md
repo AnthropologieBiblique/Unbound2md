@@ -1,9 +1,13 @@
 ---
-aliases : Ps 4
+aliases : 
+- Ψαλμοί 4
+- Psaumes 4
+- Ps 4
+- Psalms 4
 tags : Bible/Ps/4
 ---
 
-# Chapitre 4
+# Ψαλμοί 4
 
 ###### 1
 εἰς τὸ τέλος ἐν ψαλμοῖς ᾠδὴ τῷ δαυιδ

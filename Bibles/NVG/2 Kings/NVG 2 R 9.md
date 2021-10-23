@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 9
+aliases : 
+- 2 Kings 9
+- 2 Rois 9
+- 2 R 9
+- 2 Kings 9
 tags : Bible/2R/9
 ---
 
-# Chapitre 9
+# 2 Kings 9
 
 ###### 1
 Eliseus autem prophetes vocavit unum de filiis prophetarum et ait illi: “ Accinge lumbos tuos et tolle lenticulam olei hanc in manu tua et vade in Ramoth Galaad. 

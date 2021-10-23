@@ -1,9 +1,13 @@
 ---
-aliases : Is 60
+aliases : 
+- Isaiah 60
+- Isaïe 60
+- Is 60
+- Isaiah 60
 tags : Bible/Is/60
 ---
 
-# Chapitre 60
+# Isaiah 60
 
 ###### 1
 Surge, illuminare, Jerusalem, quia venit lumen tuum, et gloria Domini super te orta est.

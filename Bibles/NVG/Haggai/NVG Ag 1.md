@@ -1,9 +1,13 @@
 ---
-aliases : Ag 1
+aliases : 
+- Haggai 1
+- Aggée 1
+- Ag 1
+- Haggai 1
 tags : Bible/Ag/1
 ---
 
-# Chapitre 1
+# Haggai 1
 
 ###### 1
 In anno secundo Darii regis, in mense sexto, in die prima men sis, factum est verbum Domini in manu Aggaei prophetae ad Zorobabel filium Salathiel ducem Iudae et ad Iesua filium Iosedec sacerdotem magnum dicens: 

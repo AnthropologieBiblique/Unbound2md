@@ -1,9 +1,13 @@
 ---
-aliases : Ez 40
+aliases : 
+- Ezekiel 40
+- Ézéchiel 40
+- Ez 40
+- Ezekiel 40
 tags : Bible/Ez/40
 ---
 
-# Chapitre 40
+# Ezekiel 40
 
 ###### 1
 In vicesimo et quinto anno transmigrationis nostrae, in exordio anni, decima mensis, quarto decimo anno, postquam percussa est civitas, in ipsa hac die facta est super me manus Domini et adduxit me illuc. 

@@ -1,9 +1,13 @@
 ---
-aliases : Nb 35
+aliases : 
+- Numbers 35
+- Nombres 35
+- Nb 35
+- Numbers 35
 tags : Bible/Nb/35
 ---
 
-# Chapitre 35
+# Numbers 35
 
 ###### 1
 Haec quoque locutus est Do minus ad Moysen in campe stribus Moab supra Iordanem contra Iericho: 

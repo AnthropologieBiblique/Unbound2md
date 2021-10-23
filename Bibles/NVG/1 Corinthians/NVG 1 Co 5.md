@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 5
+aliases : 
+- 1 Corinthians 5
+- 1 Corinthiens 5
+- 1 Co 5
+- 1 Corinthians 5
 tags : Bible/1Co/5
 ---
 
-# Chapitre 5
+# 1 Corinthians 5
 
 ###### 1
 Omnino auditur inter vos for nicatio, et talis fornicatio qualis nec inter gentes, ita ut uxorem patris aliquis habeat. 

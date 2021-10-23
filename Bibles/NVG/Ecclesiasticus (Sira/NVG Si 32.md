@@ -1,9 +1,13 @@
 ---
-aliases : Si 32
+aliases : 
+- Ecclesiasticus (Sira 32
+- Siracide 32
+- Si 32
+- Ecclesiasticus (Sira 32
 tags : Bible/Si/32
 ---
 
-# Chapitre 32
+# Ecclesiasticus (Sira 32
 
 ###### 1
 Rectorem te posuerunt? Noli extolli: esto in illis quasi unus ex ipsis.

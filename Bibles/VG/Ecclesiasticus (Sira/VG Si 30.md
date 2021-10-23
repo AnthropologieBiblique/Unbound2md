@@ -1,9 +1,13 @@
 ---
-aliases : Si 30
+aliases : 
+- Ecclesiasticus (Sira 30
+- Siracide 30
+- Si 30
+- Ecclesiasticus (Sira 30
 tags : Bible/Si/30
 ---
 
-# Chapitre 30
+# Ecclesiasticus (Sira 30
 
 ###### 1
 Qui diligit filium suum assiduat illi flagella, ut lætetur in novissimo suo, et non palpet proximorum ostia.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 25
+aliases : 
+- Psalms 24
+- Psaumes 25
+- Ps 25
+- Psalms 25
 tags : Bible/Ps/25
 ---
 
-# Chapitre 24
+# Psalms 24
 
 ###### 1
 In finem. Psalmus David. Ad te, Domine, levai animam meam.

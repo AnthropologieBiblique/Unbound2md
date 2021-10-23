@@ -1,9 +1,13 @@
 ---
-aliases : Si 14
+aliases : 
+- Ecclesiasticus (Sira 14
+- Siracide 14
+- Si 14
+- Ecclesiasticus (Sira 14
 tags : Bible/Si/14
 ---
 
-# Chapitre 14
+# Ecclesiasticus (Sira 14
 
 ###### 1
 Beatus vir qui non est lapsus verbo ex ore suo, et non est stimulatus in tristitia delicti.

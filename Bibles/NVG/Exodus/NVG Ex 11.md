@@ -1,9 +1,13 @@
 ---
-aliases : Ex 11
+aliases : 
+- Exodus 11
+- Exode 11
+- Ex 11
+- Exodus 11
 tags : Bible/Ex/11
 ---
 
-# Chapitre 11
+# Exodus 11
 
 ###### 1
 Et dixit Dominus ad Moy sen: “ Adhuc una plaga tan gam pharaonem et Aegyptum, et post haec dimittet vos utique, immo et exire compellet. 

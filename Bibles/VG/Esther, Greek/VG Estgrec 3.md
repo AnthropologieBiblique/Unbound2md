@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 3
+aliases : 
+- Esther, Greek 3
+- Esther, Grec 3
+- Estgrec 3
+- Esther, Greek 3
 tags : Bible/Estgrec/3
 ---
 
-# Chapitre 3
+# Esther, Greek 3
 
 ###### 14
 Summa autem epistolarum hæc fuit, ut omnes provinciæ scirent, et pararent se ad prædictam diem.

@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 2
+aliases : 
+- 1 Maccabees 2
+- 1 Maccabees 2
+- 1 M 2
 tags : Bible/1M/2
 ---
 
-# Chapitre 2
+# 1 Maccabees 2
 
 ###### 1
 In diebus illis surrexit Mathathias filius Joannis filii Simeonis, sacerdos ex filiis Joarib, ab Jerusalem, et consedit in monte Modin :

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 10
+aliases : 
+- Psalms 10
+- Psaumes 10
+- Ps 10
+- Psalms 10
 tags : Bible/Ps/10
 ---
 
-# Chapitre 10
+# Psalms 10
 
 ###### 1
 LAMED. Ut quid, Domine, stas a longe, abscondis te in opportunitatibus, in tribulatione?

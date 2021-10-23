@@ -1,9 +1,12 @@
 ---
-aliases : Am 2
+aliases : 
+- Amos 2
+- Amos 2
+- Am 2
 tags : Bible/Am/2
 ---
 
-# Chapitre 2
+# Amos 2
 
 ###### 1
 Hæc dicit Dominus : Super tribus sceleribus Moab, et super quatuor non convertam eum, eo quod incenderit ossa regis Idumææ usque ad cinerem.

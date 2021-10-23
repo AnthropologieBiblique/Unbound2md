@@ -1,9 +1,13 @@
 ---
-aliases : Is 59
+aliases : 
+- Isaiah 59
+- Isaïe 59
+- Is 59
+- Isaiah 59
 tags : Bible/Is/59
 ---
 
-# Chapitre 59
+# Isaiah 59
 
 ###### 1
 Ecce non est abbreviata manus Domini, ut salvare nequeat, neque aggravata est auris eius, ut non exaudiat;

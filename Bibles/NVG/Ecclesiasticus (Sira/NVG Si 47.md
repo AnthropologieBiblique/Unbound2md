@@ -1,9 +1,13 @@
 ---
-aliases : Si 47
+aliases : 
+- Ecclesiasticus (Sira 47
+- Siracide 47
+- Si 47
+- Ecclesiasticus (Sira 47
 tags : Bible/Si/47
 ---
 
-# Chapitre 47
+# Ecclesiasticus (Sira 47
 
 ###### 1
 Post hunc surrexit Nathan propheta in diebus David.

@@ -1,9 +1,12 @@
 ---
-aliases : Est 3
+aliases : 
+- Esther 3
+- Esther 3
+- Est 3
 tags : Bible/Est/3
 ---
 
-# Chapitre 3
+# Esther 3
 
 ###### 1
 Post hæc rex Assuerus exaltavit Aman filium Amadathi, qui erat de stirpe Agag : et posuit solium ejus super omnes principes, quos habebat.

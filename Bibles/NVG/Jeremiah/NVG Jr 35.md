@@ -1,9 +1,13 @@
 ---
-aliases : Jr 35
+aliases : 
+- Jeremiah 35
+- Jérémie 35
+- Jr 35
+- Jeremiah 35
 tags : Bible/Jr/35
 ---
 
-# Chapitre 35
+# Jeremiah 35
 
 ###### 1
 Verbum, quod factum est ad Ieremiam a Domino in die bus Ioachim filii Iosiae regis Iudae dicens: 

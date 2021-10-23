@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 15
+aliases : 
+- Esther, Greek 5
+- Esther, Grec 15
+- Estgrec 15
+- Esther, Greek 15
 tags : Bible/Estgrec/15
 ---
 
-# Chapitre 5
+# Esther, Greek 5
 
 ###### 1
 Et factum est die tertio, induta Esther regalibus vestimentis ste tit in atrio domus regiae, quod erat interius contra basilicam regis. At ille sedebat super solium suum in consistorio palatii contra ostium domus. 

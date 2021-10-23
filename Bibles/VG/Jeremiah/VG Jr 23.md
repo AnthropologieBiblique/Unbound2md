@@ -1,9 +1,13 @@
 ---
-aliases : Jr 23
+aliases : 
+- Jeremiah 23
+- Jérémie 23
+- Jr 23
+- Jeremiah 23
 tags : Bible/Jr/23
 ---
 
-# Chapitre 23
+# Jeremiah 23
 
 ###### 1
 Væ pastoribus qui disperdunt et dilacerant gregem pascuæ meæ ! dicit Dominus.

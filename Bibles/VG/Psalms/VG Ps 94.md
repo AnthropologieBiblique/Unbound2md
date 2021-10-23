@@ -1,9 +1,13 @@
 ---
-aliases : Ps 95
+aliases : 
+- Psalms 94
+- Psaumes 95
+- Ps 95
+- Psalms 95
 tags : Bible/Ps/95
 ---
 
-# Chapitre 94
+# Psalms 94
 
 ###### 1
 Laus cantici ipsi David. Venite, exsultemus Domino ; jubilemus Deo salutari nostro ;

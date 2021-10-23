@@ -1,9 +1,13 @@
 ---
-aliases : Ps 61
+aliases : 
+- Psalms 60
+- Psaumes 61
+- Ps 61
+- Psalms 61
 tags : Bible/Ps/61
 ---
 
-# Chapitre 60
+# Psalms 60
 
 ###### 1
 In finem. In hymnis David.

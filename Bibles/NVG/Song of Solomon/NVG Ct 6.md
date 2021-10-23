@@ -1,9 +1,13 @@
 ---
-aliases : Ct 6
+aliases : 
+- Song of Solomon 6
+- Cantique des cantiques 6
+- Ct 6
+- Song of Solomon 6
 tags : Bible/Ct/6
 ---
 
-# Chapitre 6
+# Song of Solomon 6
 
 ###### 1
 Quo abiit dilectus tuus, o pulcherrima mulierum? Quo declinavit dilectus tuus, et quaeremus eum tecum?

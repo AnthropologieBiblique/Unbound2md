@@ -1,9 +1,13 @@
 ---
-aliases : Jos 10
+aliases : 
+- Joshua 10
+- Josué 10
+- Jos 10
+- Joshua 10
 tags : Bible/Jos/10
 ---
 
-# Chapitre 10
+# Joshua 10
 
 ###### 1
 Quae cum audisset Adonise dec rex Ierusalem, quod scili cet cepisset Iosue Hai et subvertisset eam — sicut enim fecerat Iericho et regi eius, sic fecit Hai et regi illius — et quod pacem fecissent Gabaonitae cum Israel et essent in medio eorum, 

@@ -1,9 +1,13 @@
 ---
-aliases : Pr 17
+aliases : 
+- Proverbs 17
+- Proverbes 17
+- Pr 17
+- Proverbs 17
 tags : Bible/Pr/17
 ---
 
-# Chapitre 17
+# Proverbs 17
 
 ###### 1
 Melior est buccella sicca cum gaudio, quam domus plena victimis cum jurgio.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 43
+aliases : 
+- Psalms 42
+- Psaumes 43
+- Ps 43
+- Psalms 43
 tags : Bible/Ps/43
 ---
 
-# Chapitre 42
+# Psalms 42
 
 ###### 1
 Psalmus David. Judica me, Deus, et discerne causam meam de gente non sancta, ab homine iniquo et doloso erue me.

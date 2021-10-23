@@ -1,9 +1,13 @@
 ---
-aliases : Dt 33
+aliases : 
+- Deuteronomy 33
+- Deutéronome 33
+- Dt 33
+- Deuteronomy 33
 tags : Bible/Dt/33
 ---
 
-# Chapitre 33
+# Deuteronomy 33
 
 ###### 1
 Hæc est benedictio, qua benedixit Moyses, homo Dei, filiis Israël ante mortem suam.

@@ -1,9 +1,13 @@
 ---
-aliases : Mt 7
+aliases : 
+- Matthew 7
+- Matthieu 7
+- Mt 7
+- Matthew 7
 tags : Bible/Mt/7
 ---
 
-# Chapitre 7
+# Matthew 7
 
 ###### 1
 Nolite iudicare, ut non iudice mini; 

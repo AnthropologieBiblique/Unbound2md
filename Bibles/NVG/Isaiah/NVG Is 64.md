@@ -1,9 +1,13 @@
 ---
-aliases : Is 64
+aliases : 
+- Isaiah 64
+- Isaïe 64
+- Is 64
+- Isaiah 64
 tags : Bible/Is/64
 ---
 
-# Chapitre 64
+# Isaiah 64
 
 ###### 1
 Sicut ignis succendit sarmenta, aquam ebullire facit ignis, ut notum facias nomen tuum inimicis tuis, a facie tua gentes turbentur,

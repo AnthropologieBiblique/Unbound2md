@@ -1,9 +1,13 @@
 ---
-aliases : Lc 21
+aliases : 
+- Luke 21
+- Luc 21
+- Lc 21
+- Luke 21
 tags : Bible/Lc/21
 ---
 
-# Chapitre 21
+# Luke 21
 
 ###### 1
 Respiciens autem, vidit eos qui mittebant munera sua in gazophylacium, divites.

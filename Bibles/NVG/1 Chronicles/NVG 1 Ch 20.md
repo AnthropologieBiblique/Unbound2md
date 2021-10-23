@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 20
+aliases : 
+- 1 Chronicles 20
+- 1 Chroniques 20
+- 1 Ch 20
+- 1 Chronicles 20
 tags : Bible/1Ch/20
 ---
 
-# Chapitre 20
+# 1 Chronicles 20
 
 ###### 1
 Factum est autem post anni circulum, eo tempore, quo solent reges ad bella procedere, eduxit Ioab robur exercitus et vastavit terram filiorum Ammon; perrexitque et obsedit Rabba. Porro David manebat in Ierusalem, quando Ioab percussit Rabba et destruxit eam. 

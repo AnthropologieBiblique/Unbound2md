@@ -1,9 +1,12 @@
 ---
-aliases : Lm 2
+aliases : 
+- Lamentations 2
+- Lamentations 2
+- Lm 2
 tags : Bible/Lm/2
 ---
 
-# Chapitre 2
+# Lamentations 2
 
 ###### 1
 ALEPH. Quomodo obtexit caligine in furore suo Dominus filiam Sion ; projecit de cælo in terram inclytam Israël, et non est recordatus scabelli pedum suorum in die furoris sui !

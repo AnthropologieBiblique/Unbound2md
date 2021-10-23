@@ -1,9 +1,13 @@
 ---
-aliases : Os 8
+aliases : 
+- Hosea 8
+- Osée 8
+- Os 8
+- Hosea 8
 tags : Bible/Os/8
 ---
 
-# Chapitre 8
+# Hosea 8
 
 ###### 1
 In gutture tuo sit tuba quasi aquila super domum Domini, pro eo quod transgressi sunt fœdus meum, et legem meam prævaricati sunt.

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 78
+aliases : 
+- Psalms 78
+- Psaumes 78
+- Ps 78
+- Psalms 78
 tags : Bible/Ps/78
 ---
 
-# Chapitre 78
+# Psalms 78
 
 ###### 1
 Maskil. Asaph. Attendite, popule meus, doctrinam meam; inclinate aurem vestram in verba oris mei.

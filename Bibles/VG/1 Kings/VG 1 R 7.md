@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 7
+aliases : 
+- 1 Kings 7
+- 1 Rois 7
+- 1 R 7
+- 1 Kings 7
 tags : Bible/1R/7
 ---
 
-# Chapitre 7
+# 1 Kings 7
 
 ###### 1
 Domum autem suam ædificavit Salomon tredecim annis, et ad perfectum usque perduxit.

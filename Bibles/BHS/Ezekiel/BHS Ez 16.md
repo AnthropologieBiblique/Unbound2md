@@ -1,9 +1,13 @@
 ---
-aliases : Ez 16
+aliases : 
+- Ezekiel 16
+- Ézéchiel 16
+- Ez 16
+- Ezekiel 16
 tags : Bible/Ez/16
 ---
 
-# Chapitre 16
+# Ezekiel 16
 
 ###### 1
 וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃

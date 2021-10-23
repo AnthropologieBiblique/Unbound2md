@@ -1,9 +1,13 @@
 ---
-aliases : Ep 4
+aliases : 
+- Ephesians 4
+- Éphésiens 4
+- Ep 4
+- Ephesians 4
 tags : Bible/Ep/4
 ---
 
-# Chapitre 4
+# Ephesians 4
 
 ###### 1
 Obsecro itaque vos ego, vinctus in Domino, ut digne ambuletis vocatione, qua vocati estis, 

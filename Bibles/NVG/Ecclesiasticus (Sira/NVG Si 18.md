@@ -1,9 +1,13 @@
 ---
-aliases : Si 18
+aliases : 
+- Ecclesiasticus (Sira 18
+- Siracide 18
+- Si 18
+- Ecclesiasticus (Sira 18
 tags : Bible/Si/18
 ---
 
-# Chapitre 18
+# Ecclesiasticus (Sira 18
 
 ###### 1
 Qui vivit in aeternum, creavit omnia simul. Deus solus iustificabitur et manet invictus rex in aeternum.

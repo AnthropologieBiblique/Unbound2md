@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 3
+aliases : 
+- Esther, Greek 3
+- Esther, Grec 3
+- Estgrec 3
+- Esther, Greek 3
 tags : Bible/Estgrec/3
 ---
 
-# Chapitre 3
+# Esther, Greek 3
 
 ###### 1
 Post haec rex Asuerus exaltavit Aman filium Amadathi, qui erat de stirpe Agag, et posuit solium eius super omnes principes, quos habebat. 

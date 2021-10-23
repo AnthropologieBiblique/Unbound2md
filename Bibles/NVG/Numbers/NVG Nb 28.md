@@ -1,9 +1,13 @@
 ---
-aliases : Nb 28
+aliases : 
+- Numbers 28
+- Nombres 28
+- Nb 28
+- Numbers 28
 tags : Bible/Nb/28
 ---
 
-# Chapitre 28
+# Numbers 28
 
 ###### 1
 Dixit quoque Dominus ad Moysen: 

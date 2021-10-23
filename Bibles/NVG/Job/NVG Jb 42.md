@@ -1,9 +1,12 @@
 ---
-aliases : Jb 42
+aliases : 
+- Job 42
+- Job 42
+- Jb 42
 tags : Bible/Jb/42
 ---
 
-# Chapitre 42
+# Job 42
 
 ###### 1
 Respondens autem Iob Domino dixit:

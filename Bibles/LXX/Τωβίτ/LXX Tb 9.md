@@ -1,9 +1,13 @@
 ---
-aliases : Tb 9
+aliases : 
+- Τωβίτ 9
+- Tobie 9
+- Tb 9
+- Tobit 9
 tags : Bible/Tb/9
 ---
 
-# Chapitre 9
+# Τωβίτ 9
 
 ###### 1
 καὶ ἐκάλεσεν τωβιας τὸν ραφαηλ καὶ εἶπεν αὐτῷ

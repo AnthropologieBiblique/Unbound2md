@@ -1,9 +1,13 @@
 ---
-aliases : Lv 10
+aliases : 
+- Leviticus 10
+- Lévitique 10
+- Lv 10
+- Leviticus 10
 tags : Bible/Lv/10
 ---
 
-# Chapitre 10
+# Leviticus 10
 
 ###### 1
 Arreptisque Nadab et Abiu filii Aaron turibulis, posue runt ignem et incensum desuper offerentes coram Domino ignem alienum, qui eis praeceptus non erat. 

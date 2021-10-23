@@ -1,9 +1,12 @@
 ---
-aliases : Rt 3
+aliases : 
+- Ruth 3
+- Ruth 3
+- Rt 3
 tags : Bible/Rt/3
 ---
 
-# Chapitre 3
+# Ruth 3
 
 ###### 1
 Postquam autem reversa est ad socrum suam, audivit ab ea : Filia mea, quæram tibi requiem, et providebo ut bene sit tibi.

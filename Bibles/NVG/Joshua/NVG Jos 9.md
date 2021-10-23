@@ -1,9 +1,13 @@
 ---
-aliases : Jos 9
+aliases : 
+- Joshua 9
+- Josué 9
+- Jos 9
+- Joshua 9
 tags : Bible/Jos/9
 ---
 
-# Chapitre 9
+# Joshua 9
 
 ###### 1
 Quibus auditis, cuncti reges, qui trans Iordanem versabantur in montanis et in Sephela, in omni litore maris Magni, hi quoque, qui habitabant usque ad Libanum, Hetthaeus et Amorraeus, Chananaeus, Pherezaeus et Hevaeus et Iebusaeus 

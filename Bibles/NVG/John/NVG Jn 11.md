@@ -1,9 +1,13 @@
 ---
-aliases : Jn 11
+aliases : 
+- John 11
+- Jean 11
+- Jn 11
+- John 11
 tags : Bible/Jn/11
 ---
 
-# Chapitre 11
+# John 11
 
 ###### 1
 Erat autem quidam lan guens Lazarus a Bethania, de castello Mariae et Marthae sororis eius. 

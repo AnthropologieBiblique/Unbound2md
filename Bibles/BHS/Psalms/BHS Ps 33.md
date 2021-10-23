@@ -1,9 +1,13 @@
 ---
-aliases : Ps 33
+aliases : 
+- Psalms 33
+- Psaumes 33
+- Ps 33
+- Psalms 33
 tags : Bible/Ps/33
 ---
 
-# Chapitre 33
+# Psalms 33
 
 ###### 1
 רַנְּנוּ צַדִּיקִים בַּיהוָה לַיְשָׁרִים נָאוָה תְהִלָּה׃

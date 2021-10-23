@@ -1,9 +1,13 @@
 ---
-aliases : Lv 24
+aliases : 
+- Λευϊτικόν 24
+- Lévitique 24
+- Lv 24
+- Leviticus 24
 tags : Bible/Lv/24
 ---
 
-# Chapitre 24
+# Λευϊτικόν 24
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

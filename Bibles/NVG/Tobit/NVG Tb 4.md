@@ -1,9 +1,13 @@
 ---
-aliases : Tb 4
+aliases : 
+- Tobit 4
+- Tobie 4
+- Tb 4
+- Tobit 4
 tags : Bible/Tb/4
 ---
 
-# Chapitre 4
+# Tobit 4
 
 ###### 1
 In illa die rememoratus est Thobi pecuniae, quam com mendaverat Gabael in Rages Mediae. 

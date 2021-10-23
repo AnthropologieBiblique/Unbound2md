@@ -1,9 +1,13 @@
 ---
-aliases : Ps 103
+aliases : 
+- Psalms 103
+- Psaumes 103
+- Ps 103
+- Psalms 103
 tags : Bible/Ps/103
 ---
 
-# Chapitre 103
+# Psalms 103
 
 ###### 1
 לְדָוִד בָּרֲכִי נַפְשִׁי אֶת־יְהוָה וְכָל־קְרָבַי אֶת־שֵׁם קָדְשֹׁו׃

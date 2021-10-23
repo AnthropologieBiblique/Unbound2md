@@ -1,9 +1,13 @@
 ---
-aliases : Jr 22
+aliases : 
+- Jeremiah 22
+- Jérémie 22
+- Jr 22
+- Jeremiah 22
 tags : Bible/Jr/22
 ---
 
-# Chapitre 22
+# Jeremiah 22
 
 ###### 1
 כֹּה אָמַר יְהוָה רֵד בֵּית־מֶלֶךְ יְהוּדָה וְדִבַּרְתָּ שָׁם אֶת־הַדָּבָר הַזֶּה׃

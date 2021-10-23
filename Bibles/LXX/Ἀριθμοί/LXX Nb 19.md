@@ -1,9 +1,13 @@
 ---
-aliases : Nb 19
+aliases : 
+- Ἀριθμοί 19
+- Nombres 19
+- Nb 19
+- Numbers 19
 tags : Bible/Nb/19
 ---
 
-# Chapitre 19
+# Ἀριθμοί 19
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν καὶ ααρων λέγων

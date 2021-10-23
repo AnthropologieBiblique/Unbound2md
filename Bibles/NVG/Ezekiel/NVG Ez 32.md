@@ -1,9 +1,13 @@
 ---
-aliases : Ez 32
+aliases : 
+- Ezekiel 32
+- Ézéchiel 32
+- Ez 32
+- Ezekiel 32
 tags : Bible/Ez/32
 ---
 
-# Chapitre 32
+# Ezekiel 32
 
 ###### 1
 Et factum est duodecimo anno, in mense duodecimo, in una mensis, factum est verbum Domini ad me dicens: 

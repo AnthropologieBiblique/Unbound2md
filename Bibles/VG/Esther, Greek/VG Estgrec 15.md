@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 15
+aliases : 
+- Esther, Greek 15
+- Esther, Grec 15
+- Estgrec 15
+- Esther, Greek 15
 tags : Bible/Estgrec/15
 ---
 
-# Chapitre 15
+# Esther, Greek 15
 
 ###### 1
 Et mandavit ei (haud dubium quin esset Mardochæus) ut ingrederetur ad regem, et rogaret pro populo suo et pro patria sua.

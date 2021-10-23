@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 11
+aliases : 
+- 1 Chronicles 11
+- 1 Chroniques 11
+- 1 Ch 11
+- 1 Chronicles 11
 tags : Bible/1Ch/11
 ---
 
-# Chapitre 11
+# 1 Chronicles 11
 
 ###### 1
 Congregatus est igitur omnis Israël ad David in Hebron, dicens : Os tuum sumus, et caro tua.

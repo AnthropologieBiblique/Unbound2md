@@ -1,9 +1,13 @@
 ---
-aliases : Rm 12
+aliases : 
+- Romans 12
+- Romains 12
+- Rm 12
+- Romans 12
 tags : Bible/Rm/12
 ---
 
-# Chapitre 12
+# Romans 12
 
 ###### 1
 Obsecro itaque vos, fratres, per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum; 

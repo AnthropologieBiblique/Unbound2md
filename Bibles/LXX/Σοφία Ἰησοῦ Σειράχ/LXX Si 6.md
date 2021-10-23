@@ -1,9 +1,13 @@
 ---
-aliases : Si 6
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 6
+- Siracide 6
+- Si 6
+- Ecclesiasticus (Sira 6
 tags : Bible/Si/6
 ---
 
-# Chapitre 6
+# Σοφία Ἰησοῦ Σειράχ 6
 
 ###### 2
 μὴ ἐπάρῃς σεαυτὸν ἐν βουλῇ ψυχῆς σου ἵνα μὴ διαρπαγῇ ὡς ταῦρος ἡ ψυχή σου

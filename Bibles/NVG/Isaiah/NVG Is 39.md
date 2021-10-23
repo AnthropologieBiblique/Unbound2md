@@ -1,9 +1,13 @@
 ---
-aliases : Is 39
+aliases : 
+- Isaiah 39
+- Isaïe 39
+- Is 39
+- Isaiah 39
 tags : Bible/Is/39
 ---
 
-# Chapitre 39
+# Isaiah 39
 
 ###### 1
 In tempore illo misit Merodachbaladan filius Baladan rex Babylonis litteras et munera ad Ezechiam; audierat enim quod aegrotasset et convaluisset. 

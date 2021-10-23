@@ -1,9 +1,13 @@
 ---
-aliases : Ct 1
+aliases : 
+- Ἆσμα Ἀσμάτων 1
+- Cantique des cantiques 1
+- Ct 1
+- Song of Solomon 1
 tags : Bible/Ct/1
 ---
 
-# Chapitre 1
+# Ἆσμα Ἀσμάτων 1
 
 ###### 1
 ἆ|σμα ἀ|σμάτων ὅ ἐστιν τῷ σαλωμων

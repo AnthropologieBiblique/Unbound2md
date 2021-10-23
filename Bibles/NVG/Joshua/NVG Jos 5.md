@@ -1,9 +1,13 @@
 ---
-aliases : Jos 5
+aliases : 
+- Joshua 5
+- Josué 5
+- Jos 5
+- Joshua 5
 tags : Bible/Jos/5
 ---
 
-# Chapitre 5
+# Joshua 5
 
 ###### 1
 Postquam ergo audierunt om nes reges Amorraeorum, qui ha bitabant trans Iordanem ad occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant Magno mari loca, quod siccasset Dominus fluenta Iordanis coram filiis Israel, donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus coram filiis Israel.

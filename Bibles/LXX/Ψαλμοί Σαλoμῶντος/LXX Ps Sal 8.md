@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 8
+aliases : 
+- Ψαλμοί Σαλoμῶντος 8
+- Psaume extra numerum 8
+- Ps Sal 8
+- Psalm of Solomon 8
 tags : Bible/PsSal/8
 ---
 
-# Chapitre 8
+# Ψαλμοί Σαλoμῶντος 8
 
 ###### 1
 θλῖψιν καὶ φωνὴν πολέμου ἤκουσεν τὸ οὖς μου φωνὴν σάλπιγγος ἠχούσης σφαγὴν καὶ ὄλεθρον

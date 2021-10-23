@@ -1,9 +1,13 @@
 ---
-aliases : Gn 48
+aliases : 
+- Genesis 48
+- Genèse 48
+- Gn 48
+- Genesis 48
 tags : Bible/Gn/48
 ---
 
-# Chapitre 48
+# Genesis 48
 
 ###### 1
 His ita transactis, nuntiatum est Ioseph quod aegrotaret pater suus. Et assumpsit secum duos filios Manasse et Ephraim. 

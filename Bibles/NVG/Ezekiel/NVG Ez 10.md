@@ -1,9 +1,13 @@
 ---
-aliases : Ez 10
+aliases : 
+- Ezekiel 10
+- Ézéchiel 10
+- Ez 10
+- Ezekiel 10
 tags : Bible/Ez/10
 ---
 
-# Chapitre 10
+# Ezekiel 10
 
 ###### 1
 Et vidi: et ecce super fir mamentum, quod erat super caput cherubim, quasi lapis sapphirus, quasi species similitudinis solii apparuit super ea. 

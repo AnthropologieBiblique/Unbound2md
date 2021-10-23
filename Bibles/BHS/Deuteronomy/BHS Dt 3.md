@@ -1,9 +1,13 @@
 ---
-aliases : Dt 3
+aliases : 
+- Deuteronomy 3
+- Deutéronome 3
+- Dt 3
+- Deuteronomy 3
 tags : Bible/Dt/3
 ---
 
-# Chapitre 3
+# Deuteronomy 3
 
 ###### 1
 וַנֵּפֶן וַנַּעַל דֶּרֶךְ הַבָּשָׁן וַיֵּצֵא עֹוג מֶלֶךְ־הַבָּשָׁן לִקְרָאתֵנוּ הוּא וְכָל־עַמֹּו לַמִּלְחָמָה אֶדְרֶעִי׃

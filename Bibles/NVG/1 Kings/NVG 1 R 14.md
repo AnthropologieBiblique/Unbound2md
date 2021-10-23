@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 14
+aliases : 
+- 1 Kings 14
+- 1 Rois 14
+- 1 R 14
+- 1 Kings 14
 tags : Bible/1R/14
 ---
 
-# Chapitre 14
+# 1 Kings 14
 
 ###### 1
 In tempore illo aegrotavit Abia filius Ieroboam, 

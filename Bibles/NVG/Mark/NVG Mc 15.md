@@ -1,9 +1,13 @@
 ---
-aliases : Mc 15
+aliases : 
+- Mark 15
+- Marc 15
+- Mc 15
+- Mark 15
 tags : Bible/Mc/15
 ---
 
-# Chapitre 15
+# Mark 15
 
 ###### 1
 Et confestim mane consilium facientes summi sacerdotes cum senioribus et scribis, id est universum concilium, vincientes Iesum duxerunt et tradiderunt Pilato. 

@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 13
+aliases : 
+- 1 Chronicles 13
+- 1 Chroniques 13
+- 1 Ch 13
+- 1 Chronicles 13
 tags : Bible/1Ch/13
 ---
 
-# Chapitre 13
+# 1 Chronicles 13
 
 ###### 1
 וַיִּוָּעַץ דָּוִיד עִם־שָׂרֵי הָאֲלָפִים וְהַמֵּאֹות לְכָל־נָגִיד׃

@@ -1,9 +1,12 @@
 ---
-aliases : Am 4
+aliases : 
+- Amos 4
+- Amos 4
+- Am 4
 tags : Bible/Am/4
 ---
 
-# Chapitre 4
+# Amos 4
 
 ###### 1
 Audite verbum hoc, vaccæ pingues, quæ estis in monte Samariæ, quæ calumniam facitis egenis et confringitis pauperes ; quæ dicitis dominis vestris : Afferte, et bibemus.

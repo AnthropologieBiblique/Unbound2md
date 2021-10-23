@@ -1,9 +1,13 @@
 ---
-aliases : Jon 4
+aliases : 
+- Jonah 4
+- Jonas 4
+- Jon 4
+- Jonah 4
 tags : Bible/Jon/4
 ---
 
-# Chapitre 4
+# Jonah 4
 
 ###### 1
 וַיֵּרַע אֶל־יֹונָה רָעָה גְדֹולָה וַיִּחַר לֹו׃

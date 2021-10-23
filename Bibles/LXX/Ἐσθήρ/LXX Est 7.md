@@ -1,9 +1,12 @@
 ---
-aliases : Est 7
+aliases : 
+- Ἐσθήρ 7
+- Esther 7
+- Est 7
 tags : Bible/Est/7
 ---
 
-# Chapitre 7
+# Ἐσθήρ 7
 
 ###### 1
 εἰσῆλθεν δὲ ὁ βασιλεὺς καὶ αμαν συμπιεῖν τῇ βασιλίσσῃ

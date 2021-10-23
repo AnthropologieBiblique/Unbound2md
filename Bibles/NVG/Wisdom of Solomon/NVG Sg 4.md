@@ -1,9 +1,13 @@
 ---
-aliases : Sg 4
+aliases : 
+- Wisdom of Solomon 4
+- Sagesse 4
+- Sg 4
+- Wisdom of Solomon 4
 tags : Bible/Sg/4
 ---
 
-# Chapitre 4
+# Wisdom of Solomon 4
 
 ###### 1
 Melius est absque liberis esse cum virtute; immortalitas est enim in memoria illius, quoniam et apud Deum nota est et apud homines.

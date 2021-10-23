@@ -1,9 +1,13 @@
 ---
-aliases : Os 12
+aliases : 
+- Hosea 12
+- Osée 12
+- Os 12
+- Hosea 12
 tags : Bible/Os/12
 ---
 
-# Chapitre 12
+# Hosea 12
 
 ###### 1
 Ephraim pascit ventum, et sequitur æstum ; tota die mendacium et vastitatem multiplicat : et fœdus cum Assyriis init, et oleum in Ægyptum ferebat.

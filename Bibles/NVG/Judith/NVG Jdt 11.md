@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 11
+aliases : 
+- Judith 11
+- Judith 11
+- Jdt 11
 tags : Bible/Jdt/11
 ---
 
-# Chapitre 11
+# Judith 11
 
 ###### 1
 Dixitque ad eam Holofernes: “ Aequo animo esto, mulier, et noli pavere corde tuo, quoniam ego non nocui viro cuicumque placuit servire Nabuchodonosor regi totius terrae. 

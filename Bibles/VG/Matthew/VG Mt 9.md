@@ -1,9 +1,13 @@
 ---
-aliases : Mt 9
+aliases : 
+- Matthew 9
+- Matthieu 9
+- Mt 9
+- Matthew 9
 tags : Bible/Mt/9
 ---
 
-# Chapitre 9
+# Matthew 9
 
 ###### 1
 Et ascendens in naviculam, transfretavit, et venit in civitatem suam.

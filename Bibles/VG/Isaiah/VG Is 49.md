@@ -1,9 +1,13 @@
 ---
-aliases : Is 49
+aliases : 
+- Isaiah 49
+- Isaïe 49
+- Is 49
+- Isaiah 49
 tags : Bible/Is/49
 ---
 
-# Chapitre 49
+# Isaiah 49
 
 ###### 1
 Audite, insulæ ; et attendite, populi de longe ; Dominus ab utero vocavit me, de ventre matris meæ recordatus est nominis mei.

@@ -1,9 +1,13 @@
 ---
-aliases : Ne 11
+aliases : 
+- Nehemiah 11
+- Néhémie 11
+- Ne 11
+- Nehemiah 11
 tags : Bible/Ne/11
 ---
 
-# Chapitre 11
+# Nehemiah 11
 
 ###### 1
 Habitaverunt autem princi pes populi in Ierusalem; reli qua vero plebs misit sortem, ut adducerent unum virum de decem ad habitandum in Ierusalem civitate sancta, novem vero partes in civitatibus. 

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 22
+aliases : 
+- Job 22
+- Job 22
+- Jb 22
 tags : Bible/Jb/22
 ---
 
-# Chapitre 22
+# Job 22
 
 ###### 1
 וַיַּעַן אֱלִיפַז הַתֵּמָנִי וַיֹּאמַר׃

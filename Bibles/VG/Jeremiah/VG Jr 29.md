@@ -1,9 +1,13 @@
 ---
-aliases : Jr 29
+aliases : 
+- Jeremiah 29
+- Jérémie 29
+- Jr 29
+- Jeremiah 29
 tags : Bible/Jr/29
 ---
 
-# Chapitre 29
+# Jeremiah 29
 
 ###### 1
 Et hæc sunt verba libri quem misit Jeremias propheta de Jerusalem ad reliquias seniorum transmigrationis, et ad sacerdotes, et ad prophetas, et ad omnem populum quem traduxerat Nabuchodonosor de Jerusalem in Babylonem,

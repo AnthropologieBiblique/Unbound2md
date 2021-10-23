@@ -1,9 +1,13 @@
 ---
-aliases : Ez 7
+aliases : 
+- Ezekiel 7
+- Ézéchiel 7
+- Ez 7
+- Ezekiel 7
 tags : Bible/Ez/7
 ---
 
-# Chapitre 7
+# Ezekiel 7
 
 ###### 1
 Et factus est sermo Domini ad me, dicens :

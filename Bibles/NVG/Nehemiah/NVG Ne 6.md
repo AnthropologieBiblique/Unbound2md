@@ -1,9 +1,13 @@
 ---
-aliases : Ne 6
+aliases : 
+- Nehemiah 6
+- Néhémie 6
+- Ne 6
+- Nehemiah 6
 tags : Bible/Ne/6
 ---
 
-# Chapitre 6
+# Nehemiah 6
 
 ###### 1
 Factum est autem cum audisset Sanaballat et Thobias et Gosem Arabs et ceteri inimici nostri, quod aedificassem ego murum, et non esset in ipso residua interruptio — usque ad tempus autem illud valvas non posueram in portis — 

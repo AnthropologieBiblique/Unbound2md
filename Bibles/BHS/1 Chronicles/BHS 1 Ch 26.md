@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 26
+aliases : 
+- 1 Chronicles 26
+- 1 Chroniques 26
+- 1 Ch 26
+- 1 Chronicles 26
 tags : Bible/1Ch/26
 ---
 
-# Chapitre 26
+# 1 Chronicles 26
 
 ###### 1
 לְמַחְלְקֹות לְשֹׁעֲרִים לַקָּרְחִים מְשֶׁלֶמְיָהוּ בֶן־קֹרֵא מִן־בְּנֵי אָסָף׃

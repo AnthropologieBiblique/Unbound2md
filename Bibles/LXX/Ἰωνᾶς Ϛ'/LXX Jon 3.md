@@ -1,9 +1,13 @@
 ---
-aliases : Jon 3
+aliases : 
+- Ἰωνᾶς Ϛ' 3
+- Jonas 3
+- Jon 3
+- Jonah 3
 tags : Bible/Jon/3
 ---
 
-# Chapitre 3
+# Ἰωνᾶς Ϛ' 3
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρὸς ιωναν ἐκ δευτέρου λέγων

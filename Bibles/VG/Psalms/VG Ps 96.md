@@ -1,9 +1,13 @@
 ---
-aliases : Ps 97
+aliases : 
+- Psalms 96
+- Psaumes 97
+- Ps 97
+- Psalms 97
 tags : Bible/Ps/97
 ---
 
-# Chapitre 96
+# Psalms 96
 
 ###### 1
 Huic David, quando terra ejus restituta est. Dominus regnavit ; exsultet terra ; lætentur insulæ multæ.

@@ -1,9 +1,13 @@
 ---
-aliases : Ne 9
+aliases : 
+- Nehemiah 10
+- Néhémie 9
+- Ne 9
+- Nehemiah 9
 tags : Bible/Ne/9
 ---
 
-# Chapitre 10
+# Nehemiah 10
 
 ###### 1
 וּבְכָל־זֹאת אֲנַחְנוּ כֹּרְתִים אֲמָנָה וְכֹתְבִים וְעַל הֶחָתוּם שָׂרֵינוּ לְוִיֵּנוּ כֹּהֲנֵינוּ׃

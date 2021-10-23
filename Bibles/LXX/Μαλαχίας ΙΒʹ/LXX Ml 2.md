@@ -1,9 +1,13 @@
 ---
-aliases : Ml 2
+aliases : 
+- Μαλαχίας ΙΒʹ 2
+- Malachie 2
+- Ml 2
+- Malachi 2
 tags : Bible/Ml/2
 ---
 
-# Chapitre 2
+# Μαλαχίας ΙΒʹ 2
 
 ###### 1
 καὶ νῦν ἡ ἐντολὴ αὕτη πρὸς ὑμᾶς οἱ ἱερεῖς

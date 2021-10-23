@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 15
+aliases : 
+- 2 Maccabees 15
+- 2 Maccabees 15
+- 2 M 15
 tags : Bible/2M/15
 ---
 
-# Chapitre 15
+# 2 Maccabees 15
 
 ###### 1
 Nicanor autem, ut comperit eos, qui cum Iuda erant, in locis esse iuxta Samariam, cogitavit requietionis die cum omni securitate eos aggredi. 

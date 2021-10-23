@@ -1,9 +1,13 @@
 ---
-aliases : Ga 6
+aliases : 
+- Galatians 6
+- Galates 6
+- Ga 6
+- Galatians 6
 tags : Bible/Ga/6
 ---
 
-# Chapitre 6
+# Galatians 6
 
 ###### 1
 Fratres, etsi præoccupatus fuerit homo in aliquo delicto, vos, qui spirituales estis, hujusmodi instruite in spiritu lenitatis, considerans teipsum, ne et tu tenteris.

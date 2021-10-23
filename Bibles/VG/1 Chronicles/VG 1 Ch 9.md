@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 9
+aliases : 
+- 1 Chronicles 9
+- 1 Chroniques 9
+- 1 Ch 9
+- 1 Chronicles 9
 tags : Bible/1Ch/9
 ---
 
-# Chapitre 9
+# 1 Chronicles 9
 
 ###### 1
 Universus ergo Israël dinumeratus est et summa eorum scripta est in libro regum Israël, et Juda : translatique sunt in Babylonem propter delictum suum.

@@ -1,9 +1,13 @@
 ---
-aliases : Pr 4
+aliases : 
+- Παροιμίαι 4
+- Proverbes 4
+- Pr 4
+- Proverbs 4
 tags : Bible/Pr/4
 ---
 
-# Chapitre 4
+# Παροιμίαι 4
 
 ###### 1
 ἀκούσατε παῖδες παιδείαν πατρὸς καὶ προσέχετε γνῶναι ἔννοιαν

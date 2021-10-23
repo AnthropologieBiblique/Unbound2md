@@ -1,9 +1,13 @@
 ---
-aliases : Dt 22
+aliases : 
+- Deuteronomy 22
+- Deutéronome 22
+- Dt 22
+- Deuteronomy 22
 tags : Bible/Dt/22
 ---
 
-# Chapitre 22
+# Deuteronomy 22
 
 ###### 1
 Non videbis bovem fratris tui, aut ovem errantem, et præteribis : sed reduces fratri tuo,

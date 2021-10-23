@@ -1,9 +1,13 @@
 ---
-aliases : Pr 18
+aliases : 
+- Proverbs 18
+- Proverbes 18
+- Pr 18
+- Proverbs 18
 tags : Bible/Pr/18
 ---
 
-# Chapitre 18
+# Proverbs 18
 
 ###### 1
 Occasiones quærit qui vult recedere ab amico, omni tempore erit exprobrabilis.

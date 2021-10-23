@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 9
+aliases : 
+- 1 Maccabees 9
+- 1 Maccabees 9
+- 1 M 9
 tags : Bible/1M/9
 ---
 
-# Chapitre 9
+# 1 Maccabees 9
 
 ###### 1
 Et audivit Demetrius quia ce cidit Nicanor et exercitus eius in proelio et apposuit Bacchidem et Alcimum rursum mittere in terram Iudaeae et dextrum cornu cum illis. 

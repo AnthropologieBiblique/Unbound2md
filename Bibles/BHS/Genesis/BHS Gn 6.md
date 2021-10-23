@@ -1,9 +1,13 @@
 ---
-aliases : Gn 6
+aliases : 
+- Genesis 6
+- Genèse 6
+- Gn 6
+- Genesis 6
 tags : Bible/Gn/6
 ---
 
-# Chapitre 6
+# Genesis 6
 
 ###### 1
 וַיְהִי כִּי־הֵחֵל הָאָדָם לָרֹב עַל־פְּנֵי הָאֲדָמָה וּבָנֹות יֻלְּדוּ לָהֶם׃

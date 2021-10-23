@@ -1,9 +1,13 @@
 ---
-aliases : Nb 8
+aliases : 
+- Ἀριθμοί 8
+- Nombres 8
+- Nb 8
+- Numbers 8
 tags : Bible/Nb/8
 ---
 
-# Chapitre 8
+# Ἀριθμοί 8
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

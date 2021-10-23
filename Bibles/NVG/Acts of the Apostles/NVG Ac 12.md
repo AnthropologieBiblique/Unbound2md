@@ -1,9 +1,13 @@
 ---
-aliases : Ac 12
+aliases : 
+- Acts of the Apostles 12
+- Actes 12
+- Ac 12
+- Acts of the Apostles 12
 tags : Bible/Ac/12
 ---
 
-# Chapitre 12
+# Acts of the Apostles 12
 
 ###### 1
 Illo autem tempore, misit Herodes rex manus, ut affli geret quosdam de ecclesia. 

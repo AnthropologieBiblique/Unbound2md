@@ -1,9 +1,13 @@
 ---
-aliases : Ez 7
+aliases : 
+- Ἰεζεκιήλ 7
+- Ézéchiel 7
+- Ez 7
+- Ezekiel 7
 tags : Bible/Ez/7
 ---
 
-# Chapitre 7
+# Ἰεζεκιήλ 7
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 12
+aliases : 
+- 1 Maccabees 12
+- 1 Maccabees 12
+- 1 M 12
 tags : Bible/1M/12
 ---
 
-# Chapitre 12
+# 1 Maccabees 12
 
 ###### 1
 Et vidit Ionathas quia tem pus eum adiuvat; et elegit vi ros et misit Romam statuere et renovare cum eis amicitiam; 

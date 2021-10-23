@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 7
+aliases : 
+- Ἐσθήρ 7
+- Esther, Grec 7
+- Estgrec 7
+- Esther, Greek 7
 tags : Bible/Estgrec/7
 ---
 
-# Chapitre 7
+# Ἐσθήρ 7
 
 ###### 1
 εἰσῆλθεν δὲ ὁ βασιλεὺς καὶ αμαν συμπιεῖν τῇ βασιλίσσῃ

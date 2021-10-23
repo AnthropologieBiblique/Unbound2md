@@ -1,9 +1,13 @@
 ---
-aliases : Lv 17
+aliases : 
+- Λευϊτικόν 17
+- Lévitique 17
+- Lv 17
+- Leviticus 17
 tags : Bible/Lv/17
 ---
 
-# Chapitre 17
+# Λευϊτικόν 17
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

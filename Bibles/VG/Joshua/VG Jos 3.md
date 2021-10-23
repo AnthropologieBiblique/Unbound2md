@@ -1,9 +1,13 @@
 ---
-aliases : Jos 3
+aliases : 
+- Joshua 3
+- Josué 3
+- Jos 3
+- Joshua 3
 tags : Bible/Jos/3
 ---
 
-# Chapitre 3
+# Joshua 3
 
 ###### 1
 Igitur Josue de nocte consurgens movit castra : egredientesque de Setim, venerunt ad Jordanem ipse et omnes filii Israël, et morati sunt ibi tres dies.

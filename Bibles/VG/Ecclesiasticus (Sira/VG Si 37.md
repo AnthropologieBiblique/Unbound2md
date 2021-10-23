@@ -1,9 +1,13 @@
 ---
-aliases : Si 37
+aliases : 
+- Ecclesiasticus (Sira 37
+- Siracide 37
+- Si 37
+- Ecclesiasticus (Sira 37
 tags : Bible/Si/37
 ---
 
-# Chapitre 37
+# Ecclesiasticus (Sira 37
 
 ###### 1
 Omnis amicus dicet : Et ego amicitiam copulavi : sed est amicus solo nomine amicus. Nonne tristitia inest usque ad mortem ?

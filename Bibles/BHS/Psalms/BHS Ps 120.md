@@ -1,9 +1,13 @@
 ---
-aliases : Ps 120
+aliases : 
+- Psalms 120
+- Psaumes 120
+- Ps 120
+- Psalms 120
 tags : Bible/Ps/120
 ---
 
-# Chapitre 120
+# Psalms 120
 
 ###### 1
  שִׁיר הַמַּעֲלֹות אֶל־יְהוָה בַּצָּרָתָה לִּי קָרָאתִי וַיַּעֲנֵנִי׃

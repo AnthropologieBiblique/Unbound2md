@@ -1,9 +1,13 @@
 ---
-aliases : Ps 32
+aliases : 
+- Psalms 32
+- Psaumes 32
+- Ps 32
+- Psalms 32
 tags : Bible/Ps/32
 ---
 
-# Chapitre 32
+# Psalms 32
 
 ###### 1
 David. Maskil. Beatus, cui remissa est iniquitas, et obtectum est peccatum.

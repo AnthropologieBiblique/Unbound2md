@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 4
+aliases : 
+- Judith 4
+- Judith 4
+- Jdt 4
 tags : Bible/Jdt/4
 ---
 
-# Chapitre 4
+# Judith 4
 
 ###### 1
 Tunc audientes hæc filii Israël, qui habitabant in terra Juda, timuerunt valde a facie ejus.

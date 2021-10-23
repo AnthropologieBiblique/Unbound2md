@@ -1,9 +1,13 @@
 ---
-aliases : Jos 8
+aliases : 
+- Joshua 8
+- Josué 8
+- Jos 8
+- Joshua 8
 tags : Bible/Jos/8
 ---
 
-# Chapitre 8
+# Joshua 8
 
 ###### 1
 Dixit autem Dominus ad Iosue: “ Ne timeas neque formides; tol le tecum omnem multitudinem pugnatorum et consurgens ascende in oppidum Hai: ecce tradidi in manu tua regem eius et populum urbemque et terram eius. 

@@ -1,9 +1,13 @@
 ---
-aliases : Jl 2
+aliases : 
+- Joel 3
+- Joël 2
+- Jl 2
+- Joel 2
 tags : Bible/Jl/2
 ---
 
-# Chapitre 3
+# Joel 3
 
 ###### 1
 Et erit post haec: effundam spiritum meum super omnem carnem, et prophetabunt filii vestri et filiae vestrae, senes vestri somnia somniabunt, et iuvenes vestri visiones videbunt;

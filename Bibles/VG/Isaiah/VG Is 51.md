@@ -1,9 +1,13 @@
 ---
-aliases : Is 51
+aliases : 
+- Isaiah 51
+- Isaïe 51
+- Is 51
+- Isaiah 51
 tags : Bible/Is/51
 ---
 
-# Chapitre 51
+# Isaiah 51
 
 ###### 1
 Audite me, qui sequimini quod justum est, et quæritis Dominum ; attendite ad petram unde excisi estis, et ad cavernam laci de qua præcisi estis.

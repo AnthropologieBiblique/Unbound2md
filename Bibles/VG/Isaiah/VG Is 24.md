@@ -1,9 +1,13 @@
 ---
-aliases : Is 24
+aliases : 
+- Isaiah 24
+- Isaïe 24
+- Is 24
+- Isaiah 24
 tags : Bible/Is/24
 ---
 
-# Chapitre 24
+# Isaiah 24
 
 ###### 1
 Ecce Dominus dissipabit terram : et nudabit eam, et affliget faciem ejus, et disperget habitatores ejus.

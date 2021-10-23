@@ -1,9 +1,13 @@
 ---
-aliases : Ez 31
+aliases : 
+- Ezekiel 31
+- Ézéchiel 31
+- Ez 31
+- Ezekiel 31
 tags : Bible/Ez/31
 ---
 
-# Chapitre 31
+# Ezekiel 31
 
 ###### 1
 Et factum est in anno undecimo, tertio mense, una mensis : factum est verbum Domini ad me, dicens :

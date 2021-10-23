@@ -1,9 +1,13 @@
 ---
-aliases : Lv 13
+aliases : 
+- Leviticus 13
+- Lévitique 13
+- Lv 13
+- Leviticus 13
 tags : Bible/Lv/13
 ---
 
-# Chapitre 13
+# Leviticus 13
 
 ###### 1
 Locutus est Dominus ad Moysen et Aaron dicens: 

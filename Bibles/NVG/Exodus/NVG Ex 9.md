@@ -1,9 +1,13 @@
 ---
-aliases : Ex 9
+aliases : 
+- Exodus 9
+- Exode 9
+- Ex 9
+- Exodus 9
 tags : Bible/Ex/9
 ---
 
-# Chapitre 9
+# Exodus 9
 
 ###### 1
 Dixit autem Dominus ad Moysen: “ Ingredere ad pharaonem et loquere ad eum: Haec dicit Dominus, Deus Hebraeorum: Dimitte populum meum, ut sacrificet mihi. 

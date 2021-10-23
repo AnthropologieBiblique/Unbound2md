@@ -1,9 +1,13 @@
 ---
-aliases : Nb 27
+aliases : 
+- Numbers 27
+- Nombres 27
+- Nb 27
+- Numbers 27
 tags : Bible/Nb/27
 ---
 
-# Chapitre 27
+# Numbers 27
 
 ###### 1
 Accesserunt autem filiæ Salphaad, filii Hepher, filii Galaad, filii Machir, filii Manasse, qui fuit filius Joseph : quarum sunt nomina, Maala, et Noa, et Hegla, et Melcha, et Thersa.

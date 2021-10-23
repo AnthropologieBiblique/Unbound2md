@@ -1,9 +1,13 @@
 ---
-aliases : Mt 21
+aliases : 
+- Matthew 21
+- Matthieu 21
+- Mt 21
+- Matthew 21
 tags : Bible/Mt/21
 ---
 
-# Chapitre 21
+# Matthew 21
 
 ###### 1
 Et cum appropinquassent Jerosolymis, et venissent Bethphage ad montem Oliveti : tunc Jesus misit duos discipulos,

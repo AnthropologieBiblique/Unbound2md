@@ -1,9 +1,13 @@
 ---
-aliases : Ps 112
+aliases : 
+- Psalms 112
+- Psaumes 112
+- Ps 112
+- Psalms 112
 tags : Bible/Ps/112
 ---
 
-# Chapitre 112
+# Psalms 112
 
 ###### 1
 הַלְלוּ יָהּ אַשְׁרֵי־אִישׁ יָרֵא אֶת־יְהוָה בְּמִצְוֹתָיו חָפֵץ מְאֹד׃

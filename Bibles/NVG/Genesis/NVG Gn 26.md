@@ -1,9 +1,13 @@
 ---
-aliases : Gn 26
+aliases : 
+- Genesis 26
+- Genèse 26
+- Gn 26
+- Genesis 26
 tags : Bible/Gn/26
 ---
 
-# Chapitre 26
+# Genesis 26
 
 ###### 1
 Orta autem fame super terram post eam sterilitatem, quae acciderat in diebus Abraham, abiit Isaac ad Abimelech regem Philisthim in Gerara. 

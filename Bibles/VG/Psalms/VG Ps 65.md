@@ -1,9 +1,13 @@
 ---
-aliases : Ps 66
+aliases : 
+- Psalms 65
+- Psaumes 66
+- Ps 66
+- Psalms 66
 tags : Bible/Ps/66
 ---
 
-# Chapitre 65
+# Psalms 65
 
 ###### 1
 In finem. Canticum psalmi resurrectionis. Jubilate Deo, omnis terra ;

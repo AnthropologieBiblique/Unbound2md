@@ -1,9 +1,13 @@
 ---
-aliases : Mt 8
+aliases : 
+- Matthew 8
+- Matthieu 8
+- Mt 8
+- Matthew 8
 tags : Bible/Mt/8
 ---
 
-# Chapitre 8
+# Matthew 8
 
 ###### 1
 Cum autem descendisset de monte, secutæ sunt eum turbæ multæ :

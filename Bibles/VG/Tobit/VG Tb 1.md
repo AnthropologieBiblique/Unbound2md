@@ -1,9 +1,13 @@
 ---
-aliases : Tb 1
+aliases : 
+- Tobit 1
+- Tobie 1
+- Tb 1
+- Tobit 1
 tags : Bible/Tb/1
 ---
 
-# Chapitre 1
+# Tobit 1
 
 ###### 1
 Tobias ex tribu et civitate Nephthali (quæ est in superioribus Galilææ supra Naasson, post viam quæ ducit ad occidentem, in sinistro habens civitatem Sephet)

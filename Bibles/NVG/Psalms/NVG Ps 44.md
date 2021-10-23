@@ -1,9 +1,13 @@
 ---
-aliases : Ps 44
+aliases : 
+- Psalms 44
+- Psaumes 44
+- Ps 44
+- Psalms 44
 tags : Bible/Ps/44
 ---
 
-# Chapitre 44
+# Psalms 44
 
 ###### 1
 Magistro chori. Filiorum Core. Maskil.

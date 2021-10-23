@@ -1,9 +1,13 @@
 ---
-aliases : Mc 8
+aliases : 
+- Mark 8
+- Marc 8
+- Mc 8
+- Mark 8
 tags : Bible/Mc/8
 ---
 
-# Chapitre 8
+# Mark 8
 
 ###### 1
 In illis diebus iterum cum turba multa esset nec haberent, quod manducarent, convocatis discipulis, ait illis: 

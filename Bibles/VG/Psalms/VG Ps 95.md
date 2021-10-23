@@ -1,9 +1,13 @@
 ---
-aliases : Ps 96
+aliases : 
+- Psalms 95
+- Psaumes 96
+- Ps 96
+- Psalms 96
 tags : Bible/Ps/96
 ---
 
-# Chapitre 95
+# Psalms 95
 
 ###### 1
 Canticum ipsi David, quando domus ædificabatur post captivitatem. Cantate Domino canticum novum, cantate Domino omnis terra.

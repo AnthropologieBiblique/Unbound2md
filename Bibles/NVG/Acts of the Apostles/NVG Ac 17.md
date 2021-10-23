@@ -1,9 +1,13 @@
 ---
-aliases : Ac 17
+aliases : 
+- Acts of the Apostles 17
+- Actes 17
+- Ac 17
+- Acts of the Apostles 17
 tags : Bible/Ac/17
 ---
 
-# Chapitre 17
+# Acts of the Apostles 17
 
 ###### 1
 Cum autem perambulassent Amphipolim et Apolloniam, venerunt Thessalonicam, ubi erat synagoga Iudaeorum. 

@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 4
+aliases : 
+- 1 Kings 4
+- 1 Rois 4
+- 1 R 4
+- 1 Kings 4
 tags : Bible/1R/4
 ---
 
-# Chapitre 4
+# 1 Kings 4
 
 ###### 1
 Erat autem rex Salomon regnans super omnem Israel. 

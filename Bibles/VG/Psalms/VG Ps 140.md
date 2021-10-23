@@ -1,9 +1,13 @@
 ---
-aliases : Ps 141
+aliases : 
+- Psalms 140
+- Psaumes 141
+- Ps 141
+- Psalms 141
 tags : Bible/Ps/141
 ---
 
-# Chapitre 140
+# Psalms 140
 
 ###### 1
 Psalmus David. Domine, clamavi ad te, exaudi me ; intende voci meæ, cum clamavero ad te.

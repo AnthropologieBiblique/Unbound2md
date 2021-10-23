@@ -1,9 +1,13 @@
 ---
-aliases : Jg 8
+aliases : 
+- Judges 8
+- Juges 8
+- Jg 8
+- Judges 8
 tags : Bible/Jg/8
 ---
 
-# Chapitre 8
+# Judges 8
 
 ###### 1
 Dixeruntque ad eum viri Ephraim: “ Quid est hoc quod nobis facere voluisti, ut non nos vocares, cum ad pugnam pergeres contra Madian? ”, iurgantes fortiter et prope vim inferentes. 

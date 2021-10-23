@@ -1,9 +1,13 @@
 ---
-aliases : Jg 12
+aliases : 
+- Judges 12
+- Juges 12
+- Jg 12
+- Judges 12
 tags : Bible/Jg/12
 ---
 
-# Chapitre 12
+# Judges 12
 
 ###### 1
 Ecce autem in Ephraim orta est seditio : nam transeuntes contra aquilonem, dixerunt ad Jephte : Quare vadens ad pugnam contra filios Ammon, vocare nos noluisti, ut pergeremus tecum ? igitur incendemus domum tuam.

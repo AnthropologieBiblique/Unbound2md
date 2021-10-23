@@ -1,9 +1,13 @@
 ---
-aliases : Nb 21
+aliases : 
+- Numbers 21
+- Nombres 21
+- Nb 21
+- Numbers 21
 tags : Bible/Nb/21
 ---
 
-# Chapitre 21
+# Numbers 21
 
 ###### 1
 Quod cum audisset Chananæus rex Arad, qui habitabat ad meridiem, venisse scilicet Israël per exploratorum viam, pugnavit contra illum, et victor existens, duxit ex eo prædam.

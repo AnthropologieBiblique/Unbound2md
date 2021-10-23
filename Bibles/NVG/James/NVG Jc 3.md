@@ -1,9 +1,13 @@
 ---
-aliases : Jc 3
+aliases : 
+- James 3
+- Jacques 3
+- Jc 3
+- James 3
 tags : Bible/Jc/3
 ---
 
-# Chapitre 3
+# James 3
 
 ###### 1
 Nolite plures magistri fieri, fra tres mei, scientes quoniam maius iudicium accipiemus. 

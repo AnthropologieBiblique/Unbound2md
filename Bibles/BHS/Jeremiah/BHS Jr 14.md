@@ -1,9 +1,13 @@
 ---
-aliases : Jr 14
+aliases : 
+- Jeremiah 14
+- Jérémie 14
+- Jr 14
+- Jeremiah 14
 tags : Bible/Jr/14
 ---
 
-# Chapitre 14
+# Jeremiah 14
 
 ###### 1
 אֲשֶׁר הָיָה דְבַר־יְהוָה אֶל־יִרְמְיָהוּ עַל־דִּבְרֵי הַבַּצָּרֹות׃

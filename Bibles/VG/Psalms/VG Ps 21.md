@@ -1,9 +1,13 @@
 ---
-aliases : Ps 22
+aliases : 
+- Psalms 21
+- Psaumes 22
+- Ps 22
+- Psalms 22
 tags : Bible/Ps/22
 ---
 
-# Chapitre 21
+# Psalms 21
 
 ###### 1
 In finem, pro susceptione matutina. Psalmus David.

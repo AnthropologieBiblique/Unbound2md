@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 15
+aliases : 
+- 1 Samuel 15
+- 1 Samuel 15
+- 1 S 15
 tags : Bible/1S/15
 ---
 
-# Chapitre 15
+# 1 Samuel 15
 
 ###### 1
 Et dixit Samuel ad Saul: “ Me misit Dominus, ut unge rem te in regem super populum eius Israel. Nunc ergo audi vocem Domini. 

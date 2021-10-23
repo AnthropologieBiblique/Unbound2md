@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 15
+aliases : 
+- 1 Chronicles 15
+- 1 Chroniques 15
+- 1 Ch 15
+- 1 Chronicles 15
 tags : Bible/1Ch/15
 ---
 
-# Chapitre 15
+# 1 Chronicles 15
 
 ###### 1
 Fecit quoque sibi domos in civitate David et praeparavit locum arcae Dei tetenditque ei tabernaculum. 

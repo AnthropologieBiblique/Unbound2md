@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 13
+aliases : 
+- Judith 13
+- Judith 13
+- Jdt 13
 tags : Bible/Jdt/13
 ---
 
-# Chapitre 13
+# Judith 13
 
 ###### 1
 Et, ut vesper factus est, festinaverunt servi eius abire, et Bagoas conclusit tabernaculum a foris et dimisit adstantes a facie domini sui. Et abierunt omnes in cubilia sua; erant enim omnes fatigati, quoniam plurimus factus erat potus. 

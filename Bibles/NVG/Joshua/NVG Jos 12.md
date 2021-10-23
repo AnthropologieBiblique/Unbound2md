@@ -1,9 +1,13 @@
 ---
-aliases : Jos 12
+aliases : 
+- Joshua 12
+- Josué 12
+- Jos 12
+- Joshua 12
 tags : Bible/Jos/12
 ---
 
-# Chapitre 12
+# Joshua 12
 
 ###### 1
 Hi sunt reges, quos percusserunt filii Israel et possederunt terram eorum trans Iordanem ad solis ortum, a torrente Arnon usque ad montem Hermon et omnem orientalem plagam Arabae.

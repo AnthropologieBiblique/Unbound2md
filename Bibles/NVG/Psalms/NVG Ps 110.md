@@ -1,9 +1,13 @@
 ---
-aliases : Ps 110
+aliases : 
+- Psalms 110
+- Psaumes 110
+- Ps 110
+- Psalms 110
 tags : Bible/Ps/110
 ---
 
-# Chapitre 110
+# Psalms 110
 
 ###### 1
 David. PSALMUS. Dixit Dominus Domino meo: “ Sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum ”.

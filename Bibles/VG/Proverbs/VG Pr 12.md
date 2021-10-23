@@ -1,9 +1,13 @@
 ---
-aliases : Pr 12
+aliases : 
+- Proverbs 12
+- Proverbes 12
+- Pr 12
+- Proverbs 12
 tags : Bible/Pr/12
 ---
 
-# Chapitre 12
+# Proverbs 12
 
 ###### 1
 Qui diligit disciplinam diligit scientiam ; qui autem odit increpationes insipiens est.

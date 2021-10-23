@@ -1,9 +1,13 @@
 ---
-aliases : Ez 48
+aliases : 
+- Ezekiel 48
+- Ézéchiel 48
+- Ez 48
+- Ezekiel 48
 tags : Bible/Ez/48
 ---
 
-# Chapitre 48
+# Ezekiel 48
 
 ###### 1
 Et haec nomina tribuum: in finibus aquilonis iuxta viam Hethalon ad introitum Emath, Asarenon — fines Damasci ad aquilonem iuxta Emath — erit a plaga orientali usque ad mare, Dan pars una. 

@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 14
+aliases : 
+- Judith 14
+- Judith 14
+- Jdt 14
 tags : Bible/Jdt/14
 ---
 
-# Chapitre 14
+# Judith 14
 
 ###### 1
 Et dixit Iudith ad illos: “ Audite me, fratres, et acci pientes caput hoc suspendite illud super propugnaculum muri nostri. 

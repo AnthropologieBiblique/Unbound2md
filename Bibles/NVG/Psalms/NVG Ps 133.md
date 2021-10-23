@@ -1,9 +1,13 @@
 ---
-aliases : Ps 133
+aliases : 
+- Psalms 133
+- Psaumes 133
+- Ps 133
+- Psalms 133
 tags : Bible/Ps/133
 ---
 
-# Chapitre 133
+# Psalms 133
 
 ###### 1
 Canticum ascensionum. David. Ecce quam bonum et quam iucundum habitare fratres in unum:

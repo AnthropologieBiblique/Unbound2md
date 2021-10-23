@@ -1,9 +1,13 @@
 ---
-aliases : Ne 12
+aliases : 
+- Nehemiah 12
+- Néhémie 12
+- Ne 12
+- Nehemiah 12
 tags : Bible/Ne/12
 ---
 
-# Chapitre 12
+# Nehemiah 12
 
 ###### 1
 Hi sunt autem sacerdotes et Levitae, qui ascenderunt cum Zorobabel filio Salathiel et Iesua: Saraia, Ieremias, Esdras, 

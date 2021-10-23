@@ -1,9 +1,13 @@
 ---
-aliases : Ex 14
+aliases : 
+- Exodus 14
+- Exode 14
+- Ex 14
+- Exodus 14
 tags : Bible/Ex/14
 ---
 
-# Chapitre 14
+# Exodus 14
 
 ###### 1
 וַיְדַבֵּר יְהֹוָה אֶל־מֹשֶׁה לֵּאמֹר׃

@@ -1,9 +1,12 @@
 ---
-aliases : Jb 7
+aliases : 
+- Job 7
+- Job 7
+- Jb 7
 tags : Bible/Jb/7
 ---
 
-# Chapitre 7
+# Job 7
 
 ###### 1
 Militia est vita hominis super terram ; et sicut dies mercenarii, dies ejus.

@@ -1,9 +1,13 @@
 ---
-aliases : Os 9
+aliases : 
+- Hosea 9
+- Osée 9
+- Os 9
+- Hosea 9
 tags : Bible/Os/9
 ---
 
-# Chapitre 9
+# Hosea 9
 
 ###### 1
 Noli laetari, Israel; noli exsultare sicut populi, quia fornicatus es a Deo tuo, dilexisti mercedem super omnes areas tritici.

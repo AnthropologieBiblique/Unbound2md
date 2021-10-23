@@ -1,9 +1,12 @@
 ---
-aliases : Jb 21
+aliases : 
+- Job 21
+- Job 21
+- Jb 21
 tags : Bible/Jb/21
 ---
 
-# Chapitre 21
+# Job 21
 
 ###### 1
 Respondens autem Iob dixit:

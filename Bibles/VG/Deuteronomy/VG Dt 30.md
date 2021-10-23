@@ -1,9 +1,13 @@
 ---
-aliases : Dt 30
+aliases : 
+- Deuteronomy 30
+- Deutéronome 30
+- Dt 30
+- Deuteronomy 30
 tags : Bible/Dt/30
 ---
 
-# Chapitre 30
+# Deuteronomy 30
 
 ###### 1
 Cum ergo venerint super te omnes sermones isti, benedictio sive maledictio, quam proposui in conspectu tuo : et ductus pœnitudine cordis tui in universis gentibus, in quas disperserit te Dominus Deus tuus,

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 84
+aliases : 
+- Ψαλμοί 83
+- Psaumes 84
+- Ps 84
+- Psalms 84
 tags : Bible/Ps/84
 ---
 
-# Chapitre 83
+# Ψαλμοί 83
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῶν ληνῶν τοῖς υἱοῖς κορε ψαλμός

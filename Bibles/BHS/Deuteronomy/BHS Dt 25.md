@@ -1,9 +1,13 @@
 ---
-aliases : Dt 25
+aliases : 
+- Deuteronomy 25
+- Deutéronome 25
+- Dt 25
+- Deuteronomy 25
 tags : Bible/Dt/25
 ---
 
-# Chapitre 25
+# Deuteronomy 25
 
 ###### 1
 כִּי־יִהְיֶה רִיב בֵּין אֲנָשִׁים וְנִגְּשׁוּ אֶל־הַמִּשְׁפָּט וּשְׁפָטוּם וְהִצְדִּיקוּ אֶת־הַצַּדִּיק וְהִרְשִׁיעוּ אֶת־הָרָשָׁע׃

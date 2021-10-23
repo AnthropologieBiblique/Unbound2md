@@ -1,9 +1,13 @@
 ---
-aliases : Nb 19
+aliases : 
+- Numbers 19
+- Nombres 19
+- Nb 19
+- Numbers 19
 tags : Bible/Nb/19
 ---
 
-# Chapitre 19
+# Numbers 19
 
 ###### 1
 Locutusque est Dominus ad Moysen et Aaron, dicens :

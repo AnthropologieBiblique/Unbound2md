@@ -1,9 +1,13 @@
 ---
-aliases : Jn 14
+aliases : 
+- John 14
+- Jean 14
+- Jn 14
+- John 14
 tags : Bible/Jn/14
 ---
 
-# Chapitre 14
+# John 14
 
 ###### 1
 Non turbetur cor vestrum. Creditis in Deum, et in me credite.

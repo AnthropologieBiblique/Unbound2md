@@ -1,9 +1,12 @@
 ---
-aliases : Jb 29
+aliases : 
+- Job 29
+- Job 29
+- Jb 29
 tags : Bible/Jb/29
 ---
 
-# Chapitre 29
+# Job 29
 
 ###### 1
 Addidit quoque Job, assumens parabolam suam, et dixit :

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 36
+aliases : 
+- Ψαλμοί 35
+- Psaumes 36
+- Ps 36
+- Psalms 36
 tags : Bible/Ps/36
 ---
 
-# Chapitre 35
+# Ψαλμοί 35
 
 ###### 1
 εἰς τὸ τέλος τῷ δούλῳ κυρίου τῷ δαυιδ

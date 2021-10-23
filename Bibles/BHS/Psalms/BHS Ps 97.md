@@ -1,9 +1,13 @@
 ---
-aliases : Ps 97
+aliases : 
+- Psalms 97
+- Psaumes 97
+- Ps 97
+- Psalms 97
 tags : Bible/Ps/97
 ---
 
-# Chapitre 97
+# Psalms 97
 
 ###### 1
 יְהוָה מָלָךְ תָּגֵל הָאָרֶץ יִשְׂמְחוּ אִיִּים רַבִּים׃

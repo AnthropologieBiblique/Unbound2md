@@ -1,9 +1,13 @@
 ---
-aliases : Jos 14
+aliases : 
+- Joshua 14
+- Josué 14
+- Jos 14
+- Joshua 14
 tags : Bible/Jos/14
 ---
 
-# Chapitre 14
+# Joshua 14
 
 ###### 1
 Hoc est quod possederunt filii Israël in terra Chanaan, quam dederunt eis Eleazar sacerdos, et Josue filius Nun, et principes familiarum per tribus Israël :

@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 9
+aliases : 
+- 2 Corinthians 9
+- 2 Corinthiens 9
+- 2 Co 9
+- 2 Corinthians 9
 tags : Bible/2Co/9
 ---
 
-# Chapitre 9
+# 2 Corinthians 9
 
 ###### 1
 Nam de ministerio, quod fit in sanctos, superfluum est mihi scribere vobis; 

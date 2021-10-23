@@ -1,9 +1,13 @@
 ---
-aliases : Jg 4
+aliases : 
+- Judges 4
+- Juges 4
+- Jg 4
+- Judges 4
 tags : Bible/Jg/4
 ---
 
-# Chapitre 4
+# Judges 4
 
 ###### 1
 וַיֹּסִפוּ בְּנֵי יִשְׂרָאֵל לַעֲשֹׂות הָרַע בְּעֵינֵי יְהוָה וְאֵהוּד מֵת׃

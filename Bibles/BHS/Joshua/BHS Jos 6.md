@@ -1,9 +1,13 @@
 ---
-aliases : Jos 6
+aliases : 
+- Joshua 6
+- Josué 6
+- Jos 6
+- Joshua 6
 tags : Bible/Jos/6
 ---
 
-# Chapitre 6
+# Joshua 6
 
 ###### 1
 וִירִיחֹו סֹגֶרֶת וּמְסֻגֶּרֶת מִפְּנֵי בְּנֵי יִשְׂרָאֵל אֵין יֹוצֵא וְאֵין בָּא׃ ס

@@ -1,9 +1,13 @@
 ---
-aliases : Ne 4
+aliases : 
+- Nehemiah 4
+- Néhémie 4
+- Ne 4
+- Nehemiah 4
 tags : Bible/Ne/4
 ---
 
-# Chapitre 4
+# Nehemiah 4
 
 ###### 1
 Factum est autem cum audisset Sanaballat et Thobias et Arabes et Ammanitae et Azotii quod prosperaretur restauratio muri Ierusalem et quod coepissent interrupta concludi, irati sunt nimis; 

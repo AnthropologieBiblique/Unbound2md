@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 12
+aliases : 
+- Esther, Greek 12
+- Esther, Grec 12
+- Estgrec 12
+- Esther, Greek 12
 tags : Bible/Estgrec/12
 ---
 
-# Chapitre 12
+# Esther, Greek 12
 
 ###### 1
 Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis, qui janitores erant palatii.

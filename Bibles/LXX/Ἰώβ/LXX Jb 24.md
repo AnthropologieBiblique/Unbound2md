@@ -1,9 +1,12 @@
 ---
-aliases : Jb 24
+aliases : 
+- Ἰώβ 24
+- Job 24
+- Jb 24
 tags : Bible/Jb/24
 ---
 
-# Chapitre 24
+# Ἰώβ 24
 
 ###### 1
 διὰ τί δὲ κύριον ἔλαθον ὧραι

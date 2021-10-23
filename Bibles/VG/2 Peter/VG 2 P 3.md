@@ -1,9 +1,13 @@
 ---
-aliases : 2 P 3
+aliases : 
+- 2 Peter 3
+- 2 Pierre 3
+- 2 P 3
+- 2 Peter 3
 tags : Bible/2P/3
 ---
 
-# Chapitre 3
+# 2 Peter 3
 
 ###### 1
 Hanc ecce vobis, carissimi, secundam scribo epistolam, in quibus vestram excito in commonitione sinceram mentem :

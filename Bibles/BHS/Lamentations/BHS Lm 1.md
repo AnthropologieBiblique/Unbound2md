@@ -1,9 +1,12 @@
 ---
-aliases : Lm 1
+aliases : 
+- Lamentations 1
+- Lamentations 1
+- Lm 1
 tags : Bible/Lm/1
 ---
 
-# Chapitre 1
+# Lamentations 1
 
 ###### 1
 אֵיכָה יָשְׁבָה בָדָד הָעִיר רַבָּתִי עָם הָיְתָה כְּאַלְמָנָה רַבָּתִי בַגֹּויִם שָׂרָתִי בַּמְּדִינֹות הָיְתָה לָמַס׃ ס

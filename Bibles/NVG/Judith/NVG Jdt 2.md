@@ -1,9 +1,12 @@
 ---
-aliases : Jdt 2
+aliases : 
+- Judith 2
+- Judith 2
+- Jdt 2
 tags : Bible/Jdt/2
 ---
 
-# Chapitre 2
+# Judith 2
 
 ###### 1
 Et in anno octavo decimo, secundo et vicesimo die mensis primi factum est verbum Nabuchodonosor regis Assyriorum, ut vindicaret omnem terram, sicut locutus est. 

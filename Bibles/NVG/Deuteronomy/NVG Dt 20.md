@@ -1,9 +1,13 @@
 ---
-aliases : Dt 20
+aliases : 
+- Deuteronomy 20
+- Deutéronome 20
+- Dt 20
+- Deuteronomy 20
 tags : Bible/Dt/20
 ---
 
-# Chapitre 20
+# Deuteronomy 20
 
 ###### 1
 Si exieris ad bellum contra hostes tuos et videris equita tus et currus et maiorem, quam tu habes, adversarii exercitus multitudinem, non timebis eos, quia Dominus Deus tuus tecum est, qui eduxit te de terra Aegypti. 

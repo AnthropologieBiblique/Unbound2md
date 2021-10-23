@@ -1,9 +1,12 @@
 ---
-aliases : Od 12
+aliases : 
+- Ὠδαί 12
+- Odes 12
+- Od 12
 tags : Bible/Od/12
 ---
 
-# Chapitre 12
+# Ὠδαί 12
 
 ###### 1a
 προσευχὴ μανασση

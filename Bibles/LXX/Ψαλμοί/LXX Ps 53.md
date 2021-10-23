@@ -1,9 +1,13 @@
 ---
-aliases : Ps 54
+aliases : 
+- Ψαλμοί 53
+- Psaumes 54
+- Ps 54
+- Psalms 54
 tags : Bible/Ps/54
 ---
 
-# Chapitre 53
+# Ψαλμοί 53
 
 ###### 1
 εἰς τὸ τέλος ἐν ὕμνοις συνέσεως τῷ δαυιδ

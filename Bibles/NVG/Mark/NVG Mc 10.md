@@ -1,9 +1,13 @@
 ---
-aliases : Mc 10
+aliases : 
+- Mark 10
+- Marc 10
+- Mc 10
+- Mark 10
 tags : Bible/Mc/10
 ---
 
-# Chapitre 10
+# Mark 10
 
 ###### 1
 Et inde exsurgens venit in fines Iudaeae ultra Iorda nem; et conveniunt iterum turbae ad eum, et, sicut consueverat, iterum docebat illos. 

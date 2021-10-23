@@ -1,9 +1,13 @@
 ---
-aliases : Ps 102
+aliases : 
+- Psalms 102
+- Psaumes 102
+- Ps 102
+- Psalms 102
 tags : Bible/Ps/102
 ---
 
-# Chapitre 102
+# Psalms 102
 
 ###### 1
 Preces afflicti, qui defessus angorem suum ante Dominum profundit.

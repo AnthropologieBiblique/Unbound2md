@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 2
+aliases : 
+- 2 Chronicles 2
+- 2 Chroniques 2
+- 2 Ch 2
+- 2 Chronicles 2
 tags : Bible/2Ch/2
 ---
 
-# Chapitre 2
+# 2 Chronicles 2
 
 ###### 1
 Et numeravit septuaginta milia virorum portantium umeris et octoginta milia, qui caederent lapides in montibus, praepositosque eorum tria milia sescentos.

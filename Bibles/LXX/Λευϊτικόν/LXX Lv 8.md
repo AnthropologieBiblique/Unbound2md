@@ -1,9 +1,13 @@
 ---
-aliases : Lv 8
+aliases : 
+- Λευϊτικόν 8
+- Lévitique 8
+- Lv 8
+- Leviticus 8
 tags : Bible/Lv/8
 ---
 
-# Chapitre 8
+# Λευϊτικόν 8
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

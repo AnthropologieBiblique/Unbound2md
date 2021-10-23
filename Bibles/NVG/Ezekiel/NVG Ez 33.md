@@ -1,9 +1,13 @@
 ---
-aliases : Ez 33
+aliases : 
+- Ezekiel 33
+- Ézéchiel 33
+- Ez 33
+- Ezekiel 33
 tags : Bible/Ez/33
 ---
 
-# Chapitre 33
+# Ezekiel 33
 
 ###### 1
 Et factum est verbum Do mini ad me dicens: 

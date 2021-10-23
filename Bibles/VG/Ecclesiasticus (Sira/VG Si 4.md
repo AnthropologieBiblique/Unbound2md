@@ -1,9 +1,13 @@
 ---
-aliases : Si 4
+aliases : 
+- Ecclesiasticus (Sira 4
+- Siracide 4
+- Si 4
+- Ecclesiasticus (Sira 4
 tags : Bible/Si/4
 ---
 
-# Chapitre 4
+# Ecclesiasticus (Sira 4
 
 ###### 1
 Fili, eleemosynam pauperis ne defraudes, et oculos tuos ne transvertas a paupere.

@@ -1,9 +1,13 @@
 ---
-aliases : Tb 1
+aliases : 
+- Tobit 1
+- Tobie 1
+- Tb 1
+- Tobit 1
 tags : Bible/Tb/1
 ---
 
-# Chapitre 1
+# Tobit 1
 
 ###### 1
 Liber sermonum Thobis filii Thobiel filii Ananiel filii Aduel filii Gabael filii Raphael filii Raguel ex semine Asiel, ex tribu Nephthali, 

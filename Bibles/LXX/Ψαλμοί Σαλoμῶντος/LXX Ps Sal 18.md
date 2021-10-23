@@ -1,9 +1,13 @@
 ---
-aliases : Ps Sal 18
+aliases : 
+- Ψαλμοί Σαλoμῶντος 18
+- Psaume extra numerum 18
+- Ps Sal 18
+- Psalm of Solomon 18
 tags : Bible/PsSal/18
 ---
 
-# Chapitre 18
+# Ψαλμοί Σαλoμῶντος 18
 
 ###### 1
 κύριε τὸ ἔλεός σου ἐπὶ τὰ ἔργα τῶν χειρῶν σου εἰς τὸν αἰῶνα ἡ χρηστότης σου μετὰ δόματος πλουσίου ἐπὶ ισραηλ

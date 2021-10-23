@@ -1,9 +1,13 @@
 ---
-aliases : Jr 1
+aliases : 
+- Jeremiah 1
+- Jérémie 1
+- Jr 1
+- Jeremiah 1
 tags : Bible/Jr/1
 ---
 
-# Chapitre 1
+# Jeremiah 1
 
 ###### 1
 דִּבְרֵי יִרְמְיָהוּ בֶּן־חִלְקִיָּהוּ מִן־הַכֹּהֲנִים אֲשֶׁר בַּעֲנָתֹות בְּאֶרֶץ בִּנְיָמִן׃

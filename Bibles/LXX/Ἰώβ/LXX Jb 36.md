@@ -1,9 +1,12 @@
 ---
-aliases : Jb 36
+aliases : 
+- Ἰώβ 36
+- Job 36
+- Jb 36
 tags : Bible/Jb/36
 ---
 
-# Chapitre 36
+# Ἰώβ 36
 
 ###### 1
 προσθεὶς δὲ ελιους ἔτι λέγει

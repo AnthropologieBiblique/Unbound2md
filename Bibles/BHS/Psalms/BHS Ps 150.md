@@ -1,9 +1,13 @@
 ---
-aliases : Ps 150
+aliases : 
+- Psalms 150
+- Psaumes 150
+- Ps 150
+- Psalms 150
 tags : Bible/Ps/150
 ---
 
-# Chapitre 150
+# Psalms 150
 
 ###### 1
 הַלְלוּ יָהּ הַלְלוּ־אֵל בְּקָדְשֹׁו הַלְלוּהוּ בִּרְקִיעַ עֻזֹּו׃

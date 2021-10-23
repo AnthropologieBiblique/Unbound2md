@@ -1,9 +1,13 @@
 ---
-aliases : Is 9
+aliases : 
+- Isaiah 9
+- Isaïe 9
+- Is 9
+- Isaiah 9
 tags : Bible/Is/9
 ---
 
-# Chapitre 9
+# Isaiah 9
 
 ###### 1
 Primo tempore alleviata est terra Zabulon et terra Nephthali : et novissimo aggravata est via maris trans Jordanem Galilææ gentium.

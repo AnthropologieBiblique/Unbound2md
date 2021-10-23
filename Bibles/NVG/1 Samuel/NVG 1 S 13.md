@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 13
+aliases : 
+- 1 Samuel 13
+- 1 Samuel 13
+- 1 S 13
 tags : Bible/1S/13
 ---
 
-# Chapitre 13
+# 1 Samuel 13
 
 ###### 1
 Filius annorum Saul, cum regnare coepisset; duobus au tem annis regnavit super Israel.

@@ -1,9 +1,13 @@
 ---
-aliases : Sg 9
+aliases : 
+- Σοφία Σαλoμῶντος 9
+- Sagesse 9
+- Sg 9
+- Wisdom of Solomon 9
 tags : Bible/Sg/9
 ---
 
-# Chapitre 9
+# Σοφία Σαλoμῶντος 9
 
 ###### 1
 θεὲ πατέρων καὶ κύριε τοῦ ἐλέους ὁ ποιήσας τὰ πάντα ἐν λόγῳ σου

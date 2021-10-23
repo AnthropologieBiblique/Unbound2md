@@ -1,9 +1,13 @@
 ---
-aliases : Za 8
+aliases : 
+- Zechariah 8
+- Zacharie 8
+- Za 8
+- Zechariah 8
 tags : Bible/Za/8
 ---
 
-# Chapitre 8
+# Zechariah 8
 
 ###### 1
 וַיְהִי דְּבַר־יְהוָה צְבָאֹות לֵאמֹר׃

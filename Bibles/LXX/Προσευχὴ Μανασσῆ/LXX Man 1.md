@@ -1,9 +1,13 @@
 ---
-aliases : Man 1
+aliases : 
+- Προσευχὴ Μανασσῆ 1
+- Prière de Manassé 1
+- Man 1
+- Prayer of Manasseh 1
 tags : Bible/Man/1
 ---
 
-# Chapitre 1
+# Προσευχὴ Μανασσῆ 1
 
 ###### 1a
 προσευχὴ μανασση

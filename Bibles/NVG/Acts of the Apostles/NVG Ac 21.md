@@ -1,9 +1,13 @@
 ---
-aliases : Ac 21
+aliases : 
+- Acts of the Apostles 21
+- Actes 21
+- Ac 21
+- Acts of the Apostles 21
 tags : Bible/Ac/21
 ---
 
-# Chapitre 21
+# Acts of the Apostles 21
 
 ###### 1
 Cum autem factum esset, ut navigaremus abstracti ab eis, recto cursu venimus Cho et sequenti die Rhodum et inde Patara; 

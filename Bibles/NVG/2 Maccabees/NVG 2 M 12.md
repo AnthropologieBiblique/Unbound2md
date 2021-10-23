@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 12
+aliases : 
+- 2 Maccabees 12
+- 2 Maccabees 12
+- 2 M 12
 tags : Bible/2M/12
 ---
 
-# Chapitre 12
+# 2 Maccabees 12
 
 ###### 1
 His factis pactionibus, Lysias pergebat ad regem, Iudaei autem agriculturae operam dabant. 

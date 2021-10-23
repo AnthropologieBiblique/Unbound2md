@@ -1,9 +1,13 @@
 ---
-aliases : Dt 2
+aliases : 
+- Deuteronomy 2
+- Deutéronome 2
+- Dt 2
+- Deuteronomy 2
 tags : Bible/Dt/2
 ---
 
-# Chapitre 2
+# Deuteronomy 2
 
 ###### 1
 וַנֵּפֶן וַנִּסַּע הַמִּדְבָּרָה דֶּרֶךְ יַם־סוּף כַּאֲשֶׁר דִּבֶּר יְהוָה אֵלָי וַנָּסָב אֶת־הַר־שֵׂעִיר יָמִים רַבִּים׃ ס

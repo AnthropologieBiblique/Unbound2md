@@ -1,9 +1,13 @@
 ---
-aliases : Gn 32
+aliases : 
+- Genesis 32
+- Genèse 32
+- Gn 32
+- Genesis 32
 tags : Bible/Gn/32
 ---
 
-# Chapitre 32
+# Genesis 32
 
 ###### 1
 Jacob quoque abiit itinere quo cœperat : fueruntque ei obviam angeli Dei.

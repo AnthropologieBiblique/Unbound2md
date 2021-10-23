@@ -1,9 +1,13 @@
 ---
-aliases : Jos 3
+aliases : 
+- Joshua 3
+- Josué 3
+- Jos 3
+- Joshua 3
 tags : Bible/Jos/3
 ---
 
-# Chapitre 3
+# Joshua 3
 
 ###### 1
 Igitur Iosue de nocte consur gens movit castra. Egredientes que de Settim venerunt ad Iordanem, ipse et omnes filii Israel; et morati sunt ibi, antequam transirent. 

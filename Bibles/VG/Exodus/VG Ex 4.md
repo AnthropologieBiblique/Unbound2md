@@ -1,9 +1,13 @@
 ---
-aliases : Ex 4
+aliases : 
+- Exodus 4
+- Exode 4
+- Ex 4
+- Exodus 4
 tags : Bible/Ex/4
 ---
 
-# Chapitre 4
+# Exodus 4
 
 ###### 1
 Respondens Moyses ait : Non credent mihi, neque audient vocem meam, sed dicent : Non apparuit tibi Dominus.

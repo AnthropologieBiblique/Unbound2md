@@ -1,9 +1,13 @@
 ---
-aliases : Is 46
+aliases : 
+- Isaiah 46
+- Isaïe 46
+- Is 46
+- Isaiah 46
 tags : Bible/Is/46
 ---
 
-# Chapitre 46
+# Isaiah 46
 
 ###### 1
 Concidit Bel, incurvavit se Nabo; fuerunt simulacra eorum bestiis et iumentis. Statuae vestrae portantur, onera lassis.

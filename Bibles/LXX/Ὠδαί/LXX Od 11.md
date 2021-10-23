@@ -1,9 +1,12 @@
 ---
-aliases : Od 11
+aliases : 
+- Ὠδαί 11
+- Odes 11
+- Od 11
 tags : Bible/Od/11
 ---
 
-# Chapitre 11
+# Ὠδαί 11
 
 ###### 1a
 προσευχὴ εζεκιου

@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 2
+aliases : 
+- 2 Samuel 2
+- 2 Samuel 2
+- 2 S 2
 tags : Bible/2S/2
 ---
 
-# Chapitre 2
+# 2 Samuel 2
 
 ###### 1
 Igitur post hæc consuluit David Dominum, dicens : Num ascendam in unam de civitatibus Juda ? Et ait Dominus ad eum : Ascende. Dixitque David : Quo ascendam ? Et respondit ei : In Hebron.

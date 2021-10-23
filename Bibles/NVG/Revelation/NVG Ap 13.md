@@ -1,9 +1,13 @@
 ---
-aliases : Ap 13
+aliases : 
+- Revelation 13
+- Apocalypse 13
+- Ap 13
+- Revelation 13
 tags : Bible/Ap/13
 ---
 
-# Chapitre 13
+# Revelation 13
 
 ###### 1
 Et vidi de mari bestiam ascendentem, habentem cor nua decem et capita septem, et super cornua eius decem diademata, et super capita eius nomina blasphemiae. 

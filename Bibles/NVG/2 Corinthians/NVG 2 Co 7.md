@@ -1,9 +1,13 @@
 ---
-aliases : 2 Co 7
+aliases : 
+- 2 Corinthians 7
+- 2 Corinthiens 7
+- 2 Co 7
+- 2 Corinthians 7
 tags : Bible/2Co/7
 ---
 
-# Chapitre 7
+# 2 Corinthians 7
 
 ###### 1
 Has igitur habentes promissio nes, carissimi, mundemus nos ab omni inquinamento carnis et spiritus, perficientes sanctificationem in timore Dei.

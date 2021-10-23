@@ -1,9 +1,13 @@
 ---
-aliases : Is 37
+aliases : 
+- Isaiah 37
+- Isaïe 37
+- Is 37
+- Isaiah 37
 tags : Bible/Is/37
 ---
 
-# Chapitre 37
+# Isaiah 37
 
 ###### 1
 Et factum est, cum audisset rex Ezechias, scidit vestimenta sua, et obvolutus est sacco, et intravit in domum Domini.

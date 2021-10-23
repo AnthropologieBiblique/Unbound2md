@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 18
+aliases : 
+- 1 Chronicles 18
+- 1 Chroniques 18
+- 1 Ch 18
+- 1 Chronicles 18
 tags : Bible/1Ch/18
 ---
 
-# Chapitre 18
+# 1 Chronicles 18
 
 ###### 1
 וַיְהִי אַחֲרֵי־כֵן וַיַּךְ דָּוִיד אֶת־פְּלִשְׁתִּים וַיַּכְנִיעֵם וַיִּקַּח אֶת־גַּת וּבְנֹתֶיהָ מִיַּד פְּלִשְׁתִּים׃

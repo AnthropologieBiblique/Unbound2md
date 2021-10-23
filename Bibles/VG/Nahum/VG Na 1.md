@@ -1,9 +1,12 @@
 ---
-aliases : Na 1
+aliases : 
+- Nahum 1
+- Nahum 1
+- Na 1
 tags : Bible/Na/1
 ---
 
-# Chapitre 1
+# Nahum 1
 
 ###### 1
 Onus Ninive. Liber visionis Nahum Elcesæi.

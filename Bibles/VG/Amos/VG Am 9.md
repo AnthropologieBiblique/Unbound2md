@@ -1,9 +1,12 @@
 ---
-aliases : Am 9
+aliases : 
+- Amos 9
+- Amos 9
+- Am 9
 tags : Bible/Am/9
 ---
 
-# Chapitre 9
+# Amos 9
 
 ###### 1
 Vidi Dominum stantem super altare, et dixit : Percute cardinem, et commoveantur superliminaria : avaritia enim in capite omnium, et novissimum eorum in gladio interficiam ; non erit fuga eis. Fugient, et non salvabitur ex eis qui fugerit.

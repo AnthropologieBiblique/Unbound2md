@@ -1,9 +1,13 @@
 ---
-aliases : Nb 4
+aliases : 
+- Ἀριθμοί 4
+- Nombres 4
+- Nb 4
+- Numbers 4
 tags : Bible/Nb/4
 ---
 
-# Chapitre 4
+# Ἀριθμοί 4
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν καὶ ααρων λέγων

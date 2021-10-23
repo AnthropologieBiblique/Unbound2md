@@ -1,9 +1,13 @@
 ---
-aliases : Ez 36
+aliases : 
+- Ezekiel 36
+- Ézéchiel 36
+- Ez 36
+- Ezekiel 36
 tags : Bible/Ez/36
 ---
 
-# Chapitre 36
+# Ezekiel 36
 
 ###### 1
 Tu autem, fili hominis, propheta super montes Israël, et dices : Montes Israël, audite verbum Domini.

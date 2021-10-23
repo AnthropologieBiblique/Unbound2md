@@ -1,9 +1,13 @@
 ---
-aliases : Ap 15
+aliases : 
+- Revelation 15
+- Apocalypse 15
+- Ap 15
+- Revelation 15
 tags : Bible/Ap/15
 ---
 
-# Chapitre 15
+# Revelation 15
 
 ###### 1
 Et vidi aliud signum in caelo magnum et mirabile: angelos septem habentes plagas septem novissimas, quoniam in illis consummata est ira Dei.

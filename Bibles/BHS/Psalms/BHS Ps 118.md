@@ -1,9 +1,13 @@
 ---
-aliases : Ps 118
+aliases : 
+- Psalms 118
+- Psaumes 118
+- Ps 118
+- Psalms 118
 tags : Bible/Ps/118
 ---
 
-# Chapitre 118
+# Psalms 118
 
 ###### 1
 הֹודוּ לַיהוָה כִּי־טֹוב כִּי לְעֹולָם חַסְדֹּו׃

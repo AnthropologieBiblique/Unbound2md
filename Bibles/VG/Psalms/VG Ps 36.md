@@ -1,9 +1,13 @@
 ---
-aliases : Ps 37
+aliases : 
+- Psalms 36
+- Psaumes 37
+- Ps 37
+- Psalms 37
 tags : Bible/Ps/37
 ---
 
-# Chapitre 36
+# Psalms 36
 
 ###### 1
 Psalmus ipsi David. Noli æmulari in malignantibus, neque zelaveris facientes iniquitatem ;

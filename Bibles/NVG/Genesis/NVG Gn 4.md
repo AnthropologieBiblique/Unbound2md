@@ -1,9 +1,13 @@
 ---
-aliases : Gn 4
+aliases : 
+- Genesis 4
+- Genèse 4
+- Gn 4
+- Genesis 4
 tags : Bible/Gn/4
 ---
 
-# Chapitre 4
+# Genesis 4
 
 ###### 1
 Adam vero cognovit Evam uxo rem suam, quae concepit et peperit Cain dicens: “Acquisivi virum per Dominum”. 

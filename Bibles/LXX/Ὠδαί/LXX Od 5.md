@@ -1,9 +1,12 @@
 ---
-aliases : Od 5
+aliases : 
+- Ὠδαί 5
+- Odes 5
+- Od 5
 tags : Bible/Od/5
 ---
 
-# Chapitre 5
+# Ὠδαί 5
 
 ###### 1a
 προσευχὴ ησαιου

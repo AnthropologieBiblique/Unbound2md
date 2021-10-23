@@ -1,9 +1,13 @@
 ---
-aliases : Nb 31
+aliases : 
+- Numbers 31
+- Nombres 31
+- Nb 31
+- Numbers 31
 tags : Bible/Nb/31
 ---
 
-# Chapitre 31
+# Numbers 31
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

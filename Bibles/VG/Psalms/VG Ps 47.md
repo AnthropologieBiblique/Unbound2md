@@ -1,9 +1,13 @@
 ---
-aliases : Ps 48
+aliases : 
+- Psalms 47
+- Psaumes 48
+- Ps 48
+- Psalms 48
 tags : Bible/Ps/48
 ---
 
-# Chapitre 47
+# Psalms 47
 
 ###### 1
 Psalmus cantici. Filiis Core, secunda sabbati.

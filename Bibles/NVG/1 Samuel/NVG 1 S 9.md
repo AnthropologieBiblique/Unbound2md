@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 9
+aliases : 
+- 1 Samuel 9
+- 1 Samuel 9
+- 1 S 9
 tags : Bible/1S/9
 ---
 
-# Chapitre 9
+# 1 Samuel 9
 
 ###### 1
 Et erat vir de Beniamin nomine Cis filius Abiel filii Seror filii Be chorath filii Aphia, Beniaminita vir potens. 

@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 1
+aliases : 
+- 1 Maccabees 1
+- 1 Maccabees 1
+- 1 M 1
 tags : Bible/1M/1
 ---
 
-# Chapitre 1
+# 1 Maccabees 1
 
 ###### 1
 Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Græcia, egressus de terra Cethim, Darium regem Persarum et Medorum :

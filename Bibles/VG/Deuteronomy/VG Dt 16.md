@@ -1,9 +1,13 @@
 ---
-aliases : Dt 16
+aliases : 
+- Deuteronomy 16
+- Deutéronome 16
+- Dt 16
+- Deuteronomy 16
 tags : Bible/Dt/16
 ---
 
-# Chapitre 16
+# Deuteronomy 16
 
 ###### 1
 Observa mensem novarum frugum, et verni primum temporis, ut facias Phase Domino Deo tuo : quoniam in isto mense eduxit te Dominus Deus tuus de Ægypto nocte.

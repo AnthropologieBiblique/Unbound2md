@@ -1,9 +1,12 @@
 ---
-aliases : 2 M 8
+aliases : 
+- 2 Maccabees 8
+- 2 Maccabees 8
+- 2 M 8
 tags : Bible/2M/8
 ---
 
-# Chapitre 8
+# 2 Maccabees 8
 
 ###### 1
 Iudas vero Maccabaeus et, qui cum illo erant, introeuntes la tenter in castella convocabant cognatos; et eos, qui permanserunt in Iudaismo, assumentes, collegerunt circiter sex milia virorum. 

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 39
+aliases : 
+- Psalms 38
+- Psaumes 39
+- Ps 39
+- Psalms 39
 tags : Bible/Ps/39
 ---
 
-# Chapitre 38
+# Psalms 38
 
 ###### 1
 In finem, ipsi Idithun. Canticum David.

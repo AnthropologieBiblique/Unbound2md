@@ -1,9 +1,13 @@
 ---
-aliases : Ps 99
+aliases : 
+- Psalms 98
+- Psaumes 99
+- Ps 99
+- Psalms 99
 tags : Bible/Ps/99
 ---
 
-# Chapitre 98
+# Psalms 98
 
 ###### 1
 Psalmus ipsi David. Dominus regnavit : irascantur populi ; qui sedet super cherubim : moveatur terra.

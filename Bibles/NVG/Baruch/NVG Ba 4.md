@@ -1,9 +1,12 @@
 ---
-aliases : Ba 4
+aliases : 
+- Baruch 4
+- Baruch 4
+- Ba 4
 tags : Bible/Ba/4
 ---
 
-# Chapitre 4
+# Baruch 4
 
 ###### 1
 Ipsa est liber praeceptorum Dei et lex, quae permanet in aeter num. Omnes, qui tenent eam, ad vitam; qui autem relinquunt eam, morientur.

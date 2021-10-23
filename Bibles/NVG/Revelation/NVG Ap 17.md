@@ -1,9 +1,13 @@
 ---
-aliases : Ap 17
+aliases : 
+- Revelation 17
+- Apocalypse 17
+- Ap 17
+- Revelation 17
 tags : Bible/Ap/17
 ---
 
-# Chapitre 17
+# Revelation 17
 
 ###### 1
 Et venit unus de septem angelis, qui habebant septem phialas, et locutus est mecum dicens: “ Veni, ostendam tibi damnationem meretricis magnae, quae sedet super aquas multas, 

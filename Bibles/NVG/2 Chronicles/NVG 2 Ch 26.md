@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 26
+aliases : 
+- 2 Chronicles 26
+- 2 Chroniques 26
+- 2 Ch 26
+- 2 Chronicles 26
 tags : Bible/2Ch/26
 ---
 
-# Chapitre 26
+# 2 Chronicles 26
 
 ###### 1
 Omnis autem populus Iudae Oziam annorum sedecim constituit regem pro patre suo Amasia. 

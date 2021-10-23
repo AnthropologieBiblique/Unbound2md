@@ -1,9 +1,13 @@
 ---
-aliases : Pr 4
+aliases : 
+- Proverbs 4
+- Proverbes 4
+- Pr 4
+- Proverbs 4
 tags : Bible/Pr/4
 ---
 
-# Chapitre 4
+# Proverbs 4
 
 ###### 1
 שִׁמְעוּ בָנִים מוּסַר אָב וְהַקְשִׁיבוּ לָדַעַת בִּינָה׃

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 101
+aliases : 
+- Psalms 100
+- Psaumes 101
+- Ps 101
+- Psalms 101
 tags : Bible/Ps/101
 ---
 
-# Chapitre 100
+# Psalms 100
 
 ###### 1
 Psalmus ipsi David. Misericordiam et judicium cantabo tibi, Domine ; psallam,

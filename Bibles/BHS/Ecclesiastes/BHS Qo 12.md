@@ -1,9 +1,13 @@
 ---
-aliases : Qo 12
+aliases : 
+- Ecclesiastes 12
+- Ecclésiaste 12
+- Qo 12
+- Ecclesiastes 12
 tags : Bible/Qo/12
 ---
 
-# Chapitre 12
+# Ecclesiastes 12
 
 ###### 1
 וּזְכֹר אֶת־בֹּורְאֶיךָ בִּימֵי בְּחוּרֹתֶיךָ עַד אֲשֶׁר לֹא־יָבֹאוּ יְמֵי הָרָעָה וְהִגִּיעוּ שָׁנִים אֲשֶׁר תֹּאמַר אֵין־לִי בָהֶם חֵפֶץ׃

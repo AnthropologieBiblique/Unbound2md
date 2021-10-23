@@ -1,9 +1,13 @@
 ---
-aliases : Jr 49
+aliases : 
+- Jeremiah 49
+- Jérémie 49
+- Jr 49
+- Jeremiah 49
 tags : Bible/Jr/49
 ---
 
-# Chapitre 49
+# Jeremiah 49
 
 ###### 1
 Ad filios Ammon. Hæc dicit Dominus : Numquid non filii sunt Israël, aut hæres non est ei ? Cur igitur hæreditate possedit Melchom Gad, et populus ejus in urbibus ejus habitavit ?

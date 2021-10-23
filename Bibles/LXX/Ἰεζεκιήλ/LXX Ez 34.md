@@ -1,9 +1,13 @@
 ---
-aliases : Ez 34
+aliases : 
+- Ἰεζεκιήλ 34
+- Ézéchiel 34
+- Ez 34
+- Ezekiel 34
 tags : Bible/Ez/34
 ---
 
-# Chapitre 34
+# Ἰεζεκιήλ 34
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

@@ -1,9 +1,13 @@
 ---
-aliases : Ps 146
+aliases : 
+- Psalms 145
+- Psaumes 146
+- Ps 146
+- Psalms 146
 tags : Bible/Ps/146
 ---
 
-# Chapitre 145
+# Psalms 145
 
 ###### 1
 Alleluja, Aggæi et Zachariæ.

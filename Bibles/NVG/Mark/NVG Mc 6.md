@@ -1,9 +1,13 @@
 ---
-aliases : Mc 6
+aliases : 
+- Mark 6
+- Marc 6
+- Mc 6
+- Mark 6
 tags : Bible/Mc/6
 ---
 
-# Chapitre 6
+# Mark 6
 
 ###### 1
 Et egressus est inde et venit in patriam suam, et sequuntur il lum discipuli sui. 

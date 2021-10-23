@@ -1,9 +1,13 @@
 ---
-aliases : Ga 5
+aliases : 
+- Galatians 5
+- Galates 5
+- Ga 5
+- Galatians 5
 tags : Bible/Ga/5
 ---
 
-# Chapitre 5
+# Galatians 5
 
 ###### 1
 Hac libertate nos Christus liberavit; state igitur et nolite iterum iugo servitutis detineri. 

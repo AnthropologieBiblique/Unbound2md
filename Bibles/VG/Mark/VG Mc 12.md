@@ -1,9 +1,13 @@
 ---
-aliases : Mc 12
+aliases : 
+- Mark 12
+- Marc 12
+- Mc 12
+- Mark 12
 tags : Bible/Mc/12
 ---
 
-# Chapitre 12
+# Mark 12
 
 ###### 1
 Et cœpit illis in parabolis loqui : Vineam pastinavit homo, et circumdedit sepem, et fodit lacum, et ædificavit turrim, et locavit eam agricolis, et peregre profectus est.

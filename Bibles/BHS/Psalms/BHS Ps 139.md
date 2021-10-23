@@ -1,9 +1,13 @@
 ---
-aliases : Ps 139
+aliases : 
+- Psalms 139
+- Psaumes 139
+- Ps 139
+- Psalms 139
 tags : Bible/Ps/139
 ---
 
-# Chapitre 139
+# Psalms 139
 
 ###### 1
 לַמְנַצֵּחַ לְדָוִד מִזְמֹור יְהוָה חֲקַרְתַּנִי וַתֵּדָע׃

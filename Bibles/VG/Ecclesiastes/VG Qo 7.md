@@ -1,9 +1,13 @@
 ---
-aliases : Qo 6
+aliases : 
+- Ecclesiastes 7
+- Ecclésiaste 6
+- Qo 6
+- Ecclesiastes 6
 tags : Bible/Qo/6
 ---
 
-# Chapitre 7
+# Ecclesiastes 7
 
 ###### 1
 Quid necesse est homini majora se quærere, cum ignoret quid conducat sibi in vita sua, numero dierum peregrinationis suæ, et tempore quod velut umbra præterit ? aut quis ei poterit indicare quod post eum futurum sub sole sit ?

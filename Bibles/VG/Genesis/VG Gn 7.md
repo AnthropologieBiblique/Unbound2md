@@ -1,9 +1,13 @@
 ---
-aliases : Gn 7
+aliases : 
+- Genesis 7
+- Genèse 7
+- Gn 7
+- Genesis 7
 tags : Bible/Gn/7
 ---
 
-# Chapitre 7
+# Genesis 7
 
 ###### 1
 Dixitque Dominus ad eum : Ingredere tu et omnis domus tua in arcam : te enim vidi justum coram me in generatione hac.

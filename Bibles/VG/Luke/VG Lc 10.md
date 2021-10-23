@@ -1,9 +1,13 @@
 ---
-aliases : Lc 10
+aliases : 
+- Luke 10
+- Luc 10
+- Lc 10
+- Luke 10
 tags : Bible/Lc/10
 ---
 
-# Chapitre 10
+# Luke 10
 
 ###### 1
 Post hæc autem designavit Dominus et alios septuaginta duos : et misit illos binos ante faciem suam in omnem civitatem et locum, quo erat ipse venturus.

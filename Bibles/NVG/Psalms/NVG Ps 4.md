@@ -1,9 +1,13 @@
 ---
-aliases : Ps 4
+aliases : 
+- Psalms 4
+- Psaumes 4
+- Ps 4
+- Psalms 4
 tags : Bible/Ps/4
 ---
 
-# Chapitre 4
+# Psalms 4
 
 ###### 1
 Magistro chori. Fidibus. PSALMUS. David.

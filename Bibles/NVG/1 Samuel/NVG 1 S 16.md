@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 16
+aliases : 
+- 1 Samuel 16
+- 1 Samuel 16
+- 1 S 16
 tags : Bible/1S/16
 ---
 
-# Chapitre 16
+# 1 Samuel 16
 
 ###### 1
 Dixitque Dominus ad Samuelem: “ Usquequo tu luges Saul, cum ego proiecerim eum, ne regnet super Israel? Imple cornu tuum oleo et veni, ut mittam te ad Isai Bethlehemitem; providi enim in filiis eius mihi regem ”. 

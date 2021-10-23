@@ -1,9 +1,13 @@
 ---
-aliases : Ex 13
+aliases : 
+- Exodus 13
+- Exode 13
+- Ex 13
+- Exodus 13
 tags : Bible/Ex/13
 ---
 
-# Chapitre 13
+# Exodus 13
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

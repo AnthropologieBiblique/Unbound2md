@@ -1,9 +1,13 @@
 ---
-aliases : Ps 140
+aliases : 
+- Psalms 140
+- Psaumes 140
+- Ps 140
+- Psalms 140
 tags : Bible/Ps/140
 ---
 
-# Chapitre 140
+# Psalms 140
 
 ###### 1
 לַמְנַצֵּחַ מִזְמֹור לְדָוִד׃

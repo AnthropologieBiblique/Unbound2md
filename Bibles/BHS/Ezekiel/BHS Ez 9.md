@@ -1,9 +1,13 @@
 ---
-aliases : Ez 9
+aliases : 
+- Ezekiel 9
+- Ézéchiel 9
+- Ez 9
+- Ezekiel 9
 tags : Bible/Ez/9
 ---
 
-# Chapitre 9
+# Ezekiel 9
 
 ###### 1
 וַיִּקְרָא בְאָזְנַי קֹול גָּדֹול לֵאמֹר קָרְבוּ פְּקֻדֹּות הָעִיר וְאִישׁ כְּלִי מַשְׁחֵתֹו בְּיָדֹו׃

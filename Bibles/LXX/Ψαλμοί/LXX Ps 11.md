@@ -1,9 +1,13 @@
 ---
-aliases : Ps 12
+aliases : 
+- Ψαλμοί 11
+- Psaumes 12
+- Ps 12
+- Psalms 12
 tags : Bible/Ps/12
 ---
 
-# Chapitre 11
+# Ψαλμοί 11
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῆς ὀγδόης ψαλμὸς τῷ δαυιδ

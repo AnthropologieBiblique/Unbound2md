@@ -1,9 +1,13 @@
 ---
-aliases : Si 47
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 47
+- Siracide 47
+- Si 47
+- Ecclesiasticus (Sira 47
 tags : Bible/Si/47
 ---
 
-# Chapitre 47
+# Σοφία Ἰησοῦ Σειράχ 47
 
 ###### 1
 καὶ μετὰ τοῦτον ἀνέστη ναθαν προφητεύειν ἐν ἡμέραις δαυιδ

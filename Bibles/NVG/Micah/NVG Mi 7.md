@@ -1,9 +1,13 @@
 ---
-aliases : Mi 7
+aliases : 
+- Micah 7
+- Michée 7
+- Mi 7
+- Micah 7
 tags : Bible/Mi/7
 ---
 
-# Chapitre 7
+# Micah 7
 
 ###### 1
 Vae mihi, quia factum est mihi sicut congregata messe, sicut collecta vindemia! Non est botrus ad comedendum, nec praecoqua ficus, quam desideravit anima mea.

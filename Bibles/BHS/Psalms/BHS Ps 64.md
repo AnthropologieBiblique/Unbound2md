@@ -1,9 +1,13 @@
 ---
-aliases : Ps 64
+aliases : 
+- Psalms 64
+- Psaumes 64
+- Ps 64
+- Psalms 64
 tags : Bible/Ps/64
 ---
 
-# Chapitre 64
+# Psalms 64
 
 ###### 1
 לַמְנַצֵּחַ מִזְמֹור לְדָוִד׃

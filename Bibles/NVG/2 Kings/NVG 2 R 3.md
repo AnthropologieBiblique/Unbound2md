@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 3
+aliases : 
+- 2 Kings 3
+- 2 Rois 3
+- 2 R 3
+- 2 Kings 3
 tags : Bible/2R/3
 ---
 
-# Chapitre 3
+# 2 Kings 3
 
 ###### 1
 Ioram vero filius Achab regnavit super Israel in Samaria anno decimo octavo Iosaphat regis Iudae regnavitque duodecim annis. 

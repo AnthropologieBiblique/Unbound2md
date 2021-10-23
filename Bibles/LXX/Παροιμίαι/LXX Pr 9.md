@@ -1,9 +1,13 @@
 ---
-aliases : Pr 9
+aliases : 
+- Παροιμίαι 9
+- Proverbes 9
+- Pr 9
+- Proverbs 9
 tags : Bible/Pr/9
 ---
 
-# Chapitre 9
+# Παροιμίαι 9
 
 ###### 1
 ἡ σοφία ᾠκοδόμησεν ἑαυτῇ οἶκον καὶ ὑπήρεισεν στύλους ἑπτά

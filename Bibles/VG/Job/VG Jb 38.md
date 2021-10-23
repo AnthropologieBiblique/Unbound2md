@@ -1,9 +1,12 @@
 ---
-aliases : Jb 38
+aliases : 
+- Job 38
+- Job 38
+- Jb 38
 tags : Bible/Jb/38
 ---
 
-# Chapitre 38
+# Job 38
 
 ###### 1
 Respondens autem Dominus Job de turbine, dixit :

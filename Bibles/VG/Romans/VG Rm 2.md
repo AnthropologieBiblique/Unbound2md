@@ -1,9 +1,13 @@
 ---
-aliases : Rm 2
+aliases : 
+- Romans 2
+- Romains 2
+- Rm 2
+- Romans 2
 tags : Bible/Rm/2
 ---
 
-# Chapitre 2
+# Romans 2
 
 ###### 1
 Propter quod inexcusabilis es, o homo omnis qui judicas. In quo enim judicas alterum, teipsum condemnas : eadem enim agis quæ judicas.

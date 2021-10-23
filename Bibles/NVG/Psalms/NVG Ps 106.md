@@ -1,9 +1,13 @@
 ---
-aliases : Ps 106
+aliases : 
+- Psalms 106
+- Psaumes 106
+- Ps 106
+- Psalms 106
 tags : Bible/Ps/106
 ---
 
-# Chapitre 106
+# Psalms 106
 
 ###### 1
 ALLELUIA. Confitemini Domino, quoniam bonus, quoniam in saeculum misericordia eius.

@@ -1,9 +1,13 @@
 ---
-aliases : Ex 22
+aliases : 
+- Exodus 22
+- Exode 22
+- Ex 22
+- Exodus 22
 tags : Bible/Ex/22
 ---
 
-# Chapitre 22
+# Exodus 22
 
 ###### 1
 אִם־בַּמַּחְתֶּרֶת יִמָּצֵא הַגַּנָּב וְהֻכָּה וָמֵת אֵין לֹו דָּמִים׃

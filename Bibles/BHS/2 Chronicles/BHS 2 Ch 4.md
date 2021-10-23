@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 4
+aliases : 
+- 2 Chronicles 4
+- 2 Chroniques 4
+- 2 Ch 4
+- 2 Chronicles 4
 tags : Bible/2Ch/4
 ---
 
-# Chapitre 4
+# 2 Chronicles 4
 
 ###### 1
 וַיַּעַשׂ מִזְבַּח נְחֹשֶׁת עֶשְׂרִים אַמָּה אָרְכֹּו וְעֶשְׂרִים אַמָּה רָחְבֹּו וְעֶשֶׂר אַמֹּות קֹומָתֹו׃ ס

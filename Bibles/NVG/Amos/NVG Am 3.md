@@ -1,9 +1,12 @@
 ---
-aliases : Am 3
+aliases : 
+- Amos 3
+- Amos 3
+- Am 3
 tags : Bible/Am/3
 ---
 
-# Chapitre 3
+# Amos 3
 
 ###### 1
 Audite verbum hoc, quod locutus est Dominus super vos, filii Israel, super omnem cognationem, quam eduxi de terra Aegypti, dicens: 

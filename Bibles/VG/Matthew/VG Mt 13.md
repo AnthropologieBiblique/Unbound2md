@@ -1,9 +1,13 @@
 ---
-aliases : Mt 13
+aliases : 
+- Matthew 13
+- Matthieu 13
+- Mt 13
+- Matthew 13
 tags : Bible/Mt/13
 ---
 
-# Chapitre 13
+# Matthew 13
 
 ###### 1
 In illo die exiens Jesus de domo, sedebat secus mare.

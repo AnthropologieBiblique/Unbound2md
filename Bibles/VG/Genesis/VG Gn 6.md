@@ -1,9 +1,13 @@
 ---
-aliases : Gn 6
+aliases : 
+- Genesis 6
+- Genèse 6
+- Gn 6
+- Genesis 6
 tags : Bible/Gn/6
 ---
 
-# Chapitre 6
+# Genesis 6
 
 ###### 1
 Cumque cœpissent homines multiplicari super terram, et filias procreassent,

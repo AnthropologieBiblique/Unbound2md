@@ -1,9 +1,13 @@
 ---
-aliases : Ep 5
+aliases : 
+- Ephesians 5
+- Éphésiens 5
+- Ep 5
+- Ephesians 5
 tags : Bible/Ep/5
 ---
 
-# Chapitre 5
+# Ephesians 5
 
 ###### 1
 Estote ergo imitatores Dei, sicut filii carissimi,

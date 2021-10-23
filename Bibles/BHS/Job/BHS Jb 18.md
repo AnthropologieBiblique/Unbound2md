@@ -1,9 +1,12 @@
 ---
-aliases : Jb 18
+aliases : 
+- Job 18
+- Job 18
+- Jb 18
 tags : Bible/Jb/18
 ---
 
-# Chapitre 18
+# Job 18
 
 ###### 1
 וַיַּעַן בִּלְדַּד הַשֻּׁחִי וַיֹּאמַר׃

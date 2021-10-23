@@ -1,9 +1,13 @@
 ---
-aliases : Ps 148
+aliases : 
+- Psalms 148
+- Psaumes 148
+- Ps 148
+- Psalms 148
 tags : Bible/Ps/148
 ---
 
-# Chapitre 148
+# Psalms 148
 
 ###### 1
 Alleluja. Laudate Dominum de cælis ; laudate eum in excelsis.

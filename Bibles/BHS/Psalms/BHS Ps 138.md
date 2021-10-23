@@ -1,9 +1,13 @@
 ---
-aliases : Ps 138
+aliases : 
+- Psalms 138
+- Psaumes 138
+- Ps 138
+- Psalms 138
 tags : Bible/Ps/138
 ---
 
-# Chapitre 138
+# Psalms 138
 
 ###### 1
 לְדָוִד אֹודְךָ בְכָל־לִבִּי נֶגֶד אֱלֹהִים אֲזַמְּרֶךָּ׃

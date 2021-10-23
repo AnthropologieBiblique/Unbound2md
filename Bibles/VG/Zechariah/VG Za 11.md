@@ -1,9 +1,13 @@
 ---
-aliases : Za 11
+aliases : 
+- Zechariah 11
+- Zacharie 11
+- Za 11
+- Zechariah 11
 tags : Bible/Za/11
 ---
 
-# Chapitre 11
+# Zechariah 11
 
 ###### 1
 Aperi, Libane, portas tuas, et comedat ignis cedros tuas.

@@ -1,9 +1,13 @@
 ---
-aliases : Si 41
+aliases : 
+- Ecclesiasticus (Sira 41
+- Siracide 41
+- Si 41
+- Ecclesiasticus (Sira 41
 tags : Bible/Si/41
 ---
 
-# Chapitre 41
+# Ecclesiasticus (Sira 41
 
 ###### 1
 O mors, quam amara est memoria tua homini pacem habenti in substantiis suis :

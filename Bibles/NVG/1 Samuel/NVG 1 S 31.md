@@ -1,9 +1,12 @@
 ---
-aliases : 1 S 31
+aliases : 
+- 1 Samuel 31
+- 1 Samuel 31
+- 1 S 31
 tags : Bible/1S/31
 ---
 
-# Chapitre 31
+# 1 Samuel 31
 
 ###### 1
 Philisthim autem pugnabant adversum Israel; et fugerunt viri Israel ante faciem Philisthim et ceciderunt interfecti in monte Gelboe. 

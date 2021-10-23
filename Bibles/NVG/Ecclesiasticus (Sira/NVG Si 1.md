@@ -1,9 +1,13 @@
 ---
-aliases : Si 1
+aliases : 
+- Ecclesiasticus (Sira 1
+- Siracide 1
+- Si 1
+- Ecclesiasticus (Sira 1
 tags : Bible/Si/1
 ---
 
-# Chapitre 1
+# Ecclesiasticus (Sira 1
 
 ###### 0
 PROLOGUS  Cum multa nobis et magna per Legem et Prophetas aliosque, qui secuti sunt illos, data sint, in quibus oportet laudare Israel doctrinae et sapientiae causa, cumque non solum ipsos legentes necesse sit fieri peritos, sed etiam extraneis posse sapientiae studiosos et dicentes et scribentes utiles fieri, avus meus Iesus, postquam se amplius dedit ad diligentiam lectionis Legis et Prophetarum et aliorum librorum, qui nobis a parentibus nostris traditi sunt, atque in his sufficientem usum acquisivit, voluit et ipse scribere aliquid horum, quae ad doctrinam et sapientiam pertinent, ut desiderantes discere et illorum periti facti magis magisque attendant animo et confirmentur per legitimam vitam. Hortor itaque venire vos cum benevolentia et attentiore studio lectionem facere et veniam habere in illis, in quibus interpretationi adlaborantes videamur quibusdam verbis deficere. Nam deficiunt verba Hebraica, quando fuerint translata ad alteram linguam; non autem solum haec, sed et ipsa Lex et Prophetae ceteraque aliorum librorum non parvam habent differentiam, quando ipsa per se leguntur. Nam in octavo et trigesimo anno temporibus Ptolemaei Evergetis regis, postquam perveni in Aegyptum et, cum multum temporis ibi fecissem, inveni ibi exemplar non parvae neque contemnendae doctrinae. Itaque bonum et necessarium putavi et ipse aliquam addere diligentiam et laborem interpretandi librum istum; et multam vigiliam attuli et doctrinam in spatio temporis, ut perducens ad finem, librum istum ederem etiam pro illis, qui in terra aliena, cum iam moribus instituti sint, sibi proposuerint secundum legem vitam agere.

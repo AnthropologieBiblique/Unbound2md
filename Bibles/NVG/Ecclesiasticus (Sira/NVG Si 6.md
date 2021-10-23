@@ -1,9 +1,13 @@
 ---
-aliases : Si 5
+aliases : 
+- Ecclesiasticus (Sira 6
+- Siracide 5
+- Si 5
+- Ecclesiasticus (Sira 5
 tags : Bible/Si/5
 ---
 
-# Chapitre 6
+# Ecclesiasticus (Sira 6
 
 ###### 1
 Nec pusillum nec multum noceas et noli fieri pro amico inimicus. Nomen enim malum et improperium et contumeliam hereditabis; sic omnis peccator invidus et bilinguis.

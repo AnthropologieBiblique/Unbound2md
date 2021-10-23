@@ -1,9 +1,13 @@
 ---
-aliases : Is 54
+aliases : 
+- Isaiah 54
+- Isaïe 54
+- Is 54
+- Isaiah 54
 tags : Bible/Is/54
 ---
 
-# Chapitre 54
+# Isaiah 54
 
 ###### 1
 Exsulta, sterilis, quae non peperisti, laetare, gaude, quae non parturisti, quoniam multi sunt filii desertae magis quam filii nuptae, dicit Dominus.

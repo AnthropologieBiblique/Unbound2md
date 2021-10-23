@@ -1,9 +1,13 @@
 ---
-aliases : 1 R 2
+aliases : 
+- 1 Kings 2
+- 1 Rois 2
+- 1 R 2
+- 1 Kings 2
 tags : Bible/1R/2
 ---
 
-# Chapitre 2
+# 1 Kings 2
 
 ###### 1
 וַיִּקְרְבוּ יְמֵי־דָוִד לָמוּת וַיְצַו אֶת־שְׁלֹמֹה בְנֹו לֵאמֹר׃

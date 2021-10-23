@@ -1,9 +1,13 @@
 ---
-aliases : Ps 45
+aliases : 
+- Psalms 44
+- Psaumes 45
+- Ps 45
+- Psalms 45
 tags : Bible/Ps/45
 ---
 
-# Chapitre 44
+# Psalms 44
 
 ###### 1
 In finem, pro iis qui commutabuntur. Filiis Core, ad intellectum. Canticum pro dilecto.

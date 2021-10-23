@@ -1,9 +1,13 @@
 ---
-aliases : Nb 10
+aliases : 
+- Numbers 10
+- Nombres 10
+- Nb 10
+- Numbers 10
 tags : Bible/Nb/10
 ---
 
-# Chapitre 10
+# Numbers 10
 
 ###### 1
 Locutusque est Dominus ad Moysen, dicens :

@@ -1,9 +1,13 @@
 ---
-aliases : Jos 22
+aliases : 
+- Joshua 22
+- Josué 22
+- Jos 22
+- Joshua 22
 tags : Bible/Jos/22
 ---
 
-# Chapitre 22
+# Joshua 22
 
 ###### 1
 Eodem tempore vocavit Josue Rubenitas, et Gaditas, et dimidiam tribum Manasse,

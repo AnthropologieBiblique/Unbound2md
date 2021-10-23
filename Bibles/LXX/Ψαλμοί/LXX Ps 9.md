@@ -1,9 +1,13 @@
 ---
-aliases : Ps 9
+aliases : 
+- Ψαλμοί 9
+- Psaumes 9
+- Ps 9
+- Psalms 9
 tags : Bible/Ps/9
 ---
 
-# Chapitre 9
+# Ψαλμοί 9
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῶν κρυφίων τοῦ υἱοῦ ψαλμὸς τῷ δαυιδ

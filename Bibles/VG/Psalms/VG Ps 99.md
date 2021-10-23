@@ -1,9 +1,13 @@
 ---
-aliases : Ps 100
+aliases : 
+- Psalms 99
+- Psaumes 100
+- Ps 100
+- Psalms 100
 tags : Bible/Ps/100
 ---
 
-# Chapitre 99
+# Psalms 99
 
 ###### 1
 Psalmus in confessione.

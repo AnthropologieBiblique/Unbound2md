@@ -1,9 +1,13 @@
 ---
-aliases : Gn 23
+aliases : 
+- Genesis 23
+- Genèse 23
+- Gn 23
+- Genesis 23
 tags : Bible/Gn/23
 ---
 
-# Chapitre 23
+# Genesis 23
 
 ###### 1
 Vixit autem Sara centum viginti septem annis 

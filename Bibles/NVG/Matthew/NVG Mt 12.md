@@ -1,9 +1,13 @@
 ---
-aliases : Mt 12
+aliases : 
+- Matthew 12
+- Matthieu 12
+- Mt 12
+- Matthew 12
 tags : Bible/Mt/12
 ---
 
-# Chapitre 12
+# Matthew 12
 
 ###### 1
 In illo tempore abiit Iesus sabbatis per sata; discipuli autem eius esurierunt et coeperunt vellere spicas et manducare. 

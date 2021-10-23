@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 9
+aliases : 
+- 2 Chronicles 9
+- 2 Chroniques 9
+- 2 Ch 9
+- 2 Chronicles 9
 tags : Bible/2Ch/9
 ---
 
-# Chapitre 9
+# 2 Chronicles 9
 
 ###### 1
 Regina quoque Saba, cum audisset famam Salomonis, venit, ut tentaret eum in aenigmatibus in Ierusalem cum magno comitatu et camelis, qui portabant aromata et auri plurimum gemmasque pretiosas. Cumque venisset ad Salomonem, locuta est ei, quaecumque erant in corde suo. 

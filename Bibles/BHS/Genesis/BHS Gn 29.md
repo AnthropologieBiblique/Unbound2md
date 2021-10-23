@@ -1,9 +1,13 @@
 ---
-aliases : Gn 29
+aliases : 
+- Genesis 29
+- Genèse 29
+- Gn 29
+- Genesis 29
 tags : Bible/Gn/29
 ---
 
-# Chapitre 29
+# Genesis 29
 
 ###### 1
 וַיִּשָּׂא יַעֲקֹב רַגְלָיו וַיֵּלֶךְ אַרְצָה בְנֵי־קֶדֶם׃

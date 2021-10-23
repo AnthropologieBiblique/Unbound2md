@@ -1,9 +1,13 @@
 ---
-aliases : Gn 34
+aliases : 
+- Genesis 34
+- Genèse 34
+- Gn 34
+- Genesis 34
 tags : Bible/Gn/34
 ---
 
-# Chapitre 34
+# Genesis 34
 
 ###### 1
 Egressa est autem Dina filia, quam Lia pepererat Iacob, ut videret filias regionis illius. 

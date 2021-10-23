@@ -1,9 +1,13 @@
 ---
-aliases : 2 Th 2
+aliases : 
+- 2 Thessalonians 2
+- 2 Thessaloniciens 2
+- 2 Th 2
+- 2 Thessalonians 2
 tags : Bible/2Th/2
 ---
 
-# Chapitre 2
+# 2 Thessalonians 2
 
 ###### 1
 Rogamus autem vos, fratres, per adventum Domini nostri Jesu Christi, et nostræ congregationis in ipsum :

@@ -1,9 +1,13 @@
 ---
-aliases : Jr 5
+aliases : 
+- Jeremiah 5
+- Jérémie 5
+- Jr 5
+- Jeremiah 5
 tags : Bible/Jr/5
 ---
 
-# Chapitre 5
+# Jeremiah 5
 
 ###### 1
 Circuite vias Jerusalem, et aspicite, et considerate, et quærite in plateis ejus an inveniatis virum facientem judicium, et quærentem fidem : et propitius ero ei.

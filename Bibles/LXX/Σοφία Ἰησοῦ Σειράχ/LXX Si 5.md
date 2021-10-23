@@ -1,9 +1,13 @@
 ---
-aliases : Si 5
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ 5
+- Siracide 5
+- Si 5
+- Ecclesiasticus (Sira 5
 tags : Bible/Si/5
 ---
 
-# Chapitre 5
+# Σοφία Ἰησοῦ Σειράχ 5
 
 ###### 1
 μὴ ἔπεχε ἐπὶ τοῖς χρήμασίν σου καὶ μὴ εἴπῃς αὐτάρκη μοί ἐστιν

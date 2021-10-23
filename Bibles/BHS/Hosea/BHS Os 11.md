@@ -1,9 +1,13 @@
 ---
-aliases : Os 11
+aliases : 
+- Hosea 11
+- Osée 11
+- Os 11
+- Hosea 11
 tags : Bible/Os/11
 ---
 
-# Chapitre 11
+# Hosea 11
 
 ###### 1
 כִּי נַעַר יִשְׂרָאֵל וָאֹהֲבֵהוּ וּמִמִּצְרַיִם קָרָאתִי לִבְנִי׃

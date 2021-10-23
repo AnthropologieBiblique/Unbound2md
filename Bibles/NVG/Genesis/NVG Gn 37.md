@@ -1,9 +1,13 @@
 ---
-aliases : Gn 37
+aliases : 
+- Genesis 37
+- Genèse 37
+- Gn 37
+- Genesis 37
 tags : Bible/Gn/37
 ---
 
-# Chapitre 37
+# Genesis 37
 
 ###### 1
 Habitavit autem Iacob in terra Chanaan, in qua pere grinatus est pater suus. 

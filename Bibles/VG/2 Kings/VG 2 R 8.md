@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 8
+aliases : 
+- 2 Kings 8
+- 2 Rois 8
+- 2 R 8
+- 2 Kings 8
 tags : Bible/2R/8
 ---
 
-# Chapitre 8
+# 2 Kings 8
 
 ###### 1
 Eliseus autem locutus est ad mulierem, cujus vivere fecerat filium, dicens : Surge, vade tu et domus tua, et peregrinare ubicumque repereris : vocavit enim Dominus famem, et veniet super terram septem annis.

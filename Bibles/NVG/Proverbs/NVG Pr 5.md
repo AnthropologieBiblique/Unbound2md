@@ -1,9 +1,13 @@
 ---
-aliases : Pr 5
+aliases : 
+- Proverbs 5
+- Proverbes 5
+- Pr 5
+- Proverbs 5
 tags : Bible/Pr/5
 ---
 
-# Chapitre 5
+# Proverbs 5
 
 ###### 1
 Fili mi, attende ad sapientiam meam, et prudentiae meae inclina aurem tuam,

@@ -1,9 +1,13 @@
 ---
-aliases : Si 21
+aliases : 
+- Ecclesiasticus (Sira 21
+- Siracide 21
+- Si 21
+- Ecclesiasticus (Sira 21
 tags : Bible/Si/21
 ---
 
-# Chapitre 21
+# Ecclesiasticus (Sira 21
 
 ###### 1
 Fili, peccasti, non adjicias iterum : sed et de pristinis deprecare, ut tibi dimittantur.

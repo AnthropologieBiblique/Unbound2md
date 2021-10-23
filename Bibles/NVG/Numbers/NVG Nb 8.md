@@ -1,9 +1,13 @@
 ---
-aliases : Nb 8
+aliases : 
+- Numbers 8
+- Nombres 8
+- Nb 8
+- Numbers 8
 tags : Bible/Nb/8
 ---
 
-# Chapitre 8
+# Numbers 8
 
 ###### 1
 Locutusque est Dominus ad Moysen dicens: 

@@ -1,9 +1,12 @@
 ---
-aliases : Dn 12
+aliases : 
+- Daniel 12
+- Daniel 12
+- Dn 12
 tags : Bible/Dn/12
 ---
 
-# Chapitre 12
+# Daniel 12
 
 ###### 1
 In tempore autem illo con surget Michael, princeps magnus, qui stat pro filiis populi tui, et erit tempus angustiae, quale non fuit ab eo, quo gentes esse coeperunt, usque ad tempus illud. Et in tempore illo salvabitur populus tuus, omnis, qui inventus fuerit scriptus in libro. 

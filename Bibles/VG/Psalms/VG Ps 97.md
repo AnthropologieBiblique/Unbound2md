@@ -1,9 +1,13 @@
 ---
-aliases : Ps 98
+aliases : 
+- Psalms 97
+- Psaumes 98
+- Ps 98
+- Psalms 98
 tags : Bible/Ps/98
 ---
 
-# Chapitre 97
+# Psalms 97
 
 ###### 1
 Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit. Salvavit sibi dextera ejus, et brachium sanctum ejus.

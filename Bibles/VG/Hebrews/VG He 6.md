@@ -1,9 +1,13 @@
 ---
-aliases : He 6
+aliases : 
+- Hebrews 6
+- Hébreux 6
+- He 6
+- Hebrews 6
 tags : Bible/He/6
 ---
 
-# Chapitre 6
+# Hebrews 6
 
 ###### 1
 Quapropter intermittentes inchoationis Christi sermonem, ad perfectiora feramur, non rursum jacientes fundamentum pœnitentiæ ab operibus mortuis, et fidei ad Deum,

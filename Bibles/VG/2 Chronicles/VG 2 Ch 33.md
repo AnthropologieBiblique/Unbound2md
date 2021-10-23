@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 33
+aliases : 
+- 2 Chronicles 33
+- 2 Chroniques 33
+- 2 Ch 33
+- 2 Chronicles 33
 tags : Bible/2Ch/33
 ---
 
-# Chapitre 33
+# 2 Chronicles 33
 
 ###### 1
 Duodecim annorum erat Manasses cum regnare cœpisset, et quinquaginta quinque annis regnavit in Jerusalem.

@@ -1,9 +1,13 @@
 ---
-aliases : Is 62
+aliases : 
+- Isaiah 62
+- Isaïe 62
+- Is 62
+- Isaiah 62
 tags : Bible/Is/62
 ---
 
-# Chapitre 62
+# Isaiah 62
 
 ###### 1
 Propter Sion non tacebo, et propter Jerusalem non quiescam, donec egrediatur ut splendor justus ejus, et salvator ejus ut lampas accendatur.

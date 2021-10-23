@@ -1,9 +1,13 @@
 ---
-aliases : Lc 9
+aliases : 
+- Luke 9
+- Luc 9
+- Lc 9
+- Luke 9
 tags : Bible/Lc/9
 ---
 
-# Chapitre 9
+# Luke 9
 
 ###### 1
 Convocatis autem Duodecim, dedit illis virtutem et potesta tem super omnia daemonia, et ut languores curarent, 

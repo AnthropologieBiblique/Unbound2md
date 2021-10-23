@@ -1,9 +1,13 @@
 ---
-aliases : 1 Ch 21
+aliases : 
+- 1 Chronicles 21
+- 1 Chroniques 21
+- 1 Ch 21
+- 1 Chronicles 21
 tags : Bible/1Ch/21
 ---
 
-# Chapitre 21
+# 1 Chronicles 21
 
 ###### 1
 Consurrexit autem Satan contra Israël, et concitavit David ut numeraret Israël.

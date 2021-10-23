@@ -1,9 +1,13 @@
 ---
-aliases : Ps 87
+aliases : 
+- Psalms 87
+- Psaumes 87
+- Ps 87
+- Psalms 87
 tags : Bible/Ps/87
 ---
 
-# Chapitre 87
+# Psalms 87
 
 ###### 1
 Filiorum Core. PSALMUS. Canticum. Fundamenta eius in montibus sanctis;

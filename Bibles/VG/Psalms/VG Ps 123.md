@@ -1,9 +1,13 @@
 ---
-aliases : Ps 124
+aliases : 
+- Psalms 123
+- Psaumes 124
+- Ps 124
+- Psalms 124
 tags : Bible/Ps/124
 ---
 
-# Chapitre 123
+# Psalms 123
 
 ###### 1
 Canticum graduum. Nisi quia Dominus erat in nobis, dicat nunc Israël,

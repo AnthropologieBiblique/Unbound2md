@@ -1,9 +1,13 @@
 ---
-aliases : Ps 89
+aliases : 
+- Ψαλμοί 88
+- Psaumes 89
+- Ps 89
+- Psalms 89
 tags : Bible/Ps/89
 ---
 
-# Chapitre 88
+# Ψαλμοί 88
 
 ###### 1
 συνέσεως αιθαν τῷ ισραηλίτῃ

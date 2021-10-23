@@ -1,9 +1,13 @@
 ---
-aliases : Dt 29
+aliases : 
+- Deuteronomy 29
+- Deutéronome 29
+- Dt 29
+- Deuteronomy 29
 tags : Bible/Dt/29
 ---
 
-# Chapitre 29
+# Deuteronomy 29
 
 ###### 1
 Hæc sunt verba fœderis quod præcepit Dominus Moysi ut feriret cum filiis Israël in terra Moab : præter illud fœdus, quod cum eis pepigit in Horeb.

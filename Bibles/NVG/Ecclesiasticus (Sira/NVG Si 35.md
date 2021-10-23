@@ -1,9 +1,13 @@
 ---
-aliases : Si 35
+aliases : 
+- Ecclesiasticus (Sira 35
+- Siracide 35
+- Si 35
+- Ecclesiasticus (Sira 35
 tags : Bible/Si/35
 ---
 
-# Chapitre 35
+# Ecclesiasticus (Sira 35
 
 ###### 1
 Qui conservat legem, multiplicat oblationes:

@@ -1,9 +1,13 @@
 ---
-aliases : Is 18
+aliases : 
+- Isaiah 18
+- Isaïe 18
+- Is 18
+- Isaiah 18
 tags : Bible/Is/18
 ---
 
-# Chapitre 18
+# Isaiah 18
 
 ###### 1
 Vae terrae alarum strepitantium, quae est trans flumina Aethiopiae!

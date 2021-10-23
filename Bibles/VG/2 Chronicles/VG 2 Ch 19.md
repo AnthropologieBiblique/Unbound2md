@@ -1,9 +1,13 @@
 ---
-aliases : 2 Ch 19
+aliases : 
+- 2 Chronicles 19
+- 2 Chroniques 19
+- 2 Ch 19
+- 2 Chronicles 19
 tags : Bible/2Ch/19
 ---
 
-# Chapitre 19
+# 2 Chronicles 19
 
 ###### 1
 Reversus est autem Josaphat rex Juda in domum suam pacifice in Jerusalem.

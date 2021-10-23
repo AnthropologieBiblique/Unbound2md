@@ -1,9 +1,12 @@
 ---
-aliases : Lm 4
+aliases : 
+- Lamentations 4
+- Lamentations 4
+- Lm 4
 tags : Bible/Lm/4
 ---
 
-# Chapitre 4
+# Lamentations 4
 
 ###### 1
 ALEPH. Quomodo obscuratum est aurum, mutatus est color optimus ! dispersi sunt lapides sanctuarii in capite omnium platearum !

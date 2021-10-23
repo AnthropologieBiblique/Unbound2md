@@ -1,9 +1,13 @@
 ---
-aliases : Gn 12
+aliases : 
+- Genesis 12
+- Genèse 12
+- Gn 12
+- Genesis 12
 tags : Bible/Gn/12
 ---
 
-# Chapitre 12
+# Genesis 12
 
 ###### 1
 Dixit autem Dominus ad Abram : Egredere de terra tua, et de cognatione tua, et de domo patris tui, et veni in terram quam monstrabo tibi.

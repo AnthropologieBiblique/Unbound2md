@@ -1,9 +1,13 @@
 ---
-aliases : Ps 147
+aliases : 
+- Psalms 147
+- Psaumes 147
+- Ps 147
+- Psalms 147
 tags : Bible/Ps/147
 ---
 
-# Chapitre 147
+# Psalms 147
 
 ###### 1
 הַלְלוּ יָהּ כִּי־טֹוב זַמְּרָה אֱלֹהֵינוּ כִּי־נָעִים נָאוָה תְהִלָּה׃

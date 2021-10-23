@@ -1,9 +1,13 @@
 ---
-aliases : Ez 24
+aliases : 
+- Ezekiel 24
+- Ézéchiel 24
+- Ez 24
+- Ezekiel 24
 tags : Bible/Ez/24
 ---
 
-# Chapitre 24
+# Ezekiel 24
 
 ###### 1
 Et factum est verbum Do mini ad me in anno nono, in mense decimo, decima mensis, dicens: 

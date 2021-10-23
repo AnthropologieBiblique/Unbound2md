@@ -1,9 +1,13 @@
 ---
-aliases : Lv 14
+aliases : 
+- Leviticus 14
+- Lévitique 14
+- Lv 14
+- Leviticus 14
 tags : Bible/Lv/14
 ---
 
-# Chapitre 14
+# Leviticus 14
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

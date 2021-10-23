@@ -1,9 +1,13 @@
 ---
-aliases : Jr 9
+aliases : 
+- Jeremiah 9
+- Jérémie 9
+- Jr 9
+- Jeremiah 9
 tags : Bible/Jr/9
 ---
 
-# Chapitre 9
+# Jeremiah 9
 
 ###### 1
 Quis dabit mihi in solitudine deversorium viatorum, et de relinquam populum meum et recedam ab eis? Quia omnes adulteri sunt, coetus praevaricatorum.

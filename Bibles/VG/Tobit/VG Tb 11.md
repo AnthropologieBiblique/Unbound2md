@@ -1,9 +1,13 @@
 ---
-aliases : Tb 11
+aliases : 
+- Tobit 11
+- Tobie 11
+- Tb 11
+- Tobit 11
 tags : Bible/Tb/11
 ---
 
-# Chapitre 11
+# Tobit 11
 
 ###### 1
 Cumque reverterentur, pervenerunt ad Charan, quæ est in medio itinere contra Niniven, undecimo die.

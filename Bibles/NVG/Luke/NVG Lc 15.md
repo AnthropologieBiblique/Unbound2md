@@ -1,9 +1,13 @@
 ---
-aliases : Lc 15
+aliases : 
+- Luke 15
+- Luc 15
+- Lc 15
+- Luke 15
 tags : Bible/Lc/15
 ---
 
-# Chapitre 15
+# Luke 15
 
 ###### 1
 Erant autem appropinquan tes ei omnes publicani et pec catores, ut audirent illum. 

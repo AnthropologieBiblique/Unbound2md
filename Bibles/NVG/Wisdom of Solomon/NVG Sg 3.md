@@ -1,9 +1,13 @@
 ---
-aliases : Sg 3
+aliases : 
+- Wisdom of Solomon 3
+- Sagesse 3
+- Sg 3
+- Wisdom of Solomon 3
 tags : Bible/Sg/3
 ---
 
-# Chapitre 3
+# Wisdom of Solomon 3
 
 ###### 1
 Iustorum autem animae in manu Dei sunt, et non tanget illos tormentum mortis.

@@ -1,9 +1,12 @@
 ---
-aliases : Od 10
+aliases : 
+- Ὠδαί 10
+- Odes 10
+- Od 10
 tags : Bible/Od/10
 ---
 
-# Chapitre 10
+# Ὠδαί 10
 
 ###### 1a
 ᾠδὴ ησαιου

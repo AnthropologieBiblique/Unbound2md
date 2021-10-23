@@ -1,9 +1,13 @@
 ---
-aliases : Jr 50
+aliases : 
+- Ἱερεμίας 27
+- Jérémie 50
+- Jr 50
+- Jeremiah 50
 tags : Bible/Jr/50
 ---
 
-# Chapitre 27
+# Ἱερεμίας 27
 
 ###### 1
 λόγος κυρίου ὃν ἐλάλησεν ἐπὶ βαβυλῶνα

@@ -1,9 +1,13 @@
 ---
-aliases : Jn 2
+aliases : 
+- John 2
+- Jean 2
+- Jn 2
+- John 2
 tags : Bible/Jn/2
 ---
 
-# Chapitre 2
+# John 2
 
 ###### 1
 Et die tertio nuptiae factae sunt in Cana Galilaeae, et erat mater Iesu ibi; 

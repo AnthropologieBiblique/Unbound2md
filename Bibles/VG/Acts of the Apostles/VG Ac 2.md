@@ -1,9 +1,13 @@
 ---
-aliases : Ac 2
+aliases : 
+- Acts of the Apostles 2
+- Actes 2
+- Ac 2
+- Acts of the Apostles 2
 tags : Bible/Ac/2
 ---
 
-# Chapitre 2
+# Acts of the Apostles 2
 
 ###### 1
 Et cum complerentur dies Pentecostes, erant omnes pariter in eodem loco :

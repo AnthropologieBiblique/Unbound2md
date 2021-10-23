@@ -1,9 +1,13 @@
 ---
-aliases : Qo 4
+aliases : 
+- Ecclesiastes 4
+- Ecclésiaste 4
+- Qo 4
+- Ecclesiastes 4
 tags : Bible/Qo/4
 ---
 
-# Chapitre 4
+# Ecclesiastes 4
 
 ###### 1
 Verti me ad alia et vidi calumnias, quae sub sole geruntur, et ecce lacrimae oppressorum, et nemo consolator; et ex parte opprimentium violentia, et nemo consolator. 

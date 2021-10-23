@@ -1,9 +1,13 @@
 ---
-aliases : Ps 35
+aliases : 
+- Psalms 34
+- Psaumes 35
+- Ps 35
+- Psalms 35
 tags : Bible/Ps/35
 ---
 
-# Chapitre 34
+# Psalms 34
 
 ###### 1
 Ipsi David. Judica, Domine, nocentes me ; expugna impugnantes me.

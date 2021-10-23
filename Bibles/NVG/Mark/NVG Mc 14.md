@@ -1,9 +1,13 @@
 ---
-aliases : Mc 14
+aliases : 
+- Mark 14
+- Marc 14
+- Mc 14
+- Mark 14
 tags : Bible/Mc/14
 ---
 
-# Chapitre 14
+# Mark 14
 
 ###### 1
 Erat autem Pascha et Azy ma post biduum. Et quaerebant summi sacerdotes et scribae, quomodo eum dolo tenerent et occiderent; 

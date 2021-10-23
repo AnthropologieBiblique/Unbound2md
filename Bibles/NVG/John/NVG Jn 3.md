@@ -1,9 +1,13 @@
 ---
-aliases : Jn 3
+aliases : 
+- John 3
+- Jean 3
+- Jn 3
+- John 3
 tags : Bible/Jn/3
 ---
 
-# Chapitre 3
+# John 3
 
 ###### 1
 Erat autem homo ex pharisaeis, Nicodemus nomine, princeps Iudaeorum; 

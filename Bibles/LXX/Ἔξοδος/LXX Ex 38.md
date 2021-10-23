@@ -1,9 +1,13 @@
 ---
-aliases : Ex 37
+aliases : 
+- Ἔξοδος 38
+- Exode 37
+- Ex 37
+- Exodus 37
 tags : Bible/Ex/37
 ---
 
-# Chapitre 38
+# Ἔξοδος 38
 
 ###### 1
 καὶ ἐποίησεν βεσελεηλ τὴν κιβωτὸν

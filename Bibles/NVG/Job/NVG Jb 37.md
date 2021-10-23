@@ -1,9 +1,12 @@
 ---
-aliases : Jb 37
+aliases : 
+- Job 37
+- Job 37
+- Jb 37
 tags : Bible/Jb/37
 ---
 
-# Chapitre 37
+# Job 37
 
 ###### 1
 Super hoc expavit cor meum et emotum est de loco suo.

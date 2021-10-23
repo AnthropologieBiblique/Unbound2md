@@ -1,9 +1,12 @@
 ---
-aliases : Od 6
+aliases : 
+- Ὠδαί 6
+- Odes 6
+- Od 6
 tags : Bible/Od/6
 ---
 
-# Chapitre 6
+# Ὠδαί 6
 
 ###### 1
 προσευχὴ ιωνα

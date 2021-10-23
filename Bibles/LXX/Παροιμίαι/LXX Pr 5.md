@@ -1,9 +1,13 @@
 ---
-aliases : Pr 5
+aliases : 
+- Παροιμίαι 5
+- Proverbes 5
+- Pr 5
+- Proverbs 5
 tags : Bible/Pr/5
 ---
 
-# Chapitre 5
+# Παροιμίαι 5
 
 ###### 1
 υἱέ ἐμῇ σοφίᾳ πρόσεχε ἐμοῖς δὲ λόγοις παράβαλλε σὸν οὖς

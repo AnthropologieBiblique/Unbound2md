@@ -1,9 +1,13 @@
 ---
-aliases : Ez 19
+aliases : 
+- Ezekiel 19
+- Ézéchiel 19
+- Ez 19
+- Ezekiel 19
 tags : Bible/Ez/19
 ---
 
-# Chapitre 19
+# Ezekiel 19
 
 ###### 1
 Et tu assume planctum super principes Israël :

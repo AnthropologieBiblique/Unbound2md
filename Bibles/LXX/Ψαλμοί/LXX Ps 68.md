@@ -1,9 +1,13 @@
 ---
-aliases : Ps 69
+aliases : 
+- Ψαλμοί 68
+- Psaumes 69
+- Ps 69
+- Psalms 69
 tags : Bible/Ps/69
 ---
 
-# Chapitre 68
+# Ψαλμοί 68
 
 ###### 1
 εἰς τὸ τέλος ὑπὲρ τῶν ἀλλοιωθησομένων τῷ δαυιδ

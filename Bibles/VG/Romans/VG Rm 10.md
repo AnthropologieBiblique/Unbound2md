@@ -1,9 +1,13 @@
 ---
-aliases : Rm 10
+aliases : 
+- Romans 10
+- Romains 10
+- Rm 10
+- Romans 10
 tags : Bible/Rm/10
 ---
 
-# Chapitre 10
+# Romans 10
 
 ###### 1
 Fratres, voluntas quidem cordis mei, et obsecratio ad Deum, fit pro illis in salutem.

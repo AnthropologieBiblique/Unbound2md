@@ -1,9 +1,13 @@
 ---
-aliases : Za 14
+aliases : 
+- Zechariah 14
+- Zacharie 14
+- Za 14
+- Zechariah 14
 tags : Bible/Za/14
 ---
 
-# Chapitre 14
+# Zechariah 14
 
 ###### 1
 הִנֵּה יֹום־בָּא לַיהוָה וְחֻלַּק שְׁלָלֵךְ בְּקִרְבֵּךְ׃

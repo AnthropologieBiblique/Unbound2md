@@ -1,9 +1,13 @@
 ---
-aliases : Ez 2
+aliases : 
+- Ezekiel 2
+- Ézéchiel 2
+- Ez 2
+- Ezekiel 2
 tags : Bible/Ez/2
 ---
 
-# Chapitre 2
+# Ezekiel 2
 
 ###### 1
 וַיֹּאמֶר אֵלָי בֶּן־אָדָם עֲמֹד עַל־רַגְלֶיךָ וַאֲדַבֵּר אֹתָךְ׃

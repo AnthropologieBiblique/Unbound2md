@@ -1,9 +1,13 @@
 ---
-aliases : Ez 26
+aliases : 
+- Ezekiel 26
+- Ézéchiel 26
+- Ez 26
+- Ezekiel 26
 tags : Bible/Ez/26
 ---
 
-# Chapitre 26
+# Ezekiel 26
 
 ###### 1
 וַיְהִי בְּעַשְׁתֵּי־עֶשְׂרֵה שָׁנָה בְּאֶחָד לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃

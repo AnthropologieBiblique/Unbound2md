@@ -1,9 +1,13 @@
 ---
-aliases : Is 45
+aliases : 
+- Isaiah 45
+- Isaïe 45
+- Is 45
+- Isaiah 45
 tags : Bible/Is/45
 ---
 
-# Chapitre 45
+# Isaiah 45
 
 ###### 1
 Hæc dicit Dominus christo meo Cyro, cujus apprehendi dexteram, ut subjiciam ante faciem ejus gentes, et dorsa regum vertam, et aperiam coram eo januas, et portæ non claudentur :

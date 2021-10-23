@@ -1,9 +1,13 @@
 ---
-aliases : Ps 71
+aliases : 
+- Psalms 70
+- Psaumes 71
+- Ps 71
+- Psalms 71
 tags : Bible/Ps/71
 ---
 
-# Chapitre 70
+# Psalms 70
 
 ###### 1
 Psalmus David, filiorum Jonadab, et priorum captivorum. In te, Domine, speravi ; non confundar in æternum ;

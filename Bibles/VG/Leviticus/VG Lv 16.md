@@ -1,9 +1,13 @@
 ---
-aliases : Lv 16
+aliases : 
+- Leviticus 16
+- Lévitique 16
+- Lv 16
+- Leviticus 16
 tags : Bible/Lv/16
 ---
 
-# Chapitre 16
+# Leviticus 16
 
 ###### 1
 Locutusque est Dominus ad Moysen post mortem duorum filiorum Aaron, quando offerentes ignem alienum interfecti sunt :

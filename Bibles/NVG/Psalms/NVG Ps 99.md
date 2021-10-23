@@ -1,9 +1,13 @@
 ---
-aliases : Ps 99
+aliases : 
+- Psalms 99
+- Psaumes 99
+- Ps 99
+- Psalms 99
 tags : Bible/Ps/99
 ---
 
-# Chapitre 99
+# Psalms 99
 
 ###### 1
 Dominus regnavit! Commoveantur populi sedet super cherubim, moveatur terra.

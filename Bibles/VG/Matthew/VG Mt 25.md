@@ -1,9 +1,13 @@
 ---
-aliases : Mt 25
+aliases : 
+- Matthew 25
+- Matthieu 25
+- Mt 25
+- Matthew 25
 tags : Bible/Mt/25
 ---
 
-# Chapitre 25
+# Matthew 25
 
 ###### 1
 Tunc simile erit regnum cælorum decem virginibus : quæ accipientes lampades suas exierunt obviam sponso et sponsæ.

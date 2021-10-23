@@ -1,9 +1,13 @@
 ---
-aliases : 2 R 19
+aliases : 
+- 2 Kings 19
+- 2 Rois 19
+- 2 R 19
+- 2 Kings 19
 tags : Bible/2R/19
 ---
 
-# Chapitre 19
+# 2 Kings 19
 
 ###### 1
 Quae cum audisset rex Ezechias, scidit vestimenta sua et opertus est sacco ingressusque est domum Domini. 

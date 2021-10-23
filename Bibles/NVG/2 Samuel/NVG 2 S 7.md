@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 7
+aliases : 
+- 2 Samuel 7
+- 2 Samuel 7
+- 2 S 7
 tags : Bible/2S/7
 ---
 
-# Chapitre 7
+# 2 Samuel 7
 
 ###### 1
 Factum est autem cum sedisset rex in domo sua, et Dominus de disset ei requiem undique ab universis inimicis suis, 

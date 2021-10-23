@@ -1,9 +1,13 @@
 ---
-aliases : Ps 15
+aliases : 
+- Psalms 14
+- Psaumes 15
+- Ps 15
+- Psalms 15
 tags : Bible/Ps/15
 ---
 
-# Chapitre 14
+# Psalms 14
 
 ###### 1
 Psalmus David. Domine, quis habitabit in tabernaculo tuo ? aut quis requiescet in monte sancto tuo ?

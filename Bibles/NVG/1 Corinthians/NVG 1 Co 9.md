@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 9
+aliases : 
+- 1 Corinthians 9
+- 1 Corinthiens 9
+- 1 Co 9
+- 1 Corinthians 9
 tags : Bible/1Co/9
 ---
 
-# Chapitre 9
+# 1 Corinthians 9
 
 ###### 1
 Non sum liber? Non sum apo stolus? Nonne Iesum Dominum nostrum vidi? Non opus meum vos estis in Domino? 

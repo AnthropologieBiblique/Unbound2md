@@ -1,9 +1,12 @@
 ---
-aliases : Est 4
+aliases : 
+- Esther 4
+- Esther 4
+- Est 4
 tags : Bible/Est/4
 ---
 
-# Chapitre 4
+# Esther 4
 
 ###### 1
 Cum comperisset Mardochaeus omnia, quae acciderant, scidit vestimenta sua et indutus est sacco spargens cinerem capiti. Et in platea mediae civitatis voce magna et amara clamabat 

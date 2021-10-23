@@ -1,9 +1,13 @@
 ---
-aliases : Si 39
+aliases : 
+- Ecclesiasticus (Sira 39
+- Siracide 39
+- Si 39
+- Ecclesiasticus (Sira 39
 tags : Bible/Si/39
 ---
 
-# Chapitre 39
+# Ecclesiasticus (Sira 39
 
 ###### 1
 Qui autem accommodat animam suam ad timorem Dei et in lege Altissimi meditatur, sapientiam omnium antiquorum exquiret et in prophetiis vacabit.

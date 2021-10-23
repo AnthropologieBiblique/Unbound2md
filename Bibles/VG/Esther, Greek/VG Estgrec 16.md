@@ -1,9 +1,13 @@
 ---
-aliases : Estgrec 16
+aliases : 
+- Esther, Greek 16
+- Esther, Grec 16
+- Estgrec 16
+- Esther, Greek 16
 tags : Bible/Estgrec/16
 ---
 
-# Chapitre 16
+# Esther, Greek 16
 
 ###### 1
 Rex magnus Artaxerxes ab India usque Æthiopiam centum viginti septem provinciarum ducibus ac principibus, qui nostræ jussioni obediunt, salutem dicit.

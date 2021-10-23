@@ -1,9 +1,13 @@
 ---
-aliases : Ps 7
+aliases : 
+- Psalms 7
+- Psaumes 7
+- Ps 7
+- Psalms 7
 tags : Bible/Ps/7
 ---
 
-# Chapitre 7
+# Psalms 7
 
 ###### 1
 Psalmus David, quem cantavit Domino pro verbis Chusi, filii Jemini.

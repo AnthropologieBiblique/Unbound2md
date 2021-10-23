@@ -1,9 +1,13 @@
 ---
-aliases : Gn 40
+aliases : 
+- Genesis 40
+- Genèse 40
+- Gn 40
+- Genesis 40
 tags : Bible/Gn/40
 ---
 
-# Chapitre 40
+# Genesis 40
 
 ###### 1
 His ita gestis, accidit ut peccarent duo eunuchi, pincerna regis Ægypti, et pistor, domino suo.

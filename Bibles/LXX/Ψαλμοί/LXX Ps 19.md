@@ -1,9 +1,13 @@
 ---
-aliases : Ps 20
+aliases : 
+- Ψαλμοί 19
+- Psaumes 20
+- Ps 20
+- Psalms 20
 tags : Bible/Ps/20
 ---
 
-# Chapitre 19
+# Ψαλμοί 19
 
 ###### 1
 εἰς τὸ τέλος ψαλμὸς τῷ δαυιδ

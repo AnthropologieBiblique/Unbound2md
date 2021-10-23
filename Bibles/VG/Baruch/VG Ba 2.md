@@ -1,9 +1,12 @@
 ---
-aliases : Ba 2
+aliases : 
+- Baruch 2
+- Baruch 2
+- Ba 2
 tags : Bible/Ba/2
 ---
 
-# Chapitre 2
+# Baruch 2
 
 ###### 1
 Propter quod statuit Dominus Deus noster verbum suum, quod locutus est ad nos, et ad judices nostros qui judicaverunt Israël, et ad reges nostros, et ad principes nostros, et ad omnem Israël et Juda :

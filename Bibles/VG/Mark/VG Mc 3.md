@@ -1,9 +1,13 @@
 ---
-aliases : Mc 3
+aliases : 
+- Mark 3
+- Marc 3
+- Mc 3
+- Mark 3
 tags : Bible/Mc/3
 ---
 
-# Chapitre 3
+# Mark 3
 
 ###### 1
 Et introivit iterum in synagogam : et erat ibi homo habens manum aridam.

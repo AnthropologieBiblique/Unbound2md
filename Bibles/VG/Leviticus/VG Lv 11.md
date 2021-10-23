@@ -1,9 +1,13 @@
 ---
-aliases : Lv 11
+aliases : 
+- Leviticus 11
+- Lévitique 11
+- Lv 11
+- Leviticus 11
 tags : Bible/Lv/11
 ---
 
-# Chapitre 11
+# Leviticus 11
 
 ###### 1
 Locutusque est Dominus ad Moysen et Aaron, dicens :

@@ -1,9 +1,13 @@
 ---
-aliases : Lv 20
+aliases : 
+- Λευϊτικόν 20
+- Lévitique 20
+- Lv 20
+- Leviticus 20
 tags : Bible/Lv/20
 ---
 
-# Chapitre 20
+# Λευϊτικόν 20
 
 ###### 1
 καὶ ἐλάλησεν κύριος πρὸς μωυσῆν λέγων

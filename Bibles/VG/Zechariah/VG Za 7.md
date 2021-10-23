@@ -1,9 +1,13 @@
 ---
-aliases : Za 7
+aliases : 
+- Zechariah 7
+- Zacharie 7
+- Za 7
+- Zechariah 7
 tags : Bible/Za/7
 ---
 
-# Chapitre 7
+# Zechariah 7
 
 ###### 1
 Et factum est in anno quarto Darii regis, factum est verbum Domini ad Zachariam, in quarta mensis noni, qui est Casleu.

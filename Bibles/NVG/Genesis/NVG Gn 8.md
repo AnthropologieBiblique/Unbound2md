@@ -1,9 +1,13 @@
 ---
-aliases : Gn 8
+aliases : 
+- Genesis 8
+- Genèse 8
+- Gn 8
+- Genesis 8
 tags : Bible/Gn/8
 ---
 
-# Chapitre 8
+# Genesis 8
 
 ###### 1
 Recordatus autem Deus Noe cunctorumque animantium et omnium iumentorum, quae erant cum eo in arca, adduxit spiritum super terram, et imminutae sunt aquae. 

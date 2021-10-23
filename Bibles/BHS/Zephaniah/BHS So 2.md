@@ -1,9 +1,13 @@
 ---
-aliases : So 2
+aliases : 
+- Zephaniah 2
+- Sophonie 2
+- So 2
+- Zephaniah 2
 tags : Bible/So/2
 ---
 
-# Chapitre 2
+# Zephaniah 2
 
 ###### 1
 הִתְקֹושְׁשׁוּ וָקֹושּׁוּ הַגֹּוי לֹא נִכְסָף׃

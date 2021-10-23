@@ -1,9 +1,13 @@
 ---
-aliases : Is 38
+aliases : 
+- Isaiah 38
+- Isaïe 38
+- Is 38
+- Isaiah 38
 tags : Bible/Is/38
 ---
 
-# Chapitre 38
+# Isaiah 38
 
 ###### 1
 In diebus illis ægrotavit Ezechias usque ad mortem ; et introivit ad eum Isaias, filius Amos, propheta, et dixit ei : Hæc dicit Dominus : Dispone domui tuæ, quia morieris tu, et non vives.

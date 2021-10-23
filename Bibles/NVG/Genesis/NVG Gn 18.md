@@ -1,9 +1,13 @@
 ---
-aliases : Gn 18
+aliases : 
+- Genesis 18
+- Genèse 18
+- Gn 18
+- Genesis 18
 tags : Bible/Gn/18
 ---
 
-# Chapitre 18
+# Genesis 18
 
 ###### 1
 Apparuit autem ei Dominus iuxta Quercus Mambre se denti in ostio tabernaculi sui in ipso fervore diei. 

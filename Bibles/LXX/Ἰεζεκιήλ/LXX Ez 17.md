@@ -1,9 +1,13 @@
 ---
-aliases : Ez 17
+aliases : 
+- Ἰεζεκιήλ 17
+- Ézéchiel 17
+- Ez 17
+- Ezekiel 17
 tags : Bible/Ez/17
 ---
 
-# Chapitre 17
+# Ἰεζεκιήλ 17
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρός με λέγων

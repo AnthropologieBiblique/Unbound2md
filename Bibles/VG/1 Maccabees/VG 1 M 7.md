@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 7
+aliases : 
+- 1 Maccabees 7
+- 1 Maccabees 7
+- 1 M 7
 tags : Bible/1M/7
 ---
 
-# Chapitre 7
+# 1 Maccabees 7
 
 ###### 1
 Anno centesimo quinquagesimo primo, exiit Demetrius Seleuci filius ab urbe Roma, et ascendit cum paucis viris in civitatem maritimam, et regnavit illic.

@@ -1,9 +1,13 @@
 ---
-aliases : Si 33
+aliases : 
+- Ecclesiasticus (Sira 33
+- Siracide 33
+- Si 33
+- Ecclesiasticus (Sira 33
 tags : Bible/Si/33
 ---
 
-# Chapitre 33
+# Ecclesiasticus (Sira 33
 
 ###### 1
 Timenti Dominum non occurrent mala : sed in tentatione Deus illum conservabit, et liberabit a malis. Sapiens non odit mandata et justitias,

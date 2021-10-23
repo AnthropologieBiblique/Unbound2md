@@ -1,9 +1,12 @@
 ---
-aliases : Jb 5
+aliases : 
+- Job 5
+- Job 5
+- Jb 5
 tags : Bible/Jb/5
 ---
 
-# Chapitre 5
+# Job 5
 
 ###### 1
 קְרָא־נָא הֲיֵשׁ עֹונֶךָּ וְאֶל־מִי מִקְּדֹשִׁימ* תִּפְנֶה׃

@@ -1,9 +1,13 @@
 ---
-aliases : Sg 2
+aliases : 
+- Wisdom of Solomon 2
+- Sagesse 2
+- Sg 2
+- Wisdom of Solomon 2
 tags : Bible/Sg/2
 ---
 
-# Chapitre 2
+# Wisdom of Solomon 2
 
 ###### 1
 Dixerunt enim cogitantes apud se non recte: “ Exiguum et cum taedio est tempus vitae nostrae, et non est refrigerium in fine hominis, et non est agnitus, qui sit reversus ab inferis.

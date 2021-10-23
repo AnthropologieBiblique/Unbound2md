@@ -1,9 +1,13 @@
 ---
-aliases : Jon 1
+aliases : 
+- Ἰωνᾶς Ϛ' 1
+- Jonas 1
+- Jon 1
+- Jonah 1
 tags : Bible/Jon/1
 ---
 
-# Chapitre 1
+# Ἰωνᾶς Ϛ' 1
 
 ###### 1
 καὶ ἐγένετο λόγος κυρίου πρὸς ιωναν τὸν τοῦ αμαθι λέγων

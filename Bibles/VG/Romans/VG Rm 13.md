@@ -1,9 +1,13 @@
 ---
-aliases : Rm 13
+aliases : 
+- Romans 13
+- Romains 13
+- Rm 13
+- Romans 13
 tags : Bible/Rm/13
 ---
 
-# Chapitre 13
+# Romans 13
 
 ###### 1
 Omnis anima potestatibus sublimioribus subdita sit : non est enim potestas nisi a Deo : quæ autem sunt, a Deo ordinatæ sunt.

@@ -1,9 +1,13 @@
 ---
-aliases : Ne 9
+aliases : 
+- Nehemiah 9
+- Néhémie 9
+- Ne 9
+- Nehemiah 9
 tags : Bible/Ne/9
 ---
 
-# Chapitre 9
+# Nehemiah 9
 
 ###### 1
 In die autem vigesimo quarto mensis hujus, convenerunt filii Israël in jejunio et in saccis, et humus super eos.

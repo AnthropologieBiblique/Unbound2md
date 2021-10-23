@@ -1,9 +1,12 @@
 ---
-aliases : Od 9
+aliases : 
+- Ὠδαί 9
+- Odes 9
+- Od 9
 tags : Bible/Od/9
 ---
 
-# Chapitre 9
+# Ὠδαί 9
 
 ###### 1a
 προσευχὴ μαριας τῆς θεοτόκου

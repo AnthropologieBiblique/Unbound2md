@@ -1,9 +1,13 @@
 ---
-aliases : Pr 29
+aliases : 
+- Proverbs 29
+- Proverbes 29
+- Pr 29
+- Proverbs 29
 tags : Bible/Pr/29
 ---
 
-# Chapitre 29
+# Proverbs 29
 
 ###### 1
 Vir, qui correptiones dura cervice contemnit, subito conteretur absque sanatione.

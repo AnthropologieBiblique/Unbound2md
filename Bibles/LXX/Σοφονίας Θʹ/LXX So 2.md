@@ -1,9 +1,13 @@
 ---
-aliases : So 2
+aliases : 
+- Σοφονίας Θʹ 2
+- Sophonie 2
+- So 2
+- Zephaniah 2
 tags : Bible/So/2
 ---
 
-# Chapitre 2
+# Σοφονίας Θʹ 2
 
 ###### 1
 συνάχθητε καὶ συνδέθητε τὸ ἔθνος τὸ ἀπαίδευτον

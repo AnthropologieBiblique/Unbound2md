@@ -1,9 +1,12 @@
 ---
-aliases : Jb 29
+aliases : 
+- Job 29
+- Job 29
+- Jb 29
 tags : Bible/Jb/29
 ---
 
-# Chapitre 29
+# Job 29
 
 ###### 1
 וַיֹּסֶף אִיֹּוב שְׂאֵת מְשָׁלֹו וַיֹּאמַר׃

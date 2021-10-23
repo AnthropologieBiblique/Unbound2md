@@ -1,9 +1,13 @@
 ---
-aliases : Lv 8
+aliases : 
+- Leviticus 8
+- Lévitique 8
+- Lv 8
+- Leviticus 8
 tags : Bible/Lv/8
 ---
 
-# Chapitre 8
+# Leviticus 8
 
 ###### 1
 וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃

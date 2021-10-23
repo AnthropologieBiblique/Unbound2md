@@ -1,9 +1,12 @@
 ---
-aliases : Rt 4
+aliases : 
+- Ruth 4
+- Ruth 4
+- Rt 4
 tags : Bible/Rt/4
 ---
 
-# Chapitre 4
+# Ruth 4
 
 ###### 1
 Ascendit ergo Booz ad portam, et sedit ibi. Cumque vidisset propinquum præterire, de quo prius sermo habitus est, dixit ad eum : Declina paulisper, et sede hic : vocans eum nomine suo. Qui divertit, et sedit.

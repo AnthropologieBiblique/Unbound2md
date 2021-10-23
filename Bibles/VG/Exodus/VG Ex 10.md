@@ -1,9 +1,13 @@
 ---
-aliases : Ex 10
+aliases : 
+- Exodus 10
+- Exode 10
+- Ex 10
+- Exodus 10
 tags : Bible/Ex/10
 ---
 
-# Chapitre 10
+# Exodus 10
 
 ###### 1
 Et dixit Dominus ad Moysen : Egredere ad Pharaonem : ego enim induravi cor ejus, et servorum illius, ut faciam signa mea hæc in eo :

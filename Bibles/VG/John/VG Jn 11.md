@@ -1,9 +1,13 @@
 ---
-aliases : Jn 11
+aliases : 
+- John 11
+- Jean 11
+- Jn 11
+- John 11
 tags : Bible/Jn/11
 ---
 
-# Chapitre 11
+# John 11
 
 ###### 1
 Erat autem quidem languens Lazarus a Bethania, de castello Mariæ et Marthæ sororis ejus.

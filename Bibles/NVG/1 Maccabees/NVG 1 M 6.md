@@ -1,9 +1,12 @@
 ---
-aliases : 1 M 6
+aliases : 
+- 1 Maccabees 6
+- 1 Maccabees 6
+- 1 M 6
 tags : Bible/1M/6
 ---
 
-# Chapitre 6
+# 1 Maccabees 6
 
 ###### 1
 Et rex Antiochus perambulabat superiores regiones et audivit esse Elymaida in Perside civitatem gloriosam divitiis argento et auro 

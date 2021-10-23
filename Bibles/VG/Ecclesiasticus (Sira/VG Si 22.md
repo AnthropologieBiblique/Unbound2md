@@ -1,9 +1,13 @@
 ---
-aliases : Si 22
+aliases : 
+- Ecclesiasticus (Sira 22
+- Siracide 22
+- Si 22
+- Ecclesiasticus (Sira 22
 tags : Bible/Si/22
 ---
 
-# Chapitre 22
+# Ecclesiasticus (Sira 22
 
 ###### 1
 In lapide luteo lapidatus est piger : et omnes loquentur super aspernationem illius.

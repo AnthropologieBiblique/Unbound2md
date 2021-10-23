@@ -1,9 +1,12 @@
 ---
-aliases : Lm 5
+aliases : 
+- Lamentations 5
+- Lamentations 5
+- Lm 5
 tags : Bible/Lm/5
 ---
 
-# Chapitre 5
+# Lamentations 5
 
 ###### 1
 Recordare, Domine, quid acci derit nobis; intuere et respice opprobrium nostrum.

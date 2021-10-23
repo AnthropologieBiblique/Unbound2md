@@ -1,9 +1,13 @@
 ---
-aliases : Lv 23
+aliases : 
+- Leviticus 23
+- Lévitique 23
+- Lv 23
+- Leviticus 23
 tags : Bible/Lv/23
 ---
 
-# Chapitre 23
+# Leviticus 23
 
 ###### 1
 Locutus est Dominus ad Moysen dicens: 

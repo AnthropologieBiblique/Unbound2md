@@ -1,9 +1,13 @@
 ---
-aliases : Dt 15
+aliases : 
+- Deuteronomy 15
+- Deutéronome 15
+- Dt 15
+- Deuteronomy 15
 tags : Bible/Dt/15
 ---
 
-# Chapitre 15
+# Deuteronomy 15
 
 ###### 1
 מִקֵּץ שֶׁבַע־שָׁנִים תַּעֲשֶׂה שְׁמִטָּה׃

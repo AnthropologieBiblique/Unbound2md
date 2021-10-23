@@ -1,9 +1,13 @@
 ---
-aliases : 1 Co 3
+aliases : 
+- 1 Corinthians 3
+- 1 Corinthiens 3
+- 1 Co 3
+- 1 Corinthians 3
 tags : Bible/1Co/3
 ---
 
-# Chapitre 3
+# 1 Corinthians 3
 
 ###### 1
 Et ego, fratres, non potui vobis loqui quasi spiritualibus, sed quasi carnalibus. Tamquam parvulis in Christo,

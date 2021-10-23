@@ -1,9 +1,13 @@
 ---
-aliases : He 8
+aliases : 
+- Hebrews 8
+- Hébreux 8
+- He 8
+- Hebrews 8
 tags : Bible/He/8
 ---
 
-# Chapitre 8
+# Hebrews 8
 
 ###### 1
 Capitulum autem super ea quæ dicuntur : Talem habemus pontificem, qui consedit in dextera sedis magnitudinis in cælis,

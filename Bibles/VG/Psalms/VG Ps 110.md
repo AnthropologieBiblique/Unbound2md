@@ -1,9 +1,13 @@
 ---
-aliases : Ps 111
+aliases : 
+- Psalms 110
+- Psaumes 111
+- Ps 111
+- Psalms 111
 tags : Bible/Ps/111
 ---
 
-# Chapitre 110
+# Psalms 110
 
 ###### 1
 Alleluja. Confitebor tibi, Domine, in toto corde meo, in consilio justorum, et congregatione.

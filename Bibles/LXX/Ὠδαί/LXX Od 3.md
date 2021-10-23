@@ -1,9 +1,12 @@
 ---
-aliases : Od 3
+aliases : 
+- Ὠδαί 3
+- Odes 3
+- Od 3
 tags : Bible/Od/3
 ---
 
-# Chapitre 3
+# Ὠδαί 3
 
 ###### 1a
 προσευχὴ αννας μητρὸς σαμουηλ

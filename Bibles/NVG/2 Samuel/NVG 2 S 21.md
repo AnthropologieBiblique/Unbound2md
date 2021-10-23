@@ -1,9 +1,12 @@
 ---
-aliases : 2 S 21
+aliases : 
+- 2 Samuel 21
+- 2 Samuel 21
+- 2 S 21
 tags : Bible/2S/21
 ---
 
-# Chapitre 21
+# 2 Samuel 21
 
 ###### 1
 Facta est fames in diebus David tribus annis iugiter. Et consuluit David oraculum Domini, dixitque Dominus: “ Super Saul et super domum eius est sanguis, quia occidit Gabaonitas ”. 

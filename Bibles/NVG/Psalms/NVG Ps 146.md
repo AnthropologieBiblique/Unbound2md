@@ -1,9 +1,13 @@
 ---
-aliases : Ps 146
+aliases : 
+- Psalms 146
+- Psaumes 146
+- Ps 146
+- Psalms 146
 tags : Bible/Ps/146
 ---
 
-# Chapitre 146
+# Psalms 146
 
 ###### 1
 ALLELUIA. Lauda, anima mea, Dominum;

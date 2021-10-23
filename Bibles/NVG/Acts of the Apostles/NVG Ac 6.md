@@ -1,9 +1,13 @@
 ---
-aliases : Ac 6
+aliases : 
+- Acts of the Apostles 6
+- Actes 6
+- Ac 6
+- Acts of the Apostles 6
 tags : Bible/Ac/6
 ---
 
-# Chapitre 6
+# Acts of the Apostles 6
 
 ###### 1
 In diebus autem illis, crescente numero discipulorum, factus est murmur Graecorum adversus Hebraeos, eo quod neglegerentur in ministerio cotidiano viduae eorum. 

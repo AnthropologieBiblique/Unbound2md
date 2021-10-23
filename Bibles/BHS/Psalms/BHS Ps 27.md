@@ -1,9 +1,13 @@
 ---
-aliases : Ps 27
+aliases : 
+- Psalms 27
+- Psaumes 27
+- Ps 27
+- Psalms 27
 tags : Bible/Ps/27
 ---
 
-# Chapitre 27
+# Psalms 27
 
 ###### 1
 לְדָוִד יְהוָה אֹורִי וְיִשְׁעִי מִמִּי אִירָא יְהוָה מָעֹוז־חַיַּי מִמִּי אֶפְחָד׃

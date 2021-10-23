@@ -1,9 +1,13 @@
 ---
-aliases : Pr 25
+aliases : 
+- Proverbs 25
+- Proverbes 25
+- Pr 25
+- Proverbs 25
 tags : Bible/Pr/25
 ---
 
-# Chapitre 25
+# Proverbs 25
 
 ###### 1
 Hae quoque parabolae Salomonis, quas transcripse runt viri Ezechiae regis Iudae.

@@ -1,9 +1,13 @@
 ---
-aliases : Lc 4
+aliases : 
+- Luke 4
+- Luc 4
+- Lc 4
+- Luke 4
 tags : Bible/Lc/4
 ---
 
-# Chapitre 4
+# Luke 4
 
 ###### 1
 Jesus autem plenus Spiritu Sancto regressus est a Jordane : et agebatur a Spiritu in desertum

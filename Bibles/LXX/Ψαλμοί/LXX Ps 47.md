@@ -1,9 +1,13 @@
 ---
-aliases : Ps 48
+aliases : 
+- Ψαλμοί 47
+- Psaumes 48
+- Ps 48
+- Psalms 48
 tags : Bible/Ps/48
 ---
 
-# Chapitre 47
+# Ψαλμοί 47
 
 ###### 1
 ψαλμὸς ᾠδῆς τοῖς υἱοῖς κορε δευτέρᾳ σαββάτου

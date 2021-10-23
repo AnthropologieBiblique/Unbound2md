@@ -1,9 +1,13 @@
 ---
-aliases : Jr 17
+aliases : 
+- Jeremiah 17
+- Jérémie 17
+- Jr 17
+- Jeremiah 17
 tags : Bible/Jr/17
 ---
 
-# Chapitre 17
+# Jeremiah 17
 
 ###### 1
 Peccatum Juda scriptum est stylo ferreo in ungue adamantino, exaratum super latitudinem cordis eorum, et in cornibus ararum eorum.

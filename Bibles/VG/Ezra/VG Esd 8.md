@@ -1,9 +1,13 @@
 ---
-aliases : Esd 8
+aliases : 
+- Ezra 8
+- Esdras 8
+- Esd 8
+- Ezra 8
 tags : Bible/Esd/8
 ---
 
-# Chapitre 8
+# Ezra 8
 
 ###### 1
 Hi sunt ergo principes familiarum, et genealogia eorum, qui ascenderunt mecum in regno Artaxerxis regis de Babylone.
