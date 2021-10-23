@@ -94,8 +94,12 @@ class Bible:
 			os.mkdir(path)
 		except FileExistsError:
 			pass
+		f = open(path+'/'+self.abbrev+'.md', 'w')
+		f.write('# '+self.name+'\n\n')
 		for book in self.booksList:
 			book.buildMdBible(self.abbrev,path)
+			f.write('[['+book.abbrev+']]'+'\n')
+		f.close()
 
 
 class BibleBook:
