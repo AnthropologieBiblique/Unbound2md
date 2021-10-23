@@ -1,0 +1,61 @@
+---
+aliases : 
+- Genesis
+- Genèse
+- Gn
+- Genesis
+tags : Bible/Gn
+---
+
+# Genesis
+
+[[VG Gn 1]]
+[[VG Gn 2]]
+[[VG Gn 3]]
+[[VG Gn 4]]
+[[VG Gn 5]]
+[[VG Gn 6]]
+[[VG Gn 7]]
+[[VG Gn 8]]
+[[VG Gn 9]]
+[[VG Gn 10]]
+[[VG Gn 11]]
+[[VG Gn 12]]
+[[VG Gn 13]]
+[[VG Gn 14]]
+[[VG Gn 15]]
+[[VG Gn 16]]
+[[VG Gn 17]]
+[[VG Gn 18]]
+[[VG Gn 19]]
+[[VG Gn 20]]
+[[VG Gn 21]]
+[[VG Gn 22]]
+[[VG Gn 23]]
+[[VG Gn 24]]
+[[VG Gn 25]]
+[[VG Gn 26]]
+[[VG Gn 27]]
+[[VG Gn 28]]
+[[VG Gn 29]]
+[[VG Gn 30]]
+[[VG Gn 31]]
+[[VG Gn 32]]
+[[VG Gn 33]]
+[[VG Gn 34]]
+[[VG Gn 35]]
+[[VG Gn 36]]
+[[VG Gn 37]]
+[[VG Gn 38]]
+[[VG Gn 39]]
+[[VG Gn 40]]
+[[VG Gn 41]]
+[[VG Gn 42]]
+[[VG Gn 43]]
+[[VG Gn 44]]
+[[VG Gn 45]]
+[[VG Gn 46]]
+[[VG Gn 47]]
+[[VG Gn 48]]
+[[VG Gn 49]]
+[[VG Gn 50]]

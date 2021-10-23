@@ -1,0 +1,62 @@
+---
+aliases : 
+- Ecclesiasticus (Sira
+- Siracide
+- Si
+- Ecclesiasticus (Sira
+tags : Bible/Si
+---
+
+# Ecclesiasticus (Sira
+
+[[NVG Si 1]]
+[[NVG Si 2]]
+[[NVG Si 3]]
+[[NVG Si 4]]
+[[NVG Si 5]]
+[[NVG Si 6]]
+[[NVG Si 7]]
+[[NVG Si 8]]
+[[NVG Si 9]]
+[[NVG Si 10]]
+[[NVG Si 11]]
+[[NVG Si 12]]
+[[NVG Si 13]]
+[[NVG Si 14]]
+[[NVG Si 15]]
+[[NVG Si 16]]
+[[NVG Si 17]]
+[[NVG Si 18]]
+[[NVG Si 19]]
+[[NVG Si 20]]
+[[NVG Si 21]]
+[[NVG Si 22]]
+[[NVG Si 23]]
+[[NVG Si 24]]
+[[NVG Si 25]]
+[[NVG Si 26]]
+[[NVG Si 27]]
+[[NVG Si 28]]
+[[NVG Si 29]]
+[[NVG Si 30]]
+[[NVG Si 31]]
+[[NVG Si 32]]
+[[NVG Si 33]]
+[[NVG Si 34]]
+[[NVG Si 35]]
+[[NVG Si 36]]
+[[NVG Si 37]]
+[[NVG Si 38]]
+[[NVG Si 39]]
+[[NVG Si 40]]
+[[NVG Si 41]]
+[[NVG Si 42]]
+[[NVG Si 43]]
+[[NVG Si 44]]
+[[NVG Si 45]]
+[[NVG Si 46]]
+[[NVG Si 47]]
+[[NVG Si 48]]
+[[NVG Si 49]]
+[[NVG Si 50]]
+[[NVG Si 51]]

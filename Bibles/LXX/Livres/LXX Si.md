@@ -1,0 +1,62 @@
+---
+aliases : 
+- Σοφία Ἰησοῦ Σειράχ
+- Siracide
+- Si
+- Ecclesiasticus (Sira
+tags : Bible/Si
+---
+
+# Σοφία Ἰησοῦ Σειράχ
+
+[[LXX Si 1]]
+[[LXX Si 2]]
+[[LXX Si 3]]
+[[LXX Si 4]]
+[[LXX Si 5]]
+[[LXX Si 6]]
+[[LXX Si 7]]
+[[LXX Si 8]]
+[[LXX Si 9]]
+[[LXX Si 10]]
+[[LXX Si 11]]
+[[LXX Si 12]]
+[[LXX Si 13]]
+[[LXX Si 14]]
+[[LXX Si 15]]
+[[LXX Si 16]]
+[[LXX Si 17]]
+[[LXX Si 18]]
+[[LXX Si 19]]
+[[LXX Si 20]]
+[[LXX Si 21]]
+[[LXX Si 22]]
+[[LXX Si 23]]
+[[LXX Si 24]]
+[[LXX Si 25]]
+[[LXX Si 26]]
+[[LXX Si 27]]
+[[LXX Si 28]]
+[[LXX Si 29]]
+[[LXX Si 30]]
+[[LXX Si 31]]
+[[LXX Si 32]]
+[[LXX Si 33]]
+[[LXX Si 34]]
+[[LXX Si 35]]
+[[LXX Si 36]]
+[[LXX Si 37]]
+[[LXX Si 38]]
+[[LXX Si 39]]
+[[LXX Si 40]]
+[[LXX Si 41]]
+[[LXX Si 42]]
+[[LXX Si 43]]
+[[LXX Si 44]]
+[[LXX Si 45]]
+[[LXX Si 46]]
+[[LXX Si 47]]
+[[LXX Si 48]]
+[[LXX Si 49]]
+[[LXX Si 50]]
+[[LXX Si 51]]

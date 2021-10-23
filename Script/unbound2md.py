@@ -110,14 +110,28 @@ class BibleBook:
 	def addChapter(self,chapter):
 		self.chapterList.append(chapter)
 	def buildMdBible(self,bibleAbbrev,path):
-			path += '/'+self.name
-			try:
-				os.mkdir(path)
-			except FileExistsError:
-				pass
-			for chapter in self.chapterList:
-				chapter.buildMdBible(bibleAbbrev,self.name,self.abbrev,self.standardName,self.standardAbbrev,self.englishName,path)
-
+		name = bibleAbbrev+' '+self.standardAbbrev
+		path += '/Livres'
+		try:
+			os.mkdir(path)
+		except FileExistsError:
+			pass
+		f = open(path+'/'+name+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('aliases : '+'\n')
+		f.write('- '+self.name+'\n')
+		f.write('- '+self.standardName+'\n')
+		f.write('- '+self.standardAbbrev+'\n')
+		if self.standardName != self.englishName:
+			f.write('- '+self.englishName+'\n')
+		f.write('tags : '+'Bible/'+self.standardAbbrev.replace(" ", "")+'\n')
+		f.write('---'+'\n\n')
+		f.write('# '+self.name+'\n\n')
+		path+='/'+self.name
+		for chapter in self.chapterList:
+			chapter.buildMdBible(bibleAbbrev,self.name,self.abbrev,self.standardName,self.standardAbbrev,self.englishName,path)
+			f.write('[['+name+' '+chapter.number+']]'+'\n')
+		f.close()
 
 class BibleChapter:
 	def __init__(self,number,standard_number):
@@ -128,6 +142,10 @@ class BibleChapter:
 		self.verseList.append(verse)
 	def buildMdBible(self,bibleAbbrev,bookName,bookAbbrev,bookStandardName,bookStandardAbbrev,bookEnglishName,path):
 		name = bibleAbbrev +' '+bookAbbrev+' '+self.number
+		try:
+			os.mkdir(path)
+		except FileExistsError:
+			pass
 		f = open(path+'/'+name+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('aliases : '+'\n')
@@ -142,6 +160,7 @@ class BibleChapter:
 		for verse in self.verseList:
 			f.write('###### '+verse.number+verse.sub_number+'\n')
 			f.write(verse.verseText+'\n')
+		f.close()
 
 class BibleVerse:
 	def __init__(self,number,sub_number,verseText):
