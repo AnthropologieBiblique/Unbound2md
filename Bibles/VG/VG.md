@@ -1,5 +1,7 @@
 # Vulgata Clementina
 
+[[VG Mentions légales]]
+
 [[VG Gn|Genesis]]
 [[VG Ex|Exodus]]
 [[VG Lv|Leviticus]]

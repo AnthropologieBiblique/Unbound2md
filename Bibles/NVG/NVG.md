@@ -1,5 +1,7 @@
 # Nova Vulgata
 
+[[NVG Mentions légales]]
+
 [[NVG Gn|Genesis]]
 [[NVG Ex|Exodus]]
 [[NVG Lv|Leviticus]]

@@ -1,5 +1,7 @@
 # Septante accentuée
 
+[[LXX Mentions légales]]
+
 [[LXX Gn|Γένεσις]]
 [[LXX Ex|Ἔξοδος]]
 [[LXX Lv|Λευϊτικόν]]

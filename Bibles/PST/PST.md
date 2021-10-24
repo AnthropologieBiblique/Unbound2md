@@ -1,5 +1,7 @@
 # Peshitta
 
+[[PST Mentions légales]]
+
 [[PST Mt|Matthieu]]
 [[PST Mc|Marc]]
 [[PST Lc|Luc]]

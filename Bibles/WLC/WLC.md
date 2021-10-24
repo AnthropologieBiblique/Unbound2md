@@ -1,5 +1,7 @@
 # Hebrew WLC
 
+[[WLC Mentions légales]]
+
 [[WLC Gn|בראשית]]
 [[WLC Ex|שמות]]
 [[WLC Lv|ויקרא]]

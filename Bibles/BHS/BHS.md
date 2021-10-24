@@ -1,5 +1,7 @@
 # Hebrew BHS accents
 
+[[BHS Mentions légales]]
+
 [[BHS Gn|בראשית]]
 [[BHS Ex|שמות]]
 [[BHS Lv|ויקרא]]

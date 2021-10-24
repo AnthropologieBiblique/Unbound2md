@@ -1,5 +1,7 @@
 # Louis Segond
 
+[[LSG Mentions légales]]
+
 [[LSG Gn|Genèse]]
 [[LSG Ex|Exode]]
 [[LSG Lv|Lévitique]]

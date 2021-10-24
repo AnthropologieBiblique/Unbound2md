@@ -2,6 +2,7 @@ import re
 import fileinput
 import os
 import csv
+import markdownify
 
 class Bible:
 	def __init__(self,name,unbound_name,abbrev,NRSVA_mapping,hebraic):
@@ -152,10 +153,20 @@ class Bible:
 			pass
 		f = open(path+'/'+self.abbrev+'.md', 'w')
 		f.write('# '+self.name+'\n\n')
+		f.write('[['+self.abbrev+' Mentions légales]]'+'\n\n')
 		for book in self.booksList:
 			book.buildMdBible(self.abbrev,path)
 			f.write('[['+self.abbrev+' '+book.abbrev+'|'+book.name+']]'+'\n')
 		f.close()
+		f = open(path+'/Livres/'+self.abbrev+' Mentions légales.md','w')
+		g = open('../Source/'+self.unbound_name+'/'+self.unbound_name+'.html',mode='r')
+		html = ''
+		for line in g:
+			html+=line
+		markdown = markdownify.markdownify(html,heading_style="ATX")
+		f.write(markdown)
+		f.close()
+		g.close()
 
 
 class BibleBook:
