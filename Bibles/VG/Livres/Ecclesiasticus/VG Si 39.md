@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 39
 - Siracide 39
 - Si 39
-- Ecclesiasticus (Sira 39
+- Ecclesiasticus 39
 tags : Bible/Si/39
 ---
 

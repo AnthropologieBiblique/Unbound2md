@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 28
 - Siracide 28
 - Si 28
-- Ecclesiasticus (Sira 28
+- Ecclesiasticus 28
 tags : Bible/Si/28
 ---
 

@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 12
 - Siracide 12
 - Si 12
-- Ecclesiasticus (Sira 12
+- Ecclesiasticus 12
 tags : Bible/Si/12
 ---
 

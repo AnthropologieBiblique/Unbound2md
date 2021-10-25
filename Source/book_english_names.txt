@@ -68,7 +68,7 @@
 68A	Judith
 69A	Esther, Greek
 70A	Wisdom of Solomon
-71A	Ecclesiasticus (Sira
+71A	Ecclesiasticus
 72A	Baruch
 73A	Epistle of Jeremiah
 74A	Prayer of Azariah

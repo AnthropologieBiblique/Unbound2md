@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 21
 - Siracide 21
 - Si 21
-- Ecclesiasticus (Sira 21
+- Ecclesiasticus 21
 tags : Bible/Si/21
 ---
 

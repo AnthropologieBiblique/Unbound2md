@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 44
 - Siracide 44
 - Si 44
-- Ecclesiasticus (Sira 44
+- Ecclesiasticus 44
 tags : Bible/Si/44
 ---
 

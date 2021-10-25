@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 43
 - Siracide 43
 - Si 43
-- Ecclesiasticus (Sira 43
+- Ecclesiasticus 43
 tags : Bible/Si/43
 ---
 

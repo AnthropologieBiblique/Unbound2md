@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 6
 - Siracide 6
 - Si 6
-- Ecclesiasticus (Sira 6
+- Ecclesiasticus 6
 tags : Bible/Si/6
 ---
 

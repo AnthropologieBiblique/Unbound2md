@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 9
 - Siracide 9
 - Si 9
-- Ecclesiasticus (Sira 9
+- Ecclesiasticus 9
 tags : Bible/Si/9
 ---
 

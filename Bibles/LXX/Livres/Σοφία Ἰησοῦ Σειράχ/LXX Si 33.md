@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 33
 - Siracide 33
 - Si 33
-- Ecclesiasticus (Sira 33
+- Ecclesiasticus 33
 tags : Bible/Si/33
 ---
 

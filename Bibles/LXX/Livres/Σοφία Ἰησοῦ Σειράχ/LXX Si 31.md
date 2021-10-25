@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 31
 - Siracide 31
 - Si 31
-- Ecclesiasticus (Sira 31
+- Ecclesiasticus 31
 tags : Bible/Si/31
 ---
 

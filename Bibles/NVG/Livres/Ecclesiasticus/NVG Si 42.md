@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 42
 - Siracide 42
 - Si 42
-- Ecclesiasticus (Sira 42
+- Ecclesiasticus 42
 tags : Bible/Si/42
 ---
 

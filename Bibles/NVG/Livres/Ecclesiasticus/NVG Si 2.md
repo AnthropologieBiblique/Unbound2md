@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 2
 - Siracide 2
 - Si 2
-- Ecclesiasticus (Sira 2
+- Ecclesiasticus 2
 tags : Bible/Si/2
 ---
 

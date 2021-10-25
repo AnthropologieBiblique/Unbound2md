@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 13
 - Siracide 13
 - Si 13
-- Ecclesiasticus (Sira 13
+- Ecclesiasticus 13
 tags : Bible/Si/13
 ---
 

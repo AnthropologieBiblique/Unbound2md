@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 46
 - Siracide 46
 - Si 46
-- Ecclesiasticus (Sira 46
+- Ecclesiasticus 46
 tags : Bible/Si/46
 ---
 

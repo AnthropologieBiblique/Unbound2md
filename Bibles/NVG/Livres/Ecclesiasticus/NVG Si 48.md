@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 48
 - Siracide 48
 - Si 48
-- Ecclesiasticus (Sira 48
+- Ecclesiasticus 48
 tags : Bible/Si/48
 ---
 

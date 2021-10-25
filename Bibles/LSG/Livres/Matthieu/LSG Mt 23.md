@@ -9,81 +9,81 @@ tags : Bible/Mt/23
 
 # Matthieu 23
 
-###### 1
-Alors Jésus, parlant à la foule et à ses disciples,
-###### 2
-dit: Les scribes et les pharisiens sont assis dans la chaire de Moïse.
-###### 3
-Faites donc et observez tout ce qu'ils vous disent; mais n'agissez pas selon leurs oeuvres. Car ils disent, et ne font pas.
-###### 4
-Ils lient des fardeaux pesants, et les mettent sur les épaules des hommes, mais ils ne veulent pas les remuer du doigt.
-###### 5
-Ils font toutes leurs actions pour être vus des hommes. Ainsi, ils portent de larges phylactères, et ils ont de longues franges à leurs vêtements;
-###### 6
-ils aiment la première place dans les festins, et les premiers sièges dans les synagogues;
-###### 7
-ils aiment à être salués dans les places publiques, et à être appelés par les hommes Rabbi, Rabbi.
-###### 8
-Mais vous, ne vous faites pas appeler Rabbi; car un seul est votre Maître, et vous êtes tous frères.
-###### 9
-Et n'appelez personne sur la terre votre père; car un seul est votre Père, celui qui est dans les cieux.
-###### 10
-Ne vous faites pas appeler directeurs; car un seul est votre Directeur, le Christ.
 ###### 11
-Le plus grand parmi vous sera votre serviteur.
-###### 12
-Quiconque s'élèvera sera abaissé, et quiconque s'abaissera sera élevé.
-###### 13
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous fermez aux hommes le royaume des cieux; vous n'y entrez pas vous-mêmes, et vous n'y laissez pas entrer ceux qui veulent entrer.
-###### 14
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous dévorez les maisons des veuves, et que vous faites pour l'apparence de longues prières; à cause de cela, vous serez jugés plus sévèrement.
-###### 15
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous courez la mer et la terre pour faire un prosélyte; et, quand il l'est devenu, vous en faites un fils de la géhenne deux fois plus que vous.
-###### 16
-Malheur à vous, conducteurs aveugles! qui dites: Si quelqu'un jure par le temple, ce n'est rien; mais, si quelqu'un jure par l'or du temple, il est engagé.
-###### 17
-Insensés et aveugles! lequel est le plus grand, l'or, ou le temple qui sanctifie l'or?
-###### 18
-Si quelqu'un, dites-vous encore, jure par l'autel, ce n'est rien; mais, si quelqu'un jure par l'offrande qui est sur l'autel, il est engagé.
-###### 19
-Aveugles! lequel est le plus grand, l'offrande, ou l'autel qui sanctifie l'offrande?
-###### 20
-Celui qui jure par l'autel jure par l'autel et par tout ce qui est dessus;
-###### 21
-celui qui jure par le temple jure par le temple et par celui qui l'habite;
+Alors Jésus, parlant à la foule et à ses disciples,
 ###### 22
-et celui qui jure par le ciel jure par le trône de Dieu et par celui qui y est assis.
-###### 23
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous payez la dîme de la menthe, de l'aneth et du cumin, et que vous laissez ce qui est plus important dans la loi, la justice, la miséricorde et la fidélité: c'est là ce qu'il fallait pratiquer, sans négliger les autres choses.
-###### 24
-Conducteurs aveugles! qui coulez le moucheron, et qui avalez le chameau.
-###### 25
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous nettoyez le dehors de la coupe et du plat, et qu'au dedans ils sont pleins de rapine et d'intempérance.
-###### 26
-Pharisien aveugle! nettoie premièrement l'intérieur de la coupe et du plat, afin que l'extérieur aussi devienne net.
-###### 27
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous ressemblez à des sépulcres blanchis, qui paraissent beaux au dehors, et qui, au dedans, sont pleins d'ossements de morts et de toute espèce d'impuretés.
-###### 28
-Vous de même, au dehors, vous paraissez justes aux hommes, mais, au dedans, vous êtes pleins d'hypocrisie et d'iniquité.
-###### 29
-Malheur à vous, scribes et pharisiens hypocrites! parce que vous bâtissez les tombeaux des prophètes et ornez les sépulcres des justes,
-###### 30
-et que vous dites: Si nous avions vécu du temps de nos pères, nous ne nous serions pas joints à eux pour répandre le sang des prophètes.
-###### 31
-Vous témoignez ainsi contre vous-mêmes que vous êtes les fils de ceux qui ont tué les prophètes.
-###### 32
-Comblez donc la mesure de vos pères.
+dit: Les scribes et les pharisiens sont assis dans la chaire de Moïse.
 ###### 33
+Faites donc et observez tout ce qu'ils vous disent; mais n'agissez pas selon leurs oeuvres. Car ils disent, et ne font pas.
+###### 44
+Ils lient des fardeaux pesants, et les mettent sur les épaules des hommes, mais ils ne veulent pas les remuer du doigt.
+###### 55
+Ils font toutes leurs actions pour être vus des hommes. Ainsi, ils portent de larges phylactères, et ils ont de longues franges à leurs vêtements;
+###### 66
+ils aiment la première place dans les festins, et les premiers sièges dans les synagogues;
+###### 77
+ils aiment à être salués dans les places publiques, et à être appelés par les hommes Rabbi, Rabbi.
+###### 88
+Mais vous, ne vous faites pas appeler Rabbi; car un seul est votre Maître, et vous êtes tous frères.
+###### 99
+Et n'appelez personne sur la terre votre père; car un seul est votre Père, celui qui est dans les cieux.
+###### 1010
+Ne vous faites pas appeler directeurs; car un seul est votre Directeur, le Christ.
+###### 1111
+Le plus grand parmi vous sera votre serviteur.
+###### 1212
+Quiconque s'élèvera sera abaissé, et quiconque s'abaissera sera élevé.
+###### 1313
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous fermez aux hommes le royaume des cieux; vous n'y entrez pas vous-mêmes, et vous n'y laissez pas entrer ceux qui veulent entrer.
+###### 1414
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous dévorez les maisons des veuves, et que vous faites pour l'apparence de longues prières; à cause de cela, vous serez jugés plus sévèrement.
+###### 1515
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous courez la mer et la terre pour faire un prosélyte; et, quand il l'est devenu, vous en faites un fils de la géhenne deux fois plus que vous.
+###### 1616
+Malheur à vous, conducteurs aveugles! qui dites: Si quelqu'un jure par le temple, ce n'est rien; mais, si quelqu'un jure par l'or du temple, il est engagé.
+###### 1717
+Insensés et aveugles! lequel est le plus grand, l'or, ou le temple qui sanctifie l'or?
+###### 1818
+Si quelqu'un, dites-vous encore, jure par l'autel, ce n'est rien; mais, si quelqu'un jure par l'offrande qui est sur l'autel, il est engagé.
+###### 1919
+Aveugles! lequel est le plus grand, l'offrande, ou l'autel qui sanctifie l'offrande?
+###### 2020
+Celui qui jure par l'autel jure par l'autel et par tout ce qui est dessus;
+###### 2121
+celui qui jure par le temple jure par le temple et par celui qui l'habite;
+###### 2222
+et celui qui jure par le ciel jure par le trône de Dieu et par celui qui y est assis.
+###### 2323
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous payez la dîme de la menthe, de l'aneth et du cumin, et que vous laissez ce qui est plus important dans la loi, la justice, la miséricorde et la fidélité: c'est là ce qu'il fallait pratiquer, sans négliger les autres choses.
+###### 2424
+Conducteurs aveugles! qui coulez le moucheron, et qui avalez le chameau.
+###### 2525
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous nettoyez le dehors de la coupe et du plat, et qu'au dedans ils sont pleins de rapine et d'intempérance.
+###### 2626
+Pharisien aveugle! nettoie premièrement l'intérieur de la coupe et du plat, afin que l'extérieur aussi devienne net.
+###### 2727
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous ressemblez à des sépulcres blanchis, qui paraissent beaux au dehors, et qui, au dedans, sont pleins d'ossements de morts et de toute espèce d'impuretés.
+###### 2828
+Vous de même, au dehors, vous paraissez justes aux hommes, mais, au dedans, vous êtes pleins d'hypocrisie et d'iniquité.
+###### 2929
+Malheur à vous, scribes et pharisiens hypocrites! parce que vous bâtissez les tombeaux des prophètes et ornez les sépulcres des justes,
+###### 3030
+et que vous dites: Si nous avions vécu du temps de nos pères, nous ne nous serions pas joints à eux pour répandre le sang des prophètes.
+###### 3131
+Vous témoignez ainsi contre vous-mêmes que vous êtes les fils de ceux qui ont tué les prophètes.
+###### 3232
+Comblez donc la mesure de vos pères.
+###### 3333
 Serpents, race de vipères! comment échapperez-vous au châtiment de la géhenne?
-###### 34
+###### 3434
 C'est pourquoi, voici, je vous envoie des prophètes, des sages et des scribes. Vous tuerez et crucifierez les uns, vous battrez de verges les autres dans vos synagogues, et vous les persécuterez de ville en ville,
-###### 35
+###### 3535
 afin que retombe sur vous tout le sang innocent répandu sur la terre, depuis le sang d'Abel le juste jusqu'au sang de Zacharie, fils de Barachie, que vous avez tué entre le temple et l'autel.
-###### 36
+###### 3636
 Je vous le dis en vérité, tout cela retombera sur cette génération.
-###### 37
+###### 3737
 Jérusalem, Jérusalem, qui tues les prophètes et qui lapides ceux qui te sont envoyés, combien de fois ai-je voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes, et vous ne l'avez pas voulu!
-###### 38
+###### 3838
 Voici, votre maison vous sera laissée déserte;
-###### 39
+###### 3939
 car, je vous le dis, vous ne me verrez plus désormais, jusqu'à ce que vous disiez: Béni soit celui qui vient au nom du Seigneur!

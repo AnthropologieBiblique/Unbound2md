@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 50
 - Siracide 50
 - Si 50
-- Ecclesiasticus (Sira 50
+- Ecclesiasticus 50
 tags : Bible/Si/50
 ---
 

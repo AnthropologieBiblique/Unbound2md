@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 40
 - Siracide 40
 - Si 40
-- Ecclesiasticus (Sira 40
+- Ecclesiasticus 40
 tags : Bible/Si/40
 ---
 

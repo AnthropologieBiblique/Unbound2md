@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 35
 - Siracide 35
 - Si 35
-- Ecclesiasticus (Sira 35
+- Ecclesiasticus 35
 tags : Bible/Si/35
 ---
 

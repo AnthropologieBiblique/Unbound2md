@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 27
 - Siracide 27
 - Si 27
-- Ecclesiasticus (Sira 27
+- Ecclesiasticus 27
 tags : Bible/Si/27
 ---
 

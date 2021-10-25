@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 4
 - Siracide 4
 - Si 4
-- Ecclesiasticus (Sira 4
+- Ecclesiasticus 4
 tags : Bible/Si/4
 ---
 

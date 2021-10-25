@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 3
 - Siracide 3
 - Si 3
-- Ecclesiasticus (Sira 3
+- Ecclesiasticus 3
 tags : Bible/Si/3
 ---
 

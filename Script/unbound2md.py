@@ -250,7 +250,7 @@ class BibleChapter:
 		f.write('---'+'\n\n')
 		f.write('# '+bookName+' '+self.number+'\n\n')
 		for verse in self.verseList:
-			f.write('###### '+verse.number+'\n')
+			f.write('###### '+verse.number+verse.sub_number+'\n')
 			f.write(verse.verseText+'\n')
 		f.close()
 

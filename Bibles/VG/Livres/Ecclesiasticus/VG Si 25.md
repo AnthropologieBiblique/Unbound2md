@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 25
 - Siracide 25
 - Si 25
-- Ecclesiasticus (Sira 25
+- Ecclesiasticus 25
 tags : Bible/Si/25
 ---
 

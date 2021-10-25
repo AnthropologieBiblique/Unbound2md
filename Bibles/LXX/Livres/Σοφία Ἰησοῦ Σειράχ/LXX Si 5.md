@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 5
 - Siracide 5
 - Si 5
-- Ecclesiasticus (Sira 5
+- Ecclesiasticus 5
 tags : Bible/Si/5
 ---
 

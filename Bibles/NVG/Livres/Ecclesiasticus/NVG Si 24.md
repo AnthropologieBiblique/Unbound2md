@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 24
 - Siracide 24
 - Si 24
-- Ecclesiasticus (Sira 24
+- Ecclesiasticus 24
 tags : Bible/Si/24
 ---
 

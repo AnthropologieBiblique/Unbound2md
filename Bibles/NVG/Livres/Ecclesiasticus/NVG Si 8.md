@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 8
 - Siracide 8
 - Si 8
-- Ecclesiasticus (Sira 8
+- Ecclesiasticus 8
 tags : Bible/Si/8
 ---
 

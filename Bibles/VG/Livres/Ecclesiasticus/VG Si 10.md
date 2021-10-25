@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 10
 - Siracide 10
 - Si 10
-- Ecclesiasticus (Sira 10
+- Ecclesiasticus 10
 tags : Bible/Si/10
 ---
 

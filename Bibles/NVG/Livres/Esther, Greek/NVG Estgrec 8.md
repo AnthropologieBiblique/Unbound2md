@@ -33,59 +33,59 @@ Ipsaeque epistulae, quae ex regis nomine mittebantur, anulo ipsius obsignatae su
 Quibus permisit rex Iudaeis in singulis civitatibus, ut in unum congregarentur et starent pro animabus suis et omnes inimicos suos cum coniugibus ac liberis interficerent atque delerent et spolia eorum diriperent; 
 ###### 12
 et constituta est per omnes provincias una ultionis dies, id est tertia decima mensis duodecimi, qui vocatur Adar.
-###### 12
+###### 12a
 Quomodo praecepit eis uti suis legibus in omni civitate et auxiliari illis et uti inimicis et adversariis ipsorum, sicut vellent, in uno die, 
-###### 12
+###### 12b
 in omni regno Artaxerxis, quarta decima die duodecimi mensis, id est Adar.
-###### 12
+###### 12c
 Hoc est exemplar epistulae:
-###### 12
+###### 12d
 “ Rex magnus Artaxerxes ab India usque Aethiopiam centum viginti septem provinciarum satrapis ac omnibus, qui nostrae iussioni oboediunt, salutem dicit. 
-###### 12
+###### 12e
 Multi nimia bonitate principum et honore, qui in eos collatus est, abusi sunt in superbiam; 
-###### 12
+###### 12f
 et non solum subiectos regibus nituntur opprimere, sed datam sibi gloriam non ferentes in ipsos, qui dederunt, moliuntur insidias. 
-###### 12
+###### 12g
 Nec contenti sunt gratiarum actionem ex hominibus auferre, sed etiam vaniloquiis eorum, qui bono imperiti sunt inflati, Dei quoque cuncta cernentis et malum odientis arbitrantur se posse fugere sententiam. 
-###### 12
+###### 12h
 Saepe autem et multi in potestate constituti, amicorum, quibus credita erant officia consilio, participes facti sunt effusionis sanguinis innocentis et implicati calamitatibus insanabilibus, 
-###### 12
+###### 12i
 cum isti perversis et mendacibus cuniculis deciperent sinceram principum benignitatem. 
-###### 12
+###### 12k
 Quae res non tam ex veteribus probatur historiis quam ex his, quae in promptu sunt, intuentibus, quae pestilentia indigne dominantium perpetrata sunt. 
-###### 12
+###### 12l
 Unde in posterum providendum est paci omnium provinciarum. 
-###### 12
+###### 12m
 Si diversa iubeamus, quae sub oculis veniunt, discernimus semper cum clementissima attentione.
-###### 12
+###### 12n
 Aman enim filius Amadathi, Macedo, alienusque a Persarum sanguine et a pietate nostra multum distans, a nobis hospitio susceptus est. 
-###### 12
+###### 12o
 Et tantam in se expertus humanitatem, quam erga omnem gentem habemus, ut pater noster publice vocaretur et adoraretur ab omnibus post regem semper secundus. 
-###### 12
+###### 12p
 Qui in tantum arrogantiae tumorem sublatus est, ut regno nos privare niteretur et spiritu. 
-###### 12
+###### 12q
 Nam nostrum servatorem et permanentem benefactorem Mardochaeum et irreprehensibilem consortem regni nostri Esther cum omni gente ipsorum tortuosis quibusdam atque fallacibus machinis expetivit in mortem; 
-###### 12
+###### 12r
 hoc cogitans, ut, illis interfectis, insidiaretur nostrae solitudini et regnum Persarum transferret in Macedonas.
-###### 12
+###### 12s
 Nos autem a pessimo mortalium Iudaeos neci destinatos in nulla penitus culpa repperimus; sed e contrario iustissimis utentes legibus 
-###### 12
+###### 12t
 et filios altissimi et maximi semperque viventis Dei, cuius beneficio et nobis et patribus nostris regnum est optima dispositione directum.
-###### 12
+###### 12u
 Bene igitur facietis non utentes litteris, quas Aman filius Amadathi direxerat. 
-###### 12
+###### 12v
 Pro quo scelere ante portas huius urbis, id est Susan, ipse, qui machinatus est cum omni cognatione sua, pendet in patibulo, Deo, qui gubernat omnia, celeriter ei reddente quod meruit.
-###### 12
+###### 12x
 Exemplar autem huius edicti, quod nunc mittimus, in cunctis urbibus proponatur, ut liceat Iudaeis uti legibus suis. 
-###### 12
+###### 12y
 Quibus debetis esse adminiculo, ut contra eos, qui in tempore tribulationis eos aggrediuntur, se possint defendere quarta decima die mensis duodecimi, qui vocatur Adar. 
-###### 12
+###### 12z
 Hanc enim diem omnipotens Deus destinatam in interitum electi generis eis vertit in gaudium. 
-###### 12
+###### 12aa
 Unde et vos inter sollemnes vestros dies hanc habetote diem insignem et celebrate eam cum omni laetitia, 
-###### 12
+###### 12bb
 ut nunc et in posterum illa nobis et benevolis Persis sit salus, illis autem, qui nobis insidiantur, memoria perditionis.
-###### 12
+###### 12cc
 Omnis autem civitas et provincia, quae noluerit sollemnitatis huius esse particeps, gladio et igne in ira pereat; et sic deleatur, ut non solum hominibus invia, sed etiam bestiis et volatilibus in sempiternum abominabilis relinquatur. Valete ”.
 ###### 13
 Exemplar epistulae in forma legis in omnibus provinciis promulgandum erat, ut omnibus populis notum fieret paratos esse Iudaeos in diem illam ad capiendam vindictam de hostibus suis. 

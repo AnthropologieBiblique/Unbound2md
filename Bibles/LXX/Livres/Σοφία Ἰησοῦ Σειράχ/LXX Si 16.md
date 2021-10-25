@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 16
 - Siracide 16
 - Si 16
-- Ecclesiasticus (Sira 16
+- Ecclesiasticus 16
 tags : Bible/Si/16
 ---
 

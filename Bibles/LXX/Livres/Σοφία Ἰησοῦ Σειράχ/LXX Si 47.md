@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 47
 - Siracide 47
 - Si 47
-- Ecclesiasticus (Sira 47
+- Ecclesiasticus 47
 tags : Bible/Si/47
 ---
 

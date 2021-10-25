@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 34
 - Siracide 34
 - Si 34
-- Ecclesiasticus (Sira 34
+- Ecclesiasticus 34
 tags : Bible/Si/34
 ---
 

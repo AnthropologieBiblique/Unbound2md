@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 22
 - Siracide 22
 - Si 22
-- Ecclesiasticus (Sira 22
+- Ecclesiasticus 22
 tags : Bible/Si/22
 ---
 

@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 30
 - Siracide 30
 - Si 30
-- Ecclesiasticus (Sira 30
+- Ecclesiasticus 30
 tags : Bible/Si/30
 ---
 

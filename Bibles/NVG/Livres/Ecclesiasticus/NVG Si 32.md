@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 32
 - Siracide 32
 - Si 32
-- Ecclesiasticus (Sira 32
+- Ecclesiasticus 32
 tags : Bible/Si/32
 ---
 

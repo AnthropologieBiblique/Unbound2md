@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 36
 - Siracide 36
 - Si 36
-- Ecclesiasticus (Sira 36
+- Ecclesiasticus 36
 tags : Bible/Si/36
 ---
 

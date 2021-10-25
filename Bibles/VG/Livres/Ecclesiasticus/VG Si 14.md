@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 14
 - Siracide 14
 - Si 14
-- Ecclesiasticus (Sira 14
+- Ecclesiasticus 14
 tags : Bible/Si/14
 ---
 

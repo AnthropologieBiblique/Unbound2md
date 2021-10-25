@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 26
 - Siracide 26
 - Si 26
-- Ecclesiasticus (Sira 26
+- Ecclesiasticus 26
 tags : Bible/Si/26
 ---
 

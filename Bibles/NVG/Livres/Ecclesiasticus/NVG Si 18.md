@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 18
 - Siracide 18
 - Si 18
-- Ecclesiasticus (Sira 18
+- Ecclesiasticus 18
 tags : Bible/Si/18
 ---
 

@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 11
 - Siracide 11
 - Si 11
-- Ecclesiasticus (Sira 11
+- Ecclesiasticus 11
 tags : Bible/Si/11
 ---
 

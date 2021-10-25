@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 51
 - Siracide 51
 - Si 51
-- Ecclesiasticus (Sira 51
+- Ecclesiasticus 51
 tags : Bible/Si/51
 ---
 

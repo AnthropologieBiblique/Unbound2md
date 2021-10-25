@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 49
 - Siracide 49
 - Si 49
-- Ecclesiasticus (Sira 49
+- Ecclesiasticus 49
 tags : Bible/Si/49
 ---
 

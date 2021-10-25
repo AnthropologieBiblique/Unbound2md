@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 38
 - Siracide 38
 - Si 38
-- Ecclesiasticus (Sira 38
+- Ecclesiasticus 38
 tags : Bible/Si/38
 ---
 

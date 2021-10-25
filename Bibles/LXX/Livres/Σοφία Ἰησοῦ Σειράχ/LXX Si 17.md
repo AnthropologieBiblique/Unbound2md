@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 17
 - Siracide 17
 - Si 17
-- Ecclesiasticus (Sira 17
+- Ecclesiasticus 17
 tags : Bible/Si/17
 ---
 

@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 37
 - Siracide 37
 - Si 37
-- Ecclesiasticus (Sira 37
+- Ecclesiasticus 37
 tags : Bible/Si/37
 ---
 

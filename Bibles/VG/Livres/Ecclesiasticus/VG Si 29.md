@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 29
 - Siracide 29
 - Si 29
-- Ecclesiasticus (Sira 29
+- Ecclesiasticus 29
 tags : Bible/Si/29
 ---
 

@@ -3,7 +3,7 @@ aliases :
 - Ecclesiasticus 41
 - Siracide 41
 - Si 41
-- Ecclesiasticus (Sira 41
+- Ecclesiasticus 41
 tags : Bible/Si/41
 ---
 

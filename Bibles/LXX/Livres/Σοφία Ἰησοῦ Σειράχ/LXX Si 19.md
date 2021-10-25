@@ -3,7 +3,7 @@ aliases :
 - Σοφία Ἰησοῦ Σειράχ 19
 - Siracide 19
 - Si 19
-- Ecclesiasticus (Sira 19
+- Ecclesiasticus 19
 tags : Bible/Si/19
 ---
 
