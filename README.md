@@ -1,2 +1,3 @@
 # Unbound2md
- Create markdown format Bible from Unbound files
+ Python script to create markdown format Bible from Unbound files.
+ Optimised for Obsidian software.
