@@ -1,4 +1,5 @@
-**Latin: Nova Vulgata**Nova Vulgata  
+**Latin: Nova Vulgata**
+Nova Vulgata  
 
 Bibliorum Sacrorum Editio  
 
