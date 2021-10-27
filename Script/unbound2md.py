@@ -157,7 +157,7 @@ class Bible:
 		f = open(path+'/'+self.abbrev+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'Bible'+', '+self.language+'\n')
-		f.write('cssclass : bible-'+self.language+'\n')
+		f.write('cssclass : '+self.language+'\n')
 		f.write('---'+'\n')
 		f.write('# '+self.name+'\n\n')
 		f.write('[['+self.abbrev+' Mentions légales]]'+'\n\n')

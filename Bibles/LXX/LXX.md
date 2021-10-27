@@ -1,6 +1,6 @@
 ---
 tags : Bible, grec
-cssclass : bible-grec
+cssclass : grec
 ---
 # Septante accentuée
 

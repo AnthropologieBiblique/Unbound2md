@@ -1,6 +1,6 @@
 ---
 tags : Bible, araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 # Peshitta
 

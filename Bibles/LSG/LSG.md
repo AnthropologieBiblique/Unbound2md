@@ -1,6 +1,6 @@
 ---
 tags : Bible, français
-cssclass : bible-français
+cssclass : français
 ---
 # Louis Segond
 

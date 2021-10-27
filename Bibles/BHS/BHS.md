@@ -1,6 +1,6 @@
 ---
 tags : Bible, hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 # Hebrew BHS accents
 
