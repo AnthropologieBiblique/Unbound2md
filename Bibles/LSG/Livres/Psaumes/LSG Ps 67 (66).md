@@ -9,17 +9,17 @@ tags : Bible/Ps/67_66
 
 # Psaumes 67 (66)
 
-###### 11
+###### 1
 Au chef des chantres. Avec instruments à cordes. Psaume. Cantique. Que Dieu ait pitié de nous et qu'il nous bénisse, Qu'il fasse luire sur nous sa face, -Pause.
-###### 22
+###### 2
 Afin que l'on connaisse sur la terre ta voie, Et parmi toutes les nations ton salut!
-###### 33
+###### 3
 Les peuples te louent, ô Dieu! Tous les peuples te louent.
-###### 44
+###### 4
 Les nations se réjouissent et sont dans l'allégresse; Car tu juges les peuples avec droiture, Et tu conduis les nations sur la terre. -Pause.
-###### 55
+###### 5
 Les peuples te louent, ô Dieu! Tous les peuples te louent.
-###### 66
+###### 6
 La terre donne ses produits; Dieu, notre Dieu, nous bénit.
-###### 77
+###### 7
 Dieu, nous bénit, Et toutes les extrémités de la terre le craignent.

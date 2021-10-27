@@ -9,27 +9,27 @@ tags : Bible/Dt/34
 
 # Deutéronome 34
 
-###### 11
+###### 1
 Moïse monta des plaines de Moab sur le mont Nebo, au sommet du Pisga, vis-à-vis de Jéricho. Et l'Eternel lui fit voir tout le pays: Galaad jusqu'à Dan,
-###### 22
+###### 2
 tout Nephthali, le pays d'Ephraïm et de Manassé, tout le pays de Juda jusqu'à la mer occidentale,
-###### 33
+###### 3
 le midi, les environs du Jourdain, la vallée de Jéricho, la ville des palmiers, jusqu'à Tsoar.
-###### 44
+###### 4
 L'Eternel lui dit: C'est là le pays que j'ai juré de donner à Abraham, à Isaac et à Jacob, en disant: Je le donnerai à ta postérité. Je te l'ai fait voir de tes yeux; mais tu n'y entreras point.
-###### 55
+###### 5
 Moïse, serviteur de l'Eternel, mourut là, dans le pays de Moab, selon l'ordre de l'Eternel.
-###### 66
+###### 6
 Et l'Eternel l'enterra dans la vallée, au pays de Moab, vis-à-vis de Beth-Peor. Personne n'a connu son sépulcre jusqu'à ce jour.
-###### 77
+###### 7
 Moïse était âgé de cent vingt ans lorsqu'il mourut; sa vue n'était point affaiblie, et sa vigueur n'était point passée.
-###### 88
+###### 8
 Les enfants d'Israël pleurèrent Moïse pendant trente jours, dans les plaines de Moab; et ces jours de pleurs et de deuil sur Moïse arrivèrent à leur terme.
-###### 99
+###### 9
 Josué, fils de Nun, était rempli de l'esprit de sagesse, car Moïse avait posé ses mains sur lui. Les enfants d'Israël lui obéirent, et se conformèrent aux ordres que l'Eternel avait donnés à Moïse.
-###### 1010
+###### 10
 Il n'a plus paru en Israël de prophète semblable à Moïse, que l'Eternel connaissait face à face.
-###### 1111
+###### 11
 Nul ne peut lui être comparé pour tous les signes et les miracles que Dieu l'envoya faire au pays d'Egypte contre Pharaon, contre ses serviteurs et contre tout son pays,
-###### 1212
+###### 12
 et pour tous les prodiges de terreur que Moïse accomplit à main forte sous les yeux de tout Israël.

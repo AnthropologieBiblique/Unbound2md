@@ -9,45 +9,45 @@ tags : Bible/Ez/29
 
 # Ézéchiel 29
 
-###### 11
+###### 1
 La dixième année, le douzième jour du dixième mois, la parole de l'Eternel me fut adressée, en ces mots:
-###### 22
+###### 2
 Fils de l'homme, tourne ta face vers Pharaon, roi d'Egypte, Et prophétise contre lui et contre toute l'Egypte!
-###### 33
+###### 3
 Parle, et tu diras: Ainsi parle le Seigneur, l'Eternel: Voici, j'en veux à toi, Pharaon, roi d'Egypte, Grand crocodile, qui te couches au milieu de tes fleuves, Et qui dis: Mon fleuve est à moi, c'est moi qui l'ai fait!
-###### 44
+###### 4
 Je mettrai une boucle à tes mâchoires, J'attacherai à tes écailles les poissons de tes fleuves, Et je te tirerai du milieu de tes fleuves, Avec tous les poissons qui s'y trouvent Et qui seront attachés à tes écailles.
-###### 55
+###### 5
 Je te jetterai dans le désert, Toi et tous les poissons de tes fleuves. Tu tomberas sur la face des champs, Tu ne seras ni relevé ni ramassé; Aux bêtes de la terre et aux oiseaux du ciel Je te donnerai pour pâture.
-###### 66
+###### 6
 Et tous les habitants de l'Egypte sauront que je suis l'Eternel, Parce qu'ils ont été un soutien de roseau pour la maison d'Israël.
-###### 77
+###### 7
 Lorsqu'ils t'ont pris dans la main, tu t'es rompu, Et tu leur as déchiré toute l'épaule; Lorsqu'ils se sont appuyés sur toi, tu t'es brisé, Et tu as rendu leurs reins immobiles.
-###### 88
+###### 8
 C'est pourquoi ainsi parle le Seigneur, l'Eternel: Voici, je ferai venir contre toi l'épée, Et j'exterminerai du milieu de toi les hommes et les bêtes.
-###### 99
+###### 9
 Le pays d'Egypte deviendra une solitude et un désert. Et ils sauront que je suis l'Eternel, Parce qu'il a dit: Le fleuve est à moi, c'est moi qui l'ai fait!
-###### 1010
+###### 10
 C'est pourquoi voici, j'en veux à toi et à tes fleuves, Et je ferai du pays d'Egypte un désert et une solitude, Depuis Migdol jusqu'à Syène et aux frontières de l'Ethiopie.
-###### 1111
+###### 11
 Nul pied d'homme n'y passera, Nul pied d'animal n'y passera, Et il restera quarante ans sans être habité.
-###### 1212
+###### 12
 Je ferai du pays d'Egypte une solitude entre les pays dévastés, Et ses villes seront désertes entre les villes désertes, Pendant quarante ans. Je répandrai les Egyptiens parmi les nations, Je les disperserai en divers pays.
-###### 1313
+###### 13
 Ainsi parle le Seigneur, l'Eternel: Au bout de quarante ans je rassemblerai les Egyptiens Du milieu des peuples où ils auront été dispersés.
-###### 1414
+###### 14
 Je ramènerai les captifs de l'Egypte, Je les ramènerai dans le pays de Pathros, Dans le pays de leur origine, Et là ils formeront un faible royaume.
-###### 1515
+###### 15
 Ce sera le moindre des royaumes, Et il ne s'élèvera plus au-dessus des nations, Je les diminuerai, afin qu'ils ne dominent pas sur les nations.
-###### 1616
+###### 16
 Ce royaume ne sera plus pour la maison d'Israël un sujet de confiance; Il lui rappellera son iniquité, quand elle se tournait vers eux. Et ils sauront que je suis le Seigneur, l'Eternel.
-###### 1717
+###### 17
 La vingt-septième année, le premier jour du premier mois, la parole de l'Eternel me fut adressée, en ces mots:
-###### 1818
+###### 18
 Fils de l'homme, Nebucadnetsar, roi de Babylone, A fait faire à son armée un service pénible contre Tyr; Toutes les têtes sont chauves, toutes les épaules sont écorchées; Et il n'a retiré de Tyr aucun salaire, ni lui, ni son armée, Pour le service qu'il a fait contre elle.
-###### 1919
+###### 19
 C'est pourquoi ainsi parle le Seigneur, l'Eternel: Voici, je donne à Nebucadnetsar, roi de Babylone, Le pays d'Egypte; Il en emportera les richesses, Il en prendra les dépouilles, Il en pillera le butin; Ce sera un salaire pour son armée.
-###### 2020
+###### 20
 Pour prix du service qu'il a fait contre Tyr, Je lui donne le pays d'Egypte; Car ils ont travaillé pour moi, Dit le Seigneur, l'Eternel.
-###### 2121
+###### 21
 En ce jour-là, je donnerai de la force à la maison d'Israël, Et je t'ouvrirai la bouche au milieu d'eux; Et ils sauront que je suis l'Eternel.

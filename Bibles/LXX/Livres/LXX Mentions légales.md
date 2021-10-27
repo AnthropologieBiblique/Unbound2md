@@ -1,5 +1,4 @@
-**Greek OT: LXX [A] Accented**
-Septuagint/LXX/Greek Old Testament.  
+**Greek OT: LXX [A] Accented**Septuagint/LXX/Greek Old Testament.  
 
 Containing Joshua B, Judges B, Daniel OG, Tobit BA, Susan OG, and Bel & the Dragon OG.
 

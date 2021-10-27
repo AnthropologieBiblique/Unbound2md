@@ -9,145 +9,145 @@ tags : Bible/Lc/22
 
 # Luc 22
 
-###### 11
+###### 1
 La fête des pains sans levain, appelée la Pâque, approchait.
-###### 22
+###### 2
 Les principaux sacrificateurs et les scribes cherchaient les moyens de faire mourir Jésus; car ils craignaient le peuple.
-###### 33
+###### 3
 Or, Satan entra dans Judas, surnommé Iscariot, qui était du nombre des douze.
-###### 44
+###### 4
 Et Judas alla s'entendre avec les principaux sacrificateurs et les chefs des gardes, sur la manière de le leur livrer.
-###### 55
+###### 5
 Ils furent dans la joie, et ils convinrent de lui donner de l'argent.
-###### 66
+###### 6
 Après s'être engagé, il cherchait une occasion favorable pour leur livrer Jésus à l'insu de la foule.
-###### 77
+###### 7
 Le jour des pains sans levain, où l'on devait immoler la Pâque, arriva,
-###### 88
+###### 8
 et Jésus envoya Pierre et Jean, en disant: Allez nous préparer la Pâque, afin que nous la mangions.
-###### 99
+###### 9
 Ils lui dirent: Où veux-tu que nous la préparions?
-###### 1010
+###### 10
 Il leur répondit: Voici, quand vous serez entrés dans la ville, vous rencontrerez un homme portant une cruche d'eau; suivez-le dans la maison où il entrera,
-###### 1111
+###### 11
 et vous direz au maître de la maison: Le maître te dit: Où est le lieu où je mangerai la Pâque avec mes disciples?
-###### 1212
+###### 12
 Et il vous montrera une grande chambre haute, meublée: c'est là que vous préparerez la Pâque.
-###### 1313
+###### 13
 Ils partirent, et trouvèrent les choses comme il le leur avait dit; et ils préparèrent la Pâque.
-###### 1414
+###### 14
 L'heure étant venue, il se mit à table, et les apôtres avec lui.
-###### 1515
+###### 15
 Il leur dit: J'ai désiré vivement manger cette Pâque avec vous, avant de souffrir;
-###### 1616
+###### 16
 car, je vous le dis, je ne la mangerai plus, jusqu'à ce qu'elle soit accomplie dans le royaume de Dieu.
-###### 1717
+###### 17
 Et, ayant pris une coupe et rendu grâces, il dit: Prenez cette coupe, et distribuez-la entre vous;
-###### 1818
+###### 18
 car, je vous le dis, je ne boirai plus désormais du fruit de la vigne, jusqu'à ce que le royaume de Dieu soit venu.
-###### 1919
+###### 19
 Ensuite il prit du pain; et, après avoir rendu grâces, il le rompit, et le leur donna, en disant: Ceci est mon corps, qui est donné pour vous; faites ceci en mémoire de moi.
-###### 2020
+###### 20
 Il prit de même la coupe, après le souper, et la leur donna, en disant: Cette coupe est la nouvelle alliance en mon sang, qui est répandu pour vous.
-###### 2121
+###### 21
 Cependant voici, la main de celui qui me livre est avec moi à cette table.
-###### 2222
+###### 22
 Le Fils de l'homme s'en va selon ce qui est déterminé. Mais malheur à l'homme par qui il est livré!
-###### 2323
+###### 23
 Et ils commencèrent à se demander les uns aux autres qui était celui d'entre eux qui ferait cela.
-###### 2424
+###### 24
 Il s'éleva aussi parmi les apôtres une contestation: lequel d'entre eux devait être estimé le plus grand?
-###### 2525
+###### 25
 Jésus leur dit: Les rois des nations les maîtrisent, et ceux qui les dominent sont appelés bienfaiteurs.
-###### 2626
+###### 26
 Qu'il n'en soit pas de même pour vous. Mais que le plus grand parmi vous soit comme le plus petit, et celui qui gouverne comme celui qui sert.
-###### 2727
+###### 27
 Car quel est le plus grand, celui qui est à table, ou celui qui sert? N'est-ce pas celui qui est à table? Et moi, cependant, je suis au milieu de vous comme celui qui sert.
-###### 2828
+###### 28
 Vous, vous êtes ceux qui avez persévéré avec moi dans mes épreuves;
-###### 2929
+###### 29
 c'est pourquoi je dispose du royaume en votre faveur, comme mon Père en a disposé en ma faveur,
-###### 3030
+###### 30
 afin que vous mangiez et buviez à ma table dans mon royaume, et que vous soyez assis sur des trônes, pour juger les douze tribus d'Israël.
-###### 3131
+###### 31
 Le Seigneur dit: Simon, Simon, Satan vous a réclamés, pour vous cribler comme le froment.
-###### 3232
+###### 32
 Mais j'ai prié pour toi, afin que ta foi ne défaille point; et toi, quand tu seras converti, affermis tes frères.
-###### 3333
+###### 33
 Seigneur, lui dit Pierre, je suis prêt à aller avec toi et en prison et à la mort.
-###### 3434
+###### 34
 Et Jésus dit: Pierre, je te le dis, le coq ne chantera pas aujourd'hui que tu n'aies nié trois fois de me connaître.
-###### 3535
+###### 35
 Il leur dit encore: Quand je vous ai envoyés sans bourse, sans sac, et sans souliers, avez-vous manqué de quelque chose? Ils répondirent: De rien.
-###### 3636
+###### 36
 Et il leur dit: Maintenant, au contraire, que celui qui a une bourse la prenne et que celui qui a un sac le prenne également, que celui qui n'a point d'épée vende son vêtement et achète une épée.
-###### 3737
+###### 37
 Car, je vous le dis, il faut que cette parole qui est écrite s'accomplisse en moi: Il a été mis au nombre des malfaiteurs. Et ce qui me concerne est sur le point d'arriver.
-###### 3838
+###### 38
 Ils dirent: Seigneur, voici deux épées. Et il leur dit: Cela suffit.
-###### 3939
+###### 39
 Après être sorti, il alla, selon sa coutume, à la montagne des oliviers. Ses disciples le suivirent.
-###### 4040
+###### 40
 Lorsqu'il fut arrivé dans ce lieu, il leur dit: Priez, afin que vous ne tombiez pas en tentation.
-###### 4141
+###### 41
 Puis il s'éloigna d'eux à la distance d'environ un jet de pierre, et, s'étant mis à genoux, il pria,
-###### 4242
+###### 42
 disant: Père, si tu voulais éloigner de moi cette coupe! Toutefois, que ma volonté ne se fasse pas, mais la tienne.
-###### 4343
+###### 43
 Alors un ange lui apparut du ciel, pour le fortifier.
-###### 4444
+###### 44
 Etant en agonie, il priait plus instamment, et sa sueur devint comme des grumeaux de sang, qui tombaient à terre.
-###### 4545
+###### 45
 Après avoir prié, il se leva, et vint vers les disciples, qu'il trouva endormis de tristesse,
-###### 4646
+###### 46
 et il leur dit: Pourquoi dormez-vous? Levez-vous et priez, afin que vous ne tombiez pas en tentation.
-###### 4747
+###### 47
 Comme il parlait encore, voici, une foule arriva; et celui qui s'appelait Judas, l'un des douze, marchait devant elle. Il s'approcha de Jésus, pour le baiser.
-###### 4848
+###### 48
 Et Jésus lui dit: Judas, c'est par un baiser que tu livres le Fils de l'homme!
-###### 4949
+###### 49
 Ceux qui étaient avec Jésus, voyant ce qui allait arriver, dirent: Seigneur, frapperons-nous de l'épée?
-###### 5050
+###### 50
 Et l'un d'eux frappa le serviteur du souverain sacrificateur, et lui emporta l'oreille droite.
-###### 5151
+###### 51
 Mais Jésus, prenant la parole, dit: Laissez, arrêtez! Et, ayant touché l'oreille de cet homme, il le guérit.
-###### 5252
+###### 52
 Jésus dit ensuite aux principaux sacrificateurs, aux chefs des gardes du temple, et aux anciens, qui étaient venus contre lui: Vous êtes venus, comme après un brigand, avec des épées et des bâtons.
-###### 5353
+###### 53
 J'étais tous les jours avec vous dans le temple, et vous n'avez pas mis la main sur moi. Mais c'est ici votre heure, et la puissance des ténèbres.
-###### 5454
+###### 54
 Après avoir saisi Jésus, ils l'emmenèrent, et le conduisirent dans la maison du souverain sacrificateur. Pierre suivait de loin.
-###### 5555
+###### 55
 Ils allumèrent du feu au milieu de la cour, et ils s'assirent. Pierre s'assit parmi eux.
-###### 5656
+###### 56
 Une servante, qui le vit assis devant le feu, fixa sur lui les regards, et dit: Cet homme était aussi avec lui.
-###### 5757
+###### 57
 Mais il le nia disant: Femme, je ne le connais pas.
-###### 5858
+###### 58
 Peu après, un autre, l'ayant vu, dit: Tu es aussi de ces gens-là. Et Pierre dit: Homme, je n'en suis pas.
-###### 5959
+###### 59
 Environ une heure plus tard, un autre insistait, disant: Certainement cet homme était aussi avec lui, car il est Galiléen.
-###### 6060
+###### 60
 Pierre répondit: Homme, je ne sais ce que tu dis. Au même instant, comme il parlait encore, le coq chanta.
-###### 6161
+###### 61
 Le Seigneur, s'étant retourné, regarda Pierre. Et Pierre se souvint de la parole que le Seigneur lui avait dite: Avant que le coq chante aujourd'hui, tu me renieras trois fois.
-###### 6262
+###### 62
 Et étant sorti, il pleura amèrement.
-###### 6363
+###### 63
 Les hommes qui tenaient Jésus se moquaient de lui, et le frappaient.
-###### 6464
+###### 64
 Ils lui voilèrent le visage, et ils l'interrogeaient, en disant: Devine qui t'a frappé.
-###### 6565
+###### 65
 Et ils proféraient contre lui beaucoup d'autres injures.
-###### 6666
+###### 66
 Quand le jour fut venu, le collège des anciens du peuple, les principaux sacrificateurs et les scribes, s'assemblèrent, et firent amener Jésus dans leur sanhédrin. Ils dirent:
-###### 6767
+###### 67
 Si tu es le Christ, dis-le nous. Jésus leur répondit: Si je vous le dis, vous ne le croirez pas;
-###### 6868
+###### 68
 et, si je vous interroge, vous ne répondrez pas.
-###### 6969
+###### 69
 Désormais le Fils de l'homme sera assis à la droite de la puissance de Dieu.
-###### 7070
+###### 70
 Tous dirent: Tu es donc le Fils de Dieu? Et il leur répondit: Vous le dites, je le suis.
-###### 7171
+###### 71
 Alors ils dirent: Qu'avons-nous encore besoin de témoignage? Nous l'avons entendu nous-mêmes de sa bouche.

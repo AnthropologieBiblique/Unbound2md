@@ -129,7 +129,7 @@ class Bible:
 					chapter = BibleChapter(book.standardAbbrev,
 						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
 						chapterRef,chapterStandardRef)
-					chapter.addVerse(BibleVerse(row[2],row[2],row[3]))
+					chapter.addVerse(BibleVerse(row[2],'',row[3]))
 					flag = True
 				elif row[1]!=chapterRef:
 					book.addChapter(chapter)
@@ -138,9 +138,9 @@ class Bible:
 					chapter = BibleChapter(book.standardAbbrev,
 						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
 						chapterRef,chapterStandardRef)
-					chapter.addVerse(BibleVerse(row[2],row[2],row[3]))
+					chapter.addVerse(BibleVerse(row[2],'',row[3]))
 				else :
-					chapter.addVerse(BibleVerse(row[2],row[2],row[3]))
+					chapter.addVerse(BibleVerse(row[2],'',row[3]))
 			book.addChapter(chapter)
 			self.addBook(book)
 

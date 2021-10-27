@@ -9,57 +9,57 @@ tags : Bible/Mt/17
 
 # Matthieu 17
 
-###### 11
+###### 1
 Six jours après, Jésus prit avec lui Pierre, Jacques, et Jean, son frère, et il les conduisit à l'écart sur une haute montagne.
-###### 22
+###### 2
 Il fut transfiguré devant eux; son visage resplendit comme le soleil, et ses vêtements devinrent blancs comme la lumière.
-###### 33
+###### 3
 Et voici, Moïse et Elie leur apparurent, s'entretenant avec lui.
-###### 44
+###### 4
 Pierre, prenant la parole, dit à Jésus: Seigneur, il est bon que nous soyons ici; si tu le veux, je dresserai ici trois tentes, une pour toi, une pour Moïse, et une pour Elie.
-###### 55
+###### 5
 Comme il parlait encore, une nuée lumineuse les couvrit. Et voici, une voix fit entendre de la nuée ces paroles: Celui-ci est mon Fils bien-aimé, en qui j'ai mis toute mon affection: écoutez-le!
-###### 66
+###### 6
 Lorsqu'ils entendirent cette voix, les disciples tombèrent sur leur face, et furent saisis d'une grande frayeur.
-###### 77
+###### 7
 Mais Jésus, s'approchant, les toucha, et dit: Levez-vous, n'ayez pas peur!
-###### 88
+###### 8
 Ils levèrent les yeux, et ne virent que Jésus seul.
-###### 99
+###### 9
 Comme ils descendaient de la montagne, Jésus leur donna cet ordre: Ne parlez à personne de cette vision, jusqu'à ce que le Fils de l'homme soit ressuscité des morts.
-###### 1010
+###### 10
 Les disciples lui firent cette question: Pourquoi donc les scribes disent-ils qu'Elie doit venir premièrement?
-###### 1111
+###### 11
 Il répondit: Il est vrai qu'Elie doit venir, et rétablir toutes choses.
-###### 1212
+###### 12
 Mais je vous dis qu'Elie est déjà venu, qu'ils ne l'ont pas reconnu, et qu'ils l'ont traité comme ils ont voulu. De même le Fils de l'homme souffrira de leur part.
-###### 1313
+###### 13
 Les disciples comprirent alors qu'il leur parlait de Jean-Baptiste.
-###### 1414
+###### 14
 Lorsqu'ils furent arrivés près de la foule, un homme vint se jeter à genoux devant Jésus, et dit:
-###### 1515
+###### 15
 Seigneur, aie pitié de mon fils, qui est lunatique, et qui souffre cruellement; il tombe souvent dans le feu, et souvent dans l'eau.
-###### 1616
+###### 16
 Je l'ai amené à tes disciples, et ils n'ont pas pu le guérir.
-###### 1717
+###### 17
 Race incrédule et perverse, répondit Jésus, jusques à quand serai-je avec vous? jusques à quand vous supporterai-je? Amenez-le-moi ici.
-###### 1818
+###### 18
 Jésus parla sévèrement au démon, qui sortit de lui, et l'enfant fut guéri à l'heure même.
-###### 1919
+###### 19
 Alors les disciples s'approchèrent de Jésus, et lui dirent en particulier: Pourquoi n'avons-nous pu chasser ce démon?
-###### 2020
+###### 20
 C'est à cause de votre incrédulité, leur dit Jésus. Je vous le dis en vérité, si vous aviez de la foi comme un grain de sénevé, vous diriez à cette montagne: Transporte-toi d'ici là, et elle se transporterait; rien ne vous serait impossible.
-###### 2121
+###### 21
 Mais cette sorte de démon ne sort que par la prière et par le jeûne.
-###### 2222
+###### 22
 Pendant qu'ils parcouraient la Galilée, Jésus leur dit: Le Fils de l'homme doit être livré entre les mains des hommes;
-###### 2323
+###### 23
 ils le feront mourir, et le troisième jour il ressuscitera. Ils furent profondément attristés.
-###### 2424
+###### 24
 Lorsqu'ils arrivèrent à Capernaüm, ceux qui percevaient les deux drachmes s'adressèrent à Pierre, et lui dirent: Votre maître ne paie-t-il pas les deux drachmes?
-###### 2525
+###### 25
 Oui, dit-il. Et quand il fut entré dans la maison, Jésus le prévint, et dit: Que t'en semble, Simon? Les rois de la terre, de qui perçoivent-ils des tributs ou des impôts? de leurs fils, ou des étrangers?
-###### 2626
+###### 26
 Il lui dit: Des étrangers. Et Jésus lui répondit: Les fils en sont donc exempts.
-###### 2727
+###### 27
 Mais, pour ne pas les scandaliser, va à la mer, jette l'hameçon, et tire le premier poisson qui viendra; ouvre-lui la bouche, et tu trouveras un statère. Prends-le, et donne-le-leur pour moi et pour toi.

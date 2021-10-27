@@ -8,45 +8,45 @@ tags : Bible/Jb/18
 
 # Job 18
 
-###### 11
+###### 1
 Bildad de Schuach prit la parole et dit:
-###### 22
+###### 2
 Quand mettrez-vous un terme à ces discours? Ayez de l'intelligence, puis nous parlerons.
-###### 33
+###### 3
 Pourquoi sommes-nous regardés comme des bêtes? Pourquoi ne sommes-nous à vos yeux que des brutes?
-###### 44
+###### 4
 O toi qui te déchires dans ta fureur, Faut-il, à cause de toi, que la terre devienne déserte? Faut-il que les rochers disparaissent de leur place?
-###### 55
+###### 5
 La lumière du méchant s'éteindra, Et la flamme qui en jaillit cessera de briller.
-###### 66
+###### 6
 La lumière s'obscurcira sous sa tente, Et sa lampe au-dessus de lui s'éteindra.
-###### 77
+###### 7
 Ses pas assurés seront à l'étroit; Malgré ses efforts, il tombera.
-###### 88
+###### 8
 Car il met les pieds sur un filet, Il marche dans les mailles,
-###### 99
+###### 9
 Il est saisi au piège par le talon, Et le filet s'empare de lui;
-###### 1010
+###### 10
 Le cordeau est caché dans la terre, Et la trappe est sur son sentier.
-###### 1111
+###### 11
 Des terreurs l'assiègent, l'entourent, Le poursuivent par derrière.
-###### 1212
+###### 12
 La faim consume ses forces, La misère est à ses côtés.
-###### 1313
+###### 13
 Les parties de sa peau sont l'une après l'autre dévorées, Ses membres sont dévorés par le premier-né de la mort.
-###### 1414
+###### 14
 Il est arraché de sa tente où il se croyait en sûreté, Il se traîne vers le roi des épouvantements.
-###### 1515
+###### 15
 Nul des siens n'habite sa tente, Le soufre est répandu sur sa demeure.
-###### 1616
+###### 16
 En bas, ses racines se dessèchent; En haut, ses branches sont coupées.
-###### 1717
+###### 17
 Sa mémoire disparaît de la terre, Son nom n'est plus sur la face des champs.
-###### 1818
+###### 18
 Il est poussé de la lumière dans les ténèbres, Il est chassé du monde.
-###### 1919
+###### 19
 Il ne laisse ni descendants ni postérité parmi son peuple, Ni survivant dans les lieux qu'il habitait.
-###### 2020
+###### 20
 Les générations à venir seront étonnées de sa ruine, Et la génération présente sera saisie d'effroi.
-###### 2121
+###### 21
 Point d'autre destinée pour le méchant, Point d'autre sort pour qui ne connaît pas Dieu!

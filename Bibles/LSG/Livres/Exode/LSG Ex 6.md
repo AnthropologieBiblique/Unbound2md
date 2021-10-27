@@ -9,63 +9,63 @@ tags : Bible/Ex/6
 
 # Exode 6
 
-###### 11
+###### 1
 L'Eternel dit à Moïse: Tu verras maintenant ce que je ferai à Pharaon; une main puissante le forcera à les laisser aller, une main puissante le forcera à les chasser de son pays.
-###### 22
+###### 2
 Dieu parla encore à Moïse, et lui dit: Je suis l'Eternel.
-###### 33
+###### 3
 Je suis apparu à Abraham, à Isaac et à Jacob, comme le Dieu tout-puissant; mais je n'ai pas été connu d'eux sous mon nom, l'Eternel.
-###### 44
+###### 4
 J'ai aussi établi mon alliance avec eux, pour leur donner le pays de Canaan, le pays de leurs pèlerinages, dans lequel ils ont séjourné.
-###### 55
+###### 5
 J'ai entendu les gémissements des enfants d'Israël, que les Egyptiens tiennent dans la servitude, et je me suis souvenu de mon alliance.
-###### 66
+###### 6
 C'est pourquoi dis aux enfants d'Israël: Je suis l'Eternel, je vous affranchirai des travaux dont vous chargent les Egyptiens, je vous délivrerai de leur servitude, et je vous sauverai à bras étendu et par de grands jugements.
-###### 77
+###### 7
 Je vous prendrai pour mon peuple, je serai votre Dieu, et vous saurez que c'est moi, l'Eternel, votre Dieu, qui vous affranchis des travaux dont vous chargent les Egyptiens.
-###### 88
+###### 8
 Je vous ferai entrer dans le pays que j'ai juré de donner à Abraham, à Isaac et à Jacob; je vous le donnerai en possession, moi l'Eternel.
-###### 99
+###### 9
 Ainsi parla Moïse aux enfants d'Israël. Mais l'angoisse et la dure servitude les empêchèrent d'écouter Moïse.
-###### 1010
+###### 10
 L'Eternel parla à Moïse, et dit:
-###### 1111
+###### 11
 Va, parle à Pharaon, roi d'Egypte, pour qu'il laisse aller les enfants d'Israël hors de son pays.
-###### 1212
+###### 12
 Moïse répondit en présence de l'Eternel: Voici, les enfants d'Israël ne m'ont point écouté; comment Pharaon m'écouterait-il, moi qui n'ai pas la parole facile?
-###### 1313
+###### 13
 L'Eternel parla à Moïse et à Aaron, et leur donna des ordres au sujet des enfants d'Israël et au sujet de Pharaon, roi d'Egypte, pour faire sortir du pays d'Egypte les enfants d'Israël.
-###### 1414
+###### 14
 Voici les chefs de leurs familles. Fils de Ruben, premier-né d'Israël: Hénoc, Pallu, Hetsron et Carmi. Ce sont là les familles de Ruben.
-###### 1515
+###### 15
 Fils de Siméon: Jemuel, Jamin, Ohad, Jakin et Tsochar; et Saül, fils de la Cananéenne. Ce sont là les familles de Siméon.
-###### 1616
+###### 16
 Voici les noms des fils de Lévi, avec leur postérité: Guerschon, Kehath et Merari. Les années de la vie de Lévi furent de cent trente-sept ans. -
-###### 1717
+###### 17
 Fils de Guerschon: Libni et Schimeï, et leurs familles. -
-###### 1818
+###### 18
 Fils de Kehath: Amram, Jitsehar, Hébron et Uziel. Les années de la vie de Kehath furent de cent trente-trois ans. -
-###### 1919
+###### 19
 Fils de Merari: Machli et Muschi. -Ce sont là les familles de Lévi, avec leur postérité.
-###### 2020
+###### 20
 Amram prit pour femme Jokébed, sa tante; et elle lui enfanta Aaron, et Moïse. Les années de la vie d'Amram furent de cent trente-sept ans. -
-###### 2121
+###### 21
 Fils de Jitsehar: Koré, Népheg et Zicri. -
-###### 2222
+###### 22
 Fils d'Uziel: Mischaël, Eltsaphan et Sithri.
-###### 2323
+###### 23
 Aaron prit pour femme Elischéba, fille d'Amminadab, soeur de Nachschon; et elle lui enfanta Nadab, Abihu, Eléazar et Ithamar.
-###### 2424
+###### 24
 Fils de Koré: Assir, Elkana et Abiasaph. Ce sont là les familles des Korites.
-###### 2525
+###### 25
 Eléazar, fils d'Aaron, prit pour femme une des filles de Puthiel; et elle lui enfanta Phinées. Tels sont les chefs de famille des Lévites, avec leurs familles.
-###### 2626
+###### 26
 Ce sont là cet Aaron et ce Moïse, à qui l'Eternel dit: Faites sortir du pays d'Egypte les enfants d'Israël, selon leurs armées.
-###### 2727
+###### 27
 Ce sont eux qui parlèrent à Pharaon, roi d'Egypte, pour faire sortir d'Egypte les enfants d'Israël. Ce sont là ce Moïse et cet Aaron.
-###### 2828
+###### 28
 Lorsque l'Eternel parla à Moïse dans le pays d'Egypte,
-###### 2929
+###### 29
 l'Eternel dit à Moïse: Je suis l'Eternel. Dis à Pharaon, roi d'Egypte, tout ce que je te dis.
-###### 3030
+###### 30
 Et Moïse répondit en présence de l'Eternel: Voici, je n'ai pas la parole facile; comment Pharaon m'écouterait-il?

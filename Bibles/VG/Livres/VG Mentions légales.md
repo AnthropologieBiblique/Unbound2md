@@ -1,5 +1,4 @@
-**Latin: Vulgata Clementina**
-Latin Vulgata Clementina (Clementine Vulgate)
+**Latin: Vulgata Clementina**Latin Vulgata Clementina (Clementine Vulgate)
 
 [Imported from the text provided at VulSearch](http://vulsearch.sourceforge.net/)
 

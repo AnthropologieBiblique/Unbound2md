@@ -9,181 +9,181 @@ tags : Bible/Nb/7
 
 # Nombres 7
 
-###### 11
+###### 1
 Lorsque Moïse eut achevé de dresser le tabernacle, il l'oignit et le sanctifia avec tous ses ustensiles, de même que l'autel avec tous ses ustensiles; il les oignit et les sanctifia.
-###### 22
+###### 2
 Alors les princes d'Israël, chefs des maisons de leurs pères, présentèrent leur offrande: c'étaient les princes des tribus, ceux qui avaient présidé au dénombrement.
-###### 33
+###### 3
 Ils amenèrent leur offrande devant l'Eternel: six chars en forme de litières et douze boeufs, soit un char pour deux princes et un boeuf pour chaque prince; et ils les offrirent devant le tabernacle.
-###### 44
+###### 4
 L'Eternel parla à Moïse, et dit:
-###### 55
+###### 5
 Prends d'eux ces choses, afin de les employer pour le service de la tente d'assignation; tu les donneras aux Lévites, à chacun selon ses fonctions.
-###### 66
+###### 6
 Moïse prit les chars et les boeufs, et il les remit aux Lévites.
-###### 77
+###### 7
 Il donna deux chars et quatre boeufs aux fils de Guerschon, selon leurs fonctions;
-###### 88
+###### 8
 il donna quatre chars et huit boeufs aux fils de Merari, selon leurs fonctions, sous la conduite d'Ithamar, fils du sacrificateur Aaron.
-###### 99
+###### 9
 Mais il n'en donna point aux fils de Kehath, parce que, selon leurs fonctions, ils devaient porter les choses saintes sur les épaules.
-###### 1010
+###### 10
 Les princes présentèrent leur offrande pour la dédicace de l'autel, le jour où on l'oignit; les princes présentèrent leur offrande devant l'autel.
-###### 1111
+###### 11
 L'Eternel dit à Moïse: Les princes viendront un à un, et à des jours différents, présenter leur offrande pour la dédicace de l'autel.
-###### 1212
+###### 12
 Celui qui présenta son offrande le premier jour fut Nachschon, fils d'Amminadab, de la tribu de Juda.
-###### 1313
+###### 13
 Il offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 1414
+###### 14
 une coupe d'or de dix sicles, pleine de parfum;
-###### 1515
+###### 15
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 1616
+###### 16
 un bouc, pour le sacrifice d'expiation;
-###### 1717
+###### 17
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande de Nachschon, fils d'Amminadab.
-###### 1818
+###### 18
 Le second jour, Nethaneel, fils de Tsuar, prince d'Issacar, présenta son offrande.
-###### 1919
+###### 19
 Il offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 2020
+###### 20
 une coupe d'or de dix sicles, pleine de parfum;
-###### 2121
+###### 21
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 2222
+###### 22
 un bouc, pour le sacrifice d'expiation;
-###### 2323
+###### 23
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande de Nethaneel, fils de Tsuar.
-###### 2424
+###### 24
 Le troisième jour, le prince des fils de Zabulon, Eliab, fils de Hélon,
-###### 2525
+###### 25
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 2626
+###### 26
 une coupe d'or de dix sicles, pleine de parfum;
-###### 2727
+###### 27
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 2828
+###### 28
 un bouc, pour le sacrifice d'expiation;
-###### 2929
+###### 29
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Eliab, fils de Hélon.
-###### 3030
+###### 30
 Le quatrième jour, le prince des fils de Ruben, Elitsur, fils de Schedéur,
-###### 3131
+###### 31
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 3232
+###### 32
 une coupe d'or de dix sicles, pleine de parfum;
-###### 3333
+###### 33
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 3434
+###### 34
 un bouc, pour le sacrifice d'expiation;
-###### 3535
+###### 35
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Elitsur, fils de Schedéur.
-###### 3636
+###### 36
 Le cinquième jour, le prince des fils de Siméon, Schelumiel, fils de Tsurischaddaï,
-###### 3737
+###### 37
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 3838
+###### 38
 une coupe d'or de dix sicles, pleine de parfum;
-###### 3939
+###### 39
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 4040
+###### 40
 un bouc, pour le sacrifice d'expiation;
-###### 4141
+###### 41
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande de Schelumiel, fils de Tsurischaddaï.
-###### 4242
+###### 42
 Le sixième jour, le prince des fils de Gad, Eliasaph, fils de Déuel,
-###### 4343
+###### 43
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 4444
+###### 44
 une coupe d'or de dix sicles, pleine de parfum;
-###### 4545
+###### 45
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 4646
+###### 46
 un bouc, pour le sacrifice d'expiation;
-###### 4747
+###### 47
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Eliasaph, fils de Déuel.
-###### 4848
+###### 48
 Le septième jour, le prince des fils d'Ephraïm, Elischama, fils d'Ammihud,
-###### 4949
+###### 49
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 5050
+###### 50
 une coupe d'or de dix sicles, pleine de parfum;
-###### 5151
+###### 51
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 5252
+###### 52
 un bouc, pour le sacrifice d'expiation;
-###### 5353
+###### 53
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Elischama, fils d'Ammihud.
-###### 5454
+###### 54
 Le huitième jour, le prince des fils de Manassé, Gamliel, fils de Pedahtsur,
-###### 5555
+###### 55
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 5656
+###### 56
 une coupe d'or de dix sicles, pleine de parfum;
-###### 5757
+###### 57
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 5858
+###### 58
 un bouc, pour le sacrifice d'expiation;
-###### 5959
+###### 59
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande de Gamliel, fils de Pedahtsur.
-###### 6060
+###### 60
 Le neuvième jour, le prince des fils de Benjamin, Abidan, fils de Guideoni,
-###### 6161
+###### 61
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 6262
+###### 62
 une coupe d'or de dix sicles, pleine de parfum;
-###### 6363
+###### 63
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 6464
+###### 64
 un bouc, pour le sacrifice d'expiation;
-###### 6565
+###### 65
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Abidan, fils de Guideoni.
-###### 6666
+###### 66
 Le dixième jour, le prince des fils de Dan, Ahiézer, fils d'Ammischaddaï,
-###### 6767
+###### 67
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 6868
+###### 68
 une coupe d'or de dix sicles, pleine de parfum;
-###### 6969
+###### 69
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 7070
+###### 70
 un bouc, pour le sacrifice d'expiation;
-###### 7171
+###### 71
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Ahiézer, fils d'Ammischaddaï.
-###### 7272
+###### 72
 Le onzième jour, le prince des fils d'Aser, Paguiel fils d'Ocran,
-###### 7373
+###### 73
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles, selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 7474
+###### 74
 une coupe d'or de dix sicles, pleine de parfum;
-###### 7575
+###### 75
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 7676
+###### 76
 un bouc, pour le sacrifice d'expiation;
-###### 7777
+###### 77
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande de Paguiel, fils d'Ocran.
-###### 7878
+###### 78
 Le douzième jour, le prince des fils de Nephthali, Ahira, fils d'Enan,
-###### 7979
+###### 79
 offrit: un plat d'argent du poids de cent trente sicles, un bassin d'argent de soixante-dix sicles selon le sicle du sanctuaire, tous deux pleins de fleur de farine pétrie à l'huile, pour l'offrande;
-###### 8080
+###### 80
 une coupe d'or de dix sicles, pleine de parfum;
-###### 8181
+###### 81
 un jeune taureau, un bélier, un agneau d'un an, pour l'holocauste;
-###### 8282
+###### 82
 un bouc, pour le sacrifice d'expiation;
-###### 8383
+###### 83
 et, pour le sacrifice d'actions de grâces, deux boeufs, cinq béliers, cinq boucs, cinq agneaux d'un an. Telle fut l'offrande d'Ahira, fils d'Enan.
-###### 8484
+###### 84
 Tels furent les dons des princes d'Israël pour la dédicace de l'autel, le jour où on l'oignit. Douze plats d'argent, douze bassins d'argent, douze coupes d'or;
-###### 8585
+###### 85
 chaque plat d'argent pesait cent trente sicles, et chaque bassin soixante-dix, ce qui fit pour l'argent de ces ustensiles un total de deux mille quatre cents sicles, selon le sicle du sanctuaire;
-###### 8686
+###### 86
 les douze coupes d'or pleines de parfum, à dix sicles la coupe, selon le sicle du sanctuaire, firent pour l'or des coupes un total de cent vingt sicles.
-###### 8787
+###### 87
 Total des animaux pour l'holocauste: douze taureaux, douze béliers, douze agneaux d'un an, avec les offrandes ordinaires. Douze boucs, pour le sacrifice d'expiation.
-###### 8888
+###### 88
 Total des animaux pour le sacrifice d'actions de grâces: vingt-quatre boeufs, soixante béliers, soixante boucs, soixante agneaux d'un an. Tels furent les dons pour la dédicace de l'autel, après qu'on l'eut oint.
-###### 8989
+###### 89
 Lorsque Moïse entrait dans la tente d'assignation pour parler avec l'Eternel, il entendait la voix qui lui parlait du haut du propitiatoire placé sur l'arche du témoignage, entre les deux chérubins. Et il parlait avec l'Eternel.

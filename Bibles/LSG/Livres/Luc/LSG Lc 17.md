@@ -9,77 +9,77 @@ tags : Bible/Lc/17
 
 # Luc 17
 
-###### 11
+###### 1
 Jésus dit à ses disciples: Il est impossible qu'il n'arrive pas des scandales; mais malheur à celui par qui ils arrivent!
-###### 22
+###### 2
 Il vaudrait mieux pour lui qu'on mît à son cou une pierre de moulin et qu'on le jetât dans la mer, que s'il scandalisait un de ces petits.
-###### 33
+###### 3
 Prenez garde à vous-mêmes. Si ton frère a péché, reprends-le; et, s'il se repent, pardonne-lui.
-###### 44
+###### 4
 Et s'il a péché contre toi sept fois dans un jour et que sept fois il revienne à toi, disant: Je me repens, -tu lui pardonneras.
-###### 55
+###### 5
 Les apôtres dirent au Seigneur: Augmente-nous la foi.
-###### 66
+###### 6
 Et le Seigneur dit: Si vous aviez de la foi comme un grain de sénevé, vous diriez à ce sycomore: Déracine-toi, et plante-toi dans la mer; et il vous obéirait.
-###### 77
+###### 7
 Qui de vous, ayant un serviteur qui laboure ou paît les troupeaux, lui dira, quand il revient des champs: Approche vite, et mets-toi à table?
-###### 88
+###### 8
 Ne lui dira-t-il pas au contraire: Prépare-moi à souper, ceins-toi, et sers-moi, jusqu'à ce que j'aie mangé et bu; après cela, toi, tu mangeras et boiras?
-###### 99
+###### 9
 Doit-il de la reconnaissance à ce serviteur parce qu'il a fait ce qui lui était ordonné?
-###### 1010
+###### 10
 Vous de même, quand vous avez fait tout ce qui vous a été ordonné, dites: Nous sommes des serviteurs inutiles, nous avons fait ce que nous devions faire.
-###### 1111
+###### 11
 Jésus, se rendant à Jérusalem, passait entre la Samarie et la Galilée.
-###### 1212
+###### 12
 Comme il entrait dans un village, dix lépreux vinrent à sa rencontre. Se tenant à distance,
-###### 1313
+###### 13
 ils élevèrent la voix, et dirent: Jésus, maître, aie pitié de nous!
-###### 1414
+###### 14
 Dès qu'il les eut vus, il leur dit: Allez vous montrer aux sacrificateurs. Et, pendant qu'ils y allaient, il arriva qu'ils furent guéris.
-###### 1515
+###### 15
 L'un d'eux, se voyant guéri, revint sur ses pas, glorifiant Dieu à haute voix.
-###### 1616
+###### 16
 Il tomba sur sa face aux pieds de Jésus, et lui rendit grâces. C'était un Samaritain.
-###### 1717
+###### 17
 Jésus, prenant la parole, dit: Les dix n'ont-ils pas été guéris? Et les neuf autres, où sont-ils?
-###### 1818
+###### 18
 Ne s'est-il trouvé que cet étranger pour revenir et donner gloire à Dieu?
-###### 1919
+###### 19
 Puis il lui dit: Lève-toi, va; ta foi t'a sauvé.
-###### 2020
+###### 20
 Les pharisiens demandèrent à Jésus quand viendrait le royaume de Dieu. Il leur répondit: Le royaume de Dieu ne vient pas de manière à frapper les regards.
-###### 2121
+###### 21
 On ne dira point: Il est ici, ou: Il est là. Car voici, le royaume de Dieu est au milieu de vous.
-###### 2222
+###### 22
 Et il dit aux disciples: Des jours viendront où vous désirerez voir l'un des jours du Fils de l'homme, et vous ne le verrez point.
-###### 2323
+###### 23
 On vous dira: Il est ici, il est là. N'y allez pas, ne courez pas après.
-###### 2424
+###### 24
 Car, comme l'éclair resplendit et brille d'une extrémité du ciel à l'autre, ainsi sera le Fils de l'homme en son jour.
-###### 2525
+###### 25
 Mais il faut auparavant qu'il souffre beaucoup, et qu'il soit rejeté par cette génération.
-###### 2626
+###### 26
 Ce qui arriva du temps de Noé arrivera de même aux jours du Fils de l'homme.
-###### 2727
+###### 27
 Les hommes mangeaient, buvaient, se mariaient et mariaient leurs enfants, jusqu'au jour où Noé entra dans l'arche; le déluge vint, et les fit tous périr.
-###### 2828
+###### 28
 Ce qui arriva du temps de Lot arrivera pareillement. Les hommes mangeaient, buvaient, achetaient, vendaient, plantaient, bâtissaient;
-###### 2929
+###### 29
 mais le jour où Lot sortit de Sodome, une pluie de feu et de soufre tomba du ciel, et les fit tous périr.
-###### 3030
+###### 30
 Il en sera de même le jour où le Fils de l'homme paraîtra.
-###### 3131
+###### 31
 En ce jour-là, que celui qui sera sur le toit, et qui aura ses effets dans la maison, ne descende pas pour les prendre; et que celui qui sera dans les champs ne retourne pas non plus en arrière.
-###### 3232
+###### 32
 Souvenez-vous de la femme de Lot.
-###### 3333
+###### 33
 Celui qui cherchera à sauver sa vie la perdra, et celui qui la perdra la retrouvera.
-###### 3434
+###### 34
 Je vous le dis, en cette nuit-là, de deux personnes qui seront dans un même lit, l'une sera prise et l'autre laissée;
-###### 3535
+###### 35
 de deux femmes qui moudront ensemble, l'une sera prise et l'autre laissée.
-###### 3636
+###### 36
 De deux hommes qui seront dans un champ, l'un sera pris et l'autre laissé.
-###### 3737
+###### 37
 Les disciples lui dirent: Où sera-ce, Seigneur? Et il répondit: Où sera le corps, là s'assembleront les aigles.

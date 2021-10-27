@@ -9,55 +9,55 @@ tags : Bible/Ps/44_43
 
 # Psaumes 44 (43)
 
-###### 11
+###### 1
 Au chef des chantres. Des fils de Koré. Cantique. O Dieu! nous avons entendu de nos oreilles, Nos pères nous ont raconté Les oeuvres que tu as accomplies de leur temps, Aux jours d'autrefois.
-###### 22
+###### 2
 De ta main tu as chassé des nations pour les établir, Tu as frappé des peuples pour les étendre.
-###### 33
+###### 3
 Car ce n'est point par leur épée qu'ils se sont emparés du pays, Ce n'est point leur bras qui les a sauvés; Mais c'est ta droite, c'est ton bras, c'est la lumière de ta face, Parce que tu les aimais.
-###### 44
+###### 4
 O Dieu! tu es mon roi: Ordonne la délivrance de Jacob!
-###### 55
+###### 5
 Avec toi nous renversons nos ennemis, Avec ton nom nous écrasons nos adversaires.
-###### 66
+###### 6
 Car ce n'est pas en mon arc que je me confie, Ce n'est pas mon épée qui me sauvera;
-###### 77
+###### 7
 Mais c'est toi qui nous délivres de nos ennemis, Et qui confonds ceux qui nous haïssent.
-###### 88
+###### 8
 Nous nous glorifions en Dieu chaque jour, Et nous célébrerons à jamais ton nom. -Pause.
-###### 99
+###### 9
 Cependant tu nous repousses, tu nous couvres de honte, Tu ne sors plus avec nos armées;
-###### 1010
+###### 10
 Tu nous fais reculer devant l'ennemi, Et ceux qui nous haïssent enlèvent nos dépouilles.
-###### 1111
+###### 11
 Tu nous livres comme des brebis à dévorer, Tu nous disperses parmi les nations.
-###### 1212
+###### 12
 Tu vends ton peuple pour rien, Tu ne l'estimes pas à une grande valeur.
-###### 1313
+###### 13
 Tu fais de nous un objet d'opprobre pour nos voisins, De moquerie et de risée pour ceux qui nous entourent;
-###### 1414
+###### 14
 Tu fais de nous un objet de sarcasme parmi les nations, Et de hochements de tête parmi les peuples.
-###### 1515
+###### 15
 Ma honte est toujours devant moi, Et la confusion couvre mon visage,
-###### 1616
+###### 16
 A la voix de celui qui m'insulte et m'outrage, A la vue de l'ennemi et du vindicatif.
-###### 1717
+###### 17
 Tout cela nous arrive, sans que nous t'ayons oublié, Sans que nous ayons violé ton alliance:
-###### 1818
+###### 18
 Notre coeur ne s'est point détourné, Nos pas ne se sont point éloignés de ton sentier,
-###### 1919
+###### 19
 Pour que tu nous écrases dans la demeure des chacals, Et que tu nous couvres de l'ombre de la mort.
-###### 2020
+###### 20
 Si nous avions oublié le nom de notre Dieu, Et étendu nos mains vers un dieu étranger,
-###### 2121
+###### 21
 Dieu ne le saurait-il pas, Lui qui connaît les secrets du coeur?
-###### 2222
+###### 22
 Mais c'est à cause de toi qu'on nous égorge tous les jours, Qu'on nous regarde comme des brebis destinées à la boucherie.
-###### 2323
+###### 23
 Réveille-toi! Pourquoi dors-tu, Seigneur? Réveille-toi! ne nous repousse pas à jamais!
-###### 2424
+###### 24
 Pourquoi caches-tu ta face? Pourquoi oublies-tu notre misère et notre oppression?
-###### 2525
+###### 25
 Car notre âme est abattue dans la poussière, Notre corps est attaché à la terre.
-###### 2626
+###### 26
 Lève-toi, pour nous secourir! Délivre-nous à cause de ta bonté!

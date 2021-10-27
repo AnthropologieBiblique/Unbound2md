@@ -9,75 +9,75 @@ tags : Bible/Ps/69_68
 
 # Psaumes 69 (68)
 
-###### 11
+###### 1
 Au chef des chantres. Sur les lis. De David. Sauve-moi, ô Dieu! Car les eaux menacent ma vie.
-###### 22
+###### 2
 J'enfonce dans la boue, sans pouvoir me tenir; Je suis tombé dans un gouffre, et les eaux m'inondent.
-###### 33
+###### 3
 Je m'épuise à crier, mon gosier se dessèche, Mes yeux se consument, tandis que je regarde vers mon Dieu.
-###### 44
+###### 4
 Ils sont plus nombreux que les cheveux de ma tête, Ceux qui me haïssent sans cause; Ils sont puissants, ceux qui veulent me perdre, Qui sont à tort mes ennemis. Ce que je n'ai pas dérobé, il faut que je le restitue.
-###### 55
+###### 5
 O Dieu! tu connais ma folie, Et mes fautes ne te sont point cachées.
-###### 66
+###### 6
 Que ceux qui espèrent en toi ne soient pas confus à cause de moi, Seigneur, Eternel des armées! Que ceux qui te cherchent ne soient pas dans la honte à cause de moi, Dieu d'Israël!
-###### 77
+###### 7
 Car c'est pour toi que je porte l'opprobre, Que la honte couvre mon visage;
-###### 88
+###### 8
 Je suis devenu un étranger pour mes frères, Un inconnu pour les fils de ma mère.
-###### 99
+###### 9
 Car le zèle de ta maison me dévore, Et les outrages de ceux qui t'insultent tombent sur moi.
-###### 1010
+###### 10
 Je verse des larmes et je jeûne, Et c'est ce qui m'attire l'opprobre;
-###### 1111
+###### 11
 Je prends un sac pour vêtement, Et je suis l'objet de leurs sarcasmes.
-###### 1212
+###### 12
 Ceux qui sont assis à la porte parlent de moi, Et les buveurs de liqueurs fortes me mettent en chansons.
-###### 1313
+###### 13
 Mais je t'adresse ma prière, ô Eternel! Que ce soit le temps favorable, ô Dieu, par ta grande bonté! Réponds-moi, en m'assurant ton secours!
-###### 1414
+###### 14
 Retire-moi de la boue, et que je n'enfonce plus! Que je sois délivré de mes ennemis et du gouffre!
-###### 1515
+###### 15
 Que les flots ne m'inondent plus, Que l'abîme ne m'engloutisse pas, Et que la fosse ne se ferme pas sur moi!
-###### 1616
+###### 16
 Exauce-moi, Eternel! car ta bonté est immense. Dans tes grandes compassions, tourne vers moi les regards,
-###### 1717
+###### 17
 Et ne cache pas ta face à ton serviteur! Puisque je suis dans la détresse, hâte-toi de m'exaucer!
-###### 1818
+###### 18
 Approche-toi de mon âme, délivre-la! Sauve-moi, à cause de mes ennemis!
-###### 1919
+###### 19
 Tu connais mon opprobre, ma honte, mon ignominie; Tous mes adversaires sont devant toi.
-###### 2020
+###### 20
 L'opprobre me brise le coeur, et je suis malade; J'attends de la pitié, mais en vain, Des consolateurs, et je n'en trouve aucun.
-###### 2121
+###### 21
 Ils mettent du fiel dans ma nourriture, Et, pour apaiser ma soif, ils m'abreuvent de vinaigre.
-###### 2222
+###### 22
 Que leur table soit pour eux un piège, Et un filet au sein de leur sécurité!
-###### 2323
+###### 23
 Que leurs yeux s'obscurcissent et ne voient plus, Et fais continuellement chanceler leurs reins!
-###### 2424
+###### 24
 Répands sur eux ta colère, Et que ton ardente fureur les atteigne!
-###### 2525
+###### 25
 Que leur demeure soit dévastée, Qu'il n'y ait plus d'habitants dans leurs tentes!
-###### 2626
+###### 26
 Car ils persécutent celui que tu frappes, Ils racontent les souffrances de ceux que tu blesses.
-###### 2727
+###### 27
 Ajoute des iniquités à leurs iniquités, Et qu'ils n'aient point part à ta miséricorde!
-###### 2828
+###### 28
 Qu'ils soient effacés du livre de vie, Et qu'ils ne soient point inscrits avec les justes!
-###### 2929
+###### 29
 Moi, je suis malheureux et souffrant: O Dieu, que ton secours me relève!
-###### 3030
+###### 30
 Je célébrerai le nom de Dieu par des cantiques, Je l'exalterai par des louanges.
-###### 3131
+###### 31
 Cela est agréable à l'Eternel, plus qu'un taureau Avec des cornes et des sabots.
-###### 3232
+###### 32
 Les malheureux le voient et se réjouissent; Vous qui cherchez Dieu, que votre coeur vive!
-###### 3333
+###### 33
 Car l'Eternel écoute les pauvres, Et il ne méprise point ses captifs.
-###### 3434
+###### 34
 Que les cieux et la terre le célèbrent, Les mers et tout ce qui s'y meut!
-###### 3535
+###### 35
 Car Dieu sauvera Sion, et bâtira les villes de Juda; On s'y établira, et l'on en prendra possession;
-###### 3636
+###### 36
 La postérité de ses serviteurs en fera son héritage, Et ceux qui aiment son nom y auront leur demeure.
