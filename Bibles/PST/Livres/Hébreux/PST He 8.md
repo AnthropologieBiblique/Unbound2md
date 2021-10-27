@@ -4,7 +4,10 @@ aliases :
 - Hébreux 8
 - He 8
 - Hebrews 8
-tags : Bible/He/8
+tags : 
+- Bible/He/8
+- araméen
+cssclass : bible-araméen
 ---
 
 # Hébreux 8

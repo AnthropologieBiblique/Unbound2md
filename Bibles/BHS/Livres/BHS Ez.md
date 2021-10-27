@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel
 - Ez
 - Ezekiel
-tags : Bible/Ez
+tags : 
+- Bible/Ez
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יחזקאל

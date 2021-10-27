@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 31
 - 2 Ch 31
 - 2 Chronicles 31
-tags : Bible/2Ch/31
+tags : 
+- Bible/2Ch/31
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 31

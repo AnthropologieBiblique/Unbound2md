@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 10
 - 1 R 10
 - 1 Kings 10
-tags : Bible/1R/10
+tags : 
+- Bible/1R/10
+- latin
+cssclass : bible-latin
 ---
 
 # 3 Regum 10

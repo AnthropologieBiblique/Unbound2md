@@ -4,7 +4,10 @@ aliases :
 - Esdras 11
 - Esd 11
 - Ezra 11
-tags : Bible/Esd/11
+tags : 
+- Bible/Esd/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 21

@@ -4,7 +4,10 @@ aliases :
 - Michée 2
 - Mi 2
 - Micah 2
-tags : Bible/Mi/2
+tags : 
+- Bible/Mi/2
+- français
+cssclass : bible-français
 ---
 
 # Michée 2

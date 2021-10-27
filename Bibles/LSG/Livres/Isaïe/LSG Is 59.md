@@ -4,7 +4,10 @@ aliases :
 - Isaïe 59
 - Is 59
 - Isaiah 59
-tags : Bible/Is/59
+tags : 
+- Bible/Is/59
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 59

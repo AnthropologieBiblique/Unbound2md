@@ -4,7 +4,10 @@ aliases :
 - Esdras 5
 - Esd 5
 - Ezra 5
-tags : Bible/Esd/5
+tags : 
+- Bible/Esd/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 5

@@ -4,7 +4,10 @@ aliases :
 - Exode 39
 - Ex 39
 - Exodus 39
-tags : Bible/Ex/39
+tags : 
+- Bible/Ex/39
+- français
+cssclass : bible-français
 ---
 
 # Exode 39

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 3
 - Ps 3
 - Psalms 3
-tags : Bible/Ps/3
+tags : 
+- Bible/Ps/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 3

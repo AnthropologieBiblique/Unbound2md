@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 5
 - Odes 5
 - Od 5
-tags : Bible/Od/5
+tags : 
+- Bible/Od/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 5

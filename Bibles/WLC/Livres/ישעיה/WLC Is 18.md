@@ -4,7 +4,10 @@ aliases :
 - Isaïe 18
 - Is 18
 - Isaiah 18
-tags : Bible/Is/18
+tags : 
+- Bible/Is/18
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 18

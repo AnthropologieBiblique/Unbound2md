@@ -3,7 +3,10 @@ aliases :
 - Ἐσθήρ 10
 - Esther 10
 - Est 10
-tags : Bible/Est/10
+tags : 
+- Bible/Est/10
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 10

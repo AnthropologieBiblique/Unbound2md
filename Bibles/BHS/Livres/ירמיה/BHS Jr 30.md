@@ -4,7 +4,10 @@ aliases :
 - Jérémie 30
 - Jr 30
 - Jeremiah 30
-tags : Bible/Jr/30
+tags : 
+- Bible/Jr/30
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 30

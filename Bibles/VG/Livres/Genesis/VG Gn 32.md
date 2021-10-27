@@ -4,7 +4,10 @@ aliases :
 - Genèse 32
 - Gn 32
 - Genesis 32
-tags : Bible/Gn/32
+tags : 
+- Bible/Gn/32
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 32

@@ -3,7 +3,10 @@ aliases :
 - Daniel 12
 - Daniel 12
 - Dn 12
-tags : Bible/Dn/12
+tags : 
+- Bible/Dn/12
+- français
+cssclass : bible-français
 ---
 
 # Daniel 12

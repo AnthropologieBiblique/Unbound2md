@@ -4,7 +4,10 @@ aliases :
 - Éphésiens
 - Ep
 - Ephesians
-tags : Bible/Ep
+tags : 
+- Bible/Ep
+- français
+cssclass : bible-français
 ---
 
 # Éphésiens

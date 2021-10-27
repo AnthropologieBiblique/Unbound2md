@@ -4,7 +4,10 @@ aliases :
 - Épître de Jérémie 6
 - Jr 6
 - Epistle of Jeremiah 6
-tags : Bible/Jr/6
+tags : 
+- Bible/Jr/6
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐπιστολὴ Ἰερεμίου 1

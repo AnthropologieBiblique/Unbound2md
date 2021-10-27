@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 5
 - Dt 5
 - Deuteronomy 5
-tags : Bible/Dt/5
+tags : 
+- Bible/Dt/5
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 5

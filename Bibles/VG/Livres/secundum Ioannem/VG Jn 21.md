@@ -4,7 +4,10 @@ aliases :
 - Jean 21
 - Jn 21
 - John 21
-tags : Bible/Jn/21
+tags : 
+- Bible/Jn/21
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 21

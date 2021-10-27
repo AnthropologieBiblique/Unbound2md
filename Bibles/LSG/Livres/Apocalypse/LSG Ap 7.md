@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 7
 - Ap 7
 - Revelation 7
-tags : Bible/Ap/7
+tags : 
+- Bible/Ap/7
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 7

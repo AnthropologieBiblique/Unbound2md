@@ -3,7 +3,10 @@ aliases :
 - Amos
 - Amos
 - Am
-tags : Bible/Am
+tags : 
+- Bible/Am
+- français
+cssclass : bible-français
 ---
 
 # Amos

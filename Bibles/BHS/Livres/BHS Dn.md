@@ -3,7 +3,10 @@ aliases :
 - דניאל
 - Daniel
 - Dn
-tags : Bible/Dn
+tags : 
+- Bible/Dn
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל

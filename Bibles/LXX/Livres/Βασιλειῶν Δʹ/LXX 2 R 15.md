@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 15
 - 2 R 15
 - 2 Kings 15
-tags : Bible/2R/15
+tags : 
+- Bible/2R/15
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Δʹ 15

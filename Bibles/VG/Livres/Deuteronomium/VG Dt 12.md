@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 12
 - Dt 12
 - Deuteronomy 12
-tags : Bible/Dt/12
+tags : 
+- Bible/Dt/12
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 12

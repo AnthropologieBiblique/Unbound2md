@@ -3,7 +3,10 @@ aliases :
 - Job 32
 - Job 32
 - Jb 32
-tags : Bible/Jb/32
+tags : 
+- Bible/Jb/32
+- latin
+cssclass : bible-latin
 ---
 
 # Job 32

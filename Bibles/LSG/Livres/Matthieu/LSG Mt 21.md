@@ -4,7 +4,10 @@ aliases :
 - Matthieu 21
 - Mt 21
 - Matthew 21
-tags : Bible/Mt/21
+tags : 
+- Bible/Mt/21
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 21

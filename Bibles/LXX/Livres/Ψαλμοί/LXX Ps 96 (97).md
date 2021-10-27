@@ -4,7 +4,10 @@ aliases :
 - Psaumes 97 (96)
 - Ps 97 (96)
 - Psalms 97 (96)
-tags : Bible/Ps/97_96
+tags : 
+- Bible/Ps/97_96
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 96 (97)

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 20
 - Dt 20
 - Deuteronomy 20
-tags : Bible/Dt/20
+tags : 
+- Bible/Dt/20
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 20

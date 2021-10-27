@@ -4,7 +4,10 @@ aliases :
 - Siracide
 - Si
 - Ecclesiasticus
-tags : Bible/Si
+tags : 
+- Bible/Si
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus

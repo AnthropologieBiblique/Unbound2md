@@ -3,7 +3,10 @@ aliases :
 - Amos 8
 - Amos 8
 - Am 8
-tags : Bible/Am/8
+tags : 
+- Bible/Am/8
+- latin
+cssclass : bible-latin
 ---
 
 # Amos 8

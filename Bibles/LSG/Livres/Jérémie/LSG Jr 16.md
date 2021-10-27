@@ -4,7 +4,10 @@ aliases :
 - Jérémie 16
 - Jr 16
 - Jeremiah 16
-tags : Bible/Jr/16
+tags : 
+- Bible/Jr/16
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 16

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 14
 - Is 14
 - Isaiah 14
-tags : Bible/Is/14
+tags : 
+- Bible/Is/14
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 14

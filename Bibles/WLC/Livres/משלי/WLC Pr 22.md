@@ -4,7 +4,10 @@ aliases :
 - Proverbes 22
 - Pr 22
 - Proverbs 22
-tags : Bible/Pr/22
+tags : 
+- Bible/Pr/22
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 22

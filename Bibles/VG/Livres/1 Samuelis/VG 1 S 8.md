@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 8
 - 1 Samuel 8
 - 1 S 8
-tags : Bible/1S/8
+tags : 
+- Bible/1S/8
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 8

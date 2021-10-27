@@ -4,7 +4,10 @@ aliases :
 - Marc 7
 - Mc 7
 - Mark 7
-tags : Bible/Mc/7
+tags : 
+- Bible/Mc/7
+- français
+cssclass : bible-français
 ---
 
 # Marc 7

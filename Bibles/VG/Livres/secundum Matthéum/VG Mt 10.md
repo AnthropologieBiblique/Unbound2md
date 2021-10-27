@@ -4,7 +4,10 @@ aliases :
 - Matthieu 10
 - Mt 10
 - Matthew 10
-tags : Bible/Mt/10
+tags : 
+- Bible/Mt/10
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 10

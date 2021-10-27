@@ -3,7 +3,10 @@ aliases :
 - דניאל 4
 - Daniel 4
 - Dn 4
-tags : Bible/Dn/4
+tags : 
+- Bible/Dn/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 4

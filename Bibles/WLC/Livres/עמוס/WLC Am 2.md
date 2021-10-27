@@ -3,7 +3,10 @@ aliases :
 - עמוס 2
 - Amos 2
 - Am 2
-tags : Bible/Am/2
+tags : 
+- Bible/Am/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 2

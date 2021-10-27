@@ -4,7 +4,10 @@ aliases :
 - Psaumes 10 (9B)
 - Ps 10 (9B)
 - Psalms 10 (9B)
-tags : Bible/Ps/10_9B
+tags : 
+- Bible/Ps/10_9B
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 10 (9B)

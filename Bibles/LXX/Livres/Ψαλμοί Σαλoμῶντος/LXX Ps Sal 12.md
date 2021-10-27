@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 12
 - Ps Sal 12
 - Psalm of Solomon 12
-tags : Bible/PsSal/12
+tags : 
+- Bible/PsSal/12
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 12

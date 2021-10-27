@@ -4,7 +4,10 @@ aliases :
 - Josué 15
 - Jos 15
 - Joshua 15
-tags : Bible/Jos/15
+tags : 
+- Bible/Jos/15
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 15

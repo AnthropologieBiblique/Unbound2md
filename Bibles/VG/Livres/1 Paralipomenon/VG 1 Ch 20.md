@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 20
 - 1 Ch 20
 - 1 Chronicles 20
-tags : Bible/1Ch/20
+tags : 
+- Bible/1Ch/20
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 20

@@ -4,7 +4,10 @@ aliases :
 - Tobie 10
 - Tb 10
 - Tobit 10
-tags : Bible/Tb/10
+tags : 
+- Bible/Tb/10
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 10

@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 5
 - Daniel 5
 - Dn 5
-tags : Bible/Dn/5
+tags : 
+- Bible/Dn/5
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 5

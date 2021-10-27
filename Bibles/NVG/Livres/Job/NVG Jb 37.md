@@ -3,7 +3,10 @@ aliases :
 - Job 37
 - Job 37
 - Jb 37
-tags : Bible/Jb/37
+tags : 
+- Bible/Jb/37
+- latin
+cssclass : bible-latin
 ---
 
 # Job 37

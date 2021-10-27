@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 4
 - Ct 4
 - Song of Solomon 4
-tags : Bible/Ct/4
+tags : 
+- Bible/Ct/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שיר השירים 4

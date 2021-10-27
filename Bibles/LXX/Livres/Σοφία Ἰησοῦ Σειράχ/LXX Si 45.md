@@ -4,7 +4,10 @@ aliases :
 - Siracide 45
 - Si 45
 - Ecclesiasticus 45
-tags : Bible/Si/45
+tags : 
+- Bible/Si/45
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 45

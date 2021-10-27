@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 17
 - Ps Sal 17
 - Psalm of Solomon 17
-tags : Bible/PsSal/17
+tags : 
+- Bible/PsSal/17
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 17

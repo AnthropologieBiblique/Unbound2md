@@ -4,7 +4,10 @@ aliases :
 - Lévitique 2
 - Lv 2
 - Leviticus 2
-tags : Bible/Lv/2
+tags : 
+- Bible/Lv/2
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 2

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques
 - 2 Ch
 - 2 Chronicles
-tags : Bible/2Ch
+tags : 
+- Bible/2Ch
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques

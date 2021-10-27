@@ -4,7 +4,10 @@ aliases :
 - Psaumes 82 (81)
 - Ps 82 (81)
 - Psalms 82 (81)
-tags : Bible/Ps/82_81
+tags : 
+- Bible/Ps/82_81
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 82 (81)

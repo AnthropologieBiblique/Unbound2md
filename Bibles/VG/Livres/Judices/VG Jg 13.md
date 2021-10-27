@@ -4,7 +4,10 @@ aliases :
 - Juges 13
 - Jg 13
 - Judges 13
-tags : Bible/Jg/13
+tags : 
+- Bible/Jg/13
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 13

@@ -4,7 +4,10 @@ aliases :
 - Actes 7
 - Ac 7
 - Acts of the Apostles 7
-tags : Bible/Ac/7
+tags : 
+- Bible/Ac/7
+- français
+cssclass : bible-français
 ---
 
 # Actes 7

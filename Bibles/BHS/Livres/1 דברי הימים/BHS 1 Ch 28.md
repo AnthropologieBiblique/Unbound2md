@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 28
 - 1 Ch 28
 - 1 Chronicles 28
-tags : Bible/1Ch/28
+tags : 
+- Bible/1Ch/28
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 28

@@ -3,7 +3,10 @@ aliases :
 - Ἐσθήρ 9
 - Esther 9
 - Est 9
-tags : Bible/Est/9
+tags : 
+- Bible/Est/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 9

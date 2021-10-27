@@ -4,7 +4,10 @@ aliases :
 - Jérémie 45
 - Jr 45
 - Jeremiah 45
-tags : Bible/Jr/45
+tags : 
+- Bible/Jr/45
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 45

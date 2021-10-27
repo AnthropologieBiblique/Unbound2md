@@ -3,7 +3,10 @@ aliases :
 - Jude
 - Jude
 - Jude
-tags : Bible/Jude
+tags : 
+- Bible/Jude
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jude

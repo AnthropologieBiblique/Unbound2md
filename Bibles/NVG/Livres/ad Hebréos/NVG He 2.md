@@ -4,7 +4,10 @@ aliases :
 - Hébreux 2
 - He 2
 - Hebrews 2
-tags : Bible/He/2
+tags : 
+- Bible/He/2
+- latin
+cssclass : bible-latin
 ---
 
 # ad Hebréos 2

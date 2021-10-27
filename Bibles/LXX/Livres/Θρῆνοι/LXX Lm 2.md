@@ -3,7 +3,10 @@ aliases :
 - Θρῆνοι 2
 - Lamentations 2
 - Lm 2
-tags : Bible/Lm/2
+tags : 
+- Bible/Lm/2
+- grec
+cssclass : bible-grec
 ---
 
 # Θρῆνοι 2

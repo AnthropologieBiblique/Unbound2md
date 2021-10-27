@@ -4,7 +4,10 @@ aliases :
 - Actes 26
 - Ac 26
 - Acts of the Apostles 26
-tags : Bible/Ac/26
+tags : 
+- Bible/Ac/26
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 26

@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 11
 - 2 Samuel 11
 - 2 S 11
-tags : Bible/2S/11
+tags : 
+- Bible/2S/11
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 11

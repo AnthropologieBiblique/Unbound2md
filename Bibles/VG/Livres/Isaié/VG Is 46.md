@@ -4,7 +4,10 @@ aliases :
 - Isaïe 46
 - Is 46
 - Isaiah 46
-tags : Bible/Is/46
+tags : 
+- Bible/Is/46
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 46

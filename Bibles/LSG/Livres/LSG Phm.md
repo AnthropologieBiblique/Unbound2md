@@ -4,7 +4,10 @@ aliases :
 - Philémon
 - Phm
 - Philemon
-tags : Bible/Phm
+tags : 
+- Bible/Phm
+- français
+cssclass : bible-français
 ---
 
 # Philémon

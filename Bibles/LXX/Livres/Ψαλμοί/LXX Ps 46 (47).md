@@ -4,7 +4,10 @@ aliases :
 - Psaumes 47 (46)
 - Ps 47 (46)
 - Psalms 47 (46)
-tags : Bible/Ps/47_46
+tags : 
+- Bible/Ps/47_46
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 46 (47)

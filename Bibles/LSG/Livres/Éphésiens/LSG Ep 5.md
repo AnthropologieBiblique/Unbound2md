@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 5
 - Ep 5
 - Ephesians 5
-tags : Bible/Ep/5
+tags : 
+- Bible/Ep/5
+- français
+cssclass : bible-français
 ---
 
 # Éphésiens 5

@@ -3,7 +3,10 @@ aliases :
 - Nahum 2
 - Nahum 2
 - Na 2
-tags : Bible/Na/2
+tags : 
+- Bible/Na/2
+- français
+cssclass : bible-français
 ---
 
 # Nahum 2

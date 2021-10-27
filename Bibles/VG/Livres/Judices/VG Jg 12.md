@@ -4,7 +4,10 @@ aliases :
 - Juges 12
 - Jg 12
 - Judges 12
-tags : Bible/Jg/12
+tags : 
+- Bible/Jg/12
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 12

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 5
 - Is 5
 - Isaiah 5
-tags : Bible/Is/5
+tags : 
+- Bible/Is/5
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 5

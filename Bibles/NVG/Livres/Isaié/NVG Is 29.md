@@ -4,7 +4,10 @@ aliases :
 - Isaïe 29
 - Is 29
 - Isaiah 29
-tags : Bible/Is/29
+tags : 
+- Bible/Is/29
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 29

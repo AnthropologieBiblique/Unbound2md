@@ -4,7 +4,10 @@ aliases :
 - Marc 2
 - Mc 2
 - Mark 2
-tags : Bible/Mc/2
+tags : 
+- Bible/Mc/2
+- français
+cssclass : bible-français
 ---
 
 # Marc 2

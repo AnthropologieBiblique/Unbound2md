@@ -4,7 +4,10 @@ aliases :
 - Marc 8
 - Mc 8
 - Mark 8
-tags : Bible/Mc/8
+tags : 
+- Bible/Mc/8
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 8

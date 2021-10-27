@@ -3,7 +3,10 @@ aliases :
 - Ἀμώς Βʹ 6
 - Amos 6
 - Am 6
-tags : Bible/Am/6
+tags : 
+- Bible/Am/6
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμώς Βʹ 6

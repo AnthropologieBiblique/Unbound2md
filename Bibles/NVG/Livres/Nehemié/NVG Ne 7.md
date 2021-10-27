@@ -4,7 +4,10 @@ aliases :
 - Néhémie 7
 - Ne 7
 - Nehemiah 7
-tags : Bible/Ne/7
+tags : 
+- Bible/Ne/7
+- latin
+cssclass : bible-latin
 ---
 
 # Nehemié 7

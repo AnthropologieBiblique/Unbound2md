@@ -4,7 +4,10 @@ aliases :
 - Genèse 38
 - Gn 38
 - Genesis 38
-tags : Bible/Gn/38
+tags : 
+- Bible/Gn/38
+- français
+cssclass : bible-français
 ---
 
 # Genèse 38

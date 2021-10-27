@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 17
 - Ap 17
 - Revelation 17
-tags : Bible/Ap/17
+tags : 
+- Bible/Ap/17
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 17

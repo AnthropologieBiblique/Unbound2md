@@ -4,7 +4,10 @@ aliases :
 - Siracide 26
 - Si 26
 - Ecclesiasticus 26
-tags : Bible/Si/26
+tags : 
+- Bible/Si/26
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 26

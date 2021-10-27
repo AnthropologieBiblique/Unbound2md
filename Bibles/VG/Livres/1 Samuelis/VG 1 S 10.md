@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 10
 - 1 Samuel 10
 - 1 S 10
-tags : Bible/1S/10
+tags : 
+- Bible/1S/10
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 10

@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 11
 - 1 Samuel 10
 - 1 S 10
-tags : Bible/1S/10
+tags : 
+- Bible/1S/10
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 11

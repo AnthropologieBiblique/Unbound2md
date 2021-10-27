@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 12
 - Ap 12
 - Revelation 12
-tags : Bible/Ap/12
+tags : 
+- Bible/Ap/12
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 12

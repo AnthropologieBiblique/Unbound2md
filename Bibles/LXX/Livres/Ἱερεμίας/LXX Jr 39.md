@@ -4,7 +4,10 @@ aliases :
 - Jérémie 32
 - Jr 32
 - Jeremiah 32
-tags : Bible/Jr/32
+tags : 
+- Bible/Jr/32
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 39

@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 18
 - Job 18
 - Jb 18
-tags : Bible/Jb/18
+tags : 
+- Bible/Jb/18
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 18

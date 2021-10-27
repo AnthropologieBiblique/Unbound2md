@@ -3,7 +3,10 @@ aliases :
 - Ῥούθ
 - Ruth
 - Rt
-tags : Bible/Rt
+tags : 
+- Bible/Rt
+- grec
+cssclass : bible-grec
 ---
 
 # Ῥούθ

@@ -4,7 +4,10 @@ aliases :
 - Genèse 2
 - Gn 2
 - Genesis 2
-tags : Bible/Gn/2
+tags : 
+- Bible/Gn/2
+- français
+cssclass : bible-français
 ---
 
 # Genèse 2

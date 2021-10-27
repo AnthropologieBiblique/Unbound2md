@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 13
 - Ez 13
 - Ezekiel 13
-tags : Bible/Ez/13
+tags : 
+- Bible/Ez/13
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 13

@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 15
 - 1 Samuel 15
 - 1 S 15
-tags : Bible/1S/15
+tags : 
+- Bible/1S/15
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 15

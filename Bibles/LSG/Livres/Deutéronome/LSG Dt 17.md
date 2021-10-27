@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 17
 - Dt 17
 - Deuteronomy 17
-tags : Bible/Dt/17
+tags : 
+- Bible/Dt/17
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 17

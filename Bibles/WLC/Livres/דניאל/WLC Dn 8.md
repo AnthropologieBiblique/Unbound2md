@@ -3,7 +3,10 @@ aliases :
 - דניאל 8
 - Daniel 8
 - Dn 8
-tags : Bible/Dn/8
+tags : 
+- Bible/Dn/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 8

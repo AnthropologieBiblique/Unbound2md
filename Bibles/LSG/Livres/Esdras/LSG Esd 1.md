@@ -4,7 +4,10 @@ aliases :
 - Esdras 1
 - Esd 1
 - Ezra 1
-tags : Bible/Esd/1
+tags : 
+- Bible/Esd/1
+- français
+cssclass : bible-français
 ---
 
 # Esdras 1

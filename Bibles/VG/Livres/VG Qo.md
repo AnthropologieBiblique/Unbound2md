@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste
 - Qo
 - Ecclesiastes
-tags : Bible/Qo
+tags : 
+- Bible/Qo
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiastes

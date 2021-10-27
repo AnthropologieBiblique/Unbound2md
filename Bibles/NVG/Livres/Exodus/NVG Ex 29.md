@@ -4,7 +4,10 @@ aliases :
 - Exode 29
 - Ex 29
 - Exodus 29
-tags : Bible/Ex/29
+tags : 
+- Bible/Ex/29
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 29

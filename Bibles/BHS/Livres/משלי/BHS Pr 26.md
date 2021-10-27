@@ -4,7 +4,10 @@ aliases :
 - Proverbes 26
 - Pr 26
 - Proverbs 26
-tags : Bible/Pr/26
+tags : 
+- Bible/Pr/26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 26

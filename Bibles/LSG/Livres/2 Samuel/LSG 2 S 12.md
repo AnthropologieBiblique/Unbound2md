@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 12
 - 2 Samuel 12
 - 2 S 12
-tags : Bible/2S/12
+tags : 
+- Bible/2S/12
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 12

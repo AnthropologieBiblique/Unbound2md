@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 27
 - Ez 27
 - Ezekiel 27
-tags : Bible/Ez/27
+tags : 
+- Bible/Ez/27
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 27

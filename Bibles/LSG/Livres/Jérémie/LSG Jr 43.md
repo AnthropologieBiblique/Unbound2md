@@ -4,7 +4,10 @@ aliases :
 - Jérémie 43
 - Jr 43
 - Jeremiah 43
-tags : Bible/Jr/43
+tags : 
+- Bible/Jr/43
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 43

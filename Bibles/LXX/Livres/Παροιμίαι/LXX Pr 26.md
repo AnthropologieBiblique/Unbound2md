@@ -4,7 +4,10 @@ aliases :
 - Proverbes 26
 - Pr 26
 - Proverbs 26
-tags : Bible/Pr/26
+tags : 
+- Bible/Pr/26
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 26

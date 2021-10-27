@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 3
 - Qo 3
 - Ecclesiastes 3
-tags : Bible/Qo/3
+tags : 
+- Bible/Qo/3
+- français
+cssclass : bible-français
 ---
 
 # Ecclésiaste 3

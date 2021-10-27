@@ -4,7 +4,10 @@ aliases :
 - Nombres 24
 - Nb 24
 - Numbers 24
-tags : Bible/Nb/24
+tags : 
+- Bible/Nb/24
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 24

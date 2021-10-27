@@ -3,7 +3,10 @@ aliases :
 - Job 27
 - Job 27
 - Jb 27
-tags : Bible/Jb/27
+tags : 
+- Bible/Jb/27
+- français
+cssclass : bible-français
 ---
 
 # Job 27

@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 31
 - 1 Samuel 31
 - 1 S 31
-tags : Bible/1S/31
+tags : 
+- Bible/1S/31
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 31

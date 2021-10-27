@@ -4,7 +4,10 @@ aliases :
 - Tobie 5
 - Tb 5
 - Tobit 5
-tags : Bible/Tb/5
+tags : 
+- Bible/Tb/5
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 5

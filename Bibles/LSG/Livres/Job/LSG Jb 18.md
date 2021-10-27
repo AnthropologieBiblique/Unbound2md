@@ -3,7 +3,10 @@ aliases :
 - Job 18
 - Job 18
 - Jb 18
-tags : Bible/Jb/18
+tags : 
+- Bible/Jb/18
+- français
+cssclass : bible-français
 ---
 
 # Job 18

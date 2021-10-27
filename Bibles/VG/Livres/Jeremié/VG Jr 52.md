@@ -4,7 +4,10 @@ aliases :
 - Jérémie 52
 - Jr 52
 - Jeremiah 52
-tags : Bible/Jr/52
+tags : 
+- Bible/Jr/52
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 52

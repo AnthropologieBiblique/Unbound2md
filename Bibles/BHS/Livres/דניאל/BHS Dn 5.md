@@ -3,7 +3,10 @@ aliases :
 - דניאל 5
 - Daniel 5
 - Dn 5
-tags : Bible/Dn/5
+tags : 
+- Bible/Dn/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 5

@@ -4,7 +4,10 @@ aliases :
 - Tobie 12
 - Tb 12
 - Tobit 12
-tags : Bible/Tb/12
+tags : 
+- Bible/Tb/12
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 12

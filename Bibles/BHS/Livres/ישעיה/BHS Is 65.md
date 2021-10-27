@@ -4,7 +4,10 @@ aliases :
 - Isaïe 65
 - Is 65
 - Isaiah 65
-tags : Bible/Is/65
+tags : 
+- Bible/Is/65
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 65

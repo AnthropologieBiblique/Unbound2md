@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 5
 - Job 5
 - Jb 5
-tags : Bible/Jb/5
+tags : 
+- Bible/Jb/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 5

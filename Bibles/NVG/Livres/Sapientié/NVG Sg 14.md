@@ -4,7 +4,10 @@ aliases :
 - Sagesse 14
 - Sg 14
 - Wisdom of Solomon 14
-tags : Bible/Sg/14
+tags : 
+- Bible/Sg/14
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 14

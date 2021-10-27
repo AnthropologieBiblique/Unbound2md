@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 21
 - 2 Samuel 21
 - 2 S 21
-tags : Bible/2S/21
+tags : 
+- Bible/2S/21
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 21

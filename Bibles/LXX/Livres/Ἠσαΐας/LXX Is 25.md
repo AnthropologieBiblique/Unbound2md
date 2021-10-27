@@ -4,7 +4,10 @@ aliases :
 - Isaïe 25
 - Is 25
 - Isaiah 25
-tags : Bible/Is/25
+tags : 
+- Bible/Is/25
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 25

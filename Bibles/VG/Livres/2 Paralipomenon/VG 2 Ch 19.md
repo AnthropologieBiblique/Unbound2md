@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 19
 - 2 Ch 19
 - 2 Chronicles 19
-tags : Bible/2Ch/19
+tags : 
+- Bible/2Ch/19
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 19

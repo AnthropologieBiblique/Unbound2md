@@ -4,7 +4,10 @@ aliases :
 - Siracide 13
 - Si 13
 - Ecclesiasticus 13
-tags : Bible/Si/13
+tags : 
+- Bible/Si/13
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 13

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 30
 - Dt 30
 - Deuteronomy 30
-tags : Bible/Dt/30
+tags : 
+- Bible/Dt/30
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 30

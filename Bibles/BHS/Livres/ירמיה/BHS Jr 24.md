@@ -4,7 +4,10 @@ aliases :
 - Jérémie 24
 - Jr 24
 - Jeremiah 24
-tags : Bible/Jr/24
+tags : 
+- Bible/Jr/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 24

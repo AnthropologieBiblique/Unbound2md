@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 4
 - Ez 4
 - Ezekiel 4
-tags : Bible/Ez/4
+tags : 
+- Bible/Ez/4
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 4

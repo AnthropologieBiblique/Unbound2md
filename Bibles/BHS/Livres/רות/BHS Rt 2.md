@@ -3,7 +3,10 @@ aliases :
 - רות 2
 - Ruth 2
 - Rt 2
-tags : Bible/Rt/2
+tags : 
+- Bible/Rt/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # רות 2

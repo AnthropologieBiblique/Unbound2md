@@ -4,7 +4,10 @@ aliases :
 - Psaumes 64 (63)
 - Ps 64 (63)
 - Psalms 64 (63)
-tags : Bible/Ps/64_63
+tags : 
+- Bible/Ps/64_63
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 64 (63)

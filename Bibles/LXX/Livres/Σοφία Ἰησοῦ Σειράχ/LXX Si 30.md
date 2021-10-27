@@ -4,7 +4,10 @@ aliases :
 - Siracide 30
 - Si 30
 - Ecclesiasticus 30
-tags : Bible/Si/30
+tags : 
+- Bible/Si/30
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 30

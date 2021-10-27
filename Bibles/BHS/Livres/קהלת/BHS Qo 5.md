@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 5
 - Qo 5
 - Ecclesiastes 5
-tags : Bible/Qo/5
+tags : 
+- Bible/Qo/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # קהלת 5

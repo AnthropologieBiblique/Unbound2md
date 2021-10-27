@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 16
 - Ez 16
 - Ezekiel 16
-tags : Bible/Ez/16
+tags : 
+- Bible/Ez/16
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 16

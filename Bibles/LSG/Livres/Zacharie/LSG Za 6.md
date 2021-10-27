@@ -4,7 +4,10 @@ aliases :
 - Zacharie 6
 - Za 6
 - Zechariah 6
-tags : Bible/Za/6
+tags : 
+- Bible/Za/6
+- français
+cssclass : bible-français
 ---
 
 # Zacharie 6

@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 2
 - Qo 2
 - Ecclesiastes 2
-tags : Bible/Qo/2
+tags : 
+- Bible/Qo/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # קהלת 2

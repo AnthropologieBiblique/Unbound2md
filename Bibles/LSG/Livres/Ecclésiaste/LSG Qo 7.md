@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 7
 - Qo 7
 - Ecclesiastes 7
-tags : Bible/Qo/7
+tags : 
+- Bible/Qo/7
+- français
+cssclass : bible-français
 ---
 
 # Ecclésiaste 7

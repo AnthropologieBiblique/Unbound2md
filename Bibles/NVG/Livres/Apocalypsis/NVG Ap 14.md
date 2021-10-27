@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 14
 - Ap 14
 - Revelation 14
-tags : Bible/Ap/14
+tags : 
+- Bible/Ap/14
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 14

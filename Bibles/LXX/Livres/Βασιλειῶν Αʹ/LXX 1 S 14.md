@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 14
 - 1 Samuel 14
 - 1 S 14
-tags : Bible/1S/14
+tags : 
+- Bible/1S/14
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 14

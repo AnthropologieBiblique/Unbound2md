@@ -3,7 +3,10 @@ aliases :
 - Judith 1
 - Judith 1
 - Jdt 1
-tags : Bible/Jdt/1
+tags : 
+- Bible/Jdt/1
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 1

@@ -4,7 +4,10 @@ aliases :
 - Actes 3
 - Ac 3
 - Acts of the Apostles 3
-tags : Bible/Ac/3
+tags : 
+- Bible/Ac/3
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 3

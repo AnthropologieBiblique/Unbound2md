@@ -4,7 +4,10 @@ aliases :
 - Psaumes 18 (17)
 - Ps 18 (17)
 - Psalms 18 (17)
-tags : Bible/Ps/18_17
+tags : 
+- Bible/Ps/18_17
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 17 (18)

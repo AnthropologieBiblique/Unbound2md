@@ -4,7 +4,10 @@ aliases :
 - Psaumes 80 (79)
 - Ps 80 (79)
 - Psalms 80 (79)
-tags : Bible/Ps/80_79
+tags : 
+- Bible/Ps/80_79
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 79 (80)

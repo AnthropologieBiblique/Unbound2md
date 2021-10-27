@@ -4,7 +4,10 @@ aliases :
 - Jérémie 4
 - Jr 4
 - Jeremiah 4
-tags : Bible/Jr/4
+tags : 
+- Bible/Jr/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 4

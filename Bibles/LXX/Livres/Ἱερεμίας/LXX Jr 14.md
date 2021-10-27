@@ -4,7 +4,10 @@ aliases :
 - Jérémie 14
 - Jr 14
 - Jeremiah 14
-tags : Bible/Jr/14
+tags : 
+- Bible/Jr/14
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 14

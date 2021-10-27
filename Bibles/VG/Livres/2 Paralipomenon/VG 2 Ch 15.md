@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 15
 - 2 Ch 15
 - 2 Chronicles 15
-tags : Bible/2Ch/15
+tags : 
+- Bible/2Ch/15
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 15

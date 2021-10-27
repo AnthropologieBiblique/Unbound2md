@@ -4,7 +4,10 @@ aliases :
 - Genèse
 - Gn
 - Genesis
-tags : Bible/Gn
+tags : 
+- Bible/Gn
+- français
+cssclass : bible-français
 ---
 
 # Genèse

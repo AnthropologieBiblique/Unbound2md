@@ -4,7 +4,10 @@ aliases :
 - Néhémie 6
 - Ne 6
 - Nehemiah 6
-tags : Bible/Ne/6
+tags : 
+- Bible/Ne/6
+- français
+cssclass : bible-français
 ---
 
 # Néhémie 6

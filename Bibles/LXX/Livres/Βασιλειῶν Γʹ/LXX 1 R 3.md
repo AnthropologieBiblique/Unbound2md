@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 3
 - 1 R 3
 - 1 Kings 3
-tags : Bible/1R/3
+tags : 
+- Bible/1R/3
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ 3

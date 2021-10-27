@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 11
 - 2 Samuel 11
 - 2 S 11
-tags : Bible/2S/11
+tags : 
+- Bible/2S/11
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 11

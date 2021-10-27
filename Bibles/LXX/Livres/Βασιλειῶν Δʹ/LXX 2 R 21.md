@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 21
 - 2 R 21
 - 2 Kings 21
-tags : Bible/2R/21
+tags : 
+- Bible/2R/21
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Δʹ 21

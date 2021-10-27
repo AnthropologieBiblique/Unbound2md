@@ -4,7 +4,10 @@ aliases :
 - Matthieu 28
 - Mt 28
 - Matthew 28
-tags : Bible/Mt/28
+tags : 
+- Bible/Mt/28
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 28

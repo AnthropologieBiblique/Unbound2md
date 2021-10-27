@@ -3,7 +3,10 @@ aliases :
 - Ἀμώς Βʹ 7
 - Amos 7
 - Am 7
-tags : Bible/Am/7
+tags : 
+- Bible/Am/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμώς Βʹ 7

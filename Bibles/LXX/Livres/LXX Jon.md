@@ -4,7 +4,10 @@ aliases :
 - Jonas
 - Jon
 - Jonah
-tags : Bible/Jon
+tags : 
+- Bible/Jon
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰωνᾶς Ϛ'

@@ -4,7 +4,10 @@ aliases :
 - Siracide 27
 - Si 27
 - Ecclesiasticus 27
-tags : Bible/Si/27
+tags : 
+- Bible/Si/27
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 27

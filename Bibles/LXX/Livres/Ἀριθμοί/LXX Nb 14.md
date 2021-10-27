@@ -4,7 +4,10 @@ aliases :
 - Nombres 14
 - Nb 14
 - Numbers 14
-tags : Bible/Nb/14
+tags : 
+- Bible/Nb/14
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 14

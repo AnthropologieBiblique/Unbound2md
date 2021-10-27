@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 3
 - Ep 3
 - Ephesians 3
-tags : Bible/Ep/3
+tags : 
+- Bible/Ep/3
+- latin
+cssclass : bible-latin
 ---
 
 # ad Ephesios 3

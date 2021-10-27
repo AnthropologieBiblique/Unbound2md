@@ -4,7 +4,10 @@ aliases :
 - Jérémie 15
 - Jr 15
 - Jeremiah 15
-tags : Bible/Jr/15
+tags : 
+- Bible/Jr/15
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 15

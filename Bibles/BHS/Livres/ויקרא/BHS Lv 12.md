@@ -4,7 +4,10 @@ aliases :
 - Lévitique 12
 - Lv 12
 - Leviticus 12
-tags : Bible/Lv/12
+tags : 
+- Bible/Lv/12
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ויקרא 12

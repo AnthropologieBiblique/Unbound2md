@@ -4,7 +4,10 @@ aliases :
 - Psaumes 41 (40)
 - Ps 41 (40)
 - Psalms 41 (40)
-tags : Bible/Ps/41_40
+tags : 
+- Bible/Ps/41_40
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 41 (40)

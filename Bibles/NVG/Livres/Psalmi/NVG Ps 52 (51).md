@@ -4,7 +4,10 @@ aliases :
 - Psaumes 52 (51)
 - Ps 52 (51)
 - Psalms 52 (51)
-tags : Bible/Ps/52_51
+tags : 
+- Bible/Ps/52_51
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 52 (51)

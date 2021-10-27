@@ -4,7 +4,10 @@ aliases :
 - Genèse 45
 - Gn 45
 - Genesis 45
-tags : Bible/Gn/45
+tags : 
+- Bible/Gn/45
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 45

@@ -4,7 +4,10 @@ aliases :
 - Osée 7
 - Os 7
 - Hosea 7
-tags : Bible/Os/7
+tags : 
+- Bible/Os/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ὡσηέ Αʹ 7

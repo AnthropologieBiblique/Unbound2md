@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 39
 - Job 39
 - Jb 39
-tags : Bible/Jb/39
+tags : 
+- Bible/Jb/39
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 39

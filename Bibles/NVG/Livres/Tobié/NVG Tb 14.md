@@ -4,7 +4,10 @@ aliases :
 - Tobie 14
 - Tb 14
 - Tobit 14
-tags : Bible/Tb/14
+tags : 
+- Bible/Tb/14
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 14

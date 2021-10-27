@@ -4,7 +4,10 @@ aliases :
 - Jean 13
 - Jn 13
 - John 13
-tags : Bible/Jn/13
+tags : 
+- Bible/Jn/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 13

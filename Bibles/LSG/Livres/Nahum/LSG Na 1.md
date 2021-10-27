@@ -3,7 +3,10 @@ aliases :
 - Nahum 1
 - Nahum 1
 - Na 1
-tags : Bible/Na/1
+tags : 
+- Bible/Na/1
+- français
+cssclass : bible-français
 ---
 
 # Nahum 1

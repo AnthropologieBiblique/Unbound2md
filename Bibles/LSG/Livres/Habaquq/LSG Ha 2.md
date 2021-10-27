@@ -4,7 +4,10 @@ aliases :
 - Habaquq 2
 - Ha 2
 - Habakkuk 2
-tags : Bible/Ha/2
+tags : 
+- Bible/Ha/2
+- français
+cssclass : bible-français
 ---
 
 # Habaquq 2

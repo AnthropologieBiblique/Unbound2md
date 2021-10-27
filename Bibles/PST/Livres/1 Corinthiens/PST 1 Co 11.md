@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 11
 - 1 Co 11
 - 1 Corinthians 11
-tags : Bible/1Co/11
+tags : 
+- Bible/1Co/11
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 11

@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 14
 - Judith 14
 - Jdt 14
-tags : Bible/Jdt/14
+tags : 
+- Bible/Jdt/14
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 14

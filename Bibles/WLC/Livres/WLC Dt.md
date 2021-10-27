@@ -4,7 +4,10 @@ aliases :
 - Deutéronome
 - Dt
 - Deuteronomy
-tags : Bible/Dt
+tags : 
+- Bible/Dt
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים

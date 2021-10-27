@@ -4,7 +4,10 @@ aliases :
 - Genèse 8
 - Gn 8
 - Genesis 8
-tags : Bible/Gn/8
+tags : 
+- Bible/Gn/8
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 8

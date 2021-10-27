@@ -4,7 +4,10 @@ aliases :
 - Siracide 18
 - Si 18
 - Ecclesiasticus 18
-tags : Bible/Si/18
+tags : 
+- Bible/Si/18
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 18

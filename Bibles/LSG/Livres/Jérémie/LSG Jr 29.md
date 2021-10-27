@@ -4,7 +4,10 @@ aliases :
 - Jérémie 29
 - Jr 29
 - Jeremiah 29
-tags : Bible/Jr/29
+tags : 
+- Bible/Jr/29
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 29

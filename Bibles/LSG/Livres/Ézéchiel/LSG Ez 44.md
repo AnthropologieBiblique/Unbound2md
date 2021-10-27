@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 44
 - Ez 44
 - Ezekiel 44
-tags : Bible/Ez/44
+tags : 
+- Bible/Ez/44
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 44

@@ -3,7 +3,10 @@ aliases :
 - Amos 1
 - Amos 1
 - Am 1
-tags : Bible/Am/1
+tags : 
+- Bible/Am/1
+- latin
+cssclass : bible-latin
 ---
 
 # Amos 1

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 2
 - Jr 2
 - Jeremiah 2
-tags : Bible/Jr/2
+tags : 
+- Bible/Jr/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 2

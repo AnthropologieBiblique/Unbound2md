@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 4
 - 1 Samuel 4
 - 1 S 4
-tags : Bible/1S/4
+tags : 
+- Bible/1S/4
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 4

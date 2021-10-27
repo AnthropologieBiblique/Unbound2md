@@ -3,7 +3,10 @@ aliases :
 - איוב 5
 - Job 5
 - Jb 5
-tags : Bible/Jb/5
+tags : 
+- Bible/Jb/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 5

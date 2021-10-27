@@ -4,7 +4,10 @@ aliases :
 - Luc 13
 - Lc 13
 - Luke 13
-tags : Bible/Lc/13
+tags : 
+- Bible/Lc/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 13

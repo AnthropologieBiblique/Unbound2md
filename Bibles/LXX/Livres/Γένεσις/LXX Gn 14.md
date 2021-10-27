@@ -4,7 +4,10 @@ aliases :
 - Genèse 14
 - Gn 14
 - Genesis 14
-tags : Bible/Gn/14
+tags : 
+- Bible/Gn/14
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 14

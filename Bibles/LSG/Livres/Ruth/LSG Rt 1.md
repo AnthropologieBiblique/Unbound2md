@@ -3,7 +3,10 @@ aliases :
 - Ruth 1
 - Ruth 1
 - Rt 1
-tags : Bible/Rt/1
+tags : 
+- Bible/Rt/1
+- français
+cssclass : bible-français
 ---
 
 # Ruth 1

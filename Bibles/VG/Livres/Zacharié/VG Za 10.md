@@ -4,7 +4,10 @@ aliases :
 - Zacharie 10
 - Za 10
 - Zechariah 10
-tags : Bible/Za/10
+tags : 
+- Bible/Za/10
+- latin
+cssclass : bible-latin
 ---
 
 # Zacharié 10

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 33
 - Is 33
 - Isaiah 33
-tags : Bible/Is/33
+tags : 
+- Bible/Is/33
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 33

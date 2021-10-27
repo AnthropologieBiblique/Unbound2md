@@ -3,7 +3,10 @@ aliases :
 - רות 4
 - Ruth 4
 - Rt 4
-tags : Bible/Rt/4
+tags : 
+- Bible/Rt/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # רות 4

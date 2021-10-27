@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 3
 - 2 Samuel 3
 - 2 S 3
-tags : Bible/2S/3
+tags : 
+- Bible/2S/3
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 3

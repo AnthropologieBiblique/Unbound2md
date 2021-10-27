@@ -3,7 +3,10 @@ aliases :
 - Daniel 3
 - Daniel 3
 - Dn 3
-tags : Bible/Dn/3
+tags : 
+- Bible/Dn/3
+- français
+cssclass : bible-français
 ---
 
 # Daniel 3

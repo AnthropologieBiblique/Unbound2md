@@ -4,7 +4,10 @@ aliases :
 - Lévitique 14
 - Lv 14
 - Leviticus 14
-tags : Bible/Lv/14
+tags : 
+- Bible/Lv/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ויקרא 14

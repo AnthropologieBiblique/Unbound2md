@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 1
 - Ct 1
 - Song of Solomon 1
-tags : Bible/Ct/1
+tags : 
+- Bible/Ct/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שיר השירים 1

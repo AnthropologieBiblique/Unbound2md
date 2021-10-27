@@ -4,7 +4,10 @@ aliases :
 - Jean 21
 - Jn 21
 - John 21
-tags : Bible/Jn/21
+tags : 
+- Bible/Jn/21
+- français
+cssclass : bible-français
 ---
 
 # Jean 21

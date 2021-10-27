@@ -4,7 +4,10 @@ aliases :
 - Genèse 17
 - Gn 17
 - Genesis 17
-tags : Bible/Gn/17
+tags : 
+- Bible/Gn/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 17

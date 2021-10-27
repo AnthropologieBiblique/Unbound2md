@@ -4,7 +4,10 @@ aliases :
 - Sagesse 13
 - Sg 13
 - Wisdom of Solomon 13
-tags : Bible/Sg/13
+tags : 
+- Bible/Sg/13
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 13

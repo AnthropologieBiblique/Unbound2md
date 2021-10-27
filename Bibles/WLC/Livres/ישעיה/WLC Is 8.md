@@ -4,7 +4,10 @@ aliases :
 - Isaïe 8
 - Is 8
 - Isaiah 8
-tags : Bible/Is/8
+tags : 
+- Bible/Is/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 8

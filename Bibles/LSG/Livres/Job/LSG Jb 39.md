@@ -3,7 +3,10 @@ aliases :
 - Job 39
 - Job 39
 - Jb 39
-tags : Bible/Jb/39
+tags : 
+- Bible/Jb/39
+- français
+cssclass : bible-français
 ---
 
 # Job 39

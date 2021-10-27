@@ -4,7 +4,10 @@ aliases :
 - Psaumes 39 (38)
 - Ps 39 (38)
 - Psalms 39 (38)
-tags : Bible/Ps/39_38
+tags : 
+- Bible/Ps/39_38
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 39 (38)

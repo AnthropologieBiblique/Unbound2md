@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 40
 - Job 40
 - Jb 40
-tags : Bible/Jb/40
+tags : 
+- Bible/Jb/40
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 40

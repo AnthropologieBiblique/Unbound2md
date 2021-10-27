@@ -4,7 +4,10 @@ aliases :
 - Luc 17
 - Lc 17
 - Luke 17
-tags : Bible/Lc/17
+tags : 
+- Bible/Lc/17
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 17

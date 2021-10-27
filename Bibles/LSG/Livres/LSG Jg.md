@@ -4,7 +4,10 @@ aliases :
 - Juges
 - Jg
 - Judges
-tags : Bible/Jg
+tags : 
+- Bible/Jg
+- français
+cssclass : bible-français
 ---
 
 # Juges

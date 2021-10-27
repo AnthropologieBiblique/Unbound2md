@@ -4,7 +4,10 @@ aliases :
 - Aggée 2
 - Ag 2
 - Haggai 2
-tags : Bible/Ag/2
+tags : 
+- Bible/Ag/2
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀγγαῖος Ιʹ 2

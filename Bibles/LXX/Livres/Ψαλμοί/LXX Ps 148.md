@@ -4,7 +4,10 @@ aliases :
 - Psaumes 148
 - Ps 148
 - Psalms 148
-tags : Bible/Ps/148
+tags : 
+- Bible/Ps/148
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 148

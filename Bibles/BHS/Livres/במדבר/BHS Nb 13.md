@@ -4,7 +4,10 @@ aliases :
 - Nombres 13
 - Nb 13
 - Numbers 13
-tags : Bible/Nb/13
+tags : 
+- Bible/Nb/13
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 13

@@ -3,7 +3,10 @@ aliases :
 - Danielis 8
 - Daniel 8
 - Dn 8
-tags : Bible/Dn/8
+tags : 
+- Bible/Dn/8
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 8

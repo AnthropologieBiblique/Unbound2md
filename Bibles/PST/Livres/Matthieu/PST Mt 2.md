@@ -4,7 +4,10 @@ aliases :
 - Matthieu 2
 - Mt 2
 - Matthew 2
-tags : Bible/Mt/2
+tags : 
+- Bible/Mt/2
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 2

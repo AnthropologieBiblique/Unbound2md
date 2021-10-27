@@ -4,7 +4,10 @@ aliases :
 - Isaïe 39
 - Is 39
 - Isaiah 39
-tags : Bible/Is/39
+tags : 
+- Bible/Is/39
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 39

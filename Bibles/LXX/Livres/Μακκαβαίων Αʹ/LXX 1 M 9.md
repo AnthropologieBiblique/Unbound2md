@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 9
 - 1 Maccabees 9
 - 1 M 9
-tags : Bible/1M/9
+tags : 
+- Bible/1M/9
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 9

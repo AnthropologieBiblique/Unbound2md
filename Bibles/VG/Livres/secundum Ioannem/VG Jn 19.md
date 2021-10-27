@@ -4,7 +4,10 @@ aliases :
 - Jean 19
 - Jn 19
 - John 19
-tags : Bible/Jn/19
+tags : 
+- Bible/Jn/19
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 19

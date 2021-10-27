@@ -3,7 +3,10 @@ aliases :
 - איוב 17
 - Job 17
 - Jb 17
-tags : Bible/Jb/17
+tags : 
+- Bible/Jb/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 17

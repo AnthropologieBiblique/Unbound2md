@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 22
 - Ez 22
 - Ezekiel 22
-tags : Bible/Ez/22
+tags : 
+- Bible/Ez/22
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 22

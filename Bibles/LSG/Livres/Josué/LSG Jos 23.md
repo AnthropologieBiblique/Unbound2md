@@ -4,7 +4,10 @@ aliases :
 - Josué 23
 - Jos 23
 - Joshua 23
-tags : Bible/Jos/23
+tags : 
+- Bible/Jos/23
+- français
+cssclass : bible-français
 ---
 
 # Josué 23

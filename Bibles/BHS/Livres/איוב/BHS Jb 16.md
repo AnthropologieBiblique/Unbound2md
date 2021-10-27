@@ -3,7 +3,10 @@ aliases :
 - איוב 16
 - Job 16
 - Jb 16
-tags : Bible/Jb/16
+tags : 
+- Bible/Jb/16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 16

@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 25
 - Ez 25
 - Ezekiel 25
-tags : Bible/Ez/25
+tags : 
+- Bible/Ez/25
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 25

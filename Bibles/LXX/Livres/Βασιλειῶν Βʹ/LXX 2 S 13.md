@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 13
 - 2 Samuel 13
 - 2 S 13
-tags : Bible/2S/13
+tags : 
+- Bible/2S/13
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 13

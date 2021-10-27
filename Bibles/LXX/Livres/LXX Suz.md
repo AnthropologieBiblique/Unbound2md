@@ -4,7 +4,10 @@ aliases :
 - Suzanne
 - Suz
 - Susanna
-tags : Bible/Suz
+tags : 
+- Bible/Suz
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ

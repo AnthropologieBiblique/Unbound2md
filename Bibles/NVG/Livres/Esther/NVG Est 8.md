@@ -3,7 +3,10 @@ aliases :
 - Esther 8
 - Esther 8
 - Est 8
-tags : Bible/Est/8
+tags : 
+- Bible/Est/8
+- latin
+cssclass : bible-latin
 ---
 
 # Esther 8

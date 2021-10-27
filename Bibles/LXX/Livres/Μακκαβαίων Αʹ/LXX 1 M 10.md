@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 10
 - 1 Maccabees 10
 - 1 M 10
-tags : Bible/1M/10
+tags : 
+- Bible/1M/10
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 10

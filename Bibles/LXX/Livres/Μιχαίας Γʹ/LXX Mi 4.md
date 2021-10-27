@@ -4,7 +4,10 @@ aliases :
 - Michée 4
 - Mi 4
 - Micah 4
-tags : Bible/Mi/4
+tags : 
+- Bible/Mi/4
+- grec
+cssclass : bible-grec
 ---
 
 # Μιχαίας Γʹ 4

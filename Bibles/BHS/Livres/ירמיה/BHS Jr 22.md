@@ -4,7 +4,10 @@ aliases :
 - Jérémie 22
 - Jr 22
 - Jeremiah 22
-tags : Bible/Jr/22
+tags : 
+- Bible/Jr/22
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 22

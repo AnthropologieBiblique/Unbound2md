@@ -4,7 +4,10 @@ aliases :
 - Proverbes
 - Pr
 - Proverbs
-tags : Bible/Pr
+tags : 
+- Bible/Pr
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי

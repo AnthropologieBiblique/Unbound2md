@@ -4,7 +4,10 @@ aliases :
 - Jacques 1
 - Jc 1
 - James 1
-tags : Bible/Jc/1
+tags : 
+- Bible/Jc/1
+- français
+cssclass : bible-français
 ---
 
 # Jacques 1

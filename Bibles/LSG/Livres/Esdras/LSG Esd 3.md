@@ -4,7 +4,10 @@ aliases :
 - Esdras 3
 - Esd 3
 - Ezra 3
-tags : Bible/Esd/3
+tags : 
+- Bible/Esd/3
+- français
+cssclass : bible-français
 ---
 
 # Esdras 3

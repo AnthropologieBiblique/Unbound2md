@@ -4,7 +4,10 @@ aliases :
 - Siracide 35
 - Si 35
 - Ecclesiasticus 35
-tags : Bible/Si/35
+tags : 
+- Bible/Si/35
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 35

@@ -4,7 +4,10 @@ aliases :
 - Sagesse 17
 - Sg 17
 - Wisdom of Solomon 17
-tags : Bible/Sg/17
+tags : 
+- Bible/Sg/17
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 17

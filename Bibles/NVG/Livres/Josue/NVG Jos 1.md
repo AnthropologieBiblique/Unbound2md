@@ -4,7 +4,10 @@ aliases :
 - Josué 1
 - Jos 1
 - Joshua 1
-tags : Bible/Jos/1
+tags : 
+- Bible/Jos/1
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 1

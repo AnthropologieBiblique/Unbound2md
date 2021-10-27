@@ -4,7 +4,10 @@ aliases :
 - Matthieu 25
 - Mt 25
 - Matthew 25
-tags : Bible/Mt/25
+tags : 
+- Bible/Mt/25
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 25

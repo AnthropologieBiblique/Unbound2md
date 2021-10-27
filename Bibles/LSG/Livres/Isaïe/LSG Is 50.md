@@ -4,7 +4,10 @@ aliases :
 - Isaïe 50
 - Is 50
 - Isaiah 50
-tags : Bible/Is/50
+tags : 
+- Bible/Is/50
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 50

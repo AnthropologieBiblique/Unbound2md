@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 13
 - 2 Co 13
 - 2 Corinthians 13
-tags : Bible/2Co/13
+tags : 
+- Bible/2Co/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Corinthiens 13

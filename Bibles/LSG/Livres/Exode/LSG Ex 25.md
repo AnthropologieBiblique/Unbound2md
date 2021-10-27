@@ -4,7 +4,10 @@ aliases :
 - Exode 25
 - Ex 25
 - Exodus 25
-tags : Bible/Ex/25
+tags : 
+- Bible/Ex/25
+- français
+cssclass : bible-français
 ---
 
 # Exode 25

@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 13
 - Ap 13
 - Revelation 13
-tags : Bible/Ap/13
+tags : 
+- Bible/Ap/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 13

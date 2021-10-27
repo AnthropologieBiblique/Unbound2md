@@ -4,7 +4,10 @@ aliases :
 - Sagesse 9
 - Sg 9
 - Wisdom of Solomon 9
-tags : Bible/Sg/9
+tags : 
+- Bible/Sg/9
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 9

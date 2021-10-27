@@ -4,7 +4,10 @@ aliases :
 - Juges 9
 - Jg 9
 - Judges 9
-tags : Bible/Jg/9
+tags : 
+- Bible/Jg/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שופטים 9

@@ -4,7 +4,10 @@ aliases :
 - Siracide 30
 - Si 30
 - Ecclesiasticus 30
-tags : Bible/Si/30
+tags : 
+- Bible/Si/30
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 30

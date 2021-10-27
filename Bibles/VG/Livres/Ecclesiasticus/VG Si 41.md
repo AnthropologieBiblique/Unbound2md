@@ -4,7 +4,10 @@ aliases :
 - Siracide 41
 - Si 41
 - Ecclesiasticus 41
-tags : Bible/Si/41
+tags : 
+- Bible/Si/41
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 41

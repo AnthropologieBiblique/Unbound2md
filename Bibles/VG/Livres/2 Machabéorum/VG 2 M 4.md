@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 4
 - 2 Maccabees 4
 - 2 M 4
-tags : Bible/2M/4
+tags : 
+- Bible/2M/4
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 4

@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 38
 - Ez 38
 - Ezekiel 38
-tags : Bible/Ez/38
+tags : 
+- Bible/Ez/38
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 38

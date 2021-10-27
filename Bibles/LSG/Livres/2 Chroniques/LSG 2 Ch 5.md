@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 5
 - 2 Ch 5
 - 2 Chronicles 5
-tags : Bible/2Ch/5
+tags : 
+- Bible/2Ch/5
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 5

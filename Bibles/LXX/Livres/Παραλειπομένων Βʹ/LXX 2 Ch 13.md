@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 13
 - 2 Ch 13
 - 2 Chronicles 13
-tags : Bible/2Ch/13
+tags : 
+- Bible/2Ch/13
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 13

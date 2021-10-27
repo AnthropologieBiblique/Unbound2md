@@ -4,7 +4,10 @@ aliases :
 - Tobie 3
 - Tb 3
 - Tobit 3
-tags : Bible/Tb/3
+tags : 
+- Bible/Tb/3
+- grec
+cssclass : bible-grec
 ---
 
 # Τωβίτ 3

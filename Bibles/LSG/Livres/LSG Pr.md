@@ -4,7 +4,10 @@ aliases :
 - Proverbes
 - Pr
 - Proverbs
-tags : Bible/Pr
+tags : 
+- Bible/Pr
+- français
+cssclass : bible-français
 ---
 
 # Proverbes

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 28
 - Jr 28
 - Jeremiah 28
-tags : Bible/Jr/28
+tags : 
+- Bible/Jr/28
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 28

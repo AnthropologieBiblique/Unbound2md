@@ -4,7 +4,10 @@ aliases :
 - Luc 11
 - Lc 11
 - Luke 11
-tags : Bible/Lc/11
+tags : 
+- Bible/Lc/11
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 11

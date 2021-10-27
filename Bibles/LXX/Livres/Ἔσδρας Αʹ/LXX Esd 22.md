@@ -4,7 +4,10 @@ aliases :
 - Esdras 12
 - Esd 12
 - Ezra 12
-tags : Bible/Esd/12
+tags : 
+- Bible/Esd/12
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 22

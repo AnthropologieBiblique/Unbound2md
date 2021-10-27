@@ -4,7 +4,10 @@ aliases :
 - Jérémie 34
 - Jr 34
 - Jeremiah 34
-tags : Bible/Jr/34
+tags : 
+- Bible/Jr/34
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 41

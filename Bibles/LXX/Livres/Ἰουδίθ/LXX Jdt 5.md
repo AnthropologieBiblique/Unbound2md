@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 5
 - Judith 5
 - Jdt 5
-tags : Bible/Jdt/5
+tags : 
+- Bible/Jdt/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 5

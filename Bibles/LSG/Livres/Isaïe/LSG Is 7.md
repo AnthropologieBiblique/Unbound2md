@@ -4,7 +4,10 @@ aliases :
 - Isaïe 7
 - Is 7
 - Isaiah 7
-tags : Bible/Is/7
+tags : 
+- Bible/Is/7
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 7

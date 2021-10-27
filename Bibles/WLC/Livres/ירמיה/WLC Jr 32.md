@@ -4,7 +4,10 @@ aliases :
 - Jérémie 32
 - Jr 32
 - Jeremiah 32
-tags : Bible/Jr/32
+tags : 
+- Bible/Jr/32
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 32

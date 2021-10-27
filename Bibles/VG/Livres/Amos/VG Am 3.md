@@ -3,7 +3,10 @@ aliases :
 - Amos 3
 - Amos 3
 - Am 3
-tags : Bible/Am/3
+tags : 
+- Bible/Am/3
+- latin
+cssclass : bible-latin
 ---
 
 # Amos 3

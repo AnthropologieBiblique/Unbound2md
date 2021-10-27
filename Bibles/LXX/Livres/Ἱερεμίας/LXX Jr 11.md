@@ -4,7 +4,10 @@ aliases :
 - Jérémie 11
 - Jr 11
 - Jeremiah 11
-tags : Bible/Jr/11
+tags : 
+- Bible/Jr/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 11

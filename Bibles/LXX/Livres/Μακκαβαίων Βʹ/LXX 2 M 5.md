@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Βʹ 5
 - 2 Maccabees 5
 - 2 M 5
-tags : Bible/2M/5
+tags : 
+- Bible/2M/5
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Βʹ 5

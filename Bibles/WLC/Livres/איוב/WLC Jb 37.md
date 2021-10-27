@@ -3,7 +3,10 @@ aliases :
 - איוב 37
 - Job 37
 - Jb 37
-tags : Bible/Jb/37
+tags : 
+- Bible/Jb/37
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 37

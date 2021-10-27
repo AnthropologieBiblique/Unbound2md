@@ -4,7 +4,10 @@ aliases :
 - Proverbes 13
 - Pr 13
 - Proverbs 13
-tags : Bible/Pr/13
+tags : 
+- Bible/Pr/13
+- français
+cssclass : bible-français
 ---
 
 # Proverbes 13

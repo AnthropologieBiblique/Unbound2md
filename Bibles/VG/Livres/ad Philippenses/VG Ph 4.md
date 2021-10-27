@@ -4,7 +4,10 @@ aliases :
 - Philippiens 4
 - Ph 4
 - Philippians 4
-tags : Bible/Ph/4
+tags : 
+- Bible/Ph/4
+- latin
+cssclass : bible-latin
 ---
 
 # ad Philippenses 4

@@ -4,7 +4,10 @@ aliases :
 - Colossiens 2
 - Col 2
 - Colossians 2
-tags : Bible/Col/2
+tags : 
+- Bible/Col/2
+- latin
+cssclass : bible-latin
 ---
 
 # ad Colossenses 2

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 40
 - Jr 40
 - Jeremiah 40
-tags : Bible/Jr/40
+tags : 
+- Bible/Jr/40
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 47

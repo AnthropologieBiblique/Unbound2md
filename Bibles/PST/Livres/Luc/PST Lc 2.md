@@ -4,7 +4,10 @@ aliases :
 - Luc 2
 - Lc 2
 - Luke 2
-tags : Bible/Lc/2
+tags : 
+- Bible/Lc/2
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 2

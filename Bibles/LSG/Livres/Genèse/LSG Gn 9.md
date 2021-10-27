@@ -4,7 +4,10 @@ aliases :
 - Genèse 9
 - Gn 9
 - Genesis 9
-tags : Bible/Gn/9
+tags : 
+- Bible/Gn/9
+- français
+cssclass : bible-français
 ---
 
 # Genèse 9

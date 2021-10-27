@@ -4,7 +4,10 @@ aliases :
 - Isaïe 37
 - Is 37
 - Isaiah 37
-tags : Bible/Is/37
+tags : 
+- Bible/Is/37
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 37

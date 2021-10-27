@@ -4,7 +4,10 @@ aliases :
 - Malachie 2
 - Ml 2
 - Malachi 2
-tags : Bible/Ml/2
+tags : 
+- Bible/Ml/2
+- grec
+cssclass : bible-grec
 ---
 
 # Μαλαχίας ΙΒʹ 2

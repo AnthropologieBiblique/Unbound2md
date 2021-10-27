@@ -4,7 +4,10 @@ aliases :
 - Genèse 36
 - Gn 36
 - Genesis 36
-tags : Bible/Gn/36
+tags : 
+- Bible/Gn/36
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 36

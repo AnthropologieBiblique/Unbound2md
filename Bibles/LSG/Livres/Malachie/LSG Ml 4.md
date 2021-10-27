@@ -4,7 +4,10 @@ aliases :
 - Malachie 4
 - Ml 4
 - Malachi 4
-tags : Bible/Ml/4
+tags : 
+- Bible/Ml/4
+- français
+cssclass : bible-français
 ---
 
 # Malachie 4

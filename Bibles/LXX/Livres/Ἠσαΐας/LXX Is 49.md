@@ -4,7 +4,10 @@ aliases :
 - Isaïe 49
 - Is 49
 - Isaiah 49
-tags : Bible/Is/49
+tags : 
+- Bible/Is/49
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 49

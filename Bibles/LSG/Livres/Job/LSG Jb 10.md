@@ -3,7 +3,10 @@ aliases :
 - Job 10
 - Job 10
 - Jb 10
-tags : Bible/Jb/10
+tags : 
+- Bible/Jb/10
+- français
+cssclass : bible-français
 ---
 
 # Job 10

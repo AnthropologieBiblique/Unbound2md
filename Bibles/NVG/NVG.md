@@ -1,3 +1,7 @@
+---
+tags : Bible, latin
+cssclass : bible-latin
+---
 # Nova Vulgata
 
 [[NVG Mentions légales]]

@@ -4,7 +4,10 @@ aliases :
 - Proverbes 4
 - Pr 4
 - Proverbs 4
-tags : Bible/Pr/4
+tags : 
+- Bible/Pr/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 4

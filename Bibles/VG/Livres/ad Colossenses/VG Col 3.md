@@ -4,7 +4,10 @@ aliases :
 - Colossiens 3
 - Col 3
 - Colossians 3
-tags : Bible/Col/3
+tags : 
+- Bible/Col/3
+- latin
+cssclass : bible-latin
 ---
 
 # ad Colossenses 3

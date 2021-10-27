@@ -4,7 +4,10 @@ aliases :
 - Jérémie 10
 - Jr 10
 - Jeremiah 10
-tags : Bible/Jr/10
+tags : 
+- Bible/Jr/10
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 10

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 65 (64)
 - Ps 65 (64)
 - Psalms 65 (64)
-tags : Bible/Ps/65_64
+tags : 
+- Bible/Ps/65_64
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 65 (64)

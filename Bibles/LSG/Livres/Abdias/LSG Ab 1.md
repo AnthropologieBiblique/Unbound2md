@@ -4,7 +4,10 @@ aliases :
 - Abdias 1
 - Ab 1
 - Obadiah 1
-tags : Bible/Ab/1
+tags : 
+- Bible/Ab/1
+- français
+cssclass : bible-français
 ---
 
 # Abdias 1

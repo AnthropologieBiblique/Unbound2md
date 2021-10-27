@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 9
 - 2 Maccabees 9
 - 2 M 9
-tags : Bible/2M/9
+tags : 
+- Bible/2M/9
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 9

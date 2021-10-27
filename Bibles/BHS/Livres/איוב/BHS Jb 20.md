@@ -3,7 +3,10 @@ aliases :
 - איוב 20
 - Job 20
 - Jb 20
-tags : Bible/Jb/20
+tags : 
+- Bible/Jb/20
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 20

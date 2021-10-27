@@ -4,7 +4,10 @@ aliases :
 - Tobie 8
 - Tb 8
 - Tobit 8
-tags : Bible/Tb/8
+tags : 
+- Bible/Tb/8
+- grec
+cssclass : bible-grec
 ---
 
 # Τωβίτ 8

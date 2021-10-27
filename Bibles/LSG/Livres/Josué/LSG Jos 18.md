@@ -4,7 +4,10 @@ aliases :
 - Josué 18
 - Jos 18
 - Joshua 18
-tags : Bible/Jos/18
+tags : 
+- Bible/Jos/18
+- français
+cssclass : bible-français
 ---
 
 # Josué 18

@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 11
 - 2 Samuel 11
 - 2 S 11
-tags : Bible/2S/11
+tags : 
+- Bible/2S/11
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 11

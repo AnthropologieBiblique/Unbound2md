@@ -3,7 +3,10 @@ aliases :
 - Βαρούχ 3
 - Baruch 3
 - Ba 3
-tags : Bible/Ba/3
+tags : 
+- Bible/Ba/3
+- grec
+cssclass : bible-grec
 ---
 
 # Βαρούχ 3

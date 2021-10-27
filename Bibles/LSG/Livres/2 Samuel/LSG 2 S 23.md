@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 23
 - 2 Samuel 23
 - 2 S 23
-tags : Bible/2S/23
+tags : 
+- Bible/2S/23
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 23

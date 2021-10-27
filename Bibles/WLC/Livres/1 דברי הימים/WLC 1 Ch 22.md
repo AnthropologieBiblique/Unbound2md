@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 22
 - 1 Ch 22
 - 1 Chronicles 22
-tags : Bible/1Ch/22
+tags : 
+- Bible/1Ch/22
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 22

@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 28
 - Job 28
 - Jb 28
-tags : Bible/Jb/28
+tags : 
+- Bible/Jb/28
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 28

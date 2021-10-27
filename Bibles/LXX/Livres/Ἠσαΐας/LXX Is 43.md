@@ -4,7 +4,10 @@ aliases :
 - Isaïe 43
 - Is 43
 - Isaiah 43
-tags : Bible/Is/43
+tags : 
+- Bible/Is/43
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 43

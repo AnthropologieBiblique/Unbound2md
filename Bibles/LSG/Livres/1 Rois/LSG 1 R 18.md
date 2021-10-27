@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 18
 - 1 R 18
 - 1 Kings 18
-tags : Bible/1R/18
+tags : 
+- Bible/1R/18
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 18

@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Βʹ 7
 - 2 Maccabees 7
 - 2 M 7
-tags : Bible/2M/7
+tags : 
+- Bible/2M/7
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Βʹ 7

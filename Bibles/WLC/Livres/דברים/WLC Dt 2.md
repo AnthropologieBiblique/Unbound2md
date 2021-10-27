@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 2
 - Dt 2
 - Deuteronomy 2
-tags : Bible/Dt/2
+tags : 
+- Bible/Dt/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 2

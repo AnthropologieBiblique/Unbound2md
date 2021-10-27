@@ -4,7 +4,10 @@ aliases :
 - Juges 21
 - Jg 21
 - Judges 21
-tags : Bible/Jg/21
+tags : 
+- Bible/Jg/21
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 21

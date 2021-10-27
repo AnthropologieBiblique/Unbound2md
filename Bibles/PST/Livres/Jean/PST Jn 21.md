@@ -4,7 +4,10 @@ aliases :
 - Jean 21
 - Jn 21
 - John 21
-tags : Bible/Jn/21
+tags : 
+- Bible/Jn/21
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 21

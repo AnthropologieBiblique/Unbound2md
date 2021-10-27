@@ -4,7 +4,10 @@ aliases :
 - Genèse 11
 - Gn 11
 - Genesis 11
-tags : Bible/Gn/11
+tags : 
+- Bible/Gn/11
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 11

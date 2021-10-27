@@ -4,7 +4,10 @@ aliases :
 - Isaïe 13
 - Is 13
 - Isaiah 13
-tags : Bible/Is/13
+tags : 
+- Bible/Is/13
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 13

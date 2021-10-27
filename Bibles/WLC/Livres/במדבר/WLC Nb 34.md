@@ -4,7 +4,10 @@ aliases :
 - Nombres 34
 - Nb 34
 - Numbers 34
-tags : Bible/Nb/34
+tags : 
+- Bible/Nb/34
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 34

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 3
 - 2 Ch 3
 - 2 Chronicles 3
-tags : Bible/2Ch/3
+tags : 
+- Bible/2Ch/3
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 3

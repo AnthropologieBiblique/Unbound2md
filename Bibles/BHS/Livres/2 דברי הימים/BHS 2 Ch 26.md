@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 26
 - 2 Ch 26
 - 2 Chronicles 26
-tags : Bible/2Ch/26
+tags : 
+- Bible/2Ch/26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 26

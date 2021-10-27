@@ -4,7 +4,10 @@ aliases :
 - Néhémie 3
 - Ne 3
 - Nehemiah 3
-tags : Bible/Ne/3
+tags : 
+- Bible/Ne/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ונחמיה 3

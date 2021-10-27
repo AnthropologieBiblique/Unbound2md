@@ -4,7 +4,10 @@ aliases :
 - Siracide 14
 - Si 14
 - Ecclesiasticus 14
-tags : Bible/Si/14
+tags : 
+- Bible/Si/14
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 14

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 25
 - 2 Ch 25
 - 2 Chronicles 25
-tags : Bible/2Ch/25
+tags : 
+- Bible/2Ch/25
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 25

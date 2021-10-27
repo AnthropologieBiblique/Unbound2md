@@ -3,7 +3,10 @@ aliases :
 - Daniel 6
 - Daniel 6
 - Dn 6
-tags : Bible/Dn/6
+tags : 
+- Bible/Dn/6
+- français
+cssclass : bible-français
 ---
 
 # Daniel 6

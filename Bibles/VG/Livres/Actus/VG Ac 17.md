@@ -4,7 +4,10 @@ aliases :
 - Actes 17
 - Ac 17
 - Acts of the Apostles 17
-tags : Bible/Ac/17
+tags : 
+- Bible/Ac/17
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 17

@@ -4,7 +4,10 @@ aliases :
 - Suzanne 1
 - Suz 1
 - Susanna 1
-tags : Bible/Suz/1
+tags : 
+- Bible/Suz/1
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 1

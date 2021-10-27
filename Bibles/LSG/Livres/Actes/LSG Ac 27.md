@@ -4,7 +4,10 @@ aliases :
 - Actes 27
 - Ac 27
 - Acts of the Apostles 27
-tags : Bible/Ac/27
+tags : 
+- Bible/Ac/27
+- français
+cssclass : bible-français
 ---
 
 # Actes 27

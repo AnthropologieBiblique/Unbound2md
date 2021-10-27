@@ -4,7 +4,10 @@ aliases :
 - Proverbes 15
 - Pr 15
 - Proverbs 15
-tags : Bible/Pr/15
+tags : 
+- Bible/Pr/15
+- français
+cssclass : bible-français
 ---
 
 # Proverbes 15

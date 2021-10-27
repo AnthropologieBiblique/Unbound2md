@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 32
 - 2 Ch 32
 - 2 Chronicles 32
-tags : Bible/2Ch/32
+tags : 
+- Bible/2Ch/32
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 32

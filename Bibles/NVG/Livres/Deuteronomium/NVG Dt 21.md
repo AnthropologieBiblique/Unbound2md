@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 21
 - Dt 21
 - Deuteronomy 21
-tags : Bible/Dt/21
+tags : 
+- Bible/Dt/21
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 21

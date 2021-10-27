@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 11
 - 2 R 11
 - 2 Kings 11
-tags : Bible/2R/11
+tags : 
+- Bible/2R/11
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 11

@@ -4,7 +4,10 @@ aliases :
 - Abdias
 - Ab
 - Obadiah
-tags : Bible/Ab
+tags : 
+- Bible/Ab
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עובדיה

@@ -4,7 +4,10 @@ aliases :
 - Exode
 - Ex
 - Exodus
-tags : Bible/Ex
+tags : 
+- Bible/Ex
+- français
+cssclass : bible-français
 ---
 
 # Exode

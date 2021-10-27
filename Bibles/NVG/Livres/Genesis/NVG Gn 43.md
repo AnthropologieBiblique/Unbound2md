@@ -4,7 +4,10 @@ aliases :
 - Genèse 43
 - Gn 43
 - Genesis 43
-tags : Bible/Gn/43
+tags : 
+- Bible/Gn/43
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 43

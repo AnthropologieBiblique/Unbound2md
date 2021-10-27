@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 27
 - Job 27
 - Jb 27
-tags : Bible/Jb/27
+tags : 
+- Bible/Jb/27
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 27

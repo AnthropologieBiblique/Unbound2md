@@ -4,7 +4,10 @@ aliases :
 - Nombres 13
 - Nb 13
 - Numbers 13
-tags : Bible/Nb/13
+tags : 
+- Bible/Nb/13
+- français
+cssclass : bible-français
 ---
 
 # Nombres 13

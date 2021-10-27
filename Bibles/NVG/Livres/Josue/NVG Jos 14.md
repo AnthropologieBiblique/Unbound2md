@@ -4,7 +4,10 @@ aliases :
 - Josué 14
 - Jos 14
 - Joshua 14
-tags : Bible/Jos/14
+tags : 
+- Bible/Jos/14
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 14

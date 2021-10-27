@@ -3,7 +3,10 @@ aliases :
 - עמוס 6
 - Amos 6
 - Am 6
-tags : Bible/Am/6
+tags : 
+- Bible/Am/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 6

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 61 (60)
 - Ps 61 (60)
 - Psalms 61 (60)
-tags : Bible/Ps/61_60
+tags : 
+- Bible/Ps/61_60
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 60 (61)

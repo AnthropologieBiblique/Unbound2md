@@ -4,7 +4,10 @@ aliases :
 - Exode 7
 - Ex 7
 - Exodus 7
-tags : Bible/Ex/7
+tags : 
+- Bible/Ex/7
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 7

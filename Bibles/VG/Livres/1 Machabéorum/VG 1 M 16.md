@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 16
 - 1 Maccabees 16
 - 1 M 16
-tags : Bible/1M/16
+tags : 
+- Bible/1M/16
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 16

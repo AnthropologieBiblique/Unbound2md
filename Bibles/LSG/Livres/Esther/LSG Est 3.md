@@ -3,7 +3,10 @@ aliases :
 - Esther 3
 - Esther 3
 - Est 3
-tags : Bible/Est/3
+tags : 
+- Bible/Est/3
+- français
+cssclass : bible-français
 ---
 
 # Esther 3

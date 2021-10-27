@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 15
 - Ps Sal 15
 - Psalm of Solomon 15
-tags : Bible/PsSal/15
+tags : 
+- Bible/PsSal/15
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 15

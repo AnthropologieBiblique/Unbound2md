@@ -3,7 +3,10 @@ aliases :
 - Ἔσδρας Αʹ 6
 - 1 Esdras 6
 - 1 Esd 6
-tags : Bible/1Esd/6
+tags : 
+- Bible/1Esd/6
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 6

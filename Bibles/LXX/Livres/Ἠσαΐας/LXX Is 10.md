@@ -4,7 +4,10 @@ aliases :
 - Isaïe 10
 - Is 10
 - Isaiah 10
-tags : Bible/Is/10
+tags : 
+- Bible/Is/10
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 10

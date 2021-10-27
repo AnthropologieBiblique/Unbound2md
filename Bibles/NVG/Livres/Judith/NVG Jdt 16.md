@@ -3,7 +3,10 @@ aliases :
 - Judith 16
 - Judith 16
 - Jdt 16
-tags : Bible/Jdt/16
+tags : 
+- Bible/Jdt/16
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 16

@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 27
 - 1 Ch 27
 - 1 Chronicles 27
-tags : Bible/1Ch/27
+tags : 
+- Bible/1Ch/27
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 27

@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 2
 - 1 Maccabees 2
 - 1 M 2
-tags : Bible/1M/2
+tags : 
+- Bible/1M/2
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 2

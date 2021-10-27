@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 21
 - Job 21
 - Jb 21
-tags : Bible/Jb/21
+tags : 
+- Bible/Jb/21
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 21

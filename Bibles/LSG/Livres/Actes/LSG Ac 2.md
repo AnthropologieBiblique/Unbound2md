@@ -4,7 +4,10 @@ aliases :
 - Actes 2
 - Ac 2
 - Acts of the Apostles 2
-tags : Bible/Ac/2
+tags : 
+- Bible/Ac/2
+- français
+cssclass : bible-français
 ---
 
 # Actes 2

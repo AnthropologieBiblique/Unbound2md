@@ -4,7 +4,10 @@ aliases :
 - Lévitique 3
 - Lv 3
 - Leviticus 3
-tags : Bible/Lv/3
+tags : 
+- Bible/Lv/3
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 3

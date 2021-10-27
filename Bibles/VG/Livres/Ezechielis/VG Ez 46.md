@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 46
 - Ez 46
 - Ezekiel 46
-tags : Bible/Ez/46
+tags : 
+- Bible/Ez/46
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 46

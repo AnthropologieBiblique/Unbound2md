@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques
 - 1 Ch
 - 1 Chronicles
-tags : Bible/1Ch
+tags : 
+- Bible/1Ch
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon

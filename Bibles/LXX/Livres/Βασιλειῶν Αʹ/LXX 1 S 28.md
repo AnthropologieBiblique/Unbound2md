@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 28
 - 1 Samuel 28
 - 1 S 28
-tags : Bible/1S/28
+tags : 
+- Bible/1S/28
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 28

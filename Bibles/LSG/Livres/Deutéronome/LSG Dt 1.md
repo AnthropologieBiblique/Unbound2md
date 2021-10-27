@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 1
 - Dt 1
 - Deuteronomy 1
-tags : Bible/Dt/1
+tags : 
+- Bible/Dt/1
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 1

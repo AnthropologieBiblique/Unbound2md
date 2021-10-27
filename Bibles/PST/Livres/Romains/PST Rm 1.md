@@ -4,7 +4,10 @@ aliases :
 - Romains 1
 - Rm 1
 - Romans 1
-tags : Bible/Rm/1
+tags : 
+- Bible/Rm/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # Romains 1

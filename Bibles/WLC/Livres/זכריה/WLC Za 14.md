@@ -4,7 +4,10 @@ aliases :
 - Zacharie 14
 - Za 14
 - Zechariah 14
-tags : Bible/Za/14
+tags : 
+- Bible/Za/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # זכריה 14

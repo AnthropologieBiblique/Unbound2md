@@ -4,7 +4,10 @@ aliases :
 - Galates 2
 - Ga 2
 - Galatians 2
-tags : Bible/Ga/2
+tags : 
+- Bible/Ga/2
+- latin
+cssclass : bible-latin
 ---
 
 # ad Galatas 2

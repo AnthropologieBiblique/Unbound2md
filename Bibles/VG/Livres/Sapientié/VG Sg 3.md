@@ -4,7 +4,10 @@ aliases :
 - Sagesse 3
 - Sg 3
 - Wisdom of Solomon 3
-tags : Bible/Sg/3
+tags : 
+- Bible/Sg/3
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 3

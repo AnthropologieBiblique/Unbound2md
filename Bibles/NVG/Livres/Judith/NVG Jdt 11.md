@@ -3,7 +3,10 @@ aliases :
 - Judith 11
 - Judith 11
 - Jdt 11
-tags : Bible/Jdt/11
+tags : 
+- Bible/Jdt/11
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 11

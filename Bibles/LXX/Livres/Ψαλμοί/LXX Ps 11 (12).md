@@ -4,7 +4,10 @@ aliases :
 - Psaumes 12 (11)
 - Ps 12 (11)
 - Psalms 12 (11)
-tags : Bible/Ps/12_11
+tags : 
+- Bible/Ps/12_11
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 11 (12)

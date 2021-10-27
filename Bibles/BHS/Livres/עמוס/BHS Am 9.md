@@ -3,7 +3,10 @@ aliases :
 - עמוס 9
 - Amos 9
 - Am 9
-tags : Bible/Am/9
+tags : 
+- Bible/Am/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 9

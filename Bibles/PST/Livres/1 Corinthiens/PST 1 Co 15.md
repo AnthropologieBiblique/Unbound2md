@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 15
 - 1 Co 15
 - 1 Corinthians 15
-tags : Bible/1Co/15
+tags : 
+- Bible/1Co/15
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 15

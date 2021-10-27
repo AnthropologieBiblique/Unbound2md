@@ -4,7 +4,10 @@ aliases :
 - Josué 4
 - Jos 4
 - Joshua 4
-tags : Bible/Jos/4
+tags : 
+- Bible/Jos/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יהושע 4

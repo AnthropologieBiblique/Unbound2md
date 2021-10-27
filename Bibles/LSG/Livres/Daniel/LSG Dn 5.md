@@ -3,7 +3,10 @@ aliases :
 - Daniel 5
 - Daniel 5
 - Dn 5
-tags : Bible/Dn/5
+tags : 
+- Bible/Dn/5
+- français
+cssclass : bible-français
 ---
 
 # Daniel 5

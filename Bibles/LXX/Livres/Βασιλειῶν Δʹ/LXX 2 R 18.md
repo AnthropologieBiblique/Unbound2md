@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 18
 - 2 R 18
 - 2 Kings 18
-tags : Bible/2R/18
+tags : 
+- Bible/2R/18
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Δʹ 18

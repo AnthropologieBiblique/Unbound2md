@@ -4,7 +4,10 @@ aliases :
 - 2 Thessaloniciens 3
 - 2 Th 3
 - 2 Thessalonians 3
-tags : Bible/2Th/3
+tags : 
+- Bible/2Th/3
+- français
+cssclass : bible-français
 ---
 
 # 2 Thessaloniciens 3

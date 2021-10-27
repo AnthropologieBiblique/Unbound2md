@@ -4,7 +4,10 @@ aliases :
 - Genèse 19
 - Gn 19
 - Genesis 19
-tags : Bible/Gn/19
+tags : 
+- Bible/Gn/19
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 19

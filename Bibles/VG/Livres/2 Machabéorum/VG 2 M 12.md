@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 12
 - 2 Maccabees 12
 - 2 M 12
-tags : Bible/2M/12
+tags : 
+- Bible/2M/12
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 12

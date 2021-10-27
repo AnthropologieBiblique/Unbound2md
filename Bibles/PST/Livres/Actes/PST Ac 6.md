@@ -4,7 +4,10 @@ aliases :
 - Actes 6
 - Ac 6
 - Acts of the Apostles 6
-tags : Bible/Ac/6
+tags : 
+- Bible/Ac/6
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 6

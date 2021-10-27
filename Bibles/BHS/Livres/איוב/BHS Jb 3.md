@@ -3,7 +3,10 @@ aliases :
 - איוב 3
 - Job 3
 - Jb 3
-tags : Bible/Jb/3
+tags : 
+- Bible/Jb/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 3

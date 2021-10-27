@@ -4,7 +4,10 @@ aliases :
 - Isaïe 28
 - Is 28
 - Isaiah 28
-tags : Bible/Is/28
+tags : 
+- Bible/Is/28
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 28

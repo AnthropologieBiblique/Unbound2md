@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 12
 - 1 Co 12
 - 1 Corinthians 12
-tags : Bible/1Co/12
+tags : 
+- Bible/1Co/12
+- français
+cssclass : bible-français
 ---
 
 # 1 Corinthiens 12

@@ -4,7 +4,10 @@ aliases :
 - Apocalypse
 - Ap
 - Revelation
-tags : Bible/Ap
+tags : 
+- Bible/Ap
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis

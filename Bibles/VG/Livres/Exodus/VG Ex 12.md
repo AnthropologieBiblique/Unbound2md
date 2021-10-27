@@ -4,7 +4,10 @@ aliases :
 - Exode 12
 - Ex 12
 - Exodus 12
-tags : Bible/Ex/12
+tags : 
+- Bible/Ex/12
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 12

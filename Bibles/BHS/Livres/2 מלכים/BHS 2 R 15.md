@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 15
 - 2 R 15
 - 2 Kings 15
-tags : Bible/2R/15
+tags : 
+- Bible/2R/15
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 15

@@ -4,7 +4,10 @@ aliases :
 - Épître de Jérémie
 - Jr
 - Epistle of Jeremiah
-tags : Bible/Jr
+tags : 
+- Bible/Jr
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐπιστολὴ Ἰερεμίου

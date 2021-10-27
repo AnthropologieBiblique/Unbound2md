@@ -4,7 +4,10 @@ aliases :
 - Actes 4
 - Ac 4
 - Acts of the Apostles 4
-tags : Bible/Ac/4
+tags : 
+- Bible/Ac/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 4

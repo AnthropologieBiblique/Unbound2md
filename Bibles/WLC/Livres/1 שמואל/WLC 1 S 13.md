@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 13
 - 1 Samuel 13
 - 1 S 13
-tags : Bible/1S/13
+tags : 
+- Bible/1S/13
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 13

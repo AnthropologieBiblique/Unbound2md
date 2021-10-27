@@ -3,7 +3,10 @@ aliases :
 - Job 22
 - Job 22
 - Jb 22
-tags : Bible/Jb/22
+tags : 
+- Bible/Jb/22
+- latin
+cssclass : bible-latin
 ---
 
 # Job 22

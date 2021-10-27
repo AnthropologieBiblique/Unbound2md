@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 7
 - 1 Samuel 7
 - 1 S 7
-tags : Bible/1S/7
+tags : 
+- Bible/1S/7
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 7

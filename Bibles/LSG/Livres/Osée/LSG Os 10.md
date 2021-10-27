@@ -4,7 +4,10 @@ aliases :
 - Osée 10
 - Os 10
 - Hosea 10
-tags : Bible/Os/10
+tags : 
+- Bible/Os/10
+- français
+cssclass : bible-français
 ---
 
 # Osée 10

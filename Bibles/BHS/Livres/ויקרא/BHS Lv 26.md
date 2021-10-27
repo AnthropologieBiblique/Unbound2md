@@ -4,7 +4,10 @@ aliases :
 - Lévitique 26
 - Lv 26
 - Leviticus 26
-tags : Bible/Lv/26
+tags : 
+- Bible/Lv/26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ויקרא 26

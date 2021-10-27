@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 18
 - Ez 18
 - Ezekiel 18
-tags : Bible/Ez/18
+tags : 
+- Bible/Ez/18
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 18

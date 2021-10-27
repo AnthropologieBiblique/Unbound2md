@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 7
 - Judith 7
 - Jdt 7
-tags : Bible/Jdt/7
+tags : 
+- Bible/Jdt/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 7

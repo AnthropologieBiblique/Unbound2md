@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 13
 - Odes 13
 - Od 13
-tags : Bible/Od/13
+tags : 
+- Bible/Od/13
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 13

@@ -4,7 +4,10 @@ aliases :
 - Marc 3
 - Mc 3
 - Mark 3
-tags : Bible/Mc/3
+tags : 
+- Bible/Mc/3
+- français
+cssclass : bible-français
 ---
 
 # Marc 3

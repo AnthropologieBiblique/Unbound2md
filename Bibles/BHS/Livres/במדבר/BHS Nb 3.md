@@ -4,7 +4,10 @@ aliases :
 - Nombres 3
 - Nb 3
 - Numbers 3
-tags : Bible/Nb/3
+tags : 
+- Bible/Nb/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 3

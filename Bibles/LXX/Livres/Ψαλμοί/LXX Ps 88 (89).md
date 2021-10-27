@@ -4,7 +4,10 @@ aliases :
 - Psaumes 89 (88)
 - Ps 89 (88)
 - Psalms 89 (88)
-tags : Bible/Ps/89_88
+tags : 
+- Bible/Ps/89_88
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 88 (89)

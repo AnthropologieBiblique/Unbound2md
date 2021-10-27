@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 14
 - 4 Maccabees 14
 - 4 M 14
-tags : Bible/4M/14
+tags : 
+- Bible/4M/14
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 14

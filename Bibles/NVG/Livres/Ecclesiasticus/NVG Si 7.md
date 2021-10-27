@@ -4,7 +4,10 @@ aliases :
 - Siracide 7
 - Si 7
 - Ecclesiasticus 7
-tags : Bible/Si/7
+tags : 
+- Bible/Si/7
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 7

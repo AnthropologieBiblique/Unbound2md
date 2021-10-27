@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 35
 - Ez 35
 - Ezekiel 35
-tags : Bible/Ez/35
+tags : 
+- Bible/Ez/35
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 35

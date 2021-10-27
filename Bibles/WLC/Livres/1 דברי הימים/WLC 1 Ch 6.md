@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 6
 - 1 Ch 6
 - 1 Chronicles 6
-tags : Bible/1Ch/6
+tags : 
+- Bible/1Ch/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 6

@@ -4,7 +4,10 @@ aliases :
 - Actes 11
 - Ac 11
 - Acts of the Apostles 11
-tags : Bible/Ac/11
+tags : 
+- Bible/Ac/11
+- français
+cssclass : bible-français
 ---
 
 # Actes 11

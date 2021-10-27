@@ -4,7 +4,10 @@ aliases :
 - Siracide 3
 - Si 3
 - Ecclesiasticus 3
-tags : Bible/Si/3
+tags : 
+- Bible/Si/3
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 3

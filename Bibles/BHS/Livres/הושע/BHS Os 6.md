@@ -4,7 +4,10 @@ aliases :
 - Osée 6
 - Os 6
 - Hosea 6
-tags : Bible/Os/6
+tags : 
+- Bible/Os/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # הושע 6

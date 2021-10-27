@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 20
 - 2 Ch 20
 - 2 Chronicles 20
-tags : Bible/2Ch/20
+tags : 
+- Bible/2Ch/20
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 20

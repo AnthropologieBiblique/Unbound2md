@@ -4,7 +4,10 @@ aliases :
 - Actes 21
 - Ac 21
 - Acts of the Apostles 21
-tags : Bible/Ac/21
+tags : 
+- Bible/Ac/21
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 21

@@ -4,7 +4,10 @@ aliases :
 - 2 Thessaloniciens 2
 - 2 Th 2
 - 2 Thessalonians 2
-tags : Bible/2Th/2
+tags : 
+- Bible/2Th/2
+- latin
+cssclass : bible-latin
 ---
 
 # 2 ad Thessalonicenses 2

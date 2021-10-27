@@ -4,7 +4,10 @@ aliases :
 - Marc 5
 - Mc 5
 - Mark 5
-tags : Bible/Mc/5
+tags : 
+- Bible/Mc/5
+- français
+cssclass : bible-français
 ---
 
 # Marc 5

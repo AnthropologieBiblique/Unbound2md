@@ -4,7 +4,10 @@ aliases :
 - Psaumes 31 (30)
 - Ps 31 (30)
 - Psalms 31 (30)
-tags : Bible/Ps/31_30
+tags : 
+- Bible/Ps/31_30
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 31 (30)

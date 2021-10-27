@@ -4,7 +4,10 @@ aliases :
 - Siracide 32
 - Si 32
 - Ecclesiasticus 32
-tags : Bible/Si/32
+tags : 
+- Bible/Si/32
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 32

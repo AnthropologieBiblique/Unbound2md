@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 24
 - 2 Samuel 24
 - 2 S 24
-tags : Bible/2S/24
+tags : 
+- Bible/2S/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 24

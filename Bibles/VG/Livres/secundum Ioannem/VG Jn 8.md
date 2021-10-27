@@ -4,7 +4,10 @@ aliases :
 - Jean 8
 - Jn 8
 - John 8
-tags : Bible/Jn/8
+tags : 
+- Bible/Jn/8
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 8

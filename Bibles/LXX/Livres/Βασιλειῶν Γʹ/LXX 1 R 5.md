@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 4
 - 1 R 4
 - 1 Kings 4
-tags : Bible/1R/4
+tags : 
+- Bible/1R/4
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ 5

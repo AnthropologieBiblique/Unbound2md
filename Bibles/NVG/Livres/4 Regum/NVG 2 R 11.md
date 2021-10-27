@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 11
 - 2 R 11
 - 2 Kings 11
-tags : Bible/2R/11
+tags : 
+- Bible/2R/11
+- latin
+cssclass : bible-latin
 ---
 
 # 4 Regum 11

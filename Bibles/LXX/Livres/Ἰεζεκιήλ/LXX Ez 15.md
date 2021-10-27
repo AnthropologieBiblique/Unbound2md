@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 15
 - Ez 15
 - Ezekiel 15
-tags : Bible/Ez/15
+tags : 
+- Bible/Ez/15
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 15

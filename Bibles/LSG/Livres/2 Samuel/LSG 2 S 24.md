@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 24
 - 2 Samuel 24
 - 2 S 24
-tags : Bible/2S/24
+tags : 
+- Bible/2S/24
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 24

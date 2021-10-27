@@ -4,7 +4,10 @@ aliases :
 - Jean 13
 - Jn 13
 - John 13
-tags : Bible/Jn/13
+tags : 
+- Bible/Jn/13
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 13

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 22
 - Is 22
 - Isaiah 22
-tags : Bible/Is/22
+tags : 
+- Bible/Is/22
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 22

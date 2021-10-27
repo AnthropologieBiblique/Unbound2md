@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 5
 - Ct 5
 - Song of Solomon 5
-tags : Bible/Ct/5
+tags : 
+- Bible/Ct/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ἆσμα Ἀσμάτων 5

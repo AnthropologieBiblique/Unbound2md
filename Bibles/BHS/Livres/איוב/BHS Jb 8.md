@@ -3,7 +3,10 @@ aliases :
 - איוב 8
 - Job 8
 - Jb 8
-tags : Bible/Jb/8
+tags : 
+- Bible/Jb/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 8

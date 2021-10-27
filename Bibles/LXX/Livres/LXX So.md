@@ -4,7 +4,10 @@ aliases :
 - Sophonie
 - So
 - Zephaniah
-tags : Bible/So
+tags : 
+- Bible/So
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφονίας Θʹ

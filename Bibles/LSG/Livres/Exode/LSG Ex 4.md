@@ -4,7 +4,10 @@ aliases :
 - Exode 4
 - Ex 4
 - Exodus 4
-tags : Bible/Ex/4
+tags : 
+- Bible/Ex/4
+- français
+cssclass : bible-français
 ---
 
 # Exode 4

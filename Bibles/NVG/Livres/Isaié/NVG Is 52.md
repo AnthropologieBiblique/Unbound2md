@@ -4,7 +4,10 @@ aliases :
 - Isaïe 52
 - Is 52
 - Isaiah 52
-tags : Bible/Is/52
+tags : 
+- Bible/Is/52
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 52

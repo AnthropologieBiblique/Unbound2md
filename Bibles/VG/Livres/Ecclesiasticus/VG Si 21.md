@@ -4,7 +4,10 @@ aliases :
 - Siracide 21
 - Si 21
 - Ecclesiasticus 21
-tags : Bible/Si/21
+tags : 
+- Bible/Si/21
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 21

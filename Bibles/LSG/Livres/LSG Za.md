@@ -4,7 +4,10 @@ aliases :
 - Zacharie
 - Za
 - Zechariah
-tags : Bible/Za
+tags : 
+- Bible/Za
+- français
+cssclass : bible-français
 ---
 
 # Zacharie

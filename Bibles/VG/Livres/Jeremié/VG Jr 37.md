@@ -4,7 +4,10 @@ aliases :
 - Jérémie 37
 - Jr 37
 - Jeremiah 37
-tags : Bible/Jr/37
+tags : 
+- Bible/Jr/37
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 37

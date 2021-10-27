@@ -4,7 +4,10 @@ aliases :
 - Psaumes 149
 - Ps 149
 - Psalms 149
-tags : Bible/Ps/149
+tags : 
+- Bible/Ps/149
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 149

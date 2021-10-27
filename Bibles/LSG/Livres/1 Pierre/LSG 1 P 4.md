@@ -4,7 +4,10 @@ aliases :
 - 1 Pierre 4
 - 1 P 4
 - 1 Peter 4
-tags : Bible/1P/4
+tags : 
+- Bible/1P/4
+- français
+cssclass : bible-français
 ---
 
 # 1 Pierre 4

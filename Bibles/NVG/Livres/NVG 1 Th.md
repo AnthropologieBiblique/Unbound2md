@@ -4,7 +4,10 @@ aliases :
 - 1 Thessaloniciens
 - 1 Th
 - 1 Thessalonians
-tags : Bible/1Th
+tags : 
+- Bible/1Th
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Thessalonicenses

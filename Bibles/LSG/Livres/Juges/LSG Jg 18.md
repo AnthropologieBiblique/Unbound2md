@@ -4,7 +4,10 @@ aliases :
 - Juges 18
 - Jg 18
 - Judges 18
-tags : Bible/Jg/18
+tags : 
+- Bible/Jg/18
+- français
+cssclass : bible-français
 ---
 
 # Juges 18

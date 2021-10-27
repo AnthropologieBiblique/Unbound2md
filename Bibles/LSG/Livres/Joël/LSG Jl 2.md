@@ -4,7 +4,10 @@ aliases :
 - Joël 2
 - Jl 2
 - Joel 2
-tags : Bible/Jl/2
+tags : 
+- Bible/Jl/2
+- français
+cssclass : bible-français
 ---
 
 # Joël 2

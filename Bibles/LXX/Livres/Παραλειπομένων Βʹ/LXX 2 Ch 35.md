@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 35
 - 2 Ch 35
 - 2 Chronicles 35
-tags : Bible/2Ch/35
+tags : 
+- Bible/2Ch/35
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 35

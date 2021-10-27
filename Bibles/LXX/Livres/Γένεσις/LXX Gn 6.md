@@ -4,7 +4,10 @@ aliases :
 - Genèse 6
 - Gn 6
 - Genesis 6
-tags : Bible/Gn/6
+tags : 
+- Bible/Gn/6
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 6

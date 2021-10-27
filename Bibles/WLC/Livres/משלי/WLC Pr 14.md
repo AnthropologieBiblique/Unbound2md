@@ -4,7 +4,10 @@ aliases :
 - Proverbes 14
 - Pr 14
 - Proverbs 14
-tags : Bible/Pr/14
+tags : 
+- Bible/Pr/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 14

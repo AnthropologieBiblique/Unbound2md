@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 7
 - Ct 7
 - Song of Solomon 7
-tags : Bible/Ct/7
+tags : 
+- Bible/Ct/7
+- français
+cssclass : bible-français
 ---
 
 # Cantique des cantiques 7

@@ -4,7 +4,10 @@ aliases :
 - Jean 12
 - Jn 12
 - John 12
-tags : Bible/Jn/12
+tags : 
+- Bible/Jn/12
+- français
+cssclass : bible-français
 ---
 
 # Jean 12

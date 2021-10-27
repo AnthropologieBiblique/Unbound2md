@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 13
 - 1 Samuel 13
 - 1 S 13
-tags : Bible/1S/13
+tags : 
+- Bible/1S/13
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 13

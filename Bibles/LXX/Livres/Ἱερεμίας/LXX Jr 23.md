@@ -4,7 +4,10 @@ aliases :
 - Jérémie 23
 - Jr 23
 - Jeremiah 23
-tags : Bible/Jr/23
+tags : 
+- Bible/Jr/23
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 23

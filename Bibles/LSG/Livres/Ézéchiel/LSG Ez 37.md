@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 37
 - Ez 37
 - Ezekiel 37
-tags : Bible/Ez/37
+tags : 
+- Bible/Ez/37
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 37

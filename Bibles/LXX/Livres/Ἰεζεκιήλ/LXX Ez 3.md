@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 3
 - Ez 3
 - Ezekiel 3
-tags : Bible/Ez/3
+tags : 
+- Bible/Ez/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 3

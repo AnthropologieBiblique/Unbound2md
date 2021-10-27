@@ -4,7 +4,10 @@ aliases :
 - Exode 23
 - Ex 23
 - Exodus 23
-tags : Bible/Ex/23
+tags : 
+- Bible/Ex/23
+- français
+cssclass : bible-français
 ---
 
 # Exode 23

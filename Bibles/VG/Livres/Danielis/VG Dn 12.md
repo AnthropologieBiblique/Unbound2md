@@ -3,7 +3,10 @@ aliases :
 - Danielis 12
 - Daniel 12
 - Dn 12
-tags : Bible/Dn/12
+tags : 
+- Bible/Dn/12
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 12

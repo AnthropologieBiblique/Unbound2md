@@ -3,7 +3,10 @@ aliases :
 - אסתר 4
 - Esther 4
 - Est 4
-tags : Bible/Est/4
+tags : 
+- Bible/Est/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 4

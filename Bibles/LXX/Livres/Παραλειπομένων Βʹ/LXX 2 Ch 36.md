@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 36
 - 2 Ch 36
 - 2 Chronicles 36
-tags : Bible/2Ch/36
+tags : 
+- Bible/2Ch/36
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 36

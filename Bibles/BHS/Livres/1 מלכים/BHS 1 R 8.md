@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 8
 - 1 R 8
 - 1 Kings 8
-tags : Bible/1R/8
+tags : 
+- Bible/1R/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 מלכים 8

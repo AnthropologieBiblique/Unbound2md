@@ -4,7 +4,10 @@ aliases :
 - Exode 27
 - Ex 27
 - Exodus 27
-tags : Bible/Ex/27
+tags : 
+- Bible/Ex/27
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 27

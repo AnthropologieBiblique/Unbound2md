@@ -4,7 +4,10 @@ aliases :
 - Nombres 5
 - Nb 5
 - Numbers 5
-tags : Bible/Nb/5
+tags : 
+- Bible/Nb/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 5

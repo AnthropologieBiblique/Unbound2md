@@ -4,7 +4,10 @@ aliases :
 - Psaumes 84 (83)
 - Ps 84 (83)
 - Psalms 84 (83)
-tags : Bible/Ps/84_83
+tags : 
+- Bible/Ps/84_83
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 84 (83)

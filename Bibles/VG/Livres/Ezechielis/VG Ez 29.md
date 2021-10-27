@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 29
 - Ez 29
 - Ezekiel 29
-tags : Bible/Ez/29
+tags : 
+- Bible/Ez/29
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 29

@@ -4,7 +4,10 @@ aliases :
 - Nombres 2
 - Nb 2
 - Numbers 2
-tags : Bible/Nb/2
+tags : 
+- Bible/Nb/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 2

@@ -4,7 +4,10 @@ aliases :
 - Nombres 36
 - Nb 36
 - Numbers 36
-tags : Bible/Nb/36
+tags : 
+- Bible/Nb/36
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 36

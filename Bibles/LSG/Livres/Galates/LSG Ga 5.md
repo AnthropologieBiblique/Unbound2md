@@ -4,7 +4,10 @@ aliases :
 - Galates 5
 - Ga 5
 - Galatians 5
-tags : Bible/Ga/5
+tags : 
+- Bible/Ga/5
+- français
+cssclass : bible-français
 ---
 
 # Galates 5

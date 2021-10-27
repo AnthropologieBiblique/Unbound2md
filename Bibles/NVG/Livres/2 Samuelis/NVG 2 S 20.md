@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 20
 - 2 Samuel 20
 - 2 S 20
-tags : Bible/2S/20
+tags : 
+- Bible/2S/20
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 20

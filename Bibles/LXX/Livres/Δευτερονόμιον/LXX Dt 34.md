@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 34
 - Dt 34
 - Deuteronomy 34
-tags : Bible/Dt/34
+tags : 
+- Bible/Dt/34
+- grec
+cssclass : bible-grec
 ---
 
 # Δευτερονόμιον 34

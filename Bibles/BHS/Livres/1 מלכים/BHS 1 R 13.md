@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 13
 - 1 R 13
 - 1 Kings 13
-tags : Bible/1R/13
+tags : 
+- Bible/1R/13
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 מלכים 13

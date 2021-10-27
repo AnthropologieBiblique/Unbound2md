@@ -4,7 +4,10 @@ aliases :
 - Jérémie 26
 - Jr 26
 - Jeremiah 26
-tags : Bible/Jr/26
+tags : 
+- Bible/Jr/26
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 26

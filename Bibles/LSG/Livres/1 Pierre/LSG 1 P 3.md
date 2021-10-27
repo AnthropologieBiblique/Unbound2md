@@ -4,7 +4,10 @@ aliases :
 - 1 Pierre 3
 - 1 P 3
 - 1 Peter 3
-tags : Bible/1P/3
+tags : 
+- Bible/1P/3
+- français
+cssclass : bible-français
 ---
 
 # 1 Pierre 3

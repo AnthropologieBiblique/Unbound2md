@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 19
 - Job 19
 - Jb 19
-tags : Bible/Jb/19
+tags : 
+- Bible/Jb/19
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 19

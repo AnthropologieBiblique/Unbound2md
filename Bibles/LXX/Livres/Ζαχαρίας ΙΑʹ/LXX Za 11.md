@@ -4,7 +4,10 @@ aliases :
 - Zacharie 11
 - Za 11
 - Zechariah 11
-tags : Bible/Za/11
+tags : 
+- Bible/Za/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ζαχαρίας ΙΑʹ 11

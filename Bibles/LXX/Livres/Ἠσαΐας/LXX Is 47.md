@@ -4,7 +4,10 @@ aliases :
 - Isaïe 47
 - Is 47
 - Isaiah 47
-tags : Bible/Is/47
+tags : 
+- Bible/Is/47
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 47

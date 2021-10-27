@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 14
 - 1 Co 14
 - 1 Corinthians 14
-tags : Bible/1Co/14
+tags : 
+- Bible/1Co/14
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Corinthios 14

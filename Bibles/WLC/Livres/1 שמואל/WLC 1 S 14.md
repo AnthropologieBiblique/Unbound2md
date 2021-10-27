@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 14
 - 1 Samuel 14
 - 1 S 14
-tags : Bible/1S/14
+tags : 
+- Bible/1S/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 14

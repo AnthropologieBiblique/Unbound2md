@@ -4,7 +4,10 @@ aliases :
 - Romains 5
 - Rm 5
 - Romans 5
-tags : Bible/Rm/5
+tags : 
+- Bible/Rm/5
+- araméen
+cssclass : bible-araméen
 ---
 
 # Romains 5

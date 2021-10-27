@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 15
 - 2 Samuel 15
 - 2 S 15
-tags : Bible/2S/15
+tags : 
+- Bible/2S/15
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 15

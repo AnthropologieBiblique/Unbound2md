@@ -4,7 +4,10 @@ aliases :
 - Genèse 22
 - Gn 22
 - Genesis 22
-tags : Bible/Gn/22
+tags : 
+- Bible/Gn/22
+- français
+cssclass : bible-français
 ---
 
 # Genèse 22

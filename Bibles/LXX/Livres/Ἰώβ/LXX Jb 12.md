@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 12
 - Job 12
 - Jb 12
-tags : Bible/Jb/12
+tags : 
+- Bible/Jb/12
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 12

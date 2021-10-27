@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 9
 - Job 9
 - Jb 9
-tags : Bible/Jb/9
+tags : 
+- Bible/Jb/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 9

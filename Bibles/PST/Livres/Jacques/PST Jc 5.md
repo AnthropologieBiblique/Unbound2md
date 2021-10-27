@@ -4,7 +4,10 @@ aliases :
 - Jacques 5
 - Jc 5
 - James 5
-tags : Bible/Jc/5
+tags : 
+- Bible/Jc/5
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jacques 5

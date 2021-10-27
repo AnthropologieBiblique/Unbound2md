@@ -4,7 +4,10 @@ aliases :
 - Siracide 49
 - Si 49
 - Ecclesiasticus 49
-tags : Bible/Si/49
+tags : 
+- Bible/Si/49
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 49

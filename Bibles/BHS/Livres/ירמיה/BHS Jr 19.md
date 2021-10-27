@@ -4,7 +4,10 @@ aliases :
 - Jérémie 19
 - Jr 19
 - Jeremiah 19
-tags : Bible/Jr/19
+tags : 
+- Bible/Jr/19
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 19

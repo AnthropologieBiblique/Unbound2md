@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 1
 - 2 Co 1
 - 2 Corinthians 1
-tags : Bible/2Co/1
+tags : 
+- Bible/2Co/1
+- français
+cssclass : bible-français
 ---
 
 # 2 Corinthiens 1

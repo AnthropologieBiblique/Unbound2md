@@ -4,7 +4,10 @@ aliases :
 - Genèse 7
 - Gn 7
 - Genesis 7
-tags : Bible/Gn/7
+tags : 
+- Bible/Gn/7
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 7

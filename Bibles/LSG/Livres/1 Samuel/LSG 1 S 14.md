@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 14
 - 1 Samuel 14
 - 1 S 14
-tags : Bible/1S/14
+tags : 
+- Bible/1S/14
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 14

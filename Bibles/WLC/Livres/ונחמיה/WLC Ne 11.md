@@ -4,7 +4,10 @@ aliases :
 - Néhémie 11
 - Ne 11
 - Nehemiah 11
-tags : Bible/Ne/11
+tags : 
+- Bible/Ne/11
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ונחמיה 11

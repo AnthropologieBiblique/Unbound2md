@@ -4,7 +4,10 @@ aliases :
 - Siracide 40
 - Si 40
 - Ecclesiasticus 40
-tags : Bible/Si/40
+tags : 
+- Bible/Si/40
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 40

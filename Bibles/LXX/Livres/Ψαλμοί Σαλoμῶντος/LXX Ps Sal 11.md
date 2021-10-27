@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 11
 - Ps Sal 11
 - Psalm of Solomon 11
-tags : Bible/PsSal/11
+tags : 
+- Bible/PsSal/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 11

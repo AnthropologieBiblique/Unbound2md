@@ -4,7 +4,10 @@ aliases :
 - Siracide 47
 - Si 47
 - Ecclesiasticus 47
-tags : Bible/Si/47
+tags : 
+- Bible/Si/47
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 47

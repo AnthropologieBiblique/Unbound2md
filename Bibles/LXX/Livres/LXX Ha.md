@@ -4,7 +4,10 @@ aliases :
 - Habaquq
 - Ha
 - Habakkuk
-tags : Bible/Ha
+tags : 
+- Bible/Ha
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμβακούμ Ηʹ

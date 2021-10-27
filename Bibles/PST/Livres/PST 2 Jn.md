@@ -4,7 +4,10 @@ aliases :
 - 2 Jean
 - 2 Jn
 - 2 John
-tags : Bible/2Jn
+tags : 
+- Bible/2Jn
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Jean

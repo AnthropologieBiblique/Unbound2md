@@ -4,7 +4,10 @@ aliases :
 - Matthieu 26
 - Mt 26
 - Matthew 26
-tags : Bible/Mt/26
+tags : 
+- Bible/Mt/26
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 26

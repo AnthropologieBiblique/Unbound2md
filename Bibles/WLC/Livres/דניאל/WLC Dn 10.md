@@ -3,7 +3,10 @@ aliases :
 - דניאל 10
 - Daniel 10
 - Dn 10
-tags : Bible/Dn/10
+tags : 
+- Bible/Dn/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 10

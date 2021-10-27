@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 16
 - 2 Ch 16
 - 2 Chronicles 16
-tags : Bible/2Ch/16
+tags : 
+- Bible/2Ch/16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 16

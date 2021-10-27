@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 27
 - 1 Samuel 27
 - 1 S 27
-tags : Bible/1S/27
+tags : 
+- Bible/1S/27
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 27

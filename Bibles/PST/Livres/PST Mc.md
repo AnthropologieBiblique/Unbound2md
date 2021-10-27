@@ -4,7 +4,10 @@ aliases :
 - Marc
 - Mc
 - Mark
-tags : Bible/Mc
+tags : 
+- Bible/Mc
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc

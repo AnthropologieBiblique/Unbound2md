@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 3
 - 1 Ch 3
 - 1 Chronicles 3
-tags : Bible/1Ch/3
+tags : 
+- Bible/1Ch/3
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 3

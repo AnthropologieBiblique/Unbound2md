@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 9
 - 2 Samuel 9
 - 2 S 9
-tags : Bible/2S/9
+tags : 
+- Bible/2S/9
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 9

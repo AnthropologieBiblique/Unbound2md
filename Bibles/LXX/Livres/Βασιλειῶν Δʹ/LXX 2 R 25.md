@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 25
 - 2 R 25
 - 2 Kings 25
-tags : Bible/2R/25
+tags : 
+- Bible/2R/25
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Δʹ 25

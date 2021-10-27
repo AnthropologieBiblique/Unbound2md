@@ -3,7 +3,10 @@ aliases :
 - Job 17
 - Job 17
 - Jb 17
-tags : Bible/Jb/17
+tags : 
+- Bible/Jb/17
+- latin
+cssclass : bible-latin
 ---
 
 # Job 17

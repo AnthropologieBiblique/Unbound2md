@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 30
 - 2 Ch 30
 - 2 Chronicles 30
-tags : Bible/2Ch/30
+tags : 
+- Bible/2Ch/30
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 30

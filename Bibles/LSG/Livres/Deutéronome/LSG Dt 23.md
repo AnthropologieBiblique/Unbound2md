@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 23
 - Dt 23
 - Deuteronomy 23
-tags : Bible/Dt/23
+tags : 
+- Bible/Dt/23
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 23

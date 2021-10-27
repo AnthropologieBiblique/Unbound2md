@@ -4,7 +4,10 @@ aliases :
 - Isaïe 20
 - Is 20
 - Isaiah 20
-tags : Bible/Is/20
+tags : 
+- Bible/Is/20
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 20

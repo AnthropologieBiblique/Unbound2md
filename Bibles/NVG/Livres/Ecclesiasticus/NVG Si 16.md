@@ -4,7 +4,10 @@ aliases :
 - Siracide 16
 - Si 16
 - Ecclesiasticus 16
-tags : Bible/Si/16
+tags : 
+- Bible/Si/16
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 16

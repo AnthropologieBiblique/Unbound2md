@@ -3,7 +3,10 @@ aliases :
 - איוב 35
 - Job 35
 - Jb 35
-tags : Bible/Jb/35
+tags : 
+- Bible/Jb/35
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 35

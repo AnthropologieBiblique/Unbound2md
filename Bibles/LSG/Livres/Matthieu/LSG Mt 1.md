@@ -4,7 +4,10 @@ aliases :
 - Matthieu 1
 - Mt 1
 - Matthew 1
-tags : Bible/Mt/1
+tags : 
+- Bible/Mt/1
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 1

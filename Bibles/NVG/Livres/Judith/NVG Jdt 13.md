@@ -3,7 +3,10 @@ aliases :
 - Judith 13
 - Judith 13
 - Jdt 13
-tags : Bible/Jdt/13
+tags : 
+- Bible/Jdt/13
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 13

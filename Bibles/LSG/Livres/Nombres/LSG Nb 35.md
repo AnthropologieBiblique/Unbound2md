@@ -4,7 +4,10 @@ aliases :
 - Nombres 35
 - Nb 35
 - Numbers 35
-tags : Bible/Nb/35
+tags : 
+- Bible/Nb/35
+- français
+cssclass : bible-français
 ---
 
 # Nombres 35

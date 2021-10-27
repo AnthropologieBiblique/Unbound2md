@@ -3,7 +3,10 @@ aliases :
 - Esther 1
 - Esther 1
 - Est 1
-tags : Bible/Est/1
+tags : 
+- Bible/Est/1
+- français
+cssclass : bible-français
 ---
 
 # Esther 1

@@ -4,7 +4,10 @@ aliases :
 - Esdras 13
 - Esd 13
 - Ezra 13
-tags : Bible/Esd/13
+tags : 
+- Bible/Esd/13
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 23

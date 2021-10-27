@@ -4,7 +4,10 @@ aliases :
 - Actes 13
 - Ac 13
 - Acts of the Apostles 13
-tags : Bible/Ac/13
+tags : 
+- Bible/Ac/13
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 13

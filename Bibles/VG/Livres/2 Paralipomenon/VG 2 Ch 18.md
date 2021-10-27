@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 18
 - 2 Ch 18
 - 2 Chronicles 18
-tags : Bible/2Ch/18
+tags : 
+- Bible/2Ch/18
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 18

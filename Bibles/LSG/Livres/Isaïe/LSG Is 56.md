@@ -4,7 +4,10 @@ aliases :
 - Isaïe 56
 - Is 56
 - Isaiah 56
-tags : Bible/Is/56
+tags : 
+- Bible/Is/56
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 56

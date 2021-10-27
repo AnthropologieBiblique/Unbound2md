@@ -4,7 +4,10 @@ aliases :
 - Isaïe 54
 - Is 54
 - Isaiah 54
-tags : Bible/Is/54
+tags : 
+- Bible/Is/54
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 54

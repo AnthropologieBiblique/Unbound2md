@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 4
 - 2 R 4
 - 2 Kings 4
-tags : Bible/2R/4
+tags : 
+- Bible/2R/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 4

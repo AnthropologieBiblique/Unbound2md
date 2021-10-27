@@ -4,7 +4,10 @@ aliases :
 - Marc 10
 - Mc 10
 - Mark 10
-tags : Bible/Mc/10
+tags : 
+- Bible/Mc/10
+- français
+cssclass : bible-français
 ---
 
 # Marc 10

@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 2
 - Ep 2
 - Ephesians 2
-tags : Bible/Ep/2
+tags : 
+- Bible/Ep/2
+- latin
+cssclass : bible-latin
 ---
 
 # ad Ephesios 2

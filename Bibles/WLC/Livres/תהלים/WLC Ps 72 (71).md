@@ -4,7 +4,10 @@ aliases :
 - Psaumes 72 (71)
 - Ps 72 (71)
 - Psalms 72 (71)
-tags : Bible/Ps/72_71
+tags : 
+- Bible/Ps/72_71
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 72 (71)

@@ -3,7 +3,10 @@ aliases :
 - Job 13
 - Job 13
 - Jb 13
-tags : Bible/Jb/13
+tags : 
+- Bible/Jb/13
+- latin
+cssclass : bible-latin
 ---
 
 # Job 13

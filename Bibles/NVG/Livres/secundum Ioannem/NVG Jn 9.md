@@ -4,7 +4,10 @@ aliases :
 - Jean 9
 - Jn 9
 - John 9
-tags : Bible/Jn/9
+tags : 
+- Bible/Jn/9
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 9

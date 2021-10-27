@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 7
 - 2 Samuel 7
 - 2 S 7
-tags : Bible/2S/7
+tags : 
+- Bible/2S/7
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 7

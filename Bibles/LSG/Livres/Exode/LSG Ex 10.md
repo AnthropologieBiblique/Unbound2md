@@ -4,7 +4,10 @@ aliases :
 - Exode 10
 - Ex 10
 - Exodus 10
-tags : Bible/Ex/10
+tags : 
+- Bible/Ex/10
+- français
+cssclass : bible-français
 ---
 
 # Exode 10

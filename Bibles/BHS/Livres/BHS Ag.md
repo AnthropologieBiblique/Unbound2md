@@ -4,7 +4,10 @@ aliases :
 - Aggée
 - Ag
 - Haggai
-tags : Bible/Ag
+tags : 
+- Bible/Ag
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # חגי

@@ -4,7 +4,10 @@ aliases :
 - 1 Thessaloniciens 3
 - 1 Th 3
 - 1 Thessalonians 3
-tags : Bible/1Th/3
+tags : 
+- Bible/1Th/3
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Thessalonicenses 3

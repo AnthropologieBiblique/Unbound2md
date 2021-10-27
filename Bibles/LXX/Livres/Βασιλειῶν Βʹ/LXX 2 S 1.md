@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 1
 - 2 Samuel 1
 - 2 S 1
-tags : Bible/2S/1
+tags : 
+- Bible/2S/1
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 1

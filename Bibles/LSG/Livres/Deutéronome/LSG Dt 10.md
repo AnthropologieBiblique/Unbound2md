@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 10
 - Dt 10
 - Deuteronomy 10
-tags : Bible/Dt/10
+tags : 
+- Bible/Dt/10
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 10

@@ -4,7 +4,10 @@ aliases :
 - Exode 38
 - Ex 38
 - Exodus 38
-tags : Bible/Ex/38
+tags : 
+- Bible/Ex/38
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שמות 38

@@ -3,7 +3,10 @@ aliases :
 - Ἀμώς Βʹ 9
 - Amos 9
 - Am 9
-tags : Bible/Am/9
+tags : 
+- Bible/Am/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμώς Βʹ 9

@@ -4,7 +4,10 @@ aliases :
 - 1 Timothée 2
 - 1 Tm 2
 - 1 Timothy 2
-tags : Bible/1Tm/2
+tags : 
+- Bible/1Tm/2
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Timotheum 2

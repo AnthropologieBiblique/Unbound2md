@@ -4,7 +4,10 @@ aliases :
 - Psaumes 86 (85)
 - Ps 86 (85)
 - Psalms 86 (85)
-tags : Bible/Ps/86_85
+tags : 
+- Bible/Ps/86_85
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 86 (85)

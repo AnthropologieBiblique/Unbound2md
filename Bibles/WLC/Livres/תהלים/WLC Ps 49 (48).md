@@ -4,7 +4,10 @@ aliases :
 - Psaumes 49 (48)
 - Ps 49 (48)
 - Psalms 49 (48)
-tags : Bible/Ps/49_48
+tags : 
+- Bible/Ps/49_48
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 49 (48)

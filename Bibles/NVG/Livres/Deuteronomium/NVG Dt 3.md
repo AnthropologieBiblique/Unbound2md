@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 3
 - Dt 3
 - Deuteronomy 3
-tags : Bible/Dt/3
+tags : 
+- Bible/Dt/3
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 3

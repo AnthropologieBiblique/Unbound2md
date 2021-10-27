@@ -3,7 +3,10 @@ aliases :
 - Danielis 3
 - Daniel 3
 - Dn 3
-tags : Bible/Dn/3
+tags : 
+- Bible/Dn/3
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 3

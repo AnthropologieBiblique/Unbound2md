@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 8
 - 1 Maccabees 8
 - 1 M 8
-tags : Bible/1M/8
+tags : 
+- Bible/1M/8
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 8

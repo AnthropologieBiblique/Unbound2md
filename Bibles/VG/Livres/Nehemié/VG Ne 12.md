@@ -4,7 +4,10 @@ aliases :
 - Néhémie 12
 - Ne 12
 - Nehemiah 12
-tags : Bible/Ne/12
+tags : 
+- Bible/Ne/12
+- latin
+cssclass : bible-latin
 ---
 
 # Nehemié 12

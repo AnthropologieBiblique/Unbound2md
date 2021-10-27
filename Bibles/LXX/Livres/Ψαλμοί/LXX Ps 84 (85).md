@@ -4,7 +4,10 @@ aliases :
 - Psaumes 85 (84)
 - Ps 85 (84)
 - Psalms 85 (84)
-tags : Bible/Ps/85_84
+tags : 
+- Bible/Ps/85_84
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 84 (85)

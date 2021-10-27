@@ -4,7 +4,10 @@ aliases :
 - Genèse 26
 - Gn 26
 - Genesis 26
-tags : Bible/Gn/26
+tags : 
+- Bible/Gn/26
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 26

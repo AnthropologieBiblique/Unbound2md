@@ -4,7 +4,10 @@ aliases :
 - Isaïe 35
 - Is 35
 - Isaiah 35
-tags : Bible/Is/35
+tags : 
+- Bible/Is/35
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 35

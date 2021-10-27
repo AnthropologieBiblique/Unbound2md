@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 24
 - Ez 24
 - Ezekiel 24
-tags : Bible/Ez/24
+tags : 
+- Bible/Ez/24
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 24

@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 1
 - 2 Samuel 1
 - 2 S 1
-tags : Bible/2S/1
+tags : 
+- Bible/2S/1
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 1

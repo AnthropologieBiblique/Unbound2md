@@ -4,7 +4,10 @@ aliases :
 - Siracide 50
 - Si 50
 - Ecclesiasticus 50
-tags : Bible/Si/50
+tags : 
+- Bible/Si/50
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 50

@@ -3,7 +3,10 @@ aliases :
 - Job 21
 - Job 21
 - Jb 21
-tags : Bible/Jb/21
+tags : 
+- Bible/Jb/21
+- français
+cssclass : bible-français
 ---
 
 # Job 21

@@ -3,7 +3,10 @@ aliases :
 - Θρῆνοι 1
 - Lamentations 1
 - Lm 1
-tags : Bible/Lm/1
+tags : 
+- Bible/Lm/1
+- grec
+cssclass : bible-grec
 ---
 
 # Θρῆνοι 1

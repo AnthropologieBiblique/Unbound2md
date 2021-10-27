@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 20
 - 2 Samuel 20
 - 2 S 20
-tags : Bible/2S/20
+tags : 
+- Bible/2S/20
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 20

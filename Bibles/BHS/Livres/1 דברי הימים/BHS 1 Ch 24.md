@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 24
 - 1 Ch 24
 - 1 Chronicles 24
-tags : Bible/1Ch/24
+tags : 
+- Bible/1Ch/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 24

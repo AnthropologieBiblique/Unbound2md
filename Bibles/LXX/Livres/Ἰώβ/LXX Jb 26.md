@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 26
 - Job 26
 - Jb 26
-tags : Bible/Jb/26
+tags : 
+- Bible/Jb/26
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 26

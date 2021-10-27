@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 5
 - Ez 5
 - Ezekiel 5
-tags : Bible/Ez/5
+tags : 
+- Bible/Ez/5
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 5

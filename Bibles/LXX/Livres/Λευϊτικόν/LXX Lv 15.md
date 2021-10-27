@@ -4,7 +4,10 @@ aliases :
 - Lévitique 15
 - Lv 15
 - Leviticus 15
-tags : Bible/Lv/15
+tags : 
+- Bible/Lv/15
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 15

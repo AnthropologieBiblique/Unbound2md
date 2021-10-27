@@ -4,7 +4,10 @@ aliases :
 - Michée 7
 - Mi 7
 - Micah 7
-tags : Bible/Mi/7
+tags : 
+- Bible/Mi/7
+- grec
+cssclass : bible-grec
 ---
 
 # Μιχαίας Γʹ 7

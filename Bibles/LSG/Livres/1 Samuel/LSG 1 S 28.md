@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 28
 - 1 Samuel 28
 - 1 S 28
-tags : Bible/1S/28
+tags : 
+- Bible/1S/28
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 28

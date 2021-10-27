@@ -4,7 +4,10 @@ aliases :
 - Proverbes 31
 - Pr 31
 - Proverbs 31
-tags : Bible/Pr/31
+tags : 
+- Bible/Pr/31
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 31

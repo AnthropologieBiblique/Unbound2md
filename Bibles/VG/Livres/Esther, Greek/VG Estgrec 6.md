@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 6
 - Estgrec 6
 - Esther, Greek 6
-tags : Bible/Estgrec/6
+tags : 
+- Bible/Estgrec/6
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 6

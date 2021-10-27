@@ -4,7 +4,10 @@ aliases :
 - Psaumes 43 (42)
 - Ps 43 (42)
 - Psalms 43 (42)
-tags : Bible/Ps/43_42
+tags : 
+- Bible/Ps/43_42
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 43 (42)

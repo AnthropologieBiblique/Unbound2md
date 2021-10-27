@@ -4,7 +4,10 @@ aliases :
 - Matthieu 13
 - Mt 13
 - Matthew 13
-tags : Bible/Mt/13
+tags : 
+- Bible/Mt/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 13

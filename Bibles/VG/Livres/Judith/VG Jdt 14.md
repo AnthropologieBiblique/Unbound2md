@@ -3,7 +3,10 @@ aliases :
 - Judith 14
 - Judith 14
 - Jdt 14
-tags : Bible/Jdt/14
+tags : 
+- Bible/Jdt/14
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 14

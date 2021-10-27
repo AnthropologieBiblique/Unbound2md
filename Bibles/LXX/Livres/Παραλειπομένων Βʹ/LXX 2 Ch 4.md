@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 4
 - 2 Ch 4
 - 2 Chronicles 4
-tags : Bible/2Ch/4
+tags : 
+- Bible/2Ch/4
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 4

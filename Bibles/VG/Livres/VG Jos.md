@@ -4,7 +4,10 @@ aliases :
 - Josué
 - Jos
 - Joshua
-tags : Bible/Jos
+tags : 
+- Bible/Jos
+- latin
+cssclass : bible-latin
 ---
 
 # Josue

@@ -4,7 +4,10 @@ aliases :
 - Matthieu 24
 - Mt 24
 - Matthew 24
-tags : Bible/Mt/24
+tags : 
+- Bible/Mt/24
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 24

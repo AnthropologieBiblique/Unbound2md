@@ -3,7 +3,10 @@ aliases :
 - Danielis 4
 - Daniel 4
 - Dn 4
-tags : Bible/Dn/4
+tags : 
+- Bible/Dn/4
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 4

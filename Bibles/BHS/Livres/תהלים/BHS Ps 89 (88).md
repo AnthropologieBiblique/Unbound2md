@@ -4,7 +4,10 @@ aliases :
 - Psaumes 89 (88)
 - Ps 89 (88)
 - Psalms 89 (88)
-tags : Bible/Ps/89_88
+tags : 
+- Bible/Ps/89_88
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 89 (88)

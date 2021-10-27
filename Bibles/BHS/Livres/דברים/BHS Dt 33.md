@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 33
 - Dt 33
 - Deuteronomy 33
-tags : Bible/Dt/33
+tags : 
+- Bible/Dt/33
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 33

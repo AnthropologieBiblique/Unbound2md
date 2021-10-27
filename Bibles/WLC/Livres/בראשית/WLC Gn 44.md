@@ -4,7 +4,10 @@ aliases :
 - Genèse 44
 - Gn 44
 - Genesis 44
-tags : Bible/Gn/44
+tags : 
+- Bible/Gn/44
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 44

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 41
 - Jr 41
 - Jeremiah 41
-tags : Bible/Jr/41
+tags : 
+- Bible/Jr/41
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 41

@@ -4,7 +4,10 @@ aliases :
 - Tobie 2
 - Tb 2
 - Tobit 2
-tags : Bible/Tb/2
+tags : 
+- Bible/Tb/2
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 2

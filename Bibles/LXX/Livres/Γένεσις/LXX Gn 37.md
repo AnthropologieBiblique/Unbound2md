@@ -4,7 +4,10 @@ aliases :
 - Genèse 37
 - Gn 37
 - Genesis 37
-tags : Bible/Gn/37
+tags : 
+- Bible/Gn/37
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 37

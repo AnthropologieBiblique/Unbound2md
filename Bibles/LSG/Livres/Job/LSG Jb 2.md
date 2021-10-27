@@ -3,7 +3,10 @@ aliases :
 - Job 2
 - Job 2
 - Jb 2
-tags : Bible/Jb/2
+tags : 
+- Bible/Jb/2
+- français
+cssclass : bible-français
 ---
 
 # Job 2

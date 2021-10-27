@@ -4,7 +4,10 @@ aliases :
 - Marc 14
 - Mc 14
 - Mark 14
-tags : Bible/Mc/14
+tags : 
+- Bible/Mc/14
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Marcum 14

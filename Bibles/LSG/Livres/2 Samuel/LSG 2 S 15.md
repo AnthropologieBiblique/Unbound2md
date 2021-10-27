@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 15
 - 2 Samuel 15
 - 2 S 15
-tags : Bible/2S/15
+tags : 
+- Bible/2S/15
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 15

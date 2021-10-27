@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 4
 - 1 Samuel 4
 - 1 S 4
-tags : Bible/1S/4
+tags : 
+- Bible/1S/4
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 4

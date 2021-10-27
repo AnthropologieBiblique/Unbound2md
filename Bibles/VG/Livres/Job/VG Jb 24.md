@@ -3,7 +3,10 @@ aliases :
 - Job 24
 - Job 24
 - Jb 24
-tags : Bible/Jb/24
+tags : 
+- Bible/Jb/24
+- latin
+cssclass : bible-latin
 ---
 
 # Job 24

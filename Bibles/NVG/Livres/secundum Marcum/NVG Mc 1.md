@@ -4,7 +4,10 @@ aliases :
 - Marc 1
 - Mc 1
 - Mark 1
-tags : Bible/Mc/1
+tags : 
+- Bible/Mc/1
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Marcum 1

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 7
 - Dt 7
 - Deuteronomy 7
-tags : Bible/Dt/7
+tags : 
+- Bible/Dt/7
+- grec
+cssclass : bible-grec
 ---
 
 # Δευτερονόμιον 7

@@ -4,7 +4,10 @@ aliases :
 - Siracide 23
 - Si 23
 - Ecclesiasticus 23
-tags : Bible/Si/23
+tags : 
+- Bible/Si/23
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 23

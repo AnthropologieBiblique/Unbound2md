@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 15
 - 1 Samuel 15
 - 1 S 15
-tags : Bible/1S/15
+tags : 
+- Bible/1S/15
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 15

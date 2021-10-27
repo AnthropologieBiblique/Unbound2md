@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 25
 - Job 25
 - Jb 25
-tags : Bible/Jb/25
+tags : 
+- Bible/Jb/25
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 25

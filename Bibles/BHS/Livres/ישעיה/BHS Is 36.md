@@ -4,7 +4,10 @@ aliases :
 - Isaïe 36
 - Is 36
 - Isaiah 36
-tags : Bible/Is/36
+tags : 
+- Bible/Is/36
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 36

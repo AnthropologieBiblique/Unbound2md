@@ -4,7 +4,10 @@ aliases :
 - Actes 18
 - Ac 18
 - Acts of the Apostles 18
-tags : Bible/Ac/18
+tags : 
+- Bible/Ac/18
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 18

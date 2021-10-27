@@ -3,7 +3,10 @@ aliases :
 - Job 5
 - Job 5
 - Jb 5
-tags : Bible/Jb/5
+tags : 
+- Bible/Jb/5
+- français
+cssclass : bible-français
 ---
 
 # Job 5

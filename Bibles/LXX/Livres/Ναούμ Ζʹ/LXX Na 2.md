@@ -3,7 +3,10 @@ aliases :
 - Ναούμ Ζʹ 2
 - Nahum 1
 - Na 1
-tags : Bible/Na/1
+tags : 
+- Bible/Na/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ναούμ Ζʹ 2

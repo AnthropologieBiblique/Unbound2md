@@ -4,7 +4,10 @@ aliases :
 - Matthieu 27
 - Mt 27
 - Matthew 27
-tags : Bible/Mt/27
+tags : 
+- Bible/Mt/27
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 27

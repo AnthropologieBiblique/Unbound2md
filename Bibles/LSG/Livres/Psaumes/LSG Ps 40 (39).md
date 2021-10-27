@@ -4,7 +4,10 @@ aliases :
 - Psaumes 40 (39)
 - Ps 40 (39)
 - Psalms 40 (39)
-tags : Bible/Ps/40_39
+tags : 
+- Bible/Ps/40_39
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 40 (39)

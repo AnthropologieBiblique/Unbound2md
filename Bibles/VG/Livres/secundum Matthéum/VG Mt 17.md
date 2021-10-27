@@ -4,7 +4,10 @@ aliases :
 - Matthieu 17
 - Mt 17
 - Matthew 17
-tags : Bible/Mt/17
+tags : 
+- Bible/Mt/17
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 17

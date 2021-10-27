@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 25
 - 1 Samuel 25
 - 1 S 25
-tags : Bible/1S/25
+tags : 
+- Bible/1S/25
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 25

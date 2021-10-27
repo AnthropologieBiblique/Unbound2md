@@ -4,7 +4,10 @@ aliases :
 - Hébreux
 - He
 - Hebrews
-tags : Bible/He
+tags : 
+- Bible/He
+- latin
+cssclass : bible-latin
 ---
 
 # ad Hebréos

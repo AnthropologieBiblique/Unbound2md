@@ -3,7 +3,10 @@ aliases :
 - Job 28
 - Job 28
 - Jb 28
-tags : Bible/Jb/28
+tags : 
+- Bible/Jb/28
+- latin
+cssclass : bible-latin
 ---
 
 # Job 28

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 6
 - Jr 6
 - Jeremiah 6
-tags : Bible/Jr/6
+tags : 
+- Bible/Jr/6
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 6

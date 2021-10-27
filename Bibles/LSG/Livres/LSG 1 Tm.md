@@ -4,7 +4,10 @@ aliases :
 - 1 Timothée
 - 1 Tm
 - 1 Timothy
-tags : Bible/1Tm
+tags : 
+- Bible/1Tm
+- français
+cssclass : bible-français
 ---
 
 # 1 Timothée

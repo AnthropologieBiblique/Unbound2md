@@ -4,7 +4,10 @@ aliases :
 - Psaumes 56 (55)
 - Ps 56 (55)
 - Psalms 56 (55)
-tags : Bible/Ps/56_55
+tags : 
+- Bible/Ps/56_55
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 56 (55)

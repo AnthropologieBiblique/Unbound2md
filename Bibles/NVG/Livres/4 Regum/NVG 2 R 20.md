@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 20
 - 2 R 20
 - 2 Kings 20
-tags : Bible/2R/20
+tags : 
+- Bible/2R/20
+- latin
+cssclass : bible-latin
 ---
 
 # 4 Regum 20

@@ -4,7 +4,10 @@ aliases :
 - 2 Pierre
 - 2 P
 - 2 Peter
-tags : Bible/2P
+tags : 
+- Bible/2P
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Petri

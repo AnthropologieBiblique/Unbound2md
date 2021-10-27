@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 7
 - 1 Samuel 7
 - 1 S 7
-tags : Bible/1S/7
+tags : 
+- Bible/1S/7
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 7

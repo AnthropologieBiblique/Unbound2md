@@ -4,7 +4,10 @@ aliases :
 - Proverbes 12
 - Pr 12
 - Proverbs 12
-tags : Bible/Pr/12
+tags : 
+- Bible/Pr/12
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 12

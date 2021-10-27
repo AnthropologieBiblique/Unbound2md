@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 2
 - Ct 2
 - Song of Solomon 2
-tags : Bible/Ct/2
+tags : 
+- Bible/Ct/2
+- latin
+cssclass : bible-latin
 ---
 
 # Canticum Canticorum 2

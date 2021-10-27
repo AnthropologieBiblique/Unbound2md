@@ -4,7 +4,10 @@ aliases :
 - Actes 14
 - Ac 14
 - Acts of the Apostles 14
-tags : Bible/Ac/14
+tags : 
+- Bible/Ac/14
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 14

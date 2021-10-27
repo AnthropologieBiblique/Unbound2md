@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 5
 - 1 Samuel 5
 - 1 S 5
-tags : Bible/1S/5
+tags : 
+- Bible/1S/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 5

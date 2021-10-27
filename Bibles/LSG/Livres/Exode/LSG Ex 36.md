@@ -4,7 +4,10 @@ aliases :
 - Exode 36
 - Ex 36
 - Exodus 36
-tags : Bible/Ex/36
+tags : 
+- Bible/Ex/36
+- français
+cssclass : bible-français
 ---
 
 # Exode 36

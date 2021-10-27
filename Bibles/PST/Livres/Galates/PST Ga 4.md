@@ -4,7 +4,10 @@ aliases :
 - Galates 4
 - Ga 4
 - Galatians 4
-tags : Bible/Ga/4
+tags : 
+- Bible/Ga/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Galates 4

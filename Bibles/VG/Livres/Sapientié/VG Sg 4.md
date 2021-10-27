@@ -4,7 +4,10 @@ aliases :
 - Sagesse 4
 - Sg 4
 - Wisdom of Solomon 4
-tags : Bible/Sg/4
+tags : 
+- Bible/Sg/4
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 4

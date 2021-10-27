@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 9
 - 2 Co 9
 - 2 Corinthians 9
-tags : Bible/2Co/9
+tags : 
+- Bible/2Co/9
+- français
+cssclass : bible-français
 ---
 
 # 2 Corinthiens 9

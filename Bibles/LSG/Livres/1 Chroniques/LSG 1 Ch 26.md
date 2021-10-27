@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 26
 - 1 Ch 26
 - 1 Chronicles 26
-tags : Bible/1Ch/26
+tags : 
+- Bible/1Ch/26
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 26

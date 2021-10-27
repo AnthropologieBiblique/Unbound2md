@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 11
 - 2 Ch 11
 - 2 Chronicles 11
-tags : Bible/2Ch/11
+tags : 
+- Bible/2Ch/11
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 11

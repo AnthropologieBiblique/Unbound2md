@@ -4,7 +4,10 @@ aliases :
 - Osée 5
 - Os 5
 - Hosea 5
-tags : Bible/Os/5
+tags : 
+- Bible/Os/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # הושע 5

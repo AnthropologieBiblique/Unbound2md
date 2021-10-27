@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 20
 - 2 R 20
 - 2 Kings 20
-tags : Bible/2R/20
+tags : 
+- Bible/2R/20
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 20

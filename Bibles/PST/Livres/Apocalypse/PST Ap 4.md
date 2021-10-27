@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 4
 - Ap 4
 - Revelation 4
-tags : Bible/Ap/4
+tags : 
+- Bible/Ap/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 4

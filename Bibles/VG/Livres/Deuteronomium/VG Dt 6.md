@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 6
 - Dt 6
 - Deuteronomy 6
-tags : Bible/Dt/6
+tags : 
+- Bible/Dt/6
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 6

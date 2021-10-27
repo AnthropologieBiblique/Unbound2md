@@ -4,7 +4,10 @@ aliases :
 - Exode 17
 - Ex 17
 - Exodus 17
-tags : Bible/Ex/17
+tags : 
+- Bible/Ex/17
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 17

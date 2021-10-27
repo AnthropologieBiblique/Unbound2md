@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 7
 - 1 Ch 7
 - 1 Chronicles 7
-tags : Bible/1Ch/7
+tags : 
+- Bible/1Ch/7
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 7

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 46
 - Jr 46
 - Jeremiah 46
-tags : Bible/Jr/46
+tags : 
+- Bible/Jr/46
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 46

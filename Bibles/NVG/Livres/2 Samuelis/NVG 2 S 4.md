@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 4
 - 2 Samuel 4
 - 2 S 4
-tags : Bible/2S/4
+tags : 
+- Bible/2S/4
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 4

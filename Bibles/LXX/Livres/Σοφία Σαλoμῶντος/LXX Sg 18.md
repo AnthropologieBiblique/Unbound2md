@@ -4,7 +4,10 @@ aliases :
 - Sagesse 18
 - Sg 18
 - Wisdom of Solomon 18
-tags : Bible/Sg/18
+tags : 
+- Bible/Sg/18
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 18

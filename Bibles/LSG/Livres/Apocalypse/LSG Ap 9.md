@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 9
 - Ap 9
 - Revelation 9
-tags : Bible/Ap/9
+tags : 
+- Bible/Ap/9
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 9

@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 19
 - 2 R 19
 - 2 Kings 19
-tags : Bible/2R/19
+tags : 
+- Bible/2R/19
+- français
+cssclass : bible-français
 ---
 
 # 2 Rois 19

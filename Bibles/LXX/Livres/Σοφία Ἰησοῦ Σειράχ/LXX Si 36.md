@@ -4,7 +4,10 @@ aliases :
 - Siracide 36
 - Si 36
 - Ecclesiasticus 36
-tags : Bible/Si/36
+tags : 
+- Bible/Si/36
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 36

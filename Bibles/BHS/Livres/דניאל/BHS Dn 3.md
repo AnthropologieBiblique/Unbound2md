@@ -3,7 +3,10 @@ aliases :
 - דניאל 3
 - Daniel 3
 - Dn 3
-tags : Bible/Dn/3
+tags : 
+- Bible/Dn/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 3

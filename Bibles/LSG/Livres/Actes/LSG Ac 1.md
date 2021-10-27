@@ -4,7 +4,10 @@ aliases :
 - Actes 1
 - Ac 1
 - Acts of the Apostles 1
-tags : Bible/Ac/1
+tags : 
+- Bible/Ac/1
+- français
+cssclass : bible-français
 ---
 
 # Actes 1

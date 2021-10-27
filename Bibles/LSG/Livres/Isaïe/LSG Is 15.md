@@ -4,7 +4,10 @@ aliases :
 - Isaïe 15
 - Is 15
 - Isaiah 15
-tags : Bible/Is/15
+tags : 
+- Bible/Is/15
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 15

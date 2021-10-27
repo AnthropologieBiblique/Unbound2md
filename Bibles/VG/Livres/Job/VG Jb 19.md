@@ -3,7 +3,10 @@ aliases :
 - Job 19
 - Job 19
 - Jb 19
-tags : Bible/Jb/19
+tags : 
+- Bible/Jb/19
+- latin
+cssclass : bible-latin
 ---
 
 # Job 19

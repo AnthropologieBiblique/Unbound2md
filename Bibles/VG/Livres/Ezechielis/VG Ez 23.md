@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 23
 - Ez 23
 - Ezekiel 23
-tags : Bible/Ez/23
+tags : 
+- Bible/Ez/23
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 23

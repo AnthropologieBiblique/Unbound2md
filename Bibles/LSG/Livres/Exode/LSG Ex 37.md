@@ -4,7 +4,10 @@ aliases :
 - Exode 37
 - Ex 37
 - Exodus 37
-tags : Bible/Ex/37
+tags : 
+- Bible/Ex/37
+- français
+cssclass : bible-français
 ---
 
 # Exode 37

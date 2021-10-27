@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 15
 - Dt 15
 - Deuteronomy 15
-tags : Bible/Dt/15
+tags : 
+- Bible/Dt/15
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 15

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 25
 - Jr 25
 - Jeremiah 25
-tags : Bible/Jr/25
+tags : 
+- Bible/Jr/25
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 25

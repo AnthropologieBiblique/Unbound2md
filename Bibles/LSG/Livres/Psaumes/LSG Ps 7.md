@@ -4,7 +4,10 @@ aliases :
 - Psaumes 7
 - Ps 7
 - Psalms 7
-tags : Bible/Ps/7
+tags : 
+- Bible/Ps/7
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 7

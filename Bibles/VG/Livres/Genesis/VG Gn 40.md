@@ -4,7 +4,10 @@ aliases :
 - Genèse 40
 - Gn 40
 - Genesis 40
-tags : Bible/Gn/40
+tags : 
+- Bible/Gn/40
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 40

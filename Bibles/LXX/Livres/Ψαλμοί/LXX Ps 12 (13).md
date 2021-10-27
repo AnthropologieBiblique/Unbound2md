@@ -4,7 +4,10 @@ aliases :
 - Psaumes 13 (12)
 - Ps 13 (12)
 - Psalms 13 (12)
-tags : Bible/Ps/13_12
+tags : 
+- Bible/Ps/13_12
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 12 (13)

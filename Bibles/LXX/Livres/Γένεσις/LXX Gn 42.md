@@ -4,7 +4,10 @@ aliases :
 - Genèse 42
 - Gn 42
 - Genesis 42
-tags : Bible/Gn/42
+tags : 
+- Bible/Gn/42
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 42

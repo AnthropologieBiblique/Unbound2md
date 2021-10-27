@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 17
 - 1 Ch 17
 - 1 Chronicles 17
-tags : Bible/1Ch/17
+tags : 
+- Bible/1Ch/17
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 17

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 17
 - 2 Ch 17
 - 2 Chronicles 17
-tags : Bible/2Ch/17
+tags : 
+- Bible/2Ch/17
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 17

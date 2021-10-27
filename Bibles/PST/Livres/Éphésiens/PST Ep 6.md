@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 6
 - Ep 6
 - Ephesians 6
-tags : Bible/Ep/6
+tags : 
+- Bible/Ep/6
+- araméen
+cssclass : bible-araméen
 ---
 
 # Éphésiens 6

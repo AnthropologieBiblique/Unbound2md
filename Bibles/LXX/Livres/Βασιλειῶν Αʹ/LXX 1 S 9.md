@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 9
 - 1 Samuel 9
 - 1 S 9
-tags : Bible/1S/9
+tags : 
+- Bible/1S/9
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 9

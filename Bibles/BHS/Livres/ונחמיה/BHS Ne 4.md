@@ -4,7 +4,10 @@ aliases :
 - Néhémie 4
 - Ne 4
 - Nehemiah 4
-tags : Bible/Ne/4
+tags : 
+- Bible/Ne/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ונחמיה 4

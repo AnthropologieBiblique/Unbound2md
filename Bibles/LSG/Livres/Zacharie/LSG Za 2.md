@@ -4,7 +4,10 @@ aliases :
 - Zacharie 2
 - Za 2
 - Zechariah 2
-tags : Bible/Za/2
+tags : 
+- Bible/Za/2
+- français
+cssclass : bible-français
 ---
 
 # Zacharie 2

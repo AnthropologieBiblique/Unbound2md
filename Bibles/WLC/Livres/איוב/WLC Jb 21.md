@@ -3,7 +3,10 @@ aliases :
 - איוב 21
 - Job 21
 - Jb 21
-tags : Bible/Jb/21
+tags : 
+- Bible/Jb/21
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 21

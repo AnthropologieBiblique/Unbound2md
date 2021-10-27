@@ -4,7 +4,10 @@ aliases :
 - Actes 28
 - Ac 28
 - Acts of the Apostles 28
-tags : Bible/Ac/28
+tags : 
+- Bible/Ac/28
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 28

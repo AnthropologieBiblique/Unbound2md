@@ -3,7 +3,10 @@ aliases :
 - איוב 6
 - Job 6
 - Jb 6
-tags : Bible/Jb/6
+tags : 
+- Bible/Jb/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 6

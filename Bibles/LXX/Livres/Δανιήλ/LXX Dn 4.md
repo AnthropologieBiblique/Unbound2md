@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 4
 - Daniel 4
 - Dn 4
-tags : Bible/Dn/4
+tags : 
+- Bible/Dn/4
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 4

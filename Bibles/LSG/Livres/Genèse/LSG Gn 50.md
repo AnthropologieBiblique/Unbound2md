@@ -4,7 +4,10 @@ aliases :
 - Genèse 50
 - Gn 50
 - Genesis 50
-tags : Bible/Gn/50
+tags : 
+- Bible/Gn/50
+- français
+cssclass : bible-français
 ---
 
 # Genèse 50

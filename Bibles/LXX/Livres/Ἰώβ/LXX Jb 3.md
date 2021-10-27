@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 3
 - Job 3
 - Jb 3
-tags : Bible/Jb/3
+tags : 
+- Bible/Jb/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 3

@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 4
 - Ps Sal 4
 - Psalm of Solomon 4
-tags : Bible/PsSal/4
+tags : 
+- Bible/PsSal/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 4

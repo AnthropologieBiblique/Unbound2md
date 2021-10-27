@@ -4,7 +4,10 @@ aliases :
 - Romains 11
 - Rm 11
 - Romans 11
-tags : Bible/Rm/11
+tags : 
+- Bible/Rm/11
+- latin
+cssclass : bible-latin
 ---
 
 # ad Romanos 11

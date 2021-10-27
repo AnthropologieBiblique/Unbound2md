@@ -3,7 +3,10 @@ aliases :
 - Ἐσθήρ 3
 - Esther 3
 - Est 3
-tags : Bible/Est/3
+tags : 
+- Bible/Est/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 3

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 9 (9A)
 - Ps 9 (9A)
 - Psalms 9 (9A)
-tags : Bible/Ps/9_9A
+tags : 
+- Bible/Ps/9_9A
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 9 (9A)

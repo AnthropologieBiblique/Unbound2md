@@ -3,7 +3,10 @@ aliases :
 - Θρῆνοι 5
 - Lamentations 5
 - Lm 5
-tags : Bible/Lm/5
+tags : 
+- Bible/Lm/5
+- grec
+cssclass : bible-grec
 ---
 
 # Θρῆνοι 5

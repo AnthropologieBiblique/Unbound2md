@@ -4,7 +4,10 @@ aliases :
 - Psaumes 57 (56)
 - Ps 57 (56)
 - Psalms 57 (56)
-tags : Bible/Ps/57_56
+tags : 
+- Bible/Ps/57_56
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 57 (56)

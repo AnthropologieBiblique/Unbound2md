@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Γʹ 4
 - 3 Maccabees 4
 - 3 M 4
-tags : Bible/3M/4
+tags : 
+- Bible/3M/4
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Γʹ 4

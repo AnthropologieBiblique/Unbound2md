@@ -4,7 +4,10 @@ aliases :
 - Matthieu 3
 - Mt 3
 - Matthew 3
-tags : Bible/Mt/3
+tags : 
+- Bible/Mt/3
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 3

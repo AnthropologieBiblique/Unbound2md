@@ -3,7 +3,10 @@ aliases :
 - איוב 24
 - Job 24
 - Jb 24
-tags : Bible/Jb/24
+tags : 
+- Bible/Jb/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 24

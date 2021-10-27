@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 16
 - 1 Ch 16
 - 1 Chronicles 16
-tags : Bible/1Ch/16
+tags : 
+- Bible/1Ch/16
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 16

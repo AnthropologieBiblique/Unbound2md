@@ -4,7 +4,10 @@ aliases :
 - Zacharie 12
 - Za 12
 - Zechariah 12
-tags : Bible/Za/12
+tags : 
+- Bible/Za/12
+- grec
+cssclass : bible-grec
 ---
 
 # Ζαχαρίας ΙΑʹ 12

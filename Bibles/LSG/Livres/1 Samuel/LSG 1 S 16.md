@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 16
 - 1 Samuel 16
 - 1 S 16
-tags : Bible/1S/16
+tags : 
+- Bible/1S/16
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 16

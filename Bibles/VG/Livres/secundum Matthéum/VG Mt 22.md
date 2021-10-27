@@ -4,7 +4,10 @@ aliases :
 - Matthieu 22
 - Mt 22
 - Matthew 22
-tags : Bible/Mt/22
+tags : 
+- Bible/Mt/22
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 22

@@ -3,7 +3,10 @@ aliases :
 - Esther
 - Esther
 - Est
-tags : Bible/Est
+tags : 
+- Bible/Est
+- français
+cssclass : bible-français
 ---
 
 # Esther

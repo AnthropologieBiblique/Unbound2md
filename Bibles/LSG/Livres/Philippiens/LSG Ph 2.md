@@ -4,7 +4,10 @@ aliases :
 - Philippiens 2
 - Ph 2
 - Philippians 2
-tags : Bible/Ph/2
+tags : 
+- Bible/Ph/2
+- français
+cssclass : bible-français
 ---
 
 # Philippiens 2

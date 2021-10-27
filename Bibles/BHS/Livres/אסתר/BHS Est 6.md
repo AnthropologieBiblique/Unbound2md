@@ -3,7 +3,10 @@ aliases :
 - אסתר 6
 - Esther 6
 - Est 6
-tags : Bible/Est/6
+tags : 
+- Bible/Est/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 6

@@ -3,7 +3,10 @@ aliases :
 - Job 29
 - Job 29
 - Jb 29
-tags : Bible/Jb/29
+tags : 
+- Bible/Jb/29
+- latin
+cssclass : bible-latin
 ---
 
 # Job 29

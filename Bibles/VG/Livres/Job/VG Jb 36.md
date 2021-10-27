@@ -3,7 +3,10 @@ aliases :
 - Job 36
 - Job 36
 - Jb 36
-tags : Bible/Jb/36
+tags : 
+- Bible/Jb/36
+- latin
+cssclass : bible-latin
 ---
 
 # Job 36

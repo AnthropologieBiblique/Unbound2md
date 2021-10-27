@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 14
 - 2 Maccabees 14
 - 2 M 14
-tags : Bible/2M/14
+tags : 
+- Bible/2M/14
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 14

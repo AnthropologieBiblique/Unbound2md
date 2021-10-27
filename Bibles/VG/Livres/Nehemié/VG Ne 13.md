@@ -4,7 +4,10 @@ aliases :
 - Néhémie 13
 - Ne 13
 - Nehemiah 13
-tags : Bible/Ne/13
+tags : 
+- Bible/Ne/13
+- latin
+cssclass : bible-latin
 ---
 
 # Nehemié 13

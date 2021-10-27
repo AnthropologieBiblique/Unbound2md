@@ -4,7 +4,10 @@ aliases :
 - Exode 14
 - Ex 14
 - Exodus 14
-tags : Bible/Ex/14
+tags : 
+- Bible/Ex/14
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 14

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 36 (35)
 - Ps 36 (35)
 - Psalms 36 (35)
-tags : Bible/Ps/36_35
+tags : 
+- Bible/Ps/36_35
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 35 (36)

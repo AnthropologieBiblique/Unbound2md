@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques
 - 1 Ch
 - 1 Chronicles
-tags : Bible/1Ch
+tags : 
+- Bible/1Ch
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Αʹ

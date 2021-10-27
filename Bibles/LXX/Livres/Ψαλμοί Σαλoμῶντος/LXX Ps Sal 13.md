@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 13
 - Ps Sal 13
 - Psalm of Solomon 13
-tags : Bible/PsSal/13
+tags : 
+- Bible/PsSal/13
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 13

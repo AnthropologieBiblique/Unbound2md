@@ -3,7 +3,10 @@ aliases :
 - Ῥούθ 4
 - Ruth 4
 - Rt 4
-tags : Bible/Rt/4
+tags : 
+- Bible/Rt/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ῥούθ 4

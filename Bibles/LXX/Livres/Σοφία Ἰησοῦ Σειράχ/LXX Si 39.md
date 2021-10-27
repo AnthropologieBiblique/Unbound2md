@@ -4,7 +4,10 @@ aliases :
 - Siracide 39
 - Si 39
 - Ecclesiasticus 39
-tags : Bible/Si/39
+tags : 
+- Bible/Si/39
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 39

@@ -3,7 +3,10 @@ aliases :
 - Daniel 10
 - Daniel 10
 - Dn 10
-tags : Bible/Dn/10
+tags : 
+- Bible/Dn/10
+- français
+cssclass : bible-français
 ---
 
 # Daniel 10

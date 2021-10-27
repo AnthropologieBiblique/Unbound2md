@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 12
 - 2 Co 12
 - 2 Corinthians 12
-tags : Bible/2Co/12
+tags : 
+- Bible/2Co/12
+- latin
+cssclass : bible-latin
 ---
 
 # 2 ad Corinthios 12

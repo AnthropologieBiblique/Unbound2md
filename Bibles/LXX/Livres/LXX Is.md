@@ -4,7 +4,10 @@ aliases :
 - Isaïe
 - Is
 - Isaiah
-tags : Bible/Is
+tags : 
+- Bible/Is
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας

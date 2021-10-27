@@ -4,7 +4,10 @@ aliases :
 - Néhémie 5
 - Ne 5
 - Nehemiah 5
-tags : Bible/Ne/5
+tags : 
+- Bible/Ne/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ונחמיה 5

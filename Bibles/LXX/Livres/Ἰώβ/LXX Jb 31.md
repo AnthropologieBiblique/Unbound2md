@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 31
 - Job 31
 - Jb 31
-tags : Bible/Jb/31
+tags : 
+- Bible/Jb/31
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 31

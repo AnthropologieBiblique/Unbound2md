@@ -3,7 +3,10 @@ aliases :
 - Job 7
 - Job 7
 - Jb 7
-tags : Bible/Jb/7
+tags : 
+- Bible/Jb/7
+- latin
+cssclass : bible-latin
 ---
 
 # Job 7

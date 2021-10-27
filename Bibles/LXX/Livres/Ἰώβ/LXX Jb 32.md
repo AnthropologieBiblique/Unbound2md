@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 32
 - Job 32
 - Jb 32
-tags : Bible/Jb/32
+tags : 
+- Bible/Jb/32
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 32

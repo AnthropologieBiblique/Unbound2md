@@ -4,7 +4,10 @@ aliases :
 - Siracide 38
 - Si 38
 - Ecclesiasticus 38
-tags : Bible/Si/38
+tags : 
+- Bible/Si/38
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 38

@@ -4,7 +4,10 @@ aliases :
 - Tobie 4
 - Tb 4
 - Tobit 4
-tags : Bible/Tb/4
+tags : 
+- Bible/Tb/4
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 4

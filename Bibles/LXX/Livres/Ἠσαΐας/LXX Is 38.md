@@ -4,7 +4,10 @@ aliases :
 - Isaïe 38
 - Is 38
 - Isaiah 38
-tags : Bible/Is/38
+tags : 
+- Bible/Is/38
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 38

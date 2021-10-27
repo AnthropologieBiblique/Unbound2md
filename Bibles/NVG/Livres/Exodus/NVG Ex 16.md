@@ -4,7 +4,10 @@ aliases :
 - Exode 16
 - Ex 16
 - Exodus 16
-tags : Bible/Ex/16
+tags : 
+- Bible/Ex/16
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 16

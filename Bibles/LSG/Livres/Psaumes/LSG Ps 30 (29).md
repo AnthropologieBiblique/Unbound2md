@@ -4,7 +4,10 @@ aliases :
 - Psaumes 30 (29)
 - Ps 30 (29)
 - Psalms 30 (29)
-tags : Bible/Ps/30_29
+tags : 
+- Bible/Ps/30_29
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 30 (29)

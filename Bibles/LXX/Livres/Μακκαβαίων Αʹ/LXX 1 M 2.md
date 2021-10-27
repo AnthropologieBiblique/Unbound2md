@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 2
 - 1 Maccabees 2
 - 1 M 2
-tags : Bible/1M/2
+tags : 
+- Bible/1M/2
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 2

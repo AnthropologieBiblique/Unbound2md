@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 24
 - 2 R 24
 - 2 Kings 24
-tags : Bible/2R/24
+tags : 
+- Bible/2R/24
+- français
+cssclass : bible-français
 ---
 
 # 2 Rois 24

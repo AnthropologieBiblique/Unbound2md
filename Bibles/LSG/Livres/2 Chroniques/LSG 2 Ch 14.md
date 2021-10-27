@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 14
 - 2 Ch 14
 - 2 Chronicles 14
-tags : Bible/2Ch/14
+tags : 
+- Bible/2Ch/14
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 14

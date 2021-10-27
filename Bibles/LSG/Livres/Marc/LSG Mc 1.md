@@ -4,7 +4,10 @@ aliases :
 - Marc 1
 - Mc 1
 - Mark 1
-tags : Bible/Mc/1
+tags : 
+- Bible/Mc/1
+- français
+cssclass : bible-français
 ---
 
 # Marc 1

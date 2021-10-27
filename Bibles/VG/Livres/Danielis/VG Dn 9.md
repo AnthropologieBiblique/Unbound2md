@@ -3,7 +3,10 @@ aliases :
 - Danielis 9
 - Daniel 9
 - Dn 9
-tags : Bible/Dn/9
+tags : 
+- Bible/Dn/9
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 9

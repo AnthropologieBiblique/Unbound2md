@@ -4,7 +4,10 @@ aliases :
 - Luc 7
 - Lc 7
 - Luke 7
-tags : Bible/Lc/7
+tags : 
+- Bible/Lc/7
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 7

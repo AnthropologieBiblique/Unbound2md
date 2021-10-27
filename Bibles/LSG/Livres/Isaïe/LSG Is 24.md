@@ -4,7 +4,10 @@ aliases :
 - Isaïe 24
 - Is 24
 - Isaiah 24
-tags : Bible/Is/24
+tags : 
+- Bible/Is/24
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 24

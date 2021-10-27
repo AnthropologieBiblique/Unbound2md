@@ -4,7 +4,10 @@ aliases :
 - Psaumes 29 (28)
 - Ps 29 (28)
 - Psalms 29 (28)
-tags : Bible/Ps/29_28
+tags : 
+- Bible/Ps/29_28
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 28 (29)

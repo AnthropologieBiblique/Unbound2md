@@ -4,7 +4,10 @@ aliases :
 - Hébreux 7
 - He 7
 - Hebrews 7
-tags : Bible/He/7
+tags : 
+- Bible/He/7
+- araméen
+cssclass : bible-araméen
 ---
 
 # Hébreux 7

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 69 (68)
 - Ps 69 (68)
 - Psalms 69 (68)
-tags : Bible/Ps/69_68
+tags : 
+- Bible/Ps/69_68
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 68 (69)

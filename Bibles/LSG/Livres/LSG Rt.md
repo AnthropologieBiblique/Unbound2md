@@ -3,7 +3,10 @@ aliases :
 - Ruth
 - Ruth
 - Rt
-tags : Bible/Rt
+tags : 
+- Bible/Rt
+- français
+cssclass : bible-français
 ---
 
 # Ruth

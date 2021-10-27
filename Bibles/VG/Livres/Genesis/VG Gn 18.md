@@ -4,7 +4,10 @@ aliases :
 - Genèse 18
 - Gn 18
 - Genesis 18
-tags : Bible/Gn/18
+tags : 
+- Bible/Gn/18
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 18

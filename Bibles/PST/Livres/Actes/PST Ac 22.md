@@ -4,7 +4,10 @@ aliases :
 - Actes 22
 - Ac 22
 - Acts of the Apostles 22
-tags : Bible/Ac/22
+tags : 
+- Bible/Ac/22
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 22

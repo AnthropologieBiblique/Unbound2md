@@ -4,7 +4,10 @@ aliases :
 - Sagesse 5
 - Sg 5
 - Wisdom of Solomon 5
-tags : Bible/Sg/5
+tags : 
+- Bible/Sg/5
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 5

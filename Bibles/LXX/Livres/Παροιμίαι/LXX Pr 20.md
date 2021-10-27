@@ -4,7 +4,10 @@ aliases :
 - Proverbes 20
 - Pr 20
 - Proverbs 20
-tags : Bible/Pr/20
+tags : 
+- Bible/Pr/20
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 20

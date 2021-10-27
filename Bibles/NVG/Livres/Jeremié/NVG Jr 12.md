@@ -4,7 +4,10 @@ aliases :
 - Jérémie 12
 - Jr 12
 - Jeremiah 12
-tags : Bible/Jr/12
+tags : 
+- Bible/Jr/12
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 12

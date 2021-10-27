@@ -4,7 +4,10 @@ aliases :
 - Sophonie 1
 - So 1
 - Zephaniah 1
-tags : Bible/So/1
+tags : 
+- Bible/So/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # צפניה 1

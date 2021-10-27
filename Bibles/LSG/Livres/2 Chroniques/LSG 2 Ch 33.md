@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 33
 - 2 Ch 33
 - 2 Chronicles 33
-tags : Bible/2Ch/33
+tags : 
+- Bible/2Ch/33
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 33

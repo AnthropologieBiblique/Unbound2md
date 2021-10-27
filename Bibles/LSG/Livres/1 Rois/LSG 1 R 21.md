@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 21
 - 1 R 21
 - 1 Kings 21
-tags : Bible/1R/21
+tags : 
+- Bible/1R/21
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 21

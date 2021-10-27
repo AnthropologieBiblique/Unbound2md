@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 22
 - 2 Samuel 22
 - 2 S 22
-tags : Bible/2S/22
+tags : 
+- Bible/2S/22
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 22

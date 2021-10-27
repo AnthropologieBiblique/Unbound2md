@@ -4,7 +4,10 @@ aliases :
 - Genèse 23
 - Gn 23
 - Genesis 23
-tags : Bible/Gn/23
+tags : 
+- Bible/Gn/23
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 23

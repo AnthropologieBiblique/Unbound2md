@@ -4,7 +4,10 @@ aliases :
 - Tobie 6
 - Tb 6
 - Tobit 6
-tags : Bible/Tb/6
+tags : 
+- Bible/Tb/6
+- grec
+cssclass : bible-grec
 ---
 
 # Τωβίτ 6

@@ -4,7 +4,10 @@ aliases :
 - Actes 5
 - Ac 5
 - Acts of the Apostles 5
-tags : Bible/Ac/5
+tags : 
+- Bible/Ac/5
+- français
+cssclass : bible-français
 ---
 
 # Actes 5

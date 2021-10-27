@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 15
 - Estgrec 15
 - Esther, Greek 15
-tags : Bible/Estgrec/15
+tags : 
+- Bible/Estgrec/15
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 5

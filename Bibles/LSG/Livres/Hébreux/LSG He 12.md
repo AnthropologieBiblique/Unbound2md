@@ -4,7 +4,10 @@ aliases :
 - Hébreux 12
 - He 12
 - Hebrews 12
-tags : Bible/He/12
+tags : 
+- Bible/He/12
+- français
+cssclass : bible-français
 ---
 
 # Hébreux 12

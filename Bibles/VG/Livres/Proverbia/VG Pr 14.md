@@ -4,7 +4,10 @@ aliases :
 - Proverbes 14
 - Pr 14
 - Proverbs 14
-tags : Bible/Pr/14
+tags : 
+- Bible/Pr/14
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 14

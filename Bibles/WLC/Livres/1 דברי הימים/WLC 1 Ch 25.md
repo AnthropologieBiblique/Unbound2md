@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 25
 - 1 Ch 25
 - 1 Chronicles 25
-tags : Bible/1Ch/25
+tags : 
+- Bible/1Ch/25
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 25

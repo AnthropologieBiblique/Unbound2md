@@ -4,7 +4,10 @@ aliases :
 - Marc 12
 - Mc 12
 - Mark 12
-tags : Bible/Mc/12
+tags : 
+- Bible/Mc/12
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Marcum 12

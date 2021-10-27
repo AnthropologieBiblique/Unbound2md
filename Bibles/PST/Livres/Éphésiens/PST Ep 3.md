@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 3
 - Ep 3
 - Ephesians 3
-tags : Bible/Ep/3
+tags : 
+- Bible/Ep/3
+- araméen
+cssclass : bible-araméen
 ---
 
 # Éphésiens 3

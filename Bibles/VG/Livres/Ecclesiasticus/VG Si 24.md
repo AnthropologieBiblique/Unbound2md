@@ -4,7 +4,10 @@ aliases :
 - Siracide 24
 - Si 24
 - Ecclesiasticus 24
-tags : Bible/Si/24
+tags : 
+- Bible/Si/24
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 24

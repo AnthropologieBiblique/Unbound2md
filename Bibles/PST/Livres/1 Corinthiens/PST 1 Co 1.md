@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 1
 - 1 Co 1
 - 1 Corinthians 1
-tags : Bible/1Co/1
+tags : 
+- Bible/1Co/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 1

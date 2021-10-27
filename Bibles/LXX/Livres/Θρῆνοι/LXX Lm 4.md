@@ -3,7 +3,10 @@ aliases :
 - Θρῆνοι 4
 - Lamentations 4
 - Lm 4
-tags : Bible/Lm/4
+tags : 
+- Bible/Lm/4
+- grec
+cssclass : bible-grec
 ---
 
 # Θρῆνοι 4

@@ -4,7 +4,10 @@ aliases :
 - Juges 4
 - Jg 4
 - Judges 4
-tags : Bible/Jg/4
+tags : 
+- Bible/Jg/4
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 4

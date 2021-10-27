@@ -4,7 +4,10 @@ aliases :
 - Zacharie 1
 - Za 1
 - Zechariah 1
-tags : Bible/Za/1
+tags : 
+- Bible/Za/1
+- latin
+cssclass : bible-latin
 ---
 
 # Zacharié 2

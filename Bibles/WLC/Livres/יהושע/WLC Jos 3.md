@@ -4,7 +4,10 @@ aliases :
 - Josué 3
 - Jos 3
 - Joshua 3
-tags : Bible/Jos/3
+tags : 
+- Bible/Jos/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יהושע 3

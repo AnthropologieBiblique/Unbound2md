@@ -3,7 +3,10 @@ aliases :
 - Judith 3
 - Judith 3
 - Jdt 3
-tags : Bible/Jdt/3
+tags : 
+- Bible/Jdt/3
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 3

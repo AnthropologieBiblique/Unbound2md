@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 16
 - Estgrec 16
 - Esther, Greek 16
-tags : Bible/Estgrec/16
+tags : 
+- Bible/Estgrec/16
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 16

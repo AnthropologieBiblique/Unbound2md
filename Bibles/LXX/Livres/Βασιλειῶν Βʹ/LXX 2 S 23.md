@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 23
 - 2 Samuel 23
 - 2 S 23
-tags : Bible/2S/23
+tags : 
+- Bible/2S/23
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 23

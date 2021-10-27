@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 1
 - Daniel 1
 - Dn 1
-tags : Bible/Dn/1
+tags : 
+- Bible/Dn/1
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 1

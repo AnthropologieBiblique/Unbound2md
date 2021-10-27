@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 9
 - 2 Samuel 9
 - 2 S 9
-tags : Bible/2S/9
+tags : 
+- Bible/2S/9
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 9

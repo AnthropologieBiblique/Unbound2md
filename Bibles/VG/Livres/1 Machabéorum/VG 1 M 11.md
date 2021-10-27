@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 11
 - 1 Maccabees 11
 - 1 M 11
-tags : Bible/1M/11
+tags : 
+- Bible/1M/11
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 11

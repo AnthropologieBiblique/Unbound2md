@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens
 - 1 Co
 - 1 Corinthians
-tags : Bible/1Co
+tags : 
+- Bible/1Co
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Corinthios

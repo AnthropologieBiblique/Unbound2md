@@ -4,7 +4,10 @@ aliases :
 - Josué 16
 - Jos 16
 - Joshua 16
-tags : Bible/Jos/16
+tags : 
+- Bible/Jos/16
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 16

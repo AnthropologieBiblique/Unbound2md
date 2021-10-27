@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 12
 - Ez 12
 - Ezekiel 12
-tags : Bible/Ez/12
+tags : 
+- Bible/Ez/12
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 12

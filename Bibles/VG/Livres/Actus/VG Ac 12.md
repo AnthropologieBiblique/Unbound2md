@@ -4,7 +4,10 @@ aliases :
 - Actes 12
 - Ac 12
 - Acts of the Apostles 12
-tags : Bible/Ac/12
+tags : 
+- Bible/Ac/12
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 12

@@ -4,7 +4,10 @@ aliases :
 - Luc 16
 - Lc 16
 - Luke 16
-tags : Bible/Lc/16
+tags : 
+- Bible/Lc/16
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 16

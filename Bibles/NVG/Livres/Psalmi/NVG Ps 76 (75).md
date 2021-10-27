@@ -4,7 +4,10 @@ aliases :
 - Psaumes 76 (75)
 - Ps 76 (75)
 - Psalms 76 (75)
-tags : Bible/Ps/76_75
+tags : 
+- Bible/Ps/76_75
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 76 (75)

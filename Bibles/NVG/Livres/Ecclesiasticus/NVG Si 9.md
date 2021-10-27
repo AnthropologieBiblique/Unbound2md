@@ -4,7 +4,10 @@ aliases :
 - Siracide 9
 - Si 9
 - Ecclesiasticus 9
-tags : Bible/Si/9
+tags : 
+- Bible/Si/9
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 9

@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 47
 - Ez 47
 - Ezekiel 47
-tags : Bible/Ez/47
+tags : 
+- Bible/Ez/47
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 47

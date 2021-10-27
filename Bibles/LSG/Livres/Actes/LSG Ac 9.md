@@ -4,7 +4,10 @@ aliases :
 - Actes 9
 - Ac 9
 - Acts of the Apostles 9
-tags : Bible/Ac/9
+tags : 
+- Bible/Ac/9
+- français
+cssclass : bible-français
 ---
 
 # Actes 9

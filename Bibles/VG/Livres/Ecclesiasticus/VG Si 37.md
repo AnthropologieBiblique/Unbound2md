@@ -4,7 +4,10 @@ aliases :
 - Siracide 37
 - Si 37
 - Ecclesiasticus 37
-tags : Bible/Si/37
+tags : 
+- Bible/Si/37
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 37

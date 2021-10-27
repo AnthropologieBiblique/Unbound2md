@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 7
 - 2 Samuel 7
 - 2 S 7
-tags : Bible/2S/7
+tags : 
+- Bible/2S/7
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 7

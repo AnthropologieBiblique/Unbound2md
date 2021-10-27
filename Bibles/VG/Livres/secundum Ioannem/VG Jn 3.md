@@ -4,7 +4,10 @@ aliases :
 - Jean 3
 - Jn 3
 - John 3
-tags : Bible/Jn/3
+tags : 
+- Bible/Jn/3
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 3

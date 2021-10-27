@@ -4,7 +4,10 @@ aliases :
 - Juges 15
 - Jg 15
 - Judges 15
-tags : Bible/Jg/15
+tags : 
+- Bible/Jg/15
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 15

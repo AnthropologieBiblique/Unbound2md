@@ -3,7 +3,10 @@ aliases :
 - Amos 5
 - Amos 5
 - Am 5
-tags : Bible/Am/5
+tags : 
+- Bible/Am/5
+- latin
+cssclass : bible-latin
 ---
 
 # Amos 5

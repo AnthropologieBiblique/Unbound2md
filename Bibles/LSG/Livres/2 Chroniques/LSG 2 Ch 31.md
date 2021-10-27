@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 31
 - 2 Ch 31
 - 2 Chronicles 31
-tags : Bible/2Ch/31
+tags : 
+- Bible/2Ch/31
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 31

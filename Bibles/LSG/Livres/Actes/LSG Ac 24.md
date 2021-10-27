@@ -4,7 +4,10 @@ aliases :
 - Actes 24
 - Ac 24
 - Acts of the Apostles 24
-tags : Bible/Ac/24
+tags : 
+- Bible/Ac/24
+- français
+cssclass : bible-français
 ---
 
 # Actes 24

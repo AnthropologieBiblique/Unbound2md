@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 10
 - 2 Ch 10
 - 2 Chronicles 10
-tags : Bible/2Ch/10
+tags : 
+- Bible/2Ch/10
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 10

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 2
 - Dt 2
 - Deuteronomy 2
-tags : Bible/Dt/2
+tags : 
+- Bible/Dt/2
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 2

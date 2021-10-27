@@ -3,7 +3,10 @@ aliases :
 - איוב 32
 - Job 32
 - Jb 32
-tags : Bible/Jb/32
+tags : 
+- Bible/Jb/32
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 32

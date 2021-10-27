@@ -4,7 +4,10 @@ aliases :
 - Exode 32
 - Ex 32
 - Exodus 32
-tags : Bible/Ex/32
+tags : 
+- Bible/Ex/32
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 32

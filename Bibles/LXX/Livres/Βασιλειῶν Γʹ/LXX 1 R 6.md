@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 6
 - 1 R 6
 - 1 Kings 6
-tags : Bible/1R/6
+tags : 
+- Bible/1R/6
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ 6

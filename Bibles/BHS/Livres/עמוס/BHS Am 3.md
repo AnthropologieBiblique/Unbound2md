@@ -3,7 +3,10 @@ aliases :
 - עמוס 3
 - Amos 3
 - Am 3
-tags : Bible/Am/3
+tags : 
+- Bible/Am/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 3

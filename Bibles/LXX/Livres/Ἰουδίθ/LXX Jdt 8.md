@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 8
 - Judith 8
 - Jdt 8
-tags : Bible/Jdt/8
+tags : 
+- Bible/Jdt/8
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 8

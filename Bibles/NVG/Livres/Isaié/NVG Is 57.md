@@ -4,7 +4,10 @@ aliases :
 - Isaïe 57
 - Is 57
 - Isaiah 57
-tags : Bible/Is/57
+tags : 
+- Bible/Is/57
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 57

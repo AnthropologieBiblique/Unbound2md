@@ -4,7 +4,10 @@ aliases :
 - Jérémie 51
 - Jr 51
 - Jeremiah 51
-tags : Bible/Jr/51
+tags : 
+- Bible/Jr/51
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 28

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 17
 - Jr 17
 - Jeremiah 17
-tags : Bible/Jr/17
+tags : 
+- Bible/Jr/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 17

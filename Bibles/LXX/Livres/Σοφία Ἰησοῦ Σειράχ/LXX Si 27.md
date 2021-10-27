@@ -4,7 +4,10 @@ aliases :
 - Siracide 27
 - Si 27
 - Ecclesiasticus 27
-tags : Bible/Si/27
+tags : 
+- Bible/Si/27
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 27

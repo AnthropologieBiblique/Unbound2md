@@ -4,7 +4,10 @@ aliases :
 - Exode 21
 - Ex 21
 - Exodus 21
-tags : Bible/Ex/21
+tags : 
+- Bible/Ex/21
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שמות 21

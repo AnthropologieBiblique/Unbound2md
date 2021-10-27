@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 31
 - Dt 31
 - Deuteronomy 31
-tags : Bible/Dt/31
+tags : 
+- Bible/Dt/31
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 31

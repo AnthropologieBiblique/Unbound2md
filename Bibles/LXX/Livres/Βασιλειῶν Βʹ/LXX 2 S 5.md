@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 5
 - 2 Samuel 5
 - 2 S 5
-tags : Bible/2S/5
+tags : 
+- Bible/2S/5
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 5

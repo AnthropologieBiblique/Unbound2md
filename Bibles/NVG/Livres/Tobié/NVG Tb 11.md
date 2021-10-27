@@ -4,7 +4,10 @@ aliases :
 - Tobie 11
 - Tb 11
 - Tobit 11
-tags : Bible/Tb/11
+tags : 
+- Bible/Tb/11
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 11

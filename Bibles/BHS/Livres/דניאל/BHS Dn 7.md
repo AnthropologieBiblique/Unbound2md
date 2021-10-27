@@ -3,7 +3,10 @@ aliases :
 - דניאל 7
 - Daniel 7
 - Dn 7
-tags : Bible/Dn/7
+tags : 
+- Bible/Dn/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 7

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 47
 - Jr 47
 - Jeremiah 47
-tags : Bible/Jr/47
+tags : 
+- Bible/Jr/47
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 47

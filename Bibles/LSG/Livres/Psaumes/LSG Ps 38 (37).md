@@ -4,7 +4,10 @@ aliases :
 - Psaumes 38 (37)
 - Ps 38 (37)
 - Psalms 38 (37)
-tags : Bible/Ps/38_37
+tags : 
+- Bible/Ps/38_37
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 38 (37)

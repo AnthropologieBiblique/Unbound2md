@@ -4,7 +4,10 @@ aliases :
 - Psaumes 32 (31)
 - Ps 32 (31)
 - Psalms 32 (31)
-tags : Bible/Ps/32_31
+tags : 
+- Bible/Ps/32_31
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 31 (32)

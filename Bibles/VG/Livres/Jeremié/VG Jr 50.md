@@ -4,7 +4,10 @@ aliases :
 - Jérémie 50
 - Jr 50
 - Jeremiah 50
-tags : Bible/Jr/50
+tags : 
+- Bible/Jr/50
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 50

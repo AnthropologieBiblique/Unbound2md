@@ -4,7 +4,10 @@ aliases :
 - Psaumes 11 (10)
 - Ps 11 (10)
 - Psalms 11 (10)
-tags : Bible/Ps/11_10
+tags : 
+- Bible/Ps/11_10
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 11 (10)

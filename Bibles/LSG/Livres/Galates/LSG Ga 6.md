@@ -4,7 +4,10 @@ aliases :
 - Galates 6
 - Ga 6
 - Galatians 6
-tags : Bible/Ga/6
+tags : 
+- Bible/Ga/6
+- français
+cssclass : bible-français
 ---
 
 # Galates 6

@@ -4,7 +4,10 @@ aliases :
 - Jean 4
 - Jn 4
 - John 4
-tags : Bible/Jn/4
+tags : 
+- Bible/Jn/4
+- français
+cssclass : bible-français
 ---
 
 # Jean 4

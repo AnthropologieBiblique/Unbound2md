@@ -4,7 +4,10 @@ aliases :
 - Psaumes 23 (22)
 - Ps 23 (22)
 - Psalms 23 (22)
-tags : Bible/Ps/23_22
+tags : 
+- Bible/Ps/23_22
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 23 (22)

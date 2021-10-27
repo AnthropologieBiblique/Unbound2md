@@ -4,7 +4,10 @@ aliases :
 - Exode 25
 - Ex 25
 - Exodus 25
-tags : Bible/Ex/25
+tags : 
+- Bible/Ex/25
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 25

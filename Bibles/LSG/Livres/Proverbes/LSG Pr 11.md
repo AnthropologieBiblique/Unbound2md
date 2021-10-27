@@ -4,7 +4,10 @@ aliases :
 - Proverbes 11
 - Pr 11
 - Proverbs 11
-tags : Bible/Pr/11
+tags : 
+- Bible/Pr/11
+- français
+cssclass : bible-français
 ---
 
 # Proverbes 11

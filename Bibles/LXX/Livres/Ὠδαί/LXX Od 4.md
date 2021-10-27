@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 4
 - Odes 4
 - Od 4
-tags : Bible/Od/4
+tags : 
+- Bible/Od/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 4

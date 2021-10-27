@@ -4,7 +4,10 @@ aliases :
 - Romains 2
 - Rm 2
 - Romans 2
-tags : Bible/Rm/2
+tags : 
+- Bible/Rm/2
+- français
+cssclass : bible-français
 ---
 
 # Romains 2

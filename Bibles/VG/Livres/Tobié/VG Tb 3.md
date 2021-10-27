@@ -4,7 +4,10 @@ aliases :
 - Tobie 3
 - Tb 3
 - Tobit 3
-tags : Bible/Tb/3
+tags : 
+- Bible/Tb/3
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 3

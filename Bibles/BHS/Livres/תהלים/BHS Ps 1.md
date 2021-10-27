@@ -4,7 +4,10 @@ aliases :
 - Psaumes 1
 - Ps 1
 - Psalms 1
-tags : Bible/Ps/1
+tags : 
+- Bible/Ps/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 1

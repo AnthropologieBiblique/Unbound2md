@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 6
 - 4 Maccabees 6
 - 4 M 6
-tags : Bible/4M/6
+tags : 
+- Bible/4M/6
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 6

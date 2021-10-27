@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 5
 - 2 R 5
 - 2 Kings 5
-tags : Bible/2R/5
+tags : 
+- Bible/2R/5
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Δʹ 5

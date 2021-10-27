@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ
 - Daniel
 - Dn
-tags : Bible/Dn
+tags : 
+- Bible/Dn
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ

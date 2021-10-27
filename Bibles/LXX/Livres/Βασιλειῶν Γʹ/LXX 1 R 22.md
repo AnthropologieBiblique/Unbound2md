@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 22
 - 1 R 22
 - 1 Kings 22
-tags : Bible/1R/22
+tags : 
+- Bible/1R/22
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ 22

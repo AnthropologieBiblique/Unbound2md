@@ -4,7 +4,10 @@ aliases :
 - Michée 7
 - Mi 7
 - Micah 7
-tags : Bible/Mi/7
+tags : 
+- Bible/Mi/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # מיכה 7

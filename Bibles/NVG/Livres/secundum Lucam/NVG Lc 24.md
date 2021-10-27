@@ -4,7 +4,10 @@ aliases :
 - Luc 24
 - Lc 24
 - Luke 24
-tags : Bible/Lc/24
+tags : 
+- Bible/Lc/24
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 24

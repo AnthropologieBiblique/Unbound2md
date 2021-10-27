@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 8
 - 1 Maccabees 8
 - 1 M 8
-tags : Bible/1M/8
+tags : 
+- Bible/1M/8
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 8

@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 1
 - Ez 1
 - Ezekiel 1
-tags : Bible/Ez/1
+tags : 
+- Bible/Ez/1
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 1

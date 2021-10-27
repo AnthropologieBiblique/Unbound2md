@@ -3,7 +3,10 @@ aliases :
 - אסתר 5
 - Esther 5
 - Est 5
-tags : Bible/Est/5
+tags : 
+- Bible/Est/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 5

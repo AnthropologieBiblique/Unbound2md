@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 2
 - Ez 2
 - Ezekiel 2
-tags : Bible/Ez/2
+tags : 
+- Bible/Ez/2
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 2

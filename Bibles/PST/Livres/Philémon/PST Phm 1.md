@@ -4,7 +4,10 @@ aliases :
 - Philémon 1
 - Phm 1
 - Philemon 1
-tags : Bible/Phm/1
+tags : 
+- Bible/Phm/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # Philémon 1

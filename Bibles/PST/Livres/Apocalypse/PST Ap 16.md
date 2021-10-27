@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 16
 - Ap 16
 - Revelation 16
-tags : Bible/Ap/16
+tags : 
+- Bible/Ap/16
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 16

@@ -4,7 +4,10 @@ aliases :
 - Siracide 20
 - Si 20
 - Ecclesiasticus 20
-tags : Bible/Si/20
+tags : 
+- Bible/Si/20
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 20

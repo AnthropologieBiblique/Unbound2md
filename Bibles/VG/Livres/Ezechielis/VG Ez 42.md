@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 42
 - Ez 42
 - Ezekiel 42
-tags : Bible/Ez/42
+tags : 
+- Bible/Ez/42
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 42

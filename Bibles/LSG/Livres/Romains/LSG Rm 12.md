@@ -4,7 +4,10 @@ aliases :
 - Romains 12
 - Rm 12
 - Romans 12
-tags : Bible/Rm/12
+tags : 
+- Bible/Rm/12
+- français
+cssclass : bible-français
 ---
 
 # Romains 12

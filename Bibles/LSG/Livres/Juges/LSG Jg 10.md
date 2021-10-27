@@ -4,7 +4,10 @@ aliases :
 - Juges 10
 - Jg 10
 - Judges 10
-tags : Bible/Jg/10
+tags : 
+- Bible/Jg/10
+- français
+cssclass : bible-français
 ---
 
 # Juges 10

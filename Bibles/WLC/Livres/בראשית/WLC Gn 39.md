@@ -4,7 +4,10 @@ aliases :
 - Genèse 39
 - Gn 39
 - Genesis 39
-tags : Bible/Gn/39
+tags : 
+- Bible/Gn/39
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 39

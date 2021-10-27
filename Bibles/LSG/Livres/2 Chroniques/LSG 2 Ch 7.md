@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 7
 - 2 Ch 7
 - 2 Chronicles 7
-tags : Bible/2Ch/7
+tags : 
+- Bible/2Ch/7
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 7

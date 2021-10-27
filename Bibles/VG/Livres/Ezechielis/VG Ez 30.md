@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 30
 - Ez 30
 - Ezekiel 30
-tags : Bible/Ez/30
+tags : 
+- Bible/Ez/30
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 30

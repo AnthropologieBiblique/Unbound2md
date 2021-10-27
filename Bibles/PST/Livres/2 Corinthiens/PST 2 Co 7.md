@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 7
 - 2 Co 7
 - 2 Corinthians 7
-tags : Bible/2Co/7
+tags : 
+- Bible/2Co/7
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Corinthiens 7

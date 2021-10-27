@@ -3,7 +3,10 @@ aliases :
 - איוב 40
 - Job 40
 - Jb 40
-tags : Bible/Jb/40
+tags : 
+- Bible/Jb/40
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 40

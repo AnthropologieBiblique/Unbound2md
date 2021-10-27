@@ -3,7 +3,10 @@ aliases :
 - Ἔσδρας Αʹ 3
 - 1 Esdras 3
 - 1 Esd 3
-tags : Bible/1Esd/3
+tags : 
+- Bible/1Esd/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 3

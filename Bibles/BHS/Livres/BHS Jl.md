@@ -4,7 +4,10 @@ aliases :
 - Joël
 - Jl
 - Joel
-tags : Bible/Jl
+tags : 
+- Bible/Jl
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יואל

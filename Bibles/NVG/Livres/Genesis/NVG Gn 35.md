@@ -4,7 +4,10 @@ aliases :
 - Genèse 35
 - Gn 35
 - Genesis 35
-tags : Bible/Gn/35
+tags : 
+- Bible/Gn/35
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 35

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 28 (27)
 - Ps 28 (27)
 - Psalms 28 (27)
-tags : Bible/Ps/28_27
+tags : 
+- Bible/Ps/28_27
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 28 (27)

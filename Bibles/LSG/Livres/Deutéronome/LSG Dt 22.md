@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 22
 - Dt 22
 - Deuteronomy 22
-tags : Bible/Dt/22
+tags : 
+- Bible/Dt/22
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 22

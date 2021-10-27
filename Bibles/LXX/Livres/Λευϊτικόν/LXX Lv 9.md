@@ -4,7 +4,10 @@ aliases :
 - Lévitique 9
 - Lv 9
 - Leviticus 9
-tags : Bible/Lv/9
+tags : 
+- Bible/Lv/9
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 9

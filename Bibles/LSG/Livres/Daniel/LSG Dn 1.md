@@ -3,7 +3,10 @@ aliases :
 - Daniel 1
 - Daniel 1
 - Dn 1
-tags : Bible/Dn/1
+tags : 
+- Bible/Dn/1
+- français
+cssclass : bible-français
 ---
 
 # Daniel 1

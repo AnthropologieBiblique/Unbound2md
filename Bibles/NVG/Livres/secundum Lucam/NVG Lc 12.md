@@ -4,7 +4,10 @@ aliases :
 - Luc 12
 - Lc 12
 - Luke 12
-tags : Bible/Lc/12
+tags : 
+- Bible/Lc/12
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 12

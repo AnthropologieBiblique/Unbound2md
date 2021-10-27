@@ -4,7 +4,10 @@ aliases :
 - Osée 4
 - Os 4
 - Hosea 4
-tags : Bible/Os/4
+tags : 
+- Bible/Os/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # הושע 4

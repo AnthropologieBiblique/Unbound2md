@@ -4,7 +4,10 @@ aliases :
 - Siracide 31
 - Si 31
 - Ecclesiasticus 31
-tags : Bible/Si/31
+tags : 
+- Bible/Si/31
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 31

@@ -4,7 +4,10 @@ aliases :
 - Lévitique 19
 - Lv 19
 - Leviticus 19
-tags : Bible/Lv/19
+tags : 
+- Bible/Lv/19
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 19

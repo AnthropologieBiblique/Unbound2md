@@ -4,7 +4,10 @@ aliases :
 - Siracide 44
 - Si 44
 - Ecclesiasticus 44
-tags : Bible/Si/44
+tags : 
+- Bible/Si/44
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 44

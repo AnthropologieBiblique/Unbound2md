@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 13
 - 1 Ch 13
 - 1 Chronicles 13
-tags : Bible/1Ch/13
+tags : 
+- Bible/1Ch/13
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Αʹ 13

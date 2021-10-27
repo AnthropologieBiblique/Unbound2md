@@ -4,7 +4,10 @@ aliases :
 - Psaumes
 - Ps
 - Psalms
-tags : Bible/Ps
+tags : 
+- Bible/Ps
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi

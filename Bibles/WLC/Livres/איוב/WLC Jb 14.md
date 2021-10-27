@@ -3,7 +3,10 @@ aliases :
 - איוב 14
 - Job 14
 - Jb 14
-tags : Bible/Jb/14
+tags : 
+- Bible/Jb/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 14

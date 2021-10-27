@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 5
 - Ep 5
 - Ephesians 5
-tags : Bible/Ep/5
+tags : 
+- Bible/Ep/5
+- latin
+cssclass : bible-latin
 ---
 
 # ad Ephesios 5

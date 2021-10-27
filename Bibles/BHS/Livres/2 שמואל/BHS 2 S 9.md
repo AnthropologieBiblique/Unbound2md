@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 9
 - 2 Samuel 9
 - 2 S 9
-tags : Bible/2S/9
+tags : 
+- Bible/2S/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 9

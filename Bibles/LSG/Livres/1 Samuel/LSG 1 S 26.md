@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 26
 - 1 Samuel 26
 - 1 S 26
-tags : Bible/1S/26
+tags : 
+- Bible/1S/26
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 26

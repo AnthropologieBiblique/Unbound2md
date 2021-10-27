@@ -4,7 +4,10 @@ aliases :
 - Siracide 43
 - Si 43
 - Ecclesiasticus 43
-tags : Bible/Si/43
+tags : 
+- Bible/Si/43
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 43

@@ -3,7 +3,10 @@ aliases :
 - Ruth 3
 - Ruth 3
 - Rt 3
-tags : Bible/Rt/3
+tags : 
+- Bible/Rt/3
+- français
+cssclass : bible-français
 ---
 
 # Ruth 3

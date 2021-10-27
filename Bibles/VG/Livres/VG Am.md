@@ -3,7 +3,10 @@ aliases :
 - Amos
 - Amos
 - Am
-tags : Bible/Am
+tags : 
+- Bible/Am
+- latin
+cssclass : bible-latin
 ---
 
 # Amos

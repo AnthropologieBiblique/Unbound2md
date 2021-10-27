@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 32
 - Ez 32
 - Ezekiel 32
-tags : Bible/Ez/32
+tags : 
+- Bible/Ez/32
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 32

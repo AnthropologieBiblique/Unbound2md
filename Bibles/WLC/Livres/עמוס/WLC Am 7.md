@@ -3,7 +3,10 @@ aliases :
 - עמוס 7
 - Amos 7
 - Am 7
-tags : Bible/Am/7
+tags : 
+- Bible/Am/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 7

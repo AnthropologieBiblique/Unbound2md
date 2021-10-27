@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 4
 - 4 Maccabees 4
 - 4 M 4
-tags : Bible/4M/4
+tags : 
+- Bible/4M/4
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 4

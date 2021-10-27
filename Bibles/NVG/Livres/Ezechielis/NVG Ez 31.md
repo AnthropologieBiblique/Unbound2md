@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 31
 - Ez 31
 - Ezekiel 31
-tags : Bible/Ez/31
+tags : 
+- Bible/Ez/31
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 31

@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 6
 - 2 Samuel 6
 - 2 S 6
-tags : Bible/2S/6
+tags : 
+- Bible/2S/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 6

@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 3
 - 1 Ch 3
 - 1 Chronicles 3
-tags : Bible/1Ch/3
+tags : 
+- Bible/1Ch/3
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 3

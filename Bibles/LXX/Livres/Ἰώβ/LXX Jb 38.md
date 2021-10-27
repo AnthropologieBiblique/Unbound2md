@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 38
 - Job 38
 - Jb 38
-tags : Bible/Jb/38
+tags : 
+- Bible/Jb/38
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 38

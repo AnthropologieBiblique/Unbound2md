@@ -4,7 +4,10 @@ aliases :
 - Juges 14
 - Jg 14
 - Judges 14
-tags : Bible/Jg/14
+tags : 
+- Bible/Jg/14
+- français
+cssclass : bible-français
 ---
 
 # Juges 14

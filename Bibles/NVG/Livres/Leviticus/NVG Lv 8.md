@@ -4,7 +4,10 @@ aliases :
 - Lévitique 8
 - Lv 8
 - Leviticus 8
-tags : Bible/Lv/8
+tags : 
+- Bible/Lv/8
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 8

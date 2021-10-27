@@ -3,7 +3,10 @@ aliases :
 - Ἔσδρας Αʹ 8
 - 1 Esdras 8
 - 1 Esd 8
-tags : Bible/1Esd/8
+tags : 
+- Bible/1Esd/8
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 8

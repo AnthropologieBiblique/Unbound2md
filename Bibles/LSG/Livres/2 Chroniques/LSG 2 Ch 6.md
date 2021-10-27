@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 6
 - 2 Ch 6
 - 2 Chronicles 6
-tags : Bible/2Ch/6
+tags : 
+- Bible/2Ch/6
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 6

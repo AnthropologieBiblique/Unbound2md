@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 17
 - 1 Samuel 17
 - 1 S 17
-tags : Bible/1S/17
+tags : 
+- Bible/1S/17
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 17

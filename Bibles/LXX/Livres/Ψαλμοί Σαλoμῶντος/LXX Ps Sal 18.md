@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 18
 - Ps Sal 18
 - Psalm of Solomon 18
-tags : Bible/PsSal/18
+tags : 
+- Bible/PsSal/18
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 18

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 24
 - Jr 24
 - Jeremiah 24
-tags : Bible/Jr/24
+tags : 
+- Bible/Jr/24
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 24

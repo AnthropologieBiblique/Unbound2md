@@ -4,7 +4,10 @@ aliases :
 - Psaumes 34 (33)
 - Ps 34 (33)
 - Psalms 34 (33)
-tags : Bible/Ps/34_33
+tags : 
+- Bible/Ps/34_33
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 34 (33)

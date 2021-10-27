@@ -4,7 +4,10 @@ aliases :
 - Galates 1
 - Ga 1
 - Galatians 1
-tags : Bible/Ga/1
+tags : 
+- Bible/Ga/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # Galates 1

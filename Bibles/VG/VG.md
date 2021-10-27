@@ -1,3 +1,7 @@
+---
+tags : Bible, latin
+cssclass : bible-latin
+---
 # Vulgata Clementina
 
 [[VG Mentions légales]]

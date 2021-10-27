@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Βʹ 13
 - 2 Maccabees 13
 - 2 M 13
-tags : Bible/2M/13
+tags : 
+- Bible/2M/13
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Βʹ 13

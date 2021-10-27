@@ -4,7 +4,10 @@ aliases :
 - Exode 11
 - Ex 11
 - Exodus 11
-tags : Bible/Ex/11
+tags : 
+- Bible/Ex/11
+- français
+cssclass : bible-français
 ---
 
 # Exode 11

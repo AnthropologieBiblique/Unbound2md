@@ -3,7 +3,10 @@ aliases :
 - Lamentations 1
 - Lamentations 1
 - Lm 1
-tags : Bible/Lm/1
+tags : 
+- Bible/Lm/1
+- français
+cssclass : bible-français
 ---
 
 # Lamentations 1

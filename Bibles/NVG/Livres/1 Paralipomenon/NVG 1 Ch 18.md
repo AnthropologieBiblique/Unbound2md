@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 18
 - 1 Ch 18
 - 1 Chronicles 18
-tags : Bible/1Ch/18
+tags : 
+- Bible/1Ch/18
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 18

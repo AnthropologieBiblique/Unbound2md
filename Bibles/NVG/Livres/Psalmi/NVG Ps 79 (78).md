@@ -4,7 +4,10 @@ aliases :
 - Psaumes 79 (78)
 - Ps 79 (78)
 - Psalms 79 (78)
-tags : Bible/Ps/79_78
+tags : 
+- Bible/Ps/79_78
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 79 (78)

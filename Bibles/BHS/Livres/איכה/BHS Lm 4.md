@@ -3,7 +3,10 @@ aliases :
 - איכה 4
 - Lamentations 4
 - Lm 4
-tags : Bible/Lm/4
+tags : 
+- Bible/Lm/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איכה 4

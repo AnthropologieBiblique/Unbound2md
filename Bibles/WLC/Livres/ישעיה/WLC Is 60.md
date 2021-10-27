@@ -4,7 +4,10 @@ aliases :
 - Isaïe 60
 - Is 60
 - Isaiah 60
-tags : Bible/Is/60
+tags : 
+- Bible/Is/60
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 60

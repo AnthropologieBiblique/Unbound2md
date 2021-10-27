@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 33
 - 2 Ch 33
 - 2 Chronicles 33
-tags : Bible/2Ch/33
+tags : 
+- Bible/2Ch/33
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 33

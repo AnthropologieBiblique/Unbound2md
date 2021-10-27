@@ -3,7 +3,10 @@ aliases :
 - Baruch 1
 - Baruch 1
 - Ba 1
-tags : Bible/Ba/1
+tags : 
+- Bible/Ba/1
+- latin
+cssclass : bible-latin
 ---
 
 # Baruch 1

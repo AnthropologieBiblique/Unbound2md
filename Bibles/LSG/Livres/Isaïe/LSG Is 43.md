@@ -4,7 +4,10 @@ aliases :
 - Isaïe 43
 - Is 43
 - Isaiah 43
-tags : Bible/Is/43
+tags : 
+- Bible/Is/43
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 43

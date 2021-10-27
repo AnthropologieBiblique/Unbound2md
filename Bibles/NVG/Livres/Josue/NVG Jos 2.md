@@ -4,7 +4,10 @@ aliases :
 - Josué 2
 - Jos 2
 - Joshua 2
-tags : Bible/Jos/2
+tags : 
+- Bible/Jos/2
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 2

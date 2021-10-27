@@ -4,7 +4,10 @@ aliases :
 - Romains
 - Rm
 - Romans
-tags : Bible/Rm
+tags : 
+- Bible/Rm
+- latin
+cssclass : bible-latin
 ---
 
 # ad Romanos

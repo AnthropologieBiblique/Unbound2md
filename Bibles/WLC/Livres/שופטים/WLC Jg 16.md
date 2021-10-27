@@ -4,7 +4,10 @@ aliases :
 - Juges 16
 - Jg 16
 - Judges 16
-tags : Bible/Jg/16
+tags : 
+- Bible/Jg/16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שופטים 16

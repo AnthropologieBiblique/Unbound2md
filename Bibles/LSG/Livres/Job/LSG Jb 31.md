@@ -3,7 +3,10 @@ aliases :
 - Job 31
 - Job 31
 - Jb 31
-tags : Bible/Jb/31
+tags : 
+- Bible/Jb/31
+- français
+cssclass : bible-français
 ---
 
 # Job 31

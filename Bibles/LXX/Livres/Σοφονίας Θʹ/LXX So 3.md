@@ -4,7 +4,10 @@ aliases :
 - Sophonie 3
 - So 3
 - Zephaniah 3
-tags : Bible/So/3
+tags : 
+- Bible/So/3
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφονίας Θʹ 3

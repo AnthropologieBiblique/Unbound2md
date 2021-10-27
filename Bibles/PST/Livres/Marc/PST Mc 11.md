@@ -4,7 +4,10 @@ aliases :
 - Marc 11
 - Mc 11
 - Mark 11
-tags : Bible/Mc/11
+tags : 
+- Bible/Mc/11
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 11

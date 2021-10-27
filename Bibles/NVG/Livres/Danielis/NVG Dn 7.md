@@ -3,7 +3,10 @@ aliases :
 - Danielis 7
 - Daniel 7
 - Dn 7
-tags : Bible/Dn/7
+tags : 
+- Bible/Dn/7
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 7

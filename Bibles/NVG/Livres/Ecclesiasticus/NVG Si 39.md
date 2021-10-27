@@ -4,7 +4,10 @@ aliases :
 - Siracide 39
 - Si 39
 - Ecclesiasticus 39
-tags : Bible/Si/39
+tags : 
+- Bible/Si/39
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 39

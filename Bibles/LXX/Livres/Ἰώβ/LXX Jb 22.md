@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 22
 - Job 22
 - Jb 22
-tags : Bible/Jb/22
+tags : 
+- Bible/Jb/22
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 22

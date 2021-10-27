@@ -4,7 +4,10 @@ aliases :
 - Nombres
 - Nb
 - Numbers
-tags : Bible/Nb
+tags : 
+- Bible/Nb
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί

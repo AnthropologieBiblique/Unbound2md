@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 6
 - 1 Samuel 6
 - 1 S 6
-tags : Bible/1S/6
+tags : 
+- Bible/1S/6
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 6

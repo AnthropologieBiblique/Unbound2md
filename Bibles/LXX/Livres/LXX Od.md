@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί
 - Odes
 - Od
-tags : Bible/Od
+tags : 
+- Bible/Od
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί

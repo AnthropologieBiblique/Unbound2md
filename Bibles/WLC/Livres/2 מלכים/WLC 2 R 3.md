@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 3
 - 2 R 3
 - 2 Kings 3
-tags : Bible/2R/3
+tags : 
+- Bible/2R/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 3

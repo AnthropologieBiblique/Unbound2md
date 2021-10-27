@@ -4,7 +4,10 @@ aliases :
 - Psaumes 18 (17)
 - Ps 18 (17)
 - Psalms 18 (17)
-tags : Bible/Ps/18_17
+tags : 
+- Bible/Ps/18_17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 18 (17)

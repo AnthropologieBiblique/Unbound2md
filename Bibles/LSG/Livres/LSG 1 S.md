@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel
 - 1 Samuel
 - 1 S
-tags : Bible/1S
+tags : 
+- Bible/1S
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel

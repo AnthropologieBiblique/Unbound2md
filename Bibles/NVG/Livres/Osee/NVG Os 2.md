@@ -4,7 +4,10 @@ aliases :
 - Osée 1
 - Os 1
 - Hosea 1
-tags : Bible/Os/1
+tags : 
+- Bible/Os/1
+- latin
+cssclass : bible-latin
 ---
 
 # Osee 2

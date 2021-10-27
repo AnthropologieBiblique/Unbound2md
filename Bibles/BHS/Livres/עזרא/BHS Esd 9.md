@@ -4,7 +4,10 @@ aliases :
 - Esdras 9
 - Esd 9
 - Ezra 9
-tags : Bible/Esd/9
+tags : 
+- Bible/Esd/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עזרא 9

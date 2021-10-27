@@ -3,7 +3,10 @@ aliases :
 - Iudé 1
 - Jude 1
 - Jude 1
-tags : Bible/Jude/1
+tags : 
+- Bible/Jude/1
+- latin
+cssclass : bible-latin
 ---
 
 # Iudé 1

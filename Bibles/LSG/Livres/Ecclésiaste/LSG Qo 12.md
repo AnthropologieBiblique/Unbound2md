@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 12
 - Qo 12
 - Ecclesiastes 12
-tags : Bible/Qo/12
+tags : 
+- Bible/Qo/12
+- français
+cssclass : bible-français
 ---
 
 # Ecclésiaste 12

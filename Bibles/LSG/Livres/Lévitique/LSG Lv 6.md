@@ -4,7 +4,10 @@ aliases :
 - Lévitique 6
 - Lv 6
 - Leviticus 6
-tags : Bible/Lv/6
+tags : 
+- Bible/Lv/6
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 6

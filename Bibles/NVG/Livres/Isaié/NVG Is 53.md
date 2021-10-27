@@ -4,7 +4,10 @@ aliases :
 - Isaïe 53
 - Is 53
 - Isaiah 53
-tags : Bible/Is/53
+tags : 
+- Bible/Is/53
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 53

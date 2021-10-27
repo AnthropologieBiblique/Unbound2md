@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 28
 - Ez 28
 - Ezekiel 28
-tags : Bible/Ez/28
+tags : 
+- Bible/Ez/28
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 28

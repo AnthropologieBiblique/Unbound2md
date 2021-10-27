@@ -4,7 +4,10 @@ aliases :
 - Psaumes 78 (77)
 - Ps 78 (77)
 - Psalms 78 (77)
-tags : Bible/Ps/78_77
+tags : 
+- Bible/Ps/78_77
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 78 (77)

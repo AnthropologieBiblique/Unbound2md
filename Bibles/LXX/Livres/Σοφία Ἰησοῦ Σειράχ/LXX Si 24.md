@@ -4,7 +4,10 @@ aliases :
 - Siracide 24
 - Si 24
 - Ecclesiasticus 24
-tags : Bible/Si/24
+tags : 
+- Bible/Si/24
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 24

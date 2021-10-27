@@ -4,7 +4,10 @@ aliases :
 - Luc 3
 - Lc 3
 - Luke 3
-tags : Bible/Lc/3
+tags : 
+- Bible/Lc/3
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 3

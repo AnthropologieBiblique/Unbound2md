@@ -4,7 +4,10 @@ aliases :
 - 2 Rois
 - 2 R
 - 2 Kings
-tags : Bible/2R
+tags : 
+- Bible/2R
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים

@@ -4,7 +4,10 @@ aliases :
 - Siracide 2
 - Si 2
 - Ecclesiasticus 2
-tags : Bible/Si/2
+tags : 
+- Bible/Si/2
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 2

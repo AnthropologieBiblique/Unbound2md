@@ -4,7 +4,10 @@ aliases :
 - Siracide 29
 - Si 29
 - Ecclesiasticus 29
-tags : Bible/Si/29
+tags : 
+- Bible/Si/29
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 29

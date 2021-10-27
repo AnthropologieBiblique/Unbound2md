@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 18
 - Dt 18
 - Deuteronomy 18
-tags : Bible/Dt/18
+tags : 
+- Bible/Dt/18
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 18

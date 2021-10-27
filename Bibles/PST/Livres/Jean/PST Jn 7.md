@@ -4,7 +4,10 @@ aliases :
 - Jean 7
 - Jn 7
 - John 7
-tags : Bible/Jn/7
+tags : 
+- Bible/Jn/7
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 7

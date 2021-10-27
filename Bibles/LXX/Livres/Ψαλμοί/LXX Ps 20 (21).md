@@ -4,7 +4,10 @@ aliases :
 - Psaumes 21 (20)
 - Ps 21 (20)
 - Psalms 21 (20)
-tags : Bible/Ps/21_20
+tags : 
+- Bible/Ps/21_20
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 20 (21)

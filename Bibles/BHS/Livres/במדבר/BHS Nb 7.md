@@ -4,7 +4,10 @@ aliases :
 - Nombres 7
 - Nb 7
 - Numbers 7
-tags : Bible/Nb/7
+tags : 
+- Bible/Nb/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 7

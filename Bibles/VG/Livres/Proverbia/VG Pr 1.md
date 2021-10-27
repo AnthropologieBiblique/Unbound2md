@@ -4,7 +4,10 @@ aliases :
 - Proverbes 1
 - Pr 1
 - Proverbs 1
-tags : Bible/Pr/1
+tags : 
+- Bible/Pr/1
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 1

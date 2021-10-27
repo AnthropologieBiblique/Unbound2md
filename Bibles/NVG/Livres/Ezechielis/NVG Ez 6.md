@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 6
 - Ez 6
 - Ezekiel 6
-tags : Bible/Ez/6
+tags : 
+- Bible/Ez/6
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 6

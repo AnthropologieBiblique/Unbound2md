@@ -3,7 +3,10 @@ aliases :
 - עמוס 4
 - Amos 4
 - Am 4
-tags : Bible/Am/4
+tags : 
+- Bible/Am/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 4

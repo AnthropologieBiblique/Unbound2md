@@ -4,7 +4,10 @@ aliases :
 - Marc 15
 - Mc 15
 - Mark 15
-tags : Bible/Mc/15
+tags : 
+- Bible/Mc/15
+- français
+cssclass : bible-français
 ---
 
 # Marc 15

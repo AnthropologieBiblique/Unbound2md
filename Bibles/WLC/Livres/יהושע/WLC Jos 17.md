@@ -4,7 +4,10 @@ aliases :
 - Josué 17
 - Jos 17
 - Joshua 17
-tags : Bible/Jos/17
+tags : 
+- Bible/Jos/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יהושע 17

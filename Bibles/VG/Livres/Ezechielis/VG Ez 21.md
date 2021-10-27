@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 21
 - Ez 21
 - Ezekiel 21
-tags : Bible/Ez/21
+tags : 
+- Bible/Ez/21
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 21

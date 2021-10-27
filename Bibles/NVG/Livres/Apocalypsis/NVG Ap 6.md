@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 6
 - Ap 6
 - Revelation 6
-tags : Bible/Ap/6
+tags : 
+- Bible/Ap/6
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 6

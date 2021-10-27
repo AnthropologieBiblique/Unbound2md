@@ -3,7 +3,10 @@ aliases :
 - Danielis 6
 - Daniel 5
 - Dn 5
-tags : Bible/Dn/5
+tags : 
+- Bible/Dn/5
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 6

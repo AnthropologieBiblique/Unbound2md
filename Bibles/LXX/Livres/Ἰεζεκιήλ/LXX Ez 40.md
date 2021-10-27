@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 40
 - Ez 40
 - Ezekiel 40
-tags : Bible/Ez/40
+tags : 
+- Bible/Ez/40
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 40

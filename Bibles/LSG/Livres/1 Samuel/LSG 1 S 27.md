@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 27
 - 1 Samuel 27
 - 1 S 27
-tags : Bible/1S/27
+tags : 
+- Bible/1S/27
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 27

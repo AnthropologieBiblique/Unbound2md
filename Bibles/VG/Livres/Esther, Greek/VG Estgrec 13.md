@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 13
 - Estgrec 13
 - Esther, Greek 13
-tags : Bible/Estgrec/13
+tags : 
+- Bible/Estgrec/13
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 13

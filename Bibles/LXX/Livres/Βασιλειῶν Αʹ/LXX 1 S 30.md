@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 30
 - 1 Samuel 30
 - 1 S 30
-tags : Bible/1S/30
+tags : 
+- Bible/1S/30
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 30

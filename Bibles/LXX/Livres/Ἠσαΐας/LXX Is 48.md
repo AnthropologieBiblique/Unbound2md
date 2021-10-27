@@ -4,7 +4,10 @@ aliases :
 - Isaïe 48
 - Is 48
 - Isaiah 48
-tags : Bible/Is/48
+tags : 
+- Bible/Is/48
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 48

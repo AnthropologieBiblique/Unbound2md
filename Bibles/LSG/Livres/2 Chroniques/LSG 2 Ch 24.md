@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 24
 - 2 Ch 24
 - 2 Chronicles 24
-tags : Bible/2Ch/24
+tags : 
+- Bible/2Ch/24
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 24

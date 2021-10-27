@@ -4,7 +4,10 @@ aliases :
 - Genèse 16
 - Gn 16
 - Genesis 16
-tags : Bible/Gn/16
+tags : 
+- Bible/Gn/16
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 16

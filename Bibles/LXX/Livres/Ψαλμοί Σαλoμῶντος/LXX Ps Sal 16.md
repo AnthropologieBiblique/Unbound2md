@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 16
 - Ps Sal 16
 - Psalm of Solomon 16
-tags : Bible/PsSal/16
+tags : 
+- Bible/PsSal/16
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 16

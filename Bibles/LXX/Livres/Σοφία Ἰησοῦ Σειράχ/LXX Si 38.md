@@ -4,7 +4,10 @@ aliases :
 - Siracide 38
 - Si 38
 - Ecclesiasticus 38
-tags : Bible/Si/38
+tags : 
+- Bible/Si/38
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 38

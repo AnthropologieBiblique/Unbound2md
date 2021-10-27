@@ -3,7 +3,10 @@ aliases :
 - איוב 29
 - Job 29
 - Jb 29
-tags : Bible/Jb/29
+tags : 
+- Bible/Jb/29
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 29

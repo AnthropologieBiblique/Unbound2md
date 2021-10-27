@@ -3,7 +3,10 @@ aliases :
 - Baruch 6
 - Baruch 6
 - Ba 6
-tags : Bible/Ba/6
+tags : 
+- Bible/Ba/6
+- latin
+cssclass : bible-latin
 ---
 
 # Baruch 6

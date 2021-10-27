@@ -4,7 +4,10 @@ aliases :
 - Josué 10
 - Jos 10
 - Joshua 10
-tags : Bible/Jos/10
+tags : 
+- Bible/Jos/10
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 10

@@ -4,7 +4,10 @@ aliases :
 - Romains 13
 - Rm 13
 - Romans 13
-tags : Bible/Rm/13
+tags : 
+- Bible/Rm/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Romains 13

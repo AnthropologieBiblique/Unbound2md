@@ -4,7 +4,10 @@ aliases :
 - Jean 14
 - Jn 14
 - John 14
-tags : Bible/Jn/14
+tags : 
+- Bible/Jn/14
+- français
+cssclass : bible-français
 ---
 
 # Jean 14

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 55
 - Is 55
 - Isaiah 55
-tags : Bible/Is/55
+tags : 
+- Bible/Is/55
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 55

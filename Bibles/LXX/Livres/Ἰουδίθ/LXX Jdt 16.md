@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 16
 - Judith 16
 - Jdt 16
-tags : Bible/Jdt/16
+tags : 
+- Bible/Jdt/16
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 16

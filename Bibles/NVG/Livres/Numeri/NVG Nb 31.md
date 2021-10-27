@@ -4,7 +4,10 @@ aliases :
 - Nombres 31
 - Nb 31
 - Numbers 31
-tags : Bible/Nb/31
+tags : 
+- Bible/Nb/31
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 31

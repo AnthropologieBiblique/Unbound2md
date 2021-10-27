@@ -4,7 +4,10 @@ aliases :
 - Exode 9
 - Ex 9
 - Exodus 9
-tags : Bible/Ex/9
+tags : 
+- Bible/Ex/9
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 9

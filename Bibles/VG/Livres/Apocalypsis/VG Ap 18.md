@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 18
 - Ap 18
 - Revelation 18
-tags : Bible/Ap/18
+tags : 
+- Bible/Ap/18
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 18

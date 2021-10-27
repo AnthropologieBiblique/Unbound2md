@@ -4,7 +4,10 @@ aliases :
 - Exode 3
 - Ex 3
 - Exodus 3
-tags : Bible/Ex/3
+tags : 
+- Bible/Ex/3
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 3

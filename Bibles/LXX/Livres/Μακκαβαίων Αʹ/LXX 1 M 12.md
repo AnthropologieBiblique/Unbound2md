@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 12
 - 1 Maccabees 12
 - 1 M 12
-tags : Bible/1M/12
+tags : 
+- Bible/1M/12
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 12

@@ -3,7 +3,10 @@ aliases :
 - Baruch
 - Baruch
 - Ba
-tags : Bible/Ba
+tags : 
+- Bible/Ba
+- latin
+cssclass : bible-latin
 ---
 
 # Baruch

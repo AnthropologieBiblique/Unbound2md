@@ -3,7 +3,10 @@ aliases :
 - Amos 4
 - Amos 4
 - Am 4
-tags : Bible/Am/4
+tags : 
+- Bible/Am/4
+- français
+cssclass : bible-français
 ---
 
 # Amos 4

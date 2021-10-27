@@ -4,7 +4,10 @@ aliases :
 - Psaumes 8
 - Ps 8
 - Psalms 8
-tags : Bible/Ps/8
+tags : 
+- Bible/Ps/8
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 8

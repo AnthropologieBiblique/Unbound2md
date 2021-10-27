@@ -4,7 +4,10 @@ aliases :
 - Actes 16
 - Ac 16
 - Acts of the Apostles 16
-tags : Bible/Ac/16
+tags : 
+- Bible/Ac/16
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 16

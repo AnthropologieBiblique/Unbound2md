@@ -4,7 +4,10 @@ aliases :
 - Siracide 51
 - Si 51
 - Ecclesiasticus 51
-tags : Bible/Si/51
+tags : 
+- Bible/Si/51
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 51

@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 7
 - 1 Samuel 7
 - 1 S 7
-tags : Bible/1S/7
+tags : 
+- Bible/1S/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 7

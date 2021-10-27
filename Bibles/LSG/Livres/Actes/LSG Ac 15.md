@@ -4,7 +4,10 @@ aliases :
 - Actes 15
 - Ac 15
 - Acts of the Apostles 15
-tags : Bible/Ac/15
+tags : 
+- Bible/Ac/15
+- français
+cssclass : bible-français
 ---
 
 # Actes 15

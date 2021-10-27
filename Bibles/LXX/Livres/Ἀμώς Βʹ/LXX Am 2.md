@@ -3,7 +3,10 @@ aliases :
 - Ἀμώς Βʹ 2
 - Amos 2
 - Am 2
-tags : Bible/Am/2
+tags : 
+- Bible/Am/2
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμώς Βʹ 2

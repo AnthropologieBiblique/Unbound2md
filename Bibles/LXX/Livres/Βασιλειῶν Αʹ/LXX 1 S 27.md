@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 27
 - 1 Samuel 27
 - 1 S 27
-tags : Bible/1S/27
+tags : 
+- Bible/1S/27
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 27

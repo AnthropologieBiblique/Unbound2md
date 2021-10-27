@@ -4,7 +4,10 @@ aliases :
 - Lévitique
 - Lv
 - Leviticus
-tags : Bible/Lv
+tags : 
+- Bible/Lv
+- français
+cssclass : bible-français
 ---
 
 # Lévitique

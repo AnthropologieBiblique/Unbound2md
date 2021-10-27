@@ -4,7 +4,10 @@ aliases :
 - Isaïe 1
 - Is 1
 - Isaiah 1
-tags : Bible/Is/1
+tags : 
+- Bible/Is/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 1

@@ -4,7 +4,10 @@ aliases :
 - Genèse 49
 - Gn 49
 - Genesis 49
-tags : Bible/Gn/49
+tags : 
+- Bible/Gn/49
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 49

@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 12
 - 1 Ch 12
 - 1 Chronicles 12
-tags : Bible/1Ch/12
+tags : 
+- Bible/1Ch/12
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 12

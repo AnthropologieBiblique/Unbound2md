@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 18
 - 4 Maccabees 18
 - 4 M 18
-tags : Bible/4M/18
+tags : 
+- Bible/4M/18
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 18

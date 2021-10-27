@@ -4,7 +4,10 @@ aliases :
 - Siracide 48
 - Si 48
 - Ecclesiasticus 48
-tags : Bible/Si/48
+tags : 
+- Bible/Si/48
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 48

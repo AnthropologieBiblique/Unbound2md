@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 6
 - 1 Maccabees 6
 - 1 M 6
-tags : Bible/1M/6
+tags : 
+- Bible/1M/6
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 6

@@ -4,7 +4,10 @@ aliases :
 - Marc 12
 - Mc 12
 - Mark 12
-tags : Bible/Mc/12
+tags : 
+- Bible/Mc/12
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 12

@@ -4,7 +4,10 @@ aliases :
 - Lévitique 13
 - Lv 13
 - Leviticus 13
-tags : Bible/Lv/13
+tags : 
+- Bible/Lv/13
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 13

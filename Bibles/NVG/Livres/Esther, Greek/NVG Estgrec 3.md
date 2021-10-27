@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 3
 - Estgrec 3
 - Esther, Greek 3
-tags : Bible/Estgrec/3
+tags : 
+- Bible/Estgrec/3
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 3

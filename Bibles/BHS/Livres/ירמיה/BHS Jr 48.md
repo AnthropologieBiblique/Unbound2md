@@ -4,7 +4,10 @@ aliases :
 - Jérémie 48
 - Jr 48
 - Jeremiah 48
-tags : Bible/Jr/48
+tags : 
+- Bible/Jr/48
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 48

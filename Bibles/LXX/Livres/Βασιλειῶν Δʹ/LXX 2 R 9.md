@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 9
 - 2 R 9
 - 2 Kings 9
-tags : Bible/2R/9
+tags : 
+- Bible/2R/9
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Δʹ 9

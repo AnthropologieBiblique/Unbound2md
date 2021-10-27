@@ -4,7 +4,10 @@ aliases :
 - 1 Jean 1
 - 1 Jn 1
 - 1 John 1
-tags : Bible/1Jn/1
+tags : 
+- Bible/1Jn/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Jean 1

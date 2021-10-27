@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 29
 - Dt 29
 - Deuteronomy 29
-tags : Bible/Dt/29
+tags : 
+- Bible/Dt/29
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 29

@@ -4,7 +4,10 @@ aliases :
 - 2 Timothée 4
 - 2 Tm 4
 - 2 Timothy 4
-tags : Bible/2Tm/4
+tags : 
+- Bible/2Tm/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Timothée 4

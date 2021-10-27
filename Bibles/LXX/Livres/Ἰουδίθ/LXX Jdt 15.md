@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 15
 - Judith 15
 - Jdt 15
-tags : Bible/Jdt/15
+tags : 
+- Bible/Jdt/15
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 15

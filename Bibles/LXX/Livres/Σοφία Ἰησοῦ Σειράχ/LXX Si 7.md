@@ -4,7 +4,10 @@ aliases :
 - Siracide 7
 - Si 7
 - Ecclesiasticus 7
-tags : Bible/Si/7
+tags : 
+- Bible/Si/7
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 7

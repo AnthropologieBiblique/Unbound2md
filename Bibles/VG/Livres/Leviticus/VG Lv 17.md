@@ -4,7 +4,10 @@ aliases :
 - Lévitique 17
 - Lv 17
 - Leviticus 17
-tags : Bible/Lv/17
+tags : 
+- Bible/Lv/17
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 17

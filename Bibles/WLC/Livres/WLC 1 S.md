@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל
 - 1 Samuel
 - 1 S
-tags : Bible/1S
+tags : 
+- Bible/1S
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל

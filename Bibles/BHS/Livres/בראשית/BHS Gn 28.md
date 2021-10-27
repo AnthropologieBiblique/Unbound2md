@@ -4,7 +4,10 @@ aliases :
 - Genèse 28
 - Gn 28
 - Genesis 28
-tags : Bible/Gn/28
+tags : 
+- Bible/Gn/28
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 28

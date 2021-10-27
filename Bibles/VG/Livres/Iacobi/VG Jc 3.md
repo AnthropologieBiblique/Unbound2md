@@ -4,7 +4,10 @@ aliases :
 - Jacques 3
 - Jc 3
 - James 3
-tags : Bible/Jc/3
+tags : 
+- Bible/Jc/3
+- latin
+cssclass : bible-latin
 ---
 
 # Iacobi 3

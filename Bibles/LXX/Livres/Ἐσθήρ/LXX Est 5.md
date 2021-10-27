@@ -3,7 +3,10 @@ aliases :
 - Ἐσθήρ 5
 - Esther 5
 - Est 5
-tags : Bible/Est/5
+tags : 
+- Bible/Est/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 5

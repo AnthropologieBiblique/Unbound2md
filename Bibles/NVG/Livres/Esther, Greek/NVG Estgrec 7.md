@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 7
 - Estgrec 7
 - Esther, Greek 7
-tags : Bible/Estgrec/7
+tags : 
+- Bible/Estgrec/7
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 7

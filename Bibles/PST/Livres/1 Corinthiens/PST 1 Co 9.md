@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 9
 - 1 Co 9
 - 1 Corinthians 9
-tags : Bible/1Co/9
+tags : 
+- Bible/1Co/9
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 9

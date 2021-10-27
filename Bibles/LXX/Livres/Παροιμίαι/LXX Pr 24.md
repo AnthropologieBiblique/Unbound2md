@@ -4,7 +4,10 @@ aliases :
 - Proverbes 24
 - Pr 24
 - Proverbs 24
-tags : Bible/Pr/24
+tags : 
+- Bible/Pr/24
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 24

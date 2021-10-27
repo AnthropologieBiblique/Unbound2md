@@ -3,7 +3,10 @@ aliases :
 - Job 8
 - Job 8
 - Jb 8
-tags : Bible/Jb/8
+tags : 
+- Bible/Jb/8
+- français
+cssclass : bible-français
 ---
 
 # Job 8

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 81 (80)
 - Ps 81 (80)
 - Psalms 81 (80)
-tags : Bible/Ps/81_80
+tags : 
+- Bible/Ps/81_80
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 81 (80)

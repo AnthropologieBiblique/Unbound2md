@@ -3,7 +3,10 @@ aliases :
 - איוב 10
 - Job 10
 - Jb 10
-tags : Bible/Jb/10
+tags : 
+- Bible/Jb/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 10

@@ -4,7 +4,10 @@ aliases :
 - Genèse 31
 - Gn 31
 - Genesis 31
-tags : Bible/Gn/31
+tags : 
+- Bible/Gn/31
+- français
+cssclass : bible-français
 ---
 
 # Genèse 31

@@ -4,7 +4,10 @@ aliases :
 - Proverbes 9
 - Pr 9
 - Proverbs 9
-tags : Bible/Pr/9
+tags : 
+- Bible/Pr/9
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 9

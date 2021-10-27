@@ -4,7 +4,10 @@ aliases :
 - Michée 5
 - Mi 5
 - Micah 5
-tags : Bible/Mi/5
+tags : 
+- Bible/Mi/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # מיכה 5

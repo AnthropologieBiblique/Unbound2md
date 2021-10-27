@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 18
 - 1 Samuel 18
 - 1 S 18
-tags : Bible/1S/18
+tags : 
+- Bible/1S/18
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 18

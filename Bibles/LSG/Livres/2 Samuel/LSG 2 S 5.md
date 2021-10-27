@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 5
 - 2 Samuel 5
 - 2 S 5
-tags : Bible/2S/5
+tags : 
+- Bible/2S/5
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 5

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 19 (18)
 - Ps 19 (18)
 - Psalms 19 (18)
-tags : Bible/Ps/19_18
+tags : 
+- Bible/Ps/19_18
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 19 (18)

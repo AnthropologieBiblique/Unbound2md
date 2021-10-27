@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 2
 - 1 R 2
 - 1 Kings 2
-tags : Bible/1R/2
+tags : 
+- Bible/1R/2
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ 2

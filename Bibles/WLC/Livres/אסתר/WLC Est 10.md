@@ -3,7 +3,10 @@ aliases :
 - אסתר 10
 - Esther 10
 - Est 10
-tags : Bible/Est/10
+tags : 
+- Bible/Est/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 10

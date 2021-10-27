@@ -4,7 +4,10 @@ aliases :
 - Colossiens
 - Col
 - Colossians
-tags : Bible/Col
+tags : 
+- Bible/Col
+- français
+cssclass : bible-français
 ---
 
 # Colossiens

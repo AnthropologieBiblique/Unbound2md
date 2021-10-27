@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 41
 - Ez 41
 - Ezekiel 41
-tags : Bible/Ez/41
+tags : 
+- Bible/Ez/41
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יחזקאל 41

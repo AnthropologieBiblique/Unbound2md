@@ -4,7 +4,10 @@ aliases :
 - 1 Pierre
 - 1 P
 - 1 Peter
-tags : Bible/1P
+tags : 
+- Bible/1P
+- français
+cssclass : bible-français
 ---
 
 # 1 Pierre

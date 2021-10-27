@@ -3,7 +3,10 @@ aliases :
 - Danielis 6
 - Daniel 6
 - Dn 6
-tags : Bible/Dn/6
+tags : 
+- Bible/Dn/6
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 6

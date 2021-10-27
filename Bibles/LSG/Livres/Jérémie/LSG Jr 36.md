@@ -4,7 +4,10 @@ aliases :
 - Jérémie 36
 - Jr 36
 - Jeremiah 36
-tags : Bible/Jr/36
+tags : 
+- Bible/Jr/36
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 36

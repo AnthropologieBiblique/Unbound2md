@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 11
 - Ez 11
 - Ezekiel 11
-tags : Bible/Ez/11
+tags : 
+- Bible/Ez/11
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 11

@@ -4,7 +4,10 @@ aliases :
 - Sagesse 6
 - Sg 6
 - Wisdom of Solomon 6
-tags : Bible/Sg/6
+tags : 
+- Bible/Sg/6
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 6

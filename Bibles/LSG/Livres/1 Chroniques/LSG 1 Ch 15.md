@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 15
 - 1 Ch 15
 - 1 Chronicles 15
-tags : Bible/1Ch/15
+tags : 
+- Bible/1Ch/15
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 15

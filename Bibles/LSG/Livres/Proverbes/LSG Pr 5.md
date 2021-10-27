@@ -4,7 +4,10 @@ aliases :
 - Proverbes 5
 - Pr 5
 - Proverbs 5
-tags : Bible/Pr/5
+tags : 
+- Bible/Pr/5
+- français
+cssclass : bible-français
 ---
 
 # Proverbes 5

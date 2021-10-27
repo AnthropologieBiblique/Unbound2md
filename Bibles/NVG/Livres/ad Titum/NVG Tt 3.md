@@ -4,7 +4,10 @@ aliases :
 - Tite 3
 - Tt 3
 - Titus 3
-tags : Bible/Tt/3
+tags : 
+- Bible/Tt/3
+- latin
+cssclass : bible-latin
 ---
 
 # ad Titum 3

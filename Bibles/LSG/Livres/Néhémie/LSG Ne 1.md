@@ -4,7 +4,10 @@ aliases :
 - Néhémie 1
 - Ne 1
 - Nehemiah 1
-tags : Bible/Ne/1
+tags : 
+- Bible/Ne/1
+- français
+cssclass : bible-français
 ---
 
 # Néhémie 1

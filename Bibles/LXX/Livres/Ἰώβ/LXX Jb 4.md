@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 4
 - Job 4
 - Jb 4
-tags : Bible/Jb/4
+tags : 
+- Bible/Jb/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 4

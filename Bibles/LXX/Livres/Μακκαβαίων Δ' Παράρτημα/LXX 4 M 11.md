@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 11
 - 4 Maccabees 11
 - 4 M 11
-tags : Bible/4M/11
+tags : 
+- Bible/4M/11
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 11

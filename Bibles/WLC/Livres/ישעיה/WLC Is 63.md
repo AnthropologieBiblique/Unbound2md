@@ -4,7 +4,10 @@ aliases :
 - Isaïe 63
 - Is 63
 - Isaiah 63
-tags : Bible/Is/63
+tags : 
+- Bible/Is/63
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 63

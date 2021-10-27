@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 14
 - Ps Sal 14
 - Psalm of Solomon 14
-tags : Bible/PsSal/14
+tags : 
+- Bible/PsSal/14
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 14

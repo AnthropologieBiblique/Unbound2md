@@ -3,7 +3,10 @@ aliases :
 - Judith 6
 - Judith 6
 - Jdt 6
-tags : Bible/Jdt/6
+tags : 
+- Bible/Jdt/6
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 6

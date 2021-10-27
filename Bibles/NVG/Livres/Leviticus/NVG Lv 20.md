@@ -4,7 +4,10 @@ aliases :
 - Lévitique 20
 - Lv 20
 - Leviticus 20
-tags : Bible/Lv/20
+tags : 
+- Bible/Lv/20
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 20

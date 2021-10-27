@@ -4,7 +4,10 @@ aliases :
 - Psaumes 67 (66)
 - Ps 67 (66)
 - Psalms 67 (66)
-tags : Bible/Ps/67_66
+tags : 
+- Bible/Ps/67_66
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 67 (66)

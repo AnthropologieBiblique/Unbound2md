@@ -4,7 +4,10 @@ aliases :
 - Jérémie 8
 - Jr 8
 - Jeremiah 8
-tags : Bible/Jr/8
+tags : 
+- Bible/Jr/8
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 8

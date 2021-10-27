@@ -4,7 +4,10 @@ aliases :
 - Exode 40
 - Ex 40
 - Exodus 40
-tags : Bible/Ex/40
+tags : 
+- Bible/Ex/40
+- français
+cssclass : bible-français
 ---
 
 # Exode 40

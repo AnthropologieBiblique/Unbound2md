@@ -4,7 +4,10 @@ aliases :
 - Exode 28
 - Ex 28
 - Exodus 28
-tags : Bible/Ex/28
+tags : 
+- Bible/Ex/28
+- français
+cssclass : bible-français
 ---
 
 # Exode 28

@@ -4,7 +4,10 @@ aliases :
 - Matthieu 9
 - Mt 9
 - Matthew 9
-tags : Bible/Mt/9
+tags : 
+- Bible/Mt/9
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 9

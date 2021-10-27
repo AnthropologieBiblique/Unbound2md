@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 6
 - Qo 6
 - Ecclesiastes 6
-tags : Bible/Qo/6
+tags : 
+- Bible/Qo/6
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiastes 7

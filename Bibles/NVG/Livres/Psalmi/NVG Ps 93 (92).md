@@ -4,7 +4,10 @@ aliases :
 - Psaumes 93 (92)
 - Ps 93 (92)
 - Psalms 93 (92)
-tags : Bible/Ps/93_92
+tags : 
+- Bible/Ps/93_92
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 93 (92)

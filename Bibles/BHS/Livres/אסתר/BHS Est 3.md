@@ -3,7 +3,10 @@ aliases :
 - אסתר 3
 - Esther 3
 - Est 3
-tags : Bible/Est/3
+tags : 
+- Bible/Est/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 3

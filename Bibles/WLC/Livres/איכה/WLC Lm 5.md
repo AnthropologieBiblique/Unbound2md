@@ -3,7 +3,10 @@ aliases :
 - איכה 5
 - Lamentations 5
 - Lm 5
-tags : Bible/Lm/5
+tags : 
+- Bible/Lm/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איכה 5

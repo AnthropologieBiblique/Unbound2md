@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 18
 - 1 Samuel 18
 - 1 S 18
-tags : Bible/1S/18
+tags : 
+- Bible/1S/18
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 18

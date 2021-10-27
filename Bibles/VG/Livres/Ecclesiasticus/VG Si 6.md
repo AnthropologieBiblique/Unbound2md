@@ -4,7 +4,10 @@ aliases :
 - Siracide 6
 - Si 6
 - Ecclesiasticus 6
-tags : Bible/Si/6
+tags : 
+- Bible/Si/6
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 6

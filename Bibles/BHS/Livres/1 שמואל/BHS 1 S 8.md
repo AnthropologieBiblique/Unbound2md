@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 8
 - 1 Samuel 8
 - 1 S 8
-tags : Bible/1S/8
+tags : 
+- Bible/1S/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 8

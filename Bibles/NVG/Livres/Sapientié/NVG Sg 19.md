@@ -4,7 +4,10 @@ aliases :
 - Sagesse 19
 - Sg 19
 - Wisdom of Solomon 19
-tags : Bible/Sg/19
+tags : 
+- Bible/Sg/19
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 19

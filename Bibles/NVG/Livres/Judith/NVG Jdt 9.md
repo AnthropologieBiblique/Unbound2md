@@ -3,7 +3,10 @@ aliases :
 - Judith 9
 - Judith 9
 - Jdt 9
-tags : Bible/Jdt/9
+tags : 
+- Bible/Jdt/9
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 9

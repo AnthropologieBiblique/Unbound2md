@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 19
 - Ap 19
 - Revelation 19
-tags : Bible/Ap/19
+tags : 
+- Bible/Ap/19
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 19

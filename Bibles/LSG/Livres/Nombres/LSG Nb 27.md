@@ -4,7 +4,10 @@ aliases :
 - Nombres 27
 - Nb 27
 - Numbers 27
-tags : Bible/Nb/27
+tags : 
+- Bible/Nb/27
+- français
+cssclass : bible-français
 ---
 
 # Nombres 27

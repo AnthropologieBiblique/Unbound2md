@@ -4,7 +4,10 @@ aliases :
 - Sagesse 7
 - Sg 7
 - Wisdom of Solomon 7
-tags : Bible/Sg/7
+tags : 
+- Bible/Sg/7
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 7

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 99 (98)
 - Ps 99 (98)
 - Psalms 99 (98)
-tags : Bible/Ps/99_98
+tags : 
+- Bible/Ps/99_98
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 99 (98)

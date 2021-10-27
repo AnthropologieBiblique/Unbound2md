@@ -3,7 +3,10 @@ aliases :
 - Esther 10
 - Esther 10
 - Est 10
-tags : Bible/Est/10
+tags : 
+- Bible/Est/10
+- français
+cssclass : bible-français
 ---
 
 # Esther 10

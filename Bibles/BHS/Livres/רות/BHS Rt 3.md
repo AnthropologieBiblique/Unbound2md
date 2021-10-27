@@ -3,7 +3,10 @@ aliases :
 - רות 3
 - Ruth 3
 - Rt 3
-tags : Bible/Rt/3
+tags : 
+- Bible/Rt/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # רות 3

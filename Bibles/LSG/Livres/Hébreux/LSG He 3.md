@@ -4,7 +4,10 @@ aliases :
 - Hébreux 3
 - He 3
 - Hebrews 3
-tags : Bible/He/3
+tags : 
+- Bible/He/3
+- français
+cssclass : bible-français
 ---
 
 # Hébreux 3

@@ -4,7 +4,10 @@ aliases :
 - Luc 3
 - Lc 3
 - Luke 3
-tags : Bible/Lc/3
+tags : 
+- Bible/Lc/3
+- français
+cssclass : bible-français
 ---
 
 # Luc 3

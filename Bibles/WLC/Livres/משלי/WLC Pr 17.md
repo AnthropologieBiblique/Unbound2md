@@ -4,7 +4,10 @@ aliases :
 - Proverbes 17
 - Pr 17
 - Proverbs 17
-tags : Bible/Pr/17
+tags : 
+- Bible/Pr/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 17

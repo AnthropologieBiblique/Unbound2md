@@ -3,7 +3,10 @@ aliases :
 - Baruch 4
 - Baruch 4
 - Ba 4
-tags : Bible/Ba/4
+tags : 
+- Bible/Ba/4
+- latin
+cssclass : bible-latin
 ---
 
 # Baruch 4

@@ -4,7 +4,10 @@ aliases :
 - Jean 6
 - Jn 6
 - John 6
-tags : Bible/Jn/6
+tags : 
+- Bible/Jn/6
+- français
+cssclass : bible-français
 ---
 
 # Jean 6

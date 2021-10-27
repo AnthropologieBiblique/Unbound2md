@@ -3,7 +3,10 @@ aliases :
 - Job 16
 - Job 16
 - Jb 16
-tags : Bible/Jb/16
+tags : 
+- Bible/Jb/16
+- latin
+cssclass : bible-latin
 ---
 
 # Job 16

@@ -3,7 +3,10 @@ aliases :
 - עמוס 5
 - Amos 5
 - Am 5
-tags : Bible/Am/5
+tags : 
+- Bible/Am/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 5

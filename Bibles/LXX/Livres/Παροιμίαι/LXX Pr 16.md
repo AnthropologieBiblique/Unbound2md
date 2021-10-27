@@ -4,7 +4,10 @@ aliases :
 - Proverbes 16
 - Pr 16
 - Proverbs 16
-tags : Bible/Pr/16
+tags : 
+- Bible/Pr/16
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 16

@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 11
 - Daniel 11
 - Dn 11
-tags : Bible/Dn/11
+tags : 
+- Bible/Dn/11
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 11

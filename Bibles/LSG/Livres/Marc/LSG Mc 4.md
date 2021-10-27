@@ -4,7 +4,10 @@ aliases :
 - Marc 4
 - Mc 4
 - Mark 4
-tags : Bible/Mc/4
+tags : 
+- Bible/Mc/4
+- français
+cssclass : bible-français
 ---
 
 # Marc 4

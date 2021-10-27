@@ -4,7 +4,10 @@ aliases :
 - 1 Timothée 5
 - 1 Tm 5
 - 1 Timothy 5
-tags : Bible/1Tm/5
+tags : 
+- Bible/1Tm/5
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Timothée 5

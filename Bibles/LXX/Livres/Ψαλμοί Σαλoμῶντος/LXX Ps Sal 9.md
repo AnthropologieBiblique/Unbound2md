@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 9
 - Ps Sal 9
 - Psalm of Solomon 9
-tags : Bible/PsSal/9
+tags : 
+- Bible/PsSal/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 9

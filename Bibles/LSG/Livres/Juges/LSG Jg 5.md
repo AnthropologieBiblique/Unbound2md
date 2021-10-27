@@ -4,7 +4,10 @@ aliases :
 - Juges 5
 - Jg 5
 - Judges 5
-tags : Bible/Jg/5
+tags : 
+- Bible/Jg/5
+- français
+cssclass : bible-français
 ---
 
 # Juges 5

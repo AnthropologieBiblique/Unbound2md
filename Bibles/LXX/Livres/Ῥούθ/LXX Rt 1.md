@@ -3,7 +3,10 @@ aliases :
 - Ῥούθ 1
 - Ruth 1
 - Rt 1
-tags : Bible/Rt/1
+tags : 
+- Bible/Rt/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ῥούθ 1

@@ -4,7 +4,10 @@ aliases :
 - Genèse 48
 - Gn 48
 - Genesis 48
-tags : Bible/Gn/48
+tags : 
+- Bible/Gn/48
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 48

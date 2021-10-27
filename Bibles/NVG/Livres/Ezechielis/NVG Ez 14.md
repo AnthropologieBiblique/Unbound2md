@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 14
 - Ez 14
 - Ezekiel 14
-tags : Bible/Ez/14
+tags : 
+- Bible/Ez/14
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 14

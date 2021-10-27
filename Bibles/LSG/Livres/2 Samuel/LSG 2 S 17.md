@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 17
 - 2 Samuel 17
 - 2 S 17
-tags : Bible/2S/17
+tags : 
+- Bible/2S/17
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 17

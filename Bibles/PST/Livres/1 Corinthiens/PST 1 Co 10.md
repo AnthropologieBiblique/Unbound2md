@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 10
 - 1 Co 10
 - 1 Corinthians 10
-tags : Bible/1Co/10
+tags : 
+- Bible/1Co/10
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 10

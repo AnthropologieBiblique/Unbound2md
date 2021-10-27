@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 3
 - 2 Co 3
 - 2 Corinthians 3
-tags : Bible/2Co/3
+tags : 
+- Bible/2Co/3
+- latin
+cssclass : bible-latin
 ---
 
 # 2 ad Corinthios 3

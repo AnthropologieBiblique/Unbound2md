@@ -4,7 +4,10 @@ aliases :
 - Jonas 1
 - Jon 1
 - Jonah 1
-tags : Bible/Jon/1
+tags : 
+- Bible/Jon/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יונה 1

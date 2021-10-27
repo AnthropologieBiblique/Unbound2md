@@ -4,7 +4,10 @@ aliases :
 - Néhémie
 - Ne
 - Nehemiah
-tags : Bible/Ne
+tags : 
+- Bible/Ne
+- français
+cssclass : bible-français
 ---
 
 # Néhémie

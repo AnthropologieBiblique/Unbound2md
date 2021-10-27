@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 4
 - Estgrec 4
 - Esther, Greek 4
-tags : Bible/Estgrec/4
+tags : 
+- Bible/Estgrec/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 4

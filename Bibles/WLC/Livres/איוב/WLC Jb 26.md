@@ -3,7 +3,10 @@ aliases :
 - איוב 26
 - Job 26
 - Jb 26
-tags : Bible/Jb/26
+tags : 
+- Bible/Jb/26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 26

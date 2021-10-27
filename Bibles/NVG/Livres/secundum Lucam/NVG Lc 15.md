@@ -4,7 +4,10 @@ aliases :
 - Luc 15
 - Lc 15
 - Luke 15
-tags : Bible/Lc/15
+tags : 
+- Bible/Lc/15
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 15

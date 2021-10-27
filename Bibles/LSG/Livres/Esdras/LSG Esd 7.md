@@ -4,7 +4,10 @@ aliases :
 - Esdras 7
 - Esd 7
 - Ezra 7
-tags : Bible/Esd/7
+tags : 
+- Bible/Esd/7
+- français
+cssclass : bible-français
 ---
 
 # Esdras 7

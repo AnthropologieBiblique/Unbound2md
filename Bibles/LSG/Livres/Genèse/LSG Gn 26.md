@@ -4,7 +4,10 @@ aliases :
 - Genèse 26
 - Gn 26
 - Genesis 26
-tags : Bible/Gn/26
+tags : 
+- Bible/Gn/26
+- français
+cssclass : bible-français
 ---
 
 # Genèse 26

@@ -4,7 +4,10 @@ aliases :
 - Sagesse 15
 - Sg 15
 - Wisdom of Solomon 15
-tags : Bible/Sg/15
+tags : 
+- Bible/Sg/15
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 15

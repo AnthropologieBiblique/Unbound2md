@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Βʹ 11
 - 2 Maccabees 11
 - 2 M 11
-tags : Bible/2M/11
+tags : 
+- Bible/2M/11
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Βʹ 11

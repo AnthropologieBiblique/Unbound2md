@@ -4,7 +4,10 @@ aliases :
 - Psaumes 27 (26)
 - Ps 27 (26)
 - Psalms 27 (26)
-tags : Bible/Ps/27_26
+tags : 
+- Bible/Ps/27_26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 27 (26)

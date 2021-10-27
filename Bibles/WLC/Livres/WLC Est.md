@@ -3,7 +3,10 @@ aliases :
 - אסתר
 - Esther
 - Est
-tags : Bible/Est
+tags : 
+- Bible/Est
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר

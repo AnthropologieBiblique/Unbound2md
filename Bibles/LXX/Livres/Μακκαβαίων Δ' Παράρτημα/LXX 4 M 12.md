@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 12
 - 4 Maccabees 12
 - 4 M 12
-tags : Bible/4M/12
+tags : 
+- Bible/4M/12
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 12

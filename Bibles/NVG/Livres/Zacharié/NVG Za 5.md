@@ -4,7 +4,10 @@ aliases :
 - Zacharie 5
 - Za 5
 - Zechariah 5
-tags : Bible/Za/5
+tags : 
+- Bible/Za/5
+- latin
+cssclass : bible-latin
 ---
 
 # Zacharié 5

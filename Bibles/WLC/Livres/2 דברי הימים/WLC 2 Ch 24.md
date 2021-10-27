@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 24
 - 2 Ch 24
 - 2 Chronicles 24
-tags : Bible/2Ch/24
+tags : 
+- Bible/2Ch/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 24

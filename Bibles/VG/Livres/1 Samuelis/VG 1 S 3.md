@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 3
 - 1 Samuel 3
 - 1 S 3
-tags : Bible/1S/3
+tags : 
+- Bible/1S/3
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 3

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 42 (41)
 - Ps 42 (41)
 - Psalms 42 (41)
-tags : Bible/Ps/42_41
+tags : 
+- Bible/Ps/42_41
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 42 (41)

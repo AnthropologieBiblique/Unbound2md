@@ -4,7 +4,10 @@ aliases :
 - Nombres 36
 - Nb 36
 - Numbers 36
-tags : Bible/Nb/36
+tags : 
+- Bible/Nb/36
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 36

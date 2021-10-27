@@ -4,7 +4,10 @@ aliases :
 - Proverbes 27
 - Pr 27
 - Proverbs 27
-tags : Bible/Pr/27
+tags : 
+- Bible/Pr/27
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 27

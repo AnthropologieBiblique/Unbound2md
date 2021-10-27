@@ -4,7 +4,10 @@ aliases :
 - Colossiens 1
 - Col 1
 - Colossians 1
-tags : Bible/Col/1
+tags : 
+- Bible/Col/1
+- latin
+cssclass : bible-latin
 ---
 
 # ad Colossenses 1

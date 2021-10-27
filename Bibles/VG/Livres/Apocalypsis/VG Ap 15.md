@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 15
 - Ap 15
 - Revelation 15
-tags : Bible/Ap/15
+tags : 
+- Bible/Ap/15
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 15

@@ -4,7 +4,10 @@ aliases :
 - 2 Pierre 3
 - 2 P 3
 - 2 Peter 3
-tags : Bible/2P/3
+tags : 
+- Bible/2P/3
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Pierre 3

@@ -4,7 +4,10 @@ aliases :
 - Exode 8
 - Ex 8
 - Exodus 8
-tags : Bible/Ex/8
+tags : 
+- Bible/Ex/8
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 8

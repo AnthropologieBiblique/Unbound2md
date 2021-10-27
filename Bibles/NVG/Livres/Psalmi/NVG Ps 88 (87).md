@@ -4,7 +4,10 @@ aliases :
 - Psaumes 88 (87)
 - Ps 88 (87)
 - Psalms 88 (87)
-tags : Bible/Ps/88_87
+tags : 
+- Bible/Ps/88_87
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 88 (87)

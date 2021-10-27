@@ -4,7 +4,10 @@ aliases :
 - Isaïe 58
 - Is 58
 - Isaiah 58
-tags : Bible/Is/58
+tags : 
+- Bible/Is/58
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 58

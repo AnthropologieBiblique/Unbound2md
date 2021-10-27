@@ -4,7 +4,10 @@ aliases :
 - Lévitique 7
 - Lv 7
 - Leviticus 7
-tags : Bible/Lv/7
+tags : 
+- Bible/Lv/7
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 7

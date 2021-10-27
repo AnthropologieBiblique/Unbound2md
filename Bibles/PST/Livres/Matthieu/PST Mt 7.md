@@ -4,7 +4,10 @@ aliases :
 - Matthieu 7
 - Mt 7
 - Matthew 7
-tags : Bible/Mt/7
+tags : 
+- Bible/Mt/7
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 7

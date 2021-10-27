@@ -4,7 +4,10 @@ aliases :
 - Juges 3
 - Jg 3
 - Judges 3
-tags : Bible/Jg/3
+tags : 
+- Bible/Jg/3
+- français
+cssclass : bible-français
 ---
 
 # Juges 3

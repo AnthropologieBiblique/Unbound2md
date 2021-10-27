@@ -4,7 +4,10 @@ aliases :
 - Isaïe 45
 - Is 45
 - Isaiah 45
-tags : Bible/Is/45
+tags : 
+- Bible/Is/45
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 45

@@ -4,7 +4,10 @@ aliases :
 - Luc 18
 - Lc 18
 - Luke 18
-tags : Bible/Lc/18
+tags : 
+- Bible/Lc/18
+- français
+cssclass : bible-français
 ---
 
 # Luc 18

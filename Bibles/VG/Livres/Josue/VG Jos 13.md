@@ -4,7 +4,10 @@ aliases :
 - Josué 13
 - Jos 13
 - Joshua 13
-tags : Bible/Jos/13
+tags : 
+- Bible/Jos/13
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 13

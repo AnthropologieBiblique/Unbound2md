@@ -4,7 +4,10 @@ aliases :
 - Jean 10
 - Jn 10
 - John 10
-tags : Bible/Jn/10
+tags : 
+- Bible/Jn/10
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 10

@@ -4,7 +4,10 @@ aliases :
 - 2 Timothée 3
 - 2 Tm 3
 - 2 Timothy 3
-tags : Bible/2Tm/3
+tags : 
+- Bible/2Tm/3
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Timothée 3

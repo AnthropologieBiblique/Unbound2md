@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 8
 - 4 Maccabees 8
 - 4 M 8
-tags : Bible/4M/8
+tags : 
+- Bible/4M/8
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 8

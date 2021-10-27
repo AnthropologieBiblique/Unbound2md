@@ -4,7 +4,10 @@ aliases :
 - Sagesse 11
 - Sg 11
 - Wisdom of Solomon 11
-tags : Bible/Sg/11
+tags : 
+- Bible/Sg/11
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 11

@@ -4,7 +4,10 @@ aliases :
 - Lévitique 11
 - Lv 11
 - Leviticus 11
-tags : Bible/Lv/11
+tags : 
+- Bible/Lv/11
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 11

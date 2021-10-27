@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 14
 - 1 Ch 14
 - 1 Chronicles 14
-tags : Bible/1Ch/14
+tags : 
+- Bible/1Ch/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 14

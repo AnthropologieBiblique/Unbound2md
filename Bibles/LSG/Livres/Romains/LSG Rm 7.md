@@ -4,7 +4,10 @@ aliases :
 - Romains 7
 - Rm 7
 - Romans 7
-tags : Bible/Rm/7
+tags : 
+- Bible/Rm/7
+- français
+cssclass : bible-français
 ---
 
 # Romains 7

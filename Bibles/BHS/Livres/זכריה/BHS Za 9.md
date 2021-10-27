@@ -4,7 +4,10 @@ aliases :
 - Zacharie 9
 - Za 9
 - Zechariah 9
-tags : Bible/Za/9
+tags : 
+- Bible/Za/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # זכריה 9

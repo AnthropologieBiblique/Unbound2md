@@ -4,7 +4,10 @@ aliases :
 - Josué 24
 - Jos 24
 - Joshua 24
-tags : Bible/Jos/24
+tags : 
+- Bible/Jos/24
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 24

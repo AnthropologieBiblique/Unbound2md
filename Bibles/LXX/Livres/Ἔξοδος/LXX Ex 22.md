@@ -4,7 +4,10 @@ aliases :
 - Exode 22
 - Ex 22
 - Exodus 22
-tags : Bible/Ex/22
+tags : 
+- Bible/Ex/22
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 22

@@ -3,7 +3,10 @@ aliases :
 - Jude 1
 - Jude 1
 - Jude 1
-tags : Bible/Jude/1
+tags : 
+- Bible/Jude/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jude 1

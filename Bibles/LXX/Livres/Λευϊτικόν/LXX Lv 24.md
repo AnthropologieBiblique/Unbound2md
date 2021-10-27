@@ -4,7 +4,10 @@ aliases :
 - Lévitique 24
 - Lv 24
 - Leviticus 24
-tags : Bible/Lv/24
+tags : 
+- Bible/Lv/24
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 24

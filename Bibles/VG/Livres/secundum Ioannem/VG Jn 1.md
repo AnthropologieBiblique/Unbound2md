@@ -4,7 +4,10 @@ aliases :
 - Jean 1
 - Jn 1
 - John 1
-tags : Bible/Jn/1
+tags : 
+- Bible/Jn/1
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 1

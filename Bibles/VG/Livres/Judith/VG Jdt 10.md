@@ -3,7 +3,10 @@ aliases :
 - Judith 10
 - Judith 10
 - Jdt 10
-tags : Bible/Jdt/10
+tags : 
+- Bible/Jdt/10
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 10

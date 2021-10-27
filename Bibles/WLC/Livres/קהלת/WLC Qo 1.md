@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 1
 - Qo 1
 - Ecclesiastes 1
-tags : Bible/Qo/1
+tags : 
+- Bible/Qo/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # קהלת 1

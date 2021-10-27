@@ -4,7 +4,10 @@ aliases :
 - Néhémie 2
 - Ne 2
 - Nehemiah 2
-tags : Bible/Ne/2
+tags : 
+- Bible/Ne/2
+- latin
+cssclass : bible-latin
 ---
 
 # Nehemié 2

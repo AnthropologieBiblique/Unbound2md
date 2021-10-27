@@ -3,7 +3,10 @@ aliases :
 - Job 26
 - Job 26
 - Jb 26
-tags : Bible/Jb/26
+tags : 
+- Bible/Jb/26
+- latin
+cssclass : bible-latin
 ---
 
 # Job 26

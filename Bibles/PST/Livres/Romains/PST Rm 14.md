@@ -4,7 +4,10 @@ aliases :
 - Romains 14
 - Rm 14
 - Romans 14
-tags : Bible/Rm/14
+tags : 
+- Bible/Rm/14
+- araméen
+cssclass : bible-araméen
 ---
 
 # Romains 14

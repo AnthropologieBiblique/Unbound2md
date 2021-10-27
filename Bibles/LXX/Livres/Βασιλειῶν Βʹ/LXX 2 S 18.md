@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 18
 - 2 Samuel 18
 - 2 S 18
-tags : Bible/2S/18
+tags : 
+- Bible/2S/18
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 18

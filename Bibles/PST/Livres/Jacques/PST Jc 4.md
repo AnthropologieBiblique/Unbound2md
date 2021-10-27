@@ -4,7 +4,10 @@ aliases :
 - Jacques 4
 - Jc 4
 - James 4
-tags : Bible/Jc/4
+tags : 
+- Bible/Jc/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jacques 4

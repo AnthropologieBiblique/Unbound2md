@@ -4,7 +4,10 @@ aliases :
 - Exode 2
 - Ex 2
 - Exodus 2
-tags : Bible/Ex/2
+tags : 
+- Bible/Ex/2
+- français
+cssclass : bible-français
 ---
 
 # Exode 2

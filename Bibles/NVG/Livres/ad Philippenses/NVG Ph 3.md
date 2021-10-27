@@ -4,7 +4,10 @@ aliases :
 - Philippiens 3
 - Ph 3
 - Philippians 3
-tags : Bible/Ph/3
+tags : 
+- Bible/Ph/3
+- latin
+cssclass : bible-latin
 ---
 
 # ad Philippenses 3

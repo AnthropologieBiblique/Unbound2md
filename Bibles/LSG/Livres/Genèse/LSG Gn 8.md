@@ -4,7 +4,10 @@ aliases :
 - Genèse 8
 - Gn 8
 - Genesis 8
-tags : Bible/Gn/8
+tags : 
+- Bible/Gn/8
+- français
+cssclass : bible-français
 ---
 
 # Genèse 8

@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 34
 - Ez 34
 - Ezekiel 34
-tags : Bible/Ez/34
+tags : 
+- Bible/Ez/34
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 34

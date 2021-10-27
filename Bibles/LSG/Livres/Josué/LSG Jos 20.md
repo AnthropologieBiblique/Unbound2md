@@ -4,7 +4,10 @@ aliases :
 - Josué 20
 - Jos 20
 - Joshua 20
-tags : Bible/Jos/20
+tags : 
+- Bible/Jos/20
+- français
+cssclass : bible-français
 ---
 
 # Josué 20

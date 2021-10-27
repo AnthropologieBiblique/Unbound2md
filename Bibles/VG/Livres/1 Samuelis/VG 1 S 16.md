@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 16
 - 1 Samuel 16
 - 1 S 16
-tags : Bible/1S/16
+tags : 
+- Bible/1S/16
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 16

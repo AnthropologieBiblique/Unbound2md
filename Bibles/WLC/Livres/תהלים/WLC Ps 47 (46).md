@@ -4,7 +4,10 @@ aliases :
 - Psaumes 47 (46)
 - Ps 47 (46)
 - Psalms 47 (46)
-tags : Bible/Ps/47_46
+tags : 
+- Bible/Ps/47_46
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 47 (46)

@@ -4,7 +4,10 @@ aliases :
 - Hébreux 13
 - He 13
 - Hebrews 13
-tags : Bible/He/13
+tags : 
+- Bible/He/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Hébreux 13

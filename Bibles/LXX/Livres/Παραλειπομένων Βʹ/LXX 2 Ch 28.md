@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 28
 - 2 Ch 28
 - 2 Chronicles 28
-tags : Bible/2Ch/28
+tags : 
+- Bible/2Ch/28
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 28

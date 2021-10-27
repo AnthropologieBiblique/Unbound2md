@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 12
 - 1 R 12
 - 1 Kings 12
-tags : Bible/1R/12
+tags : 
+- Bible/1R/12
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ 12

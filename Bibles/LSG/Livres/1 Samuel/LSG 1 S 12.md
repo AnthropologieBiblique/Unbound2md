@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 12
 - 1 Samuel 12
 - 1 S 12
-tags : Bible/1S/12
+tags : 
+- Bible/1S/12
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 12

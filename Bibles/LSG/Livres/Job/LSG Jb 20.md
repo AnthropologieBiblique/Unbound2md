@@ -3,7 +3,10 @@ aliases :
 - Job 20
 - Job 20
 - Jb 20
-tags : Bible/Jb/20
+tags : 
+- Bible/Jb/20
+- français
+cssclass : bible-français
 ---
 
 # Job 20

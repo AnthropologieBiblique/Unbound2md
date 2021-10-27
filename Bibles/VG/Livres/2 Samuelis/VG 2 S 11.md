@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 11
 - 2 Samuel 11
 - 2 S 11
-tags : Bible/2S/11
+tags : 
+- Bible/2S/11
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 11

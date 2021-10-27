@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל
 - 2 Samuel
 - 2 S
-tags : Bible/2S
+tags : 
+- Bible/2S
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל

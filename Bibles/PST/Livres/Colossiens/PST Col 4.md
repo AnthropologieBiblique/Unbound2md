@@ -4,7 +4,10 @@ aliases :
 - Colossiens 4
 - Col 4
 - Colossians 4
-tags : Bible/Col/4
+tags : 
+- Bible/Col/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Colossiens 4

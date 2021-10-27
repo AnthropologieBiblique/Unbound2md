@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 8
 - Job 8
 - Jb 8
-tags : Bible/Jb/8
+tags : 
+- Bible/Jb/8
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 8

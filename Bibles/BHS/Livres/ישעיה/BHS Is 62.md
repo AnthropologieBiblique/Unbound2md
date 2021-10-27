@@ -4,7 +4,10 @@ aliases :
 - Isaïe 62
 - Is 62
 - Isaiah 62
-tags : Bible/Is/62
+tags : 
+- Bible/Is/62
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 62

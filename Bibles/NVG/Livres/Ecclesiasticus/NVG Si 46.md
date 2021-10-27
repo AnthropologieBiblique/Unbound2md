@@ -4,7 +4,10 @@ aliases :
 - Siracide 46
 - Si 46
 - Ecclesiasticus 46
-tags : Bible/Si/46
+tags : 
+- Bible/Si/46
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 46

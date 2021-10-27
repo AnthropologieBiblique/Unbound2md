@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 2
 - 1 Samuel 2
 - 1 S 2
-tags : Bible/1S/2
+tags : 
+- Bible/1S/2
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 2

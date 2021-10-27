@@ -3,7 +3,10 @@ aliases :
 - Θρῆνοι 3
 - Lamentations 3
 - Lm 3
-tags : Bible/Lm/3
+tags : 
+- Bible/Lm/3
+- grec
+cssclass : bible-grec
 ---
 
 # Θρῆνοι 3

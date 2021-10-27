@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 5
 - 2 Samuel 5
 - 2 S 5
-tags : Bible/2S/5
+tags : 
+- Bible/2S/5
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 5

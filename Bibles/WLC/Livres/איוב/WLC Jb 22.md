@@ -3,7 +3,10 @@ aliases :
 - איוב 22
 - Job 22
 - Jb 22
-tags : Bible/Jb/22
+tags : 
+- Bible/Jb/22
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 22

@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 16
 - 1 Maccabees 16
 - 1 M 16
-tags : Bible/1M/16
+tags : 
+- Bible/1M/16
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 16

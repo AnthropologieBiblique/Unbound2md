@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 2
 - Estgrec 2
 - Esther, Greek 2
-tags : Bible/Estgrec/2
+tags : 
+- Bible/Estgrec/2
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 2

@@ -4,7 +4,10 @@ aliases :
 - Nombres 25
 - Nb 25
 - Numbers 25
-tags : Bible/Nb/25
+tags : 
+- Bible/Nb/25
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 25

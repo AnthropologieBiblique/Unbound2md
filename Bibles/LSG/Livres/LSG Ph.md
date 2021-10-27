@@ -4,7 +4,10 @@ aliases :
 - Philippiens
 - Ph
 - Philippians
-tags : Bible/Ph
+tags : 
+- Bible/Ph
+- français
+cssclass : bible-français
 ---
 
 # Philippiens

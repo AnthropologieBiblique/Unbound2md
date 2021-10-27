@@ -1,3 +1,7 @@
+---
+tags : Bible, hébreu
+cssclass : bible-hébreu
+---
 # Hebrew BHS accents
 
 [[BHS Mentions légales]]

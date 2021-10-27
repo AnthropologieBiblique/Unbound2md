@@ -4,7 +4,10 @@ aliases :
 - Tite 2
 - Tt 2
 - Titus 2
-tags : Bible/Tt/2
+tags : 
+- Bible/Tt/2
+- français
+cssclass : bible-français
 ---
 
 # Tite 2

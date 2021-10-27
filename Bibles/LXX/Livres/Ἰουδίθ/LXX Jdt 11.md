@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 11
 - Judith 11
 - Jdt 11
-tags : Bible/Jdt/11
+tags : 
+- Bible/Jdt/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 11

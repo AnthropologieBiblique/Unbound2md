@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 25
 - 1 Samuel 25
 - 1 S 25
-tags : Bible/1S/25
+tags : 
+- Bible/1S/25
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 25

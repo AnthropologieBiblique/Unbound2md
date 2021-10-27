@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 26
 - Dt 26
 - Deuteronomy 26
-tags : Bible/Dt/26
+tags : 
+- Bible/Dt/26
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 26

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 50 (49)
 - Ps 50 (49)
 - Psalms 50 (49)
-tags : Bible/Ps/50_49
+tags : 
+- Bible/Ps/50_49
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 50 (49)

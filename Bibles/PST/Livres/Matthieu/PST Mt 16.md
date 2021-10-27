@@ -4,7 +4,10 @@ aliases :
 - Matthieu 16
 - Mt 16
 - Matthew 16
-tags : Bible/Mt/16
+tags : 
+- Bible/Mt/16
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 16

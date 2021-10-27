@@ -4,7 +4,10 @@ aliases :
 - Jean 18
 - Jn 18
 - John 18
-tags : Bible/Jn/18
+tags : 
+- Bible/Jn/18
+- français
+cssclass : bible-français
 ---
 
 # Jean 18

@@ -4,7 +4,10 @@ aliases :
 - Exode 13
 - Ex 13
 - Exodus 13
-tags : Bible/Ex/13
+tags : 
+- Bible/Ex/13
+- français
+cssclass : bible-français
 ---
 
 # Exode 13

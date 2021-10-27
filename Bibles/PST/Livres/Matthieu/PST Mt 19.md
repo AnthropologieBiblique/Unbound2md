@@ -4,7 +4,10 @@ aliases :
 - Matthieu 19
 - Mt 19
 - Matthew 19
-tags : Bible/Mt/19
+tags : 
+- Bible/Mt/19
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 19

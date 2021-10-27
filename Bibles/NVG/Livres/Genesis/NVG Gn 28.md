@@ -4,7 +4,10 @@ aliases :
 - Genèse 28
 - Gn 28
 - Genesis 28
-tags : Bible/Gn/28
+tags : 
+- Bible/Gn/28
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 28

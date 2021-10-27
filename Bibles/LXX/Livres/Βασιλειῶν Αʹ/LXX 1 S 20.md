@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 20
 - 1 Samuel 20
 - 1 S 20
-tags : Bible/1S/20
+tags : 
+- Bible/1S/20
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 20

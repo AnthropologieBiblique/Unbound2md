@@ -4,7 +4,10 @@ aliases :
 - Nombres 18
 - Nb 18
 - Numbers 18
-tags : Bible/Nb/18
+tags : 
+- Bible/Nb/18
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 18

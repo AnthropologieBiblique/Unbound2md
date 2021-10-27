@@ -3,7 +3,10 @@ aliases :
 - איכה 1
 - Lamentations 1
 - Lm 1
-tags : Bible/Lm/1
+tags : 
+- Bible/Lm/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איכה 1

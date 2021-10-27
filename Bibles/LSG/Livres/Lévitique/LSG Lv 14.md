@@ -4,7 +4,10 @@ aliases :
 - Lévitique 14
 - Lv 14
 - Leviticus 14
-tags : Bible/Lv/14
+tags : 
+- Bible/Lv/14
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 14

@@ -3,7 +3,10 @@ aliases :
 - Ἀμώς Βʹ 3
 - Amos 3
 - Am 3
-tags : Bible/Am/3
+tags : 
+- Bible/Am/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμώς Βʹ 3

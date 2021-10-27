@@ -4,7 +4,10 @@ aliases :
 - Genèse 27
 - Gn 27
 - Genesis 27
-tags : Bible/Gn/27
+tags : 
+- Bible/Gn/27
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 27

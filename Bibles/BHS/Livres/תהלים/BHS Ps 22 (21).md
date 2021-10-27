@@ -4,7 +4,10 @@ aliases :
 - Psaumes 22 (21)
 - Ps 22 (21)
 - Psalms 22 (21)
-tags : Bible/Ps/22_21
+tags : 
+- Bible/Ps/22_21
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 22 (21)

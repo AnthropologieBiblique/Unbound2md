@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 5
 - Qo 5
 - Ecclesiastes 5
-tags : Bible/Qo/5
+tags : 
+- Bible/Qo/5
+- français
+cssclass : bible-français
 ---
 
 # Ecclésiaste 5

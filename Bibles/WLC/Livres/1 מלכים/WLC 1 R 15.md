@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 15
 - 1 R 15
 - 1 Kings 15
-tags : Bible/1R/15
+tags : 
+- Bible/1R/15
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 מלכים 15

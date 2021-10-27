@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 11
 - 1 Maccabees 11
 - 1 M 11
-tags : Bible/1M/11
+tags : 
+- Bible/1M/11
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 11

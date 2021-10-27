@@ -3,7 +3,10 @@ aliases :
 - אסתר 8
 - Esther 8
 - Est 8
-tags : Bible/Est/8
+tags : 
+- Bible/Est/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 8

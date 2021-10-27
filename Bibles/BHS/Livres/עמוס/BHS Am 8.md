@@ -3,7 +3,10 @@ aliases :
 - עמוס 8
 - Amos 8
 - Am 8
-tags : Bible/Am/8
+tags : 
+- Bible/Am/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 8

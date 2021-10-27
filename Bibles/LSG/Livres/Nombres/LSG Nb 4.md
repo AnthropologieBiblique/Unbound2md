@@ -4,7 +4,10 @@ aliases :
 - Nombres 4
 - Nb 4
 - Numbers 4
-tags : Bible/Nb/4
+tags : 
+- Bible/Nb/4
+- français
+cssclass : bible-français
 ---
 
 # Nombres 4

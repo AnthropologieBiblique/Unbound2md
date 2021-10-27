@@ -4,7 +4,10 @@ aliases :
 - 2 Thessaloniciens 1
 - 2 Th 1
 - 2 Thessalonians 1
-tags : Bible/2Th/1
+tags : 
+- Bible/2Th/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Thessaloniciens 1

@@ -3,7 +3,10 @@ aliases :
 - Esther 9
 - Esther 9
 - Est 9
-tags : Bible/Est/9
+tags : 
+- Bible/Est/9
+- français
+cssclass : bible-français
 ---
 
 # Esther 9

@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 11
 - Odes 11
 - Od 11
-tags : Bible/Od/11
+tags : 
+- Bible/Od/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 11

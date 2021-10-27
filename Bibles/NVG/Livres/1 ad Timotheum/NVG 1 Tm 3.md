@@ -4,7 +4,10 @@ aliases :
 - 1 Timothée 3
 - 1 Tm 3
 - 1 Timothy 3
-tags : Bible/1Tm/3
+tags : 
+- Bible/1Tm/3
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Timotheum 3

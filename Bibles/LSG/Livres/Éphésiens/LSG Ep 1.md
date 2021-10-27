@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 1
 - Ep 1
 - Ephesians 1
-tags : Bible/Ep/1
+tags : 
+- Bible/Ep/1
+- français
+cssclass : bible-français
 ---
 
 # Éphésiens 1

@@ -4,7 +4,10 @@ aliases :
 - 1 Jean 3
 - 1 Jn 3
 - 1 John 3
-tags : Bible/1Jn/3
+tags : 
+- Bible/1Jn/3
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Ioannis 3

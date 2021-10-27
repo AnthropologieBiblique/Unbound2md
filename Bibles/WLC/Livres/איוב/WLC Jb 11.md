@@ -3,7 +3,10 @@ aliases :
 - איוב 11
 - Job 11
 - Jb 11
-tags : Bible/Jb/11
+tags : 
+- Bible/Jb/11
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 11

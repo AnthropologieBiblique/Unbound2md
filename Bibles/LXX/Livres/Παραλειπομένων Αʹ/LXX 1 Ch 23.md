@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 23
 - 1 Ch 23
 - 1 Chronicles 23
-tags : Bible/1Ch/23
+tags : 
+- Bible/1Ch/23
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Αʹ 23

@@ -4,7 +4,10 @@ aliases :
 - Jacques 4
 - Jc 4
 - James 4
-tags : Bible/Jc/4
+tags : 
+- Bible/Jc/4
+- latin
+cssclass : bible-latin
 ---
 
 # Iacobi 4

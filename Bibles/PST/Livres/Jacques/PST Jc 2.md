@@ -4,7 +4,10 @@ aliases :
 - Jacques 2
 - Jc 2
 - James 2
-tags : Bible/Jc/2
+tags : 
+- Bible/Jc/2
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jacques 2

@@ -4,7 +4,10 @@ aliases :
 - Lévitique 21
 - Lv 21
 - Leviticus 21
-tags : Bible/Lv/21
+tags : 
+- Bible/Lv/21
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 21

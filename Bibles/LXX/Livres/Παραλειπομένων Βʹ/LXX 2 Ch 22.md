@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 22
 - 2 Ch 22
 - 2 Chronicles 22
-tags : Bible/2Ch/22
+tags : 
+- Bible/2Ch/22
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 22

@@ -4,7 +4,10 @@ aliases :
 - Josué 1
 - Jos 1
 - Joshua 1
-tags : Bible/Jos/1
+tags : 
+- Bible/Jos/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יהושע 1

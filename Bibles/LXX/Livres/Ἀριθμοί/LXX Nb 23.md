@@ -4,7 +4,10 @@ aliases :
 - Nombres 23
 - Nb 23
 - Numbers 23
-tags : Bible/Nb/23
+tags : 
+- Bible/Nb/23
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 23

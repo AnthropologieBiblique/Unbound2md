@@ -4,7 +4,10 @@ aliases :
 - Psaumes 35 (34)
 - Ps 35 (34)
 - Psalms 35 (34)
-tags : Bible/Ps/35_34
+tags : 
+- Bible/Ps/35_34
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 35 (34)

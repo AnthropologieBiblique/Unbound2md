@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 4
 - 2 Co 4
 - 2 Corinthians 4
-tags : Bible/2Co/4
+tags : 
+- Bible/2Co/4
+- français
+cssclass : bible-français
 ---
 
 # 2 Corinthiens 4

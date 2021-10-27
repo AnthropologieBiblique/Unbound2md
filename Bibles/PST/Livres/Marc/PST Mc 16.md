@@ -4,7 +4,10 @@ aliases :
 - Marc 16
 - Mc 16
 - Mark 16
-tags : Bible/Mc/16
+tags : 
+- Bible/Mc/16
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 16

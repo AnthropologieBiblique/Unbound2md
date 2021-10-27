@@ -4,7 +4,10 @@ aliases :
 - Jérémie 40
 - Jr 40
 - Jeremiah 40
-tags : Bible/Jr/40
+tags : 
+- Bible/Jr/40
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 40

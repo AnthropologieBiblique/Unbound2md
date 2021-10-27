@@ -4,7 +4,10 @@ aliases :
 - Luc 1
 - Lc 1
 - Luke 1
-tags : Bible/Lc/1
+tags : 
+- Bible/Lc/1
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 1

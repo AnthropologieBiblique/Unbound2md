@@ -4,7 +4,10 @@ aliases :
 - Isaïe 51
 - Is 51
 - Isaiah 51
-tags : Bible/Is/51
+tags : 
+- Bible/Is/51
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 51

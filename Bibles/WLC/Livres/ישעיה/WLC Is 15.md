@@ -4,7 +4,10 @@ aliases :
 - Isaïe 15
 - Is 15
 - Isaiah 15
-tags : Bible/Is/15
+tags : 
+- Bible/Is/15
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 15

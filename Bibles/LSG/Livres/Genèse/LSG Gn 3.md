@@ -4,7 +4,10 @@ aliases :
 - Genèse 3
 - Gn 3
 - Genesis 3
-tags : Bible/Gn/3
+tags : 
+- Bible/Gn/3
+- français
+cssclass : bible-français
 ---
 
 # Genèse 3

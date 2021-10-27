@@ -4,7 +4,10 @@ aliases :
 - Siracide 34
 - Si 34
 - Ecclesiasticus 34
-tags : Bible/Si/34
+tags : 
+- Bible/Si/34
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 34

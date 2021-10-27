@@ -4,7 +4,10 @@ aliases :
 - Lévitique 18
 - Lv 18
 - Leviticus 18
-tags : Bible/Lv/18
+tags : 
+- Bible/Lv/18
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 18

@@ -4,7 +4,10 @@ aliases :
 - Osée 12
 - Os 12
 - Hosea 12
-tags : Bible/Os/12
+tags : 
+- Bible/Os/12
+- latin
+cssclass : bible-latin
 ---
 
 # Osee 12

@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 14
 - Estgrec 14
 - Esther, Greek 14
-tags : Bible/Estgrec/14
+tags : 
+- Bible/Estgrec/14
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 14

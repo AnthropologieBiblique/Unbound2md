@@ -4,7 +4,10 @@ aliases :
 - Nombres 21
 - Nb 21
 - Numbers 21
-tags : Bible/Nb/21
+tags : 
+- Bible/Nb/21
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 21

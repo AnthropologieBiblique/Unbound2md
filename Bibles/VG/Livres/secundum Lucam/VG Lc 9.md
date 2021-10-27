@@ -4,7 +4,10 @@ aliases :
 - Luc 9
 - Lc 9
 - Luke 9
-tags : Bible/Lc/9
+tags : 
+- Bible/Lc/9
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 9

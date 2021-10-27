@@ -4,7 +4,10 @@ aliases :
 - Matthieu 11
 - Mt 11
 - Matthew 11
-tags : Bible/Mt/11
+tags : 
+- Bible/Mt/11
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 11

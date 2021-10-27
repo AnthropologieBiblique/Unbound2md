@@ -4,7 +4,10 @@ aliases :
 - Matthieu 14
 - Mt 14
 - Matthew 14
-tags : Bible/Mt/14
+tags : 
+- Bible/Mt/14
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 14

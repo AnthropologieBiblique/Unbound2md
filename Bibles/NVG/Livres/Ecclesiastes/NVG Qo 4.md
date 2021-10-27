@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 4
 - Qo 4
 - Ecclesiastes 4
-tags : Bible/Qo/4
+tags : 
+- Bible/Qo/4
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiastes 4

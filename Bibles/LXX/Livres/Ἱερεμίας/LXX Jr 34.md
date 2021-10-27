@@ -4,7 +4,10 @@ aliases :
 - Jérémie 27
 - Jr 27
 - Jeremiah 27
-tags : Bible/Jr/27
+tags : 
+- Bible/Jr/27
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 34

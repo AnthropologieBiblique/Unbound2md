@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 2
 - 1 Co 2
 - 1 Corinthians 2
-tags : Bible/1Co/2
+tags : 
+- Bible/1Co/2
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 2

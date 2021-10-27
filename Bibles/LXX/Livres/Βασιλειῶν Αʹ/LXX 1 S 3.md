@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 3
 - 1 Samuel 3
 - 1 S 3
-tags : Bible/1S/3
+tags : 
+- Bible/1S/3
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 3

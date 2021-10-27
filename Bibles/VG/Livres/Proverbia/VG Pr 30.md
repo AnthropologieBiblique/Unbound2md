@@ -4,7 +4,10 @@ aliases :
 - Proverbes 30
 - Pr 30
 - Proverbs 30
-tags : Bible/Pr/30
+tags : 
+- Bible/Pr/30
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 30

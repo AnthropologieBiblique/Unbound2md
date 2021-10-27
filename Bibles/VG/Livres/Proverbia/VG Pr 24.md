@@ -4,7 +4,10 @@ aliases :
 - Proverbes 24
 - Pr 24
 - Proverbs 24
-tags : Bible/Pr/24
+tags : 
+- Bible/Pr/24
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 24

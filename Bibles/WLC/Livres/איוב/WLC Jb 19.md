@@ -3,7 +3,10 @@ aliases :
 - איוב 19
 - Job 19
 - Jb 19
-tags : Bible/Jb/19
+tags : 
+- Bible/Jb/19
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 19

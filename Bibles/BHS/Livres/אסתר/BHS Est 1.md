@@ -3,7 +3,10 @@ aliases :
 - אסתר 1
 - Esther 1
 - Est 1
-tags : Bible/Est/1
+tags : 
+- Bible/Est/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 1

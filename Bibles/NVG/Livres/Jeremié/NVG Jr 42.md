@@ -4,7 +4,10 @@ aliases :
 - Jérémie 42
 - Jr 42
 - Jeremiah 42
-tags : Bible/Jr/42
+tags : 
+- Bible/Jr/42
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 42

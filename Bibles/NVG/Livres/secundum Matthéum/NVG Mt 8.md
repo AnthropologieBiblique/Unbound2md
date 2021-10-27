@@ -4,7 +4,10 @@ aliases :
 - Matthieu 8
 - Mt 8
 - Matthew 8
-tags : Bible/Mt/8
+tags : 
+- Bible/Mt/8
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 8

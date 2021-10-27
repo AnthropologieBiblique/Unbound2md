@@ -4,7 +4,10 @@ aliases :
 - Hébreux 10
 - He 10
 - Hebrews 10
-tags : Bible/He/10
+tags : 
+- Bible/He/10
+- français
+cssclass : bible-français
 ---
 
 # Hébreux 10

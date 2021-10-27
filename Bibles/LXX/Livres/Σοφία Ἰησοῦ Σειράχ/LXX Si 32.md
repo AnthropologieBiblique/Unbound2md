@@ -4,7 +4,10 @@ aliases :
 - Siracide 32
 - Si 32
 - Ecclesiasticus 32
-tags : Bible/Si/32
+tags : 
+- Bible/Si/32
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 32

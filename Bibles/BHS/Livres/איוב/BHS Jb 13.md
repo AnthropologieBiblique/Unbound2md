@@ -3,7 +3,10 @@ aliases :
 - איוב 13
 - Job 13
 - Jb 13
-tags : Bible/Jb/13
+tags : 
+- Bible/Jb/13
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 13

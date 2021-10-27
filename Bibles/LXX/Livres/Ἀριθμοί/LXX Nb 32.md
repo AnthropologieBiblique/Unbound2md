@@ -4,7 +4,10 @@ aliases :
 - Nombres 32
 - Nb 32
 - Numbers 32
-tags : Bible/Nb/32
+tags : 
+- Bible/Nb/32
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 32

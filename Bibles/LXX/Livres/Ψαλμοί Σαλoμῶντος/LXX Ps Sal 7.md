@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 7
 - Ps Sal 7
 - Psalm of Solomon 7
-tags : Bible/PsSal/7
+tags : 
+- Bible/PsSal/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 7

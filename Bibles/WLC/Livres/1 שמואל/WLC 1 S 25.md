@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 25
 - 1 Samuel 25
 - 1 S 25
-tags : Bible/1S/25
+tags : 
+- Bible/1S/25
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 25

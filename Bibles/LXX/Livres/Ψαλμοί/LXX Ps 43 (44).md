@@ -4,7 +4,10 @@ aliases :
 - Psaumes 44 (43)
 - Ps 44 (43)
 - Psalms 44 (43)
-tags : Bible/Ps/44_43
+tags : 
+- Bible/Ps/44_43
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 43 (44)

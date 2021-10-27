@@ -4,7 +4,10 @@ aliases :
 - Matthieu 15
 - Mt 15
 - Matthew 15
-tags : Bible/Mt/15
+tags : 
+- Bible/Mt/15
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 15

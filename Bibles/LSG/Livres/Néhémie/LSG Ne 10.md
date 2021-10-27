@@ -4,7 +4,10 @@ aliases :
 - Néhémie 10
 - Ne 10
 - Nehemiah 10
-tags : Bible/Ne/10
+tags : 
+- Bible/Ne/10
+- français
+cssclass : bible-français
 ---
 
 # Néhémie 10

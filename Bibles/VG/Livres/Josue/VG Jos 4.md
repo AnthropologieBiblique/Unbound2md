@@ -4,7 +4,10 @@ aliases :
 - Josué 4
 - Jos 4
 - Joshua 4
-tags : Bible/Jos/4
+tags : 
+- Bible/Jos/4
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 4

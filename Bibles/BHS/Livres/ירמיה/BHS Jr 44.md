@@ -4,7 +4,10 @@ aliases :
 - Jérémie 44
 - Jr 44
 - Jeremiah 44
-tags : Bible/Jr/44
+tags : 
+- Bible/Jr/44
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 44

@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste
 - Qo
 - Ecclesiastes
-tags : Bible/Qo
+tags : 
+- Bible/Qo
+- français
+cssclass : bible-français
 ---
 
 # Ecclésiaste

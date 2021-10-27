@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 12
 - Estgrec 12
 - Esther, Greek 12
-tags : Bible/Estgrec/12
+tags : 
+- Bible/Estgrec/12
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 12

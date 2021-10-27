@@ -4,7 +4,10 @@ aliases :
 - Exode 30
 - Ex 30
 - Exodus 30
-tags : Bible/Ex/30
+tags : 
+- Bible/Ex/30
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שמות 30

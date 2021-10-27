@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 9
 - Dt 9
 - Deuteronomy 9
-tags : Bible/Dt/9
+tags : 
+- Bible/Dt/9
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 9

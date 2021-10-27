@@ -3,7 +3,10 @@ aliases :
 - Judith 12
 - Judith 12
 - Jdt 12
-tags : Bible/Jdt/12
+tags : 
+- Bible/Jdt/12
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 12

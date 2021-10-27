@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 4
 - Judith 4
 - Jdt 4
-tags : Bible/Jdt/4
+tags : 
+- Bible/Jdt/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 4

@@ -4,7 +4,10 @@ aliases :
 - Osée 14
 - Os 14
 - Hosea 14
-tags : Bible/Os/14
+tags : 
+- Bible/Os/14
+- français
+cssclass : bible-français
 ---
 
 # Osée 14

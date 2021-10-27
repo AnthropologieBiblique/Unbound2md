@@ -4,7 +4,10 @@ aliases :
 - Genèse 46
 - Gn 46
 - Genesis 46
-tags : Bible/Gn/46
+tags : 
+- Bible/Gn/46
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 46

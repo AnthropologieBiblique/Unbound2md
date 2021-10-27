@@ -4,7 +4,10 @@ aliases :
 - Lévitique 16
 - Lv 16
 - Leviticus 16
-tags : Bible/Lv/16
+tags : 
+- Bible/Lv/16
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 16

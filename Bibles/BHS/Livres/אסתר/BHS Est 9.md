@@ -3,7 +3,10 @@ aliases :
 - אסתר 9
 - Esther 9
 - Est 9
-tags : Bible/Est/9
+tags : 
+- Bible/Est/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 9

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 11
 - 2 Ch 11
 - 2 Chronicles 11
-tags : Bible/2Ch/11
+tags : 
+- Bible/2Ch/11
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 11

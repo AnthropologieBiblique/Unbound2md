@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 16
 - 1 Co 16
 - 1 Corinthians 16
-tags : Bible/1Co/16
+tags : 
+- Bible/1Co/16
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 16

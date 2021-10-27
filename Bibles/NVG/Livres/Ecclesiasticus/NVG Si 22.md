@@ -4,7 +4,10 @@ aliases :
 - Siracide 22
 - Si 22
 - Ecclesiasticus 22
-tags : Bible/Si/22
+tags : 
+- Bible/Si/22
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 22

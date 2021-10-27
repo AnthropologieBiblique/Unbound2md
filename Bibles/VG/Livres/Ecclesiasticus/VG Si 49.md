@@ -4,7 +4,10 @@ aliases :
 - Siracide 49
 - Si 49
 - Ecclesiasticus 49
-tags : Bible/Si/49
+tags : 
+- Bible/Si/49
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 49

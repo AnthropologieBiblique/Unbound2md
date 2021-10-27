@@ -4,7 +4,10 @@ aliases :
 - Aggée 1
 - Ag 1
 - Haggai 1
-tags : Bible/Ag/1
+tags : 
+- Bible/Ag/1
+- latin
+cssclass : bible-latin
 ---
 
 # Aggéi 2

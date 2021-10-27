@@ -4,7 +4,10 @@ aliases :
 - Osée 11
 - Os 11
 - Hosea 11
-tags : Bible/Os/11
+tags : 
+- Bible/Os/11
+- latin
+cssclass : bible-latin
 ---
 
 # Osee 11

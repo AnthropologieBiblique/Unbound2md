@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 29
 - 2 Ch 29
 - 2 Chronicles 29
-tags : Bible/2Ch/29
+tags : 
+- Bible/2Ch/29
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 29

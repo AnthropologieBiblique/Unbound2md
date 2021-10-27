@@ -4,7 +4,10 @@ aliases :
 - Tobie 9
 - Tb 9
 - Tobit 9
-tags : Bible/Tb/9
+tags : 
+- Bible/Tb/9
+- grec
+cssclass : bible-grec
 ---
 
 # Τωβίτ 9

@@ -4,7 +4,10 @@ aliases :
 - Matthieu 4
 - Mt 4
 - Matthew 4
-tags : Bible/Mt/4
+tags : 
+- Bible/Mt/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Matthieu 4

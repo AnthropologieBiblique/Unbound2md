@@ -4,7 +4,10 @@ aliases :
 - Nombres 1
 - Nb 1
 - Numbers 1
-tags : Bible/Nb/1
+tags : 
+- Bible/Nb/1
+- français
+cssclass : bible-français
 ---
 
 # Nombres 1

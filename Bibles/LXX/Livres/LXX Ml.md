@@ -4,7 +4,10 @@ aliases :
 - Malachie
 - Ml
 - Malachi
-tags : Bible/Ml
+tags : 
+- Bible/Ml
+- grec
+cssclass : bible-grec
 ---
 
 # Μαλαχίας ΙΒʹ

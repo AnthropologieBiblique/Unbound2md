@@ -3,7 +3,10 @@ aliases :
 - Job 42
 - Job 42
 - Jb 42
-tags : Bible/Jb/42
+tags : 
+- Bible/Jb/42
+- latin
+cssclass : bible-latin
 ---
 
 # Job 42

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 3
 - Is 3
 - Isaiah 3
-tags : Bible/Is/3
+tags : 
+- Bible/Is/3
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 3

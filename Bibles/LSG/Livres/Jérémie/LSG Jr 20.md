@@ -4,7 +4,10 @@ aliases :
 - Jérémie 20
 - Jr 20
 - Jeremiah 20
-tags : Bible/Jr/20
+tags : 
+- Bible/Jr/20
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 20

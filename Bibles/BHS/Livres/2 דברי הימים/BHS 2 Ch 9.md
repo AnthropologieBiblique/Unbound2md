@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 9
 - 2 Ch 9
 - 2 Chronicles 9
-tags : Bible/2Ch/9
+tags : 
+- Bible/2Ch/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 9

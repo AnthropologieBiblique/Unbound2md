@@ -3,7 +3,10 @@ aliases :
 - Amos 7
 - Amos 7
 - Am 7
-tags : Bible/Am/7
+tags : 
+- Bible/Am/7
+- latin
+cssclass : bible-latin
 ---
 
 # Amos 7

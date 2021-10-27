@@ -4,7 +4,10 @@ aliases :
 - Bel et le dragon 1
 - Bel 1
 - Bel and the Dragon 1
-tags : Bible/Bel/1
+tags : 
+- Bible/Bel/1
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 1

@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 2
 - Ap 2
 - Revelation 2
-tags : Bible/Ap/2
+tags : 
+- Bible/Ap/2
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 2

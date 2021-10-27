@@ -4,7 +4,10 @@ aliases :
 - Isaïe 4
 - Is 4
 - Isaiah 4
-tags : Bible/Is/4
+tags : 
+- Bible/Is/4
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 4

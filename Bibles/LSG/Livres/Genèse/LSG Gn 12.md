@@ -4,7 +4,10 @@ aliases :
 - Genèse 12
 - Gn 12
 - Genesis 12
-tags : Bible/Gn/12
+tags : 
+- Bible/Gn/12
+- français
+cssclass : bible-français
 ---
 
 # Genèse 12

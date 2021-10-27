@@ -3,7 +3,10 @@ aliases :
 - Ἔσδρας Αʹ 9
 - 1 Esdras 9
 - 1 Esd 9
-tags : Bible/1Esd/9
+tags : 
+- Bible/1Esd/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 9

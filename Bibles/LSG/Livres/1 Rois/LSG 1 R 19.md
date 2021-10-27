@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 19
 - 1 R 19
 - 1 Kings 19
-tags : Bible/1R/19
+tags : 
+- Bible/1R/19
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 19

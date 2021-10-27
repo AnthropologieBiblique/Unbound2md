@@ -4,7 +4,10 @@ aliases :
 - Psaumes 4
 - Ps 4
 - Psalms 4
-tags : Bible/Ps/4
+tags : 
+- Bible/Ps/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 4

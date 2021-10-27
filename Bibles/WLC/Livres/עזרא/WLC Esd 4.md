@@ -4,7 +4,10 @@ aliases :
 - Esdras 4
 - Esd 4
 - Ezra 4
-tags : Bible/Esd/4
+tags : 
+- Bible/Esd/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עזרא 4

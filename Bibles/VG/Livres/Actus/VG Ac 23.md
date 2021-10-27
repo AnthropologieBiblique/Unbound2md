@@ -4,7 +4,10 @@ aliases :
 - Actes 23
 - Ac 23
 - Acts of the Apostles 23
-tags : Bible/Ac/23
+tags : 
+- Bible/Ac/23
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 23

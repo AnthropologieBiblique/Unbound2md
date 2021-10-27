@@ -4,7 +4,10 @@ aliases :
 - Isaïe 31
 - Is 31
 - Isaiah 31
-tags : Bible/Is/31
+tags : 
+- Bible/Is/31
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 31

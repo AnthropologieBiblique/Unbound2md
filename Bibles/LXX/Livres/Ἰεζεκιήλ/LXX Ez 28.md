@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 28
 - Ez 28
 - Ezekiel 28
-tags : Bible/Ez/28
+tags : 
+- Bible/Ez/28
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 28

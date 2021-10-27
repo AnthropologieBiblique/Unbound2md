@@ -4,7 +4,10 @@ aliases :
 - Esdras 6
 - Esd 6
 - Ezra 6
-tags : Bible/Esd/6
+tags : 
+- Bible/Esd/6
+- français
+cssclass : bible-français
 ---
 
 # Esdras 6

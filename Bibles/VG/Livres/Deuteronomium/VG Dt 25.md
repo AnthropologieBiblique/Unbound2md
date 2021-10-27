@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 25
 - Dt 25
 - Deuteronomy 25
-tags : Bible/Dt/25
+tags : 
+- Bible/Dt/25
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 25

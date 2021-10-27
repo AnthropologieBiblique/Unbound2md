@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 48
 - Ez 48
 - Ezekiel 48
-tags : Bible/Ez/48
+tags : 
+- Bible/Ez/48
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 48

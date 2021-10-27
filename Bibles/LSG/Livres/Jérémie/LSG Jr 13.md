@@ -4,7 +4,10 @@ aliases :
 - Jérémie 13
 - Jr 13
 - Jeremiah 13
-tags : Bible/Jr/13
+tags : 
+- Bible/Jr/13
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 13

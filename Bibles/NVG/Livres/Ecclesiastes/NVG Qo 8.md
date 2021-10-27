@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 8
 - Qo 8
 - Ecclesiastes 8
-tags : Bible/Qo/8
+tags : 
+- Bible/Qo/8
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiastes 8

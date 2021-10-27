@@ -4,7 +4,10 @@ aliases :
 - Jérémie 1
 - Jr 1
 - Jeremiah 1
-tags : Bible/Jr/1
+tags : 
+- Bible/Jr/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 1

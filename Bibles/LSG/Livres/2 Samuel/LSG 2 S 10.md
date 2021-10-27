@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 10
 - 2 Samuel 10
 - 2 S 10
-tags : Bible/2S/10
+tags : 
+- Bible/2S/10
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 10

@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Αʹ 14
 - 1 Maccabees 14
 - 1 M 14
-tags : Bible/1M/14
+tags : 
+- Bible/1M/14
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Αʹ 14

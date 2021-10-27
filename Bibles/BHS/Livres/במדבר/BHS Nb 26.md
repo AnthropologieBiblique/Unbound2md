@@ -4,7 +4,10 @@ aliases :
 - Nombres 26
 - Nb 26
 - Numbers 26
-tags : Bible/Nb/26
+tags : 
+- Bible/Nb/26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 26

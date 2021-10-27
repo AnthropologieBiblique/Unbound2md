@@ -1,3 +1,7 @@
+---
+tags : Bible, français
+cssclass : bible-français
+---
 # Louis Segond
 
 [[LSG Mentions légales]]

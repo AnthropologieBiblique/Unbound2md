@@ -3,7 +3,10 @@ aliases :
 - Job 25
 - Job 25
 - Jb 25
-tags : Bible/Jb/25
+tags : 
+- Bible/Jb/25
+- français
+cssclass : bible-français
 ---
 
 # Job 25

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 6
 - Ps 6
 - Psalms 6
-tags : Bible/Ps/6
+tags : 
+- Bible/Ps/6
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 6

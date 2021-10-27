@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 3
 - 1 Samuel 3
 - 1 S 3
-tags : Bible/1S/3
+tags : 
+- Bible/1S/3
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 3

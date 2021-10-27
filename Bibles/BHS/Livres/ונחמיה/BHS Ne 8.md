@@ -4,7 +4,10 @@ aliases :
 - Néhémie 8
 - Ne 8
 - Nehemiah 8
-tags : Bible/Ne/8
+tags : 
+- Bible/Ne/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ונחמיה 8

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 27
 - 2 Ch 27
 - 2 Chronicles 27
-tags : Bible/2Ch/27
+tags : 
+- Bible/2Ch/27
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 27

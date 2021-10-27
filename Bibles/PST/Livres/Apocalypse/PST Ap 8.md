@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 8
 - Ap 8
 - Revelation 8
-tags : Bible/Ap/8
+tags : 
+- Bible/Ap/8
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 8

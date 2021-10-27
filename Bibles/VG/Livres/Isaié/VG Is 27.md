@@ -4,7 +4,10 @@ aliases :
 - Isaïe 27
 - Is 27
 - Isaiah 27
-tags : Bible/Is/27
+tags : 
+- Bible/Is/27
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 27

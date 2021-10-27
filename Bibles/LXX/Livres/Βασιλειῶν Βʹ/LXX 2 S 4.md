@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 4
 - 2 Samuel 4
 - 2 S 4
-tags : Bible/2S/4
+tags : 
+- Bible/2S/4
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 4

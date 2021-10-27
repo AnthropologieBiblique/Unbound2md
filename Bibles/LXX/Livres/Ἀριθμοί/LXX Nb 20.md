@@ -4,7 +4,10 @@ aliases :
 - Nombres 20
 - Nb 20
 - Numbers 20
-tags : Bible/Nb/20
+tags : 
+- Bible/Nb/20
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 20

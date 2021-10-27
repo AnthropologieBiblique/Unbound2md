@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 2
 - Ps Sal 2
 - Psalm of Solomon 2
-tags : Bible/PsSal/2
+tags : 
+- Bible/PsSal/2
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 2

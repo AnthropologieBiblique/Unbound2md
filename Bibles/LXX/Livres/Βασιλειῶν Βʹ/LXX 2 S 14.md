@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 14
 - 2 Samuel 14
 - 2 S 14
-tags : Bible/2S/14
+tags : 
+- Bible/2S/14
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 14

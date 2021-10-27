@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 13
 - 1 Samuel 13
 - 1 S 13
-tags : Bible/1S/13
+tags : 
+- Bible/1S/13
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 13

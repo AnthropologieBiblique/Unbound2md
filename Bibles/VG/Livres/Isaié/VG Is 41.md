@@ -4,7 +4,10 @@ aliases :
 - Isaïe 41
 - Is 41
 - Isaiah 41
-tags : Bible/Is/41
+tags : 
+- Bible/Is/41
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 41

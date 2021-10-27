@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 8
 - Daniel 8
 - Dn 8
-tags : Bible/Dn/8
+tags : 
+- Bible/Dn/8
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 8

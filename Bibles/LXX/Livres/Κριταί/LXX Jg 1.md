@@ -4,7 +4,10 @@ aliases :
 - Juges 1
 - Jg 1
 - Judges 1
-tags : Bible/Jg/1
+tags : 
+- Bible/Jg/1
+- grec
+cssclass : bible-grec
 ---
 
 # Κριταί 1

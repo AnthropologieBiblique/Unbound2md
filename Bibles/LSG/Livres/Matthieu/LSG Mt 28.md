@@ -4,7 +4,10 @@ aliases :
 - Matthieu 28
 - Mt 28
 - Matthew 28
-tags : Bible/Mt/28
+tags : 
+- Bible/Mt/28
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 28

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 21
 - Jr 21
 - Jeremiah 21
-tags : Bible/Jr/21
+tags : 
+- Bible/Jr/21
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 21

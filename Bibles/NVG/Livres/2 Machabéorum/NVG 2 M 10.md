@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 10
 - 2 Maccabees 10
 - 2 M 10
-tags : Bible/2M/10
+tags : 
+- Bible/2M/10
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 10

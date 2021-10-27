@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 24
 - Job 24
 - Jb 24
-tags : Bible/Jb/24
+tags : 
+- Bible/Jb/24
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 24

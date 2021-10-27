@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 8
 - 2 Samuel 8
 - 2 S 8
-tags : Bible/2S/8
+tags : 
+- Bible/2S/8
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 8

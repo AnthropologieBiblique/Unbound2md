@@ -4,7 +4,10 @@ aliases :
 - Josué 21
 - Jos 21
 - Joshua 21
-tags : Bible/Jos/21
+tags : 
+- Bible/Jos/21
+- français
+cssclass : bible-français
 ---
 
 # Josué 21

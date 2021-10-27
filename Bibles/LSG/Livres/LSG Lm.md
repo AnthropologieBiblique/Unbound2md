@@ -3,7 +3,10 @@ aliases :
 - Lamentations
 - Lamentations
 - Lm
-tags : Bible/Lm
+tags : 
+- Bible/Lm
+- français
+cssclass : bible-français
 ---
 
 # Lamentations

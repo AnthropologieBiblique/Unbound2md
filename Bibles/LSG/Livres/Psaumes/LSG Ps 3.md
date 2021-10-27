@@ -4,7 +4,10 @@ aliases :
 - Psaumes 3
 - Ps 3
 - Psalms 3
-tags : Bible/Ps/3
+tags : 
+- Bible/Ps/3
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 3

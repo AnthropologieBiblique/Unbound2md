@@ -4,7 +4,10 @@ aliases :
 - Jérémie 5
 - Jr 5
 - Jeremiah 5
-tags : Bible/Jr/5
+tags : 
+- Bible/Jr/5
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 5

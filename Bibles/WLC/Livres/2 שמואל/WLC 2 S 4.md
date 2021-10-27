@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 4
 - 2 Samuel 4
 - 2 S 4
-tags : Bible/2S/4
+tags : 
+- Bible/2S/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 4

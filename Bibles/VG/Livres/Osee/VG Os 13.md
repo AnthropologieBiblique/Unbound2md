@@ -4,7 +4,10 @@ aliases :
 - Osée 13
 - Os 13
 - Hosea 13
-tags : Bible/Os/13
+tags : 
+- Bible/Os/13
+- latin
+cssclass : bible-latin
 ---
 
 # Osee 13

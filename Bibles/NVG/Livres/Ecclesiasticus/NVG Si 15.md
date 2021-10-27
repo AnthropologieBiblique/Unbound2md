@@ -4,7 +4,10 @@ aliases :
 - Siracide 15
 - Si 15
 - Ecclesiasticus 15
-tags : Bible/Si/15
+tags : 
+- Bible/Si/15
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 15

@@ -3,7 +3,10 @@ aliases :
 - Job 34
 - Job 34
 - Jb 34
-tags : Bible/Jb/34
+tags : 
+- Bible/Jb/34
+- latin
+cssclass : bible-latin
 ---
 
 # Job 34

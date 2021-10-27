@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 6
 - Odes 6
 - Od 6
-tags : Bible/Od/6
+tags : 
+- Bible/Od/6
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 6

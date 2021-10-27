@@ -4,7 +4,10 @@ aliases :
 - Nombres 30
 - Nb 30
 - Numbers 30
-tags : Bible/Nb/30
+tags : 
+- Bible/Nb/30
+- français
+cssclass : bible-français
 ---
 
 # Nombres 30

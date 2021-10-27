@@ -4,7 +4,10 @@ aliases :
 - Jonas 4
 - Jon 4
 - Jonah 4
-tags : Bible/Jon/4
+tags : 
+- Bible/Jon/4
+- français
+cssclass : bible-français
 ---
 
 # Jonas 4

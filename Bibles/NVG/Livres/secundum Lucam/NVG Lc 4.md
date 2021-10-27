@@ -4,7 +4,10 @@ aliases :
 - Luc 4
 - Lc 4
 - Luke 4
-tags : Bible/Lc/4
+tags : 
+- Bible/Lc/4
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 4

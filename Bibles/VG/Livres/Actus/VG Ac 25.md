@@ -4,7 +4,10 @@ aliases :
 - Actes 25
 - Ac 25
 - Acts of the Apostles 25
-tags : Bible/Ac/25
+tags : 
+- Bible/Ac/25
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 25

@@ -4,7 +4,10 @@ aliases :
 - Juges 11
 - Jg 11
 - Judges 11
-tags : Bible/Jg/11
+tags : 
+- Bible/Jg/11
+- français
+cssclass : bible-français
 ---
 
 # Juges 11

@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 13
 - 1 Ch 13
 - 1 Chronicles 13
-tags : Bible/1Ch/13
+tags : 
+- Bible/1Ch/13
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 13

@@ -4,7 +4,10 @@ aliases :
 - Josué 11
 - Jos 11
 - Joshua 11
-tags : Bible/Jos/11
+tags : 
+- Bible/Jos/11
+- français
+cssclass : bible-français
 ---
 
 # Josué 11

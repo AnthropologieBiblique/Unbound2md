@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 26
 - 1 Ch 26
 - 1 Chronicles 26
-tags : Bible/1Ch/26
+tags : 
+- Bible/1Ch/26
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 26

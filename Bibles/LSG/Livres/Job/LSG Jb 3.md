@@ -3,7 +3,10 @@ aliases :
 - Job 3
 - Job 3
 - Jb 3
-tags : Bible/Jb/3
+tags : 
+- Bible/Jb/3
+- français
+cssclass : bible-français
 ---
 
 # Job 3

@@ -4,7 +4,10 @@ aliases :
 - Siracide 28
 - Si 28
 - Ecclesiasticus 28
-tags : Bible/Si/28
+tags : 
+- Bible/Si/28
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 28

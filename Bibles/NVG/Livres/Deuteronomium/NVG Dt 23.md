@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 22
 - Dt 22
 - Deuteronomy 22
-tags : Bible/Dt/22
+tags : 
+- Bible/Dt/22
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 23

@@ -4,7 +4,10 @@ aliases :
 - Jérémie 48
 - Jr 48
 - Jeremiah 48
-tags : Bible/Jr/48
+tags : 
+- Bible/Jr/48
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 31

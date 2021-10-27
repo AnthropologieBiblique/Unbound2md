@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 19
 - 1 Samuel 19
 - 1 S 19
-tags : Bible/1S/19
+tags : 
+- Bible/1S/19
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 19

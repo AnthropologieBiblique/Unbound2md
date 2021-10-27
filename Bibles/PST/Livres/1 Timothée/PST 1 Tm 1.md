@@ -4,7 +4,10 @@ aliases :
 - 1 Timothée 1
 - 1 Tm 1
 - 1 Timothy 1
-tags : Bible/1Tm/1
+tags : 
+- Bible/1Tm/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Timothée 1

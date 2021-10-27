@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 16
 - Job 16
 - Jb 16
-tags : Bible/Jb/16
+tags : 
+- Bible/Jb/16
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 16

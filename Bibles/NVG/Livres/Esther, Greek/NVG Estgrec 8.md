@@ -4,7 +4,10 @@ aliases :
 - Esther, Grec 8
 - Estgrec 8
 - Esther, Greek 8
-tags : Bible/Estgrec/8
+tags : 
+- Bible/Estgrec/8
+- latin
+cssclass : bible-latin
 ---
 
 # Esther, Greek 8

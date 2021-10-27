@@ -4,7 +4,10 @@ aliases :
 - Siracide 22
 - Si 22
 - Ecclesiasticus 22
-tags : Bible/Si/22
+tags : 
+- Bible/Si/22
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 22

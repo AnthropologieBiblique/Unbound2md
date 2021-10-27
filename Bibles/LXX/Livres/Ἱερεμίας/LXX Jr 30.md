@@ -4,7 +4,10 @@ aliases :
 - Jérémie 49
 - Jr 49
 - Jeremiah 49
-tags : Bible/Jr/49
+tags : 
+- Bible/Jr/49
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 30

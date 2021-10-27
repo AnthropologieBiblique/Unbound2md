@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 16
 - Dt 16
 - Deuteronomy 16
-tags : Bible/Dt/16
+tags : 
+- Bible/Dt/16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 16

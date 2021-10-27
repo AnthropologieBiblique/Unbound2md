@@ -4,7 +4,10 @@ aliases :
 - Néhémie 9
 - Ne 9
 - Nehemiah 9
-tags : Bible/Ne/9
+tags : 
+- Bible/Ne/9
+- latin
+cssclass : bible-latin
 ---
 
 # Nehemié 10

@@ -3,7 +3,10 @@ aliases :
 - Job 23
 - Job 23
 - Jb 23
-tags : Bible/Jb/23
+tags : 
+- Bible/Jb/23
+- latin
+cssclass : bible-latin
 ---
 
 # Job 23

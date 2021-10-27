@@ -4,7 +4,10 @@ aliases :
 - Proverbes 3
 - Pr 3
 - Proverbs 3
-tags : Bible/Pr/3
+tags : 
+- Bible/Pr/3
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 3

@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ
 - 1 Samuel
 - 1 S
-tags : Bible/1S
+tags : 
+- Bible/1S
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ

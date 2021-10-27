@@ -4,7 +4,10 @@ aliases :
 - Genèse 10
 - Gn 10
 - Genesis 10
-tags : Bible/Gn/10
+tags : 
+- Bible/Gn/10
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 10

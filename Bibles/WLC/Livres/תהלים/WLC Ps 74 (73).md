@@ -4,7 +4,10 @@ aliases :
 - Psaumes 74 (73)
 - Ps 74 (73)
 - Psalms 74 (73)
-tags : Bible/Ps/74_73
+tags : 
+- Bible/Ps/74_73
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 74 (73)

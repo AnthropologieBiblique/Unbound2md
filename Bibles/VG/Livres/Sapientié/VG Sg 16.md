@@ -4,7 +4,10 @@ aliases :
 - Sagesse 16
 - Sg 16
 - Wisdom of Solomon 16
-tags : Bible/Sg/16
+tags : 
+- Bible/Sg/16
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 16

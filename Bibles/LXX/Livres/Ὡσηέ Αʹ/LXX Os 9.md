@@ -4,7 +4,10 @@ aliases :
 - Osée 9
 - Os 9
 - Hosea 9
-tags : Bible/Os/9
+tags : 
+- Bible/Os/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ὡσηέ Αʹ 9

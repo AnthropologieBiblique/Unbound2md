@@ -3,7 +3,10 @@ aliases :
 - Danielis
 - Daniel
 - Dn
-tags : Bible/Dn
+tags : 
+- Bible/Dn
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis

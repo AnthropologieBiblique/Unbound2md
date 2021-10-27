@@ -4,7 +4,10 @@ aliases :
 - Isaïe 62
 - Is 62
 - Isaiah 62
-tags : Bible/Is/62
+tags : 
+- Bible/Is/62
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 62

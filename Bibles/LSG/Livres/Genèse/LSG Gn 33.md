@@ -4,7 +4,10 @@ aliases :
 - Genèse 33
 - Gn 33
 - Genesis 33
-tags : Bible/Gn/33
+tags : 
+- Bible/Gn/33
+- français
+cssclass : bible-français
 ---
 
 # Genèse 33

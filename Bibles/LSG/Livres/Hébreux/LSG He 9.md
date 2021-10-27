@@ -4,7 +4,10 @@ aliases :
 - Hébreux 9
 - He 9
 - Hebrews 9
-tags : Bible/He/9
+tags : 
+- Bible/He/9
+- français
+cssclass : bible-français
 ---
 
 # Hébreux 9

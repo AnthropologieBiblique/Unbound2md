@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 7
 - 2 Samuel 7
 - 2 S 7
-tags : Bible/2S/7
+tags : 
+- Bible/2S/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 7

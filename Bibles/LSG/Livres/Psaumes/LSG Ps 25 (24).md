@@ -4,7 +4,10 @@ aliases :
 - Psaumes 25 (24)
 - Ps 25 (24)
 - Psalms 25 (24)
-tags : Bible/Ps/25_24
+tags : 
+- Bible/Ps/25_24
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 25 (24)

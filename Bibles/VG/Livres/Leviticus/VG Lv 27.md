@@ -4,7 +4,10 @@ aliases :
 - Lévitique 27
 - Lv 27
 - Leviticus 27
-tags : Bible/Lv/27
+tags : 
+- Bible/Lv/27
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 27

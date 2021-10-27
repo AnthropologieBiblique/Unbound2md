@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 22
 - 2 Samuel 22
 - 2 S 22
-tags : Bible/2S/22
+tags : 
+- Bible/2S/22
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 22

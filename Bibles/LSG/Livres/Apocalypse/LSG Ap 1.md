@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 1
 - Ap 1
 - Revelation 1
-tags : Bible/Ap/1
+tags : 
+- Bible/Ap/1
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 1

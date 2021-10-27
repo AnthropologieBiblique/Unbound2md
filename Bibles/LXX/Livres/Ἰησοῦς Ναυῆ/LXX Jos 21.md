@@ -4,7 +4,10 @@ aliases :
 - Josué 21
 - Jos 21
 - Joshua 21
-tags : Bible/Jos/21
+tags : 
+- Bible/Jos/21
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰησοῦς Ναυῆ 21

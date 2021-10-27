@@ -4,7 +4,10 @@ aliases :
 - Psaumes 70 (69)
 - Ps 70 (69)
 - Psalms 70 (69)
-tags : Bible/Ps/70_69
+tags : 
+- Bible/Ps/70_69
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 70 (69)

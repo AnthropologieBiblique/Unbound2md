@@ -3,7 +3,10 @@ aliases :
 - Job 33
 - Job 33
 - Jb 33
-tags : Bible/Jb/33
+tags : 
+- Bible/Jb/33
+- latin
+cssclass : bible-latin
 ---
 
 # Job 33

@@ -4,7 +4,10 @@ aliases :
 - Siracide 25
 - Si 25
 - Ecclesiasticus 25
-tags : Bible/Si/25
+tags : 
+- Bible/Si/25
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 25

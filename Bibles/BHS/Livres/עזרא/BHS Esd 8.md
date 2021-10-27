@@ -4,7 +4,10 @@ aliases :
 - Esdras 8
 - Esd 8
 - Ezra 8
-tags : Bible/Esd/8
+tags : 
+- Bible/Esd/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עזרא 8

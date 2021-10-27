@@ -4,7 +4,10 @@ aliases :
 - Actes 16
 - Ac 16
 - Acts of the Apostles 16
-tags : Bible/Ac/16
+tags : 
+- Bible/Ac/16
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 16

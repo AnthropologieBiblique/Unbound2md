@@ -4,7 +4,10 @@ aliases :
 - Juges 17
 - Jg 17
 - Judges 17
-tags : Bible/Jg/17
+tags : 
+- Bible/Jg/17
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 17

@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 30
 - 1 Samuel 30
 - 1 S 30
-tags : Bible/1S/30
+tags : 
+- Bible/1S/30
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 30

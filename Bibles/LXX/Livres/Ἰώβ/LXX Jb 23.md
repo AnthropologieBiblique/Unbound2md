@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 23
 - Job 23
 - Jb 23
-tags : Bible/Jb/23
+tags : 
+- Bible/Jb/23
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 23

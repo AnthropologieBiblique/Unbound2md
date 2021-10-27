@@ -4,7 +4,10 @@ aliases :
 - Proverbes 6
 - Pr 6
 - Proverbs 6
-tags : Bible/Pr/6
+tags : 
+- Bible/Pr/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 6

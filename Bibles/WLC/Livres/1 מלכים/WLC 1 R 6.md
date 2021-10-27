@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 6
 - 1 R 6
 - 1 Kings 6
-tags : Bible/1R/6
+tags : 
+- Bible/1R/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 מלכים 6

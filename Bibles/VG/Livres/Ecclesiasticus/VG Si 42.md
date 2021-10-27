@@ -4,7 +4,10 @@ aliases :
 - Siracide 42
 - Si 42
 - Ecclesiasticus 42
-tags : Bible/Si/42
+tags : 
+- Bible/Si/42
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 42

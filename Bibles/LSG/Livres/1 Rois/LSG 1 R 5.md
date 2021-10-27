@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 5
 - 1 R 5
 - 1 Kings 5
-tags : Bible/1R/5
+tags : 
+- Bible/1R/5
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 5

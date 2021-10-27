@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 23
 - 1 Samuel 23
 - 1 S 23
-tags : Bible/1S/23
+tags : 
+- Bible/1S/23
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 23

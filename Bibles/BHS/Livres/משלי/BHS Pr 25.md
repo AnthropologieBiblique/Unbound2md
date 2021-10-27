@@ -4,7 +4,10 @@ aliases :
 - Proverbes 25
 - Pr 25
 - Proverbs 25
-tags : Bible/Pr/25
+tags : 
+- Bible/Pr/25
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 25

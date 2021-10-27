@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 13
 - 1 Co 13
 - 1 Corinthians 13
-tags : Bible/1Co/13
+tags : 
+- Bible/1Co/13
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Corinthios 13

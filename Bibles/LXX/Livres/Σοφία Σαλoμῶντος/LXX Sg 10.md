@@ -4,7 +4,10 @@ aliases :
 - Sagesse 10
 - Sg 10
 - Wisdom of Solomon 10
-tags : Bible/Sg/10
+tags : 
+- Bible/Sg/10
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 10

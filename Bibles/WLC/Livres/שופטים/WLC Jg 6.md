@@ -4,7 +4,10 @@ aliases :
 - Juges 6
 - Jg 6
 - Judges 6
-tags : Bible/Jg/6
+tags : 
+- Bible/Jg/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שופטים 6

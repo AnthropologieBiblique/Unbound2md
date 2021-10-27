@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 24
 - Ez 24
 - Ezekiel 24
-tags : Bible/Ez/24
+tags : 
+- Bible/Ez/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יחזקאל 24

@@ -4,7 +4,10 @@ aliases :
 - Osée 2
 - Os 2
 - Hosea 2
-tags : Bible/Os/2
+tags : 
+- Bible/Os/2
+- français
+cssclass : bible-français
 ---
 
 # Osée 2

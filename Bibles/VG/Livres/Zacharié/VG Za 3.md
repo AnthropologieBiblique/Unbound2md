@@ -4,7 +4,10 @@ aliases :
 - Zacharie 3
 - Za 3
 - Zechariah 3
-tags : Bible/Za/3
+tags : 
+- Bible/Za/3
+- latin
+cssclass : bible-latin
 ---
 
 # Zacharié 3

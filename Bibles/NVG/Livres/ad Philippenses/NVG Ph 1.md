@@ -4,7 +4,10 @@ aliases :
 - Philippiens 1
 - Ph 1
 - Philippians 1
-tags : Bible/Ph/1
+tags : 
+- Bible/Ph/1
+- latin
+cssclass : bible-latin
 ---
 
 # ad Philippenses 1

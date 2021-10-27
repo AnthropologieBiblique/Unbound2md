@@ -4,7 +4,10 @@ aliases :
 - Zacharie 10
 - Za 10
 - Zechariah 10
-tags : Bible/Za/10
+tags : 
+- Bible/Za/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # זכריה 10

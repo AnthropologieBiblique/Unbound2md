@@ -4,7 +4,10 @@ aliases :
 - Lévitique 5
 - Lv 5
 - Leviticus 5
-tags : Bible/Lv/5
+tags : 
+- Bible/Lv/5
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 5

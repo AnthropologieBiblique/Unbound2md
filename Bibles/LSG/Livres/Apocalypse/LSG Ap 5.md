@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 5
 - Ap 5
 - Revelation 5
-tags : Bible/Ap/5
+tags : 
+- Bible/Ap/5
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 5

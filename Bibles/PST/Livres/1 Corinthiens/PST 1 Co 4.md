@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 4
 - 1 Co 4
 - 1 Corinthians 4
-tags : Bible/1Co/4
+tags : 
+- Bible/1Co/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Corinthiens 4

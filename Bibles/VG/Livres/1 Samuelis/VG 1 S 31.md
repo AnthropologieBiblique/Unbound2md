@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 31
 - 1 Samuel 31
 - 1 S 31
-tags : Bible/1S/31
+tags : 
+- Bible/1S/31
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 31

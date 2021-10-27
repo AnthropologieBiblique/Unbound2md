@@ -3,7 +3,10 @@ aliases :
 - Amos 6
 - Amos 6
 - Am 6
-tags : Bible/Am/6
+tags : 
+- Bible/Am/6
+- latin
+cssclass : bible-latin
 ---
 
 # Amos 6

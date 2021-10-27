@@ -4,7 +4,10 @@ aliases :
 - Psaumes 24 (23)
 - Ps 24 (23)
 - Psalms 24 (23)
-tags : Bible/Ps/24_23
+tags : 
+- Bible/Ps/24_23
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 23 (24)

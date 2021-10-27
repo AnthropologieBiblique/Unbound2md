@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 1
 - 1 Ch 1
 - 1 Chronicles 1
-tags : Bible/1Ch/1
+tags : 
+- Bible/1Ch/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 דברי הימים 1

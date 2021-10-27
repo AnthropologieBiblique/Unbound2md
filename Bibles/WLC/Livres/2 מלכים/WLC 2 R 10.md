@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 10
 - 2 R 10
 - 2 Kings 10
-tags : Bible/2R/10
+tags : 
+- Bible/2R/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 10

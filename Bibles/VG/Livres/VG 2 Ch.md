@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques
 - 2 Ch
 - 2 Chronicles
-tags : Bible/2Ch
+tags : 
+- Bible/2Ch
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon

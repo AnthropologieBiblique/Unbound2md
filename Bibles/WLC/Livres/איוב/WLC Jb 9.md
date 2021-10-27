@@ -3,7 +3,10 @@ aliases :
 - איוב 9
 - Job 9
 - Jb 9
-tags : Bible/Jb/9
+tags : 
+- Bible/Jb/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 9

@@ -4,7 +4,10 @@ aliases :
 - Osée 3
 - Os 3
 - Hosea 3
-tags : Bible/Os/3
+tags : 
+- Bible/Os/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # הושע 3

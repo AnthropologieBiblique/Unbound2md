@@ -4,7 +4,10 @@ aliases :
 - Jérémie 33
 - Jr 33
 - Jeremiah 33
-tags : Bible/Jr/33
+tags : 
+- Bible/Jr/33
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 40

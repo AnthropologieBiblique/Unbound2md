@@ -3,7 +3,10 @@ aliases :
 - איוב
 - Job
 - Jb
-tags : Bible/Jb
+tags : 
+- Bible/Jb
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב

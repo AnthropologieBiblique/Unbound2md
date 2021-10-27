@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 3
 - Daniel 3
 - Dn 3
-tags : Bible/Dn/3
+tags : 
+- Bible/Dn/3
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 3

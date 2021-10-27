@@ -4,7 +4,10 @@ aliases :
 - 1 Timothée 6
 - 1 Tm 6
 - 1 Timothy 6
-tags : Bible/1Tm/6
+tags : 
+- Bible/1Tm/6
+- français
+cssclass : bible-français
 ---
 
 # 1 Timothée 6

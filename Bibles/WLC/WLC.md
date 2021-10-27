@@ -1,3 +1,7 @@
+---
+tags : Bible, hébreu
+cssclass : bible-hébreu
+---
 # Hebrew WLC
 
 [[WLC Mentions légales]]

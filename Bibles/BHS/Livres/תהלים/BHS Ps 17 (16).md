@@ -4,7 +4,10 @@ aliases :
 - Psaumes 17 (16)
 - Ps 17 (16)
 - Psalms 17 (16)
-tags : Bible/Ps/17_16
+tags : 
+- Bible/Ps/17_16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 17 (16)

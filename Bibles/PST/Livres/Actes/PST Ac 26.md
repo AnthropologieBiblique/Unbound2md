@@ -4,7 +4,10 @@ aliases :
 - Actes 26
 - Ac 26
 - Acts of the Apostles 26
-tags : Bible/Ac/26
+tags : 
+- Bible/Ac/26
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 26

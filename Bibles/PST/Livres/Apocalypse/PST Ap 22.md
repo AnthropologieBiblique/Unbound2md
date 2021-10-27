@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 22
 - Ap 22
 - Revelation 22
-tags : Bible/Ap/22
+tags : 
+- Bible/Ap/22
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 22

@@ -4,7 +4,10 @@ aliases :
 - Nombres 16
 - Nb 16
 - Numbers 16
-tags : Bible/Nb/16
+tags : 
+- Bible/Nb/16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 16

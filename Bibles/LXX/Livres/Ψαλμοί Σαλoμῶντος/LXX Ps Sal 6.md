@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 6
 - Ps Sal 6
 - Psalm of Solomon 6
-tags : Bible/PsSal/6
+tags : 
+- Bible/PsSal/6
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 6

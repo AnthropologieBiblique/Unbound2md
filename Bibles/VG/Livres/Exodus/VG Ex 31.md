@@ -4,7 +4,10 @@ aliases :
 - Exode 31
 - Ex 31
 - Exodus 31
-tags : Bible/Ex/31
+tags : 
+- Bible/Ex/31
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 31

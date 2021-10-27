@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 23
 - 2 R 23
 - 2 Kings 23
-tags : Bible/2R/23
+tags : 
+- Bible/2R/23
+- français
+cssclass : bible-français
 ---
 
 # 2 Rois 23

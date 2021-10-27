@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 9
 - 2 Ch 9
 - 2 Chronicles 9
-tags : Bible/2Ch/9
+tags : 
+- Bible/2Ch/9
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 9

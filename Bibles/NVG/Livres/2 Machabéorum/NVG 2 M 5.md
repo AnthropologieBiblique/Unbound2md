@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 5
 - 2 Maccabees 5
 - 2 M 5
-tags : Bible/2M/5
+tags : 
+- Bible/2M/5
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 5

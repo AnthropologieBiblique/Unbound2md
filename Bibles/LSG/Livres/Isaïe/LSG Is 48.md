@@ -4,7 +4,10 @@ aliases :
 - Isaïe 48
 - Is 48
 - Isaiah 48
-tags : Bible/Is/48
+tags : 
+- Bible/Is/48
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 48

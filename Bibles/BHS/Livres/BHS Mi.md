@@ -4,7 +4,10 @@ aliases :
 - Michée
 - Mi
 - Micah
-tags : Bible/Mi
+tags : 
+- Bible/Mi
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # מיכה

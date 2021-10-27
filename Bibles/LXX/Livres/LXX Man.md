@@ -4,7 +4,10 @@ aliases :
 - Prière de Manassé
 - Man
 - Prayer of Manasseh
-tags : Bible/Man
+tags : 
+- Bible/Man
+- grec
+cssclass : bible-grec
 ---
 
 # Προσευχὴ Μανασσῆ

@@ -4,7 +4,10 @@ aliases :
 - Romains 16
 - Rm 16
 - Romans 16
-tags : Bible/Rm/16
+tags : 
+- Bible/Rm/16
+- latin
+cssclass : bible-latin
 ---
 
 # ad Romanos 16

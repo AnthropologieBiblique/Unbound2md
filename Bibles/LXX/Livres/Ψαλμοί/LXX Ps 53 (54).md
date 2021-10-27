@@ -4,7 +4,10 @@ aliases :
 - Psaumes 54 (53)
 - Ps 54 (53)
 - Psalms 54 (53)
-tags : Bible/Ps/54_53
+tags : 
+- Bible/Ps/54_53
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 53 (54)

@@ -3,7 +3,10 @@ aliases :
 - Job
 - Job
 - Jb
-tags : Bible/Jb
+tags : 
+- Bible/Jb
+- latin
+cssclass : bible-latin
 ---
 
 # Job

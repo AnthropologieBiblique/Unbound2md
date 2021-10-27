@@ -3,7 +3,10 @@ aliases :
 - אסתר 7
 - Esther 7
 - Est 7
-tags : Bible/Est/7
+tags : 
+- Bible/Est/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # אסתר 7

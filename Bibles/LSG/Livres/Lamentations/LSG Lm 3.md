@@ -3,7 +3,10 @@ aliases :
 - Lamentations 3
 - Lamentations 3
 - Lm 3
-tags : Bible/Lm/3
+tags : 
+- Bible/Lm/3
+- français
+cssclass : bible-français
 ---
 
 # Lamentations 3

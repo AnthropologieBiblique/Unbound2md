@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 33
 - Ez 33
 - Ezekiel 33
-tags : Bible/Ez/33
+tags : 
+- Bible/Ez/33
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 33

@@ -4,7 +4,10 @@ aliases :
 - Tobie 1
 - Tb 1
 - Tobit 1
-tags : Bible/Tb/1
+tags : 
+- Bible/Tb/1
+- grec
+cssclass : bible-grec
 ---
 
 # Τωβίτ 1

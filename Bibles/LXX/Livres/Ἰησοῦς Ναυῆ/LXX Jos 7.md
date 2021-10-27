@@ -4,7 +4,10 @@ aliases :
 - Josué 7
 - Jos 7
 - Joshua 7
-tags : Bible/Jos/7
+tags : 
+- Bible/Jos/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰησοῦς Ναυῆ 7

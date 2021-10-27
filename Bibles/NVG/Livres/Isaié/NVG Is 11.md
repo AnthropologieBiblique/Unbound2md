@@ -4,7 +4,10 @@ aliases :
 - Isaïe 11
 - Is 11
 - Isaiah 11
-tags : Bible/Is/11
+tags : 
+- Bible/Is/11
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 11

@@ -4,7 +4,10 @@ aliases :
 - Romains 15
 - Rm 15
 - Romans 15
-tags : Bible/Rm/15
+tags : 
+- Bible/Rm/15
+- araméen
+cssclass : bible-araméen
 ---
 
 # Romains 15

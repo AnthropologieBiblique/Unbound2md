@@ -3,7 +3,10 @@ aliases :
 - Ἔσδρας Αʹ 4
 - 1 Esdras 4
 - 1 Esd 4
-tags : Bible/1Esd/4
+tags : 
+- Bible/1Esd/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 4

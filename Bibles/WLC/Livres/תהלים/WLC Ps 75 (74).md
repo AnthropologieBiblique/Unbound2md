@@ -4,7 +4,10 @@ aliases :
 - Psaumes 75 (74)
 - Ps 75 (74)
 - Psalms 75 (74)
-tags : Bible/Ps/75_74
+tags : 
+- Bible/Ps/75_74
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 75 (74)

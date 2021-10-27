@@ -4,7 +4,10 @@ aliases :
 - Galates 3
 - Ga 3
 - Galatians 3
-tags : Bible/Ga/3
+tags : 
+- Bible/Ga/3
+- français
+cssclass : bible-français
 ---
 
 # Galates 3

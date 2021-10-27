@@ -4,7 +4,10 @@ aliases :
 - Abdias 1
 - Ab 1
 - Obadiah 1
-tags : Bible/Ab/1
+tags : 
+- Bible/Ab/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ὀβδιού Εʹ 1

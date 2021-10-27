@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 17
 - 2 R 17
 - 2 Kings 17
-tags : Bible/2R/17
+tags : 
+- Bible/2R/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 17

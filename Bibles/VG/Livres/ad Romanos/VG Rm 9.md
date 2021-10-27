@@ -4,7 +4,10 @@ aliases :
 - Romains 9
 - Rm 9
 - Romans 9
-tags : Bible/Rm/9
+tags : 
+- Bible/Rm/9
+- latin
+cssclass : bible-latin
 ---
 
 # ad Romanos 9

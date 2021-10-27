@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 8
 - Ps Sal 8
 - Psalm of Solomon 8
-tags : Bible/PsSal/8
+tags : 
+- Bible/PsSal/8
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 8

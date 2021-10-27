@@ -4,7 +4,10 @@ aliases :
 - Nombres
 - Nb
 - Numbers
-tags : Bible/Nb
+tags : 
+- Bible/Nb
+- français
+cssclass : bible-français
 ---
 
 # Nombres

@@ -3,7 +3,10 @@ aliases :
 - Danielis 14
 - Daniel 1
 - Dn 1
-tags : Bible/Dn/1
+tags : 
+- Bible/Dn/1
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 14

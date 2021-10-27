@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 5
 - 1 Co 5
 - 1 Corinthians 5
-tags : Bible/1Co/5
+tags : 
+- Bible/1Co/5
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Corinthios 5

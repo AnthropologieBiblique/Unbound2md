@@ -4,7 +4,10 @@ aliases :
 - Sophonie 2
 - So 2
 - Zephaniah 2
-tags : Bible/So/2
+tags : 
+- Bible/So/2
+- français
+cssclass : bible-français
 ---
 
 # Sophonie 2

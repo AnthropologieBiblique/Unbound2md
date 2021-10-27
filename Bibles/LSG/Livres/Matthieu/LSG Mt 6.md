@@ -4,7 +4,10 @@ aliases :
 - Matthieu 6
 - Mt 6
 - Matthew 6
-tags : Bible/Mt/6
+tags : 
+- Bible/Mt/6
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 6

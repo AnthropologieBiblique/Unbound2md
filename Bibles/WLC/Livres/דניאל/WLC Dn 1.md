@@ -3,7 +3,10 @@ aliases :
 - דניאל 1
 - Daniel 1
 - Dn 1
-tags : Bible/Dn/1
+tags : 
+- Bible/Dn/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 1

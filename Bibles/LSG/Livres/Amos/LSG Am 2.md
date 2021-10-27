@@ -3,7 +3,10 @@ aliases :
 - Amos 2
 - Amos 2
 - Am 2
-tags : Bible/Am/2
+tags : 
+- Bible/Am/2
+- français
+cssclass : bible-français
 ---
 
 # Amos 2

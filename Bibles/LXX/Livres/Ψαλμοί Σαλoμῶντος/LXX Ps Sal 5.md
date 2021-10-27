@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 5
 - Ps Sal 5
 - Psalm of Solomon 5
-tags : Bible/PsSal/5
+tags : 
+- Bible/PsSal/5
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 5

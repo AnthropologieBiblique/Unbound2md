@@ -4,7 +4,10 @@ aliases :
 - Matthieu 18
 - Mt 18
 - Matthew 18
-tags : Bible/Mt/18
+tags : 
+- Bible/Mt/18
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 18

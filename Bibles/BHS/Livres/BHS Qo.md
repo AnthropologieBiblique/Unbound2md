@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste
 - Qo
 - Ecclesiastes
-tags : Bible/Qo
+tags : 
+- Bible/Qo
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # קהלת

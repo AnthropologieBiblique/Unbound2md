@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 6
 - Ct 6
 - Song of Solomon 6
-tags : Bible/Ct/6
+tags : 
+- Bible/Ct/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שיר השירים 7

@@ -4,7 +4,10 @@ aliases :
 - Sagesse 12
 - Sg 12
 - Wisdom of Solomon 12
-tags : Bible/Sg/12
+tags : 
+- Bible/Sg/12
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 12

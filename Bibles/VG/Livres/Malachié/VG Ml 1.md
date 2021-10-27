@@ -4,7 +4,10 @@ aliases :
 - Malachie 1
 - Ml 1
 - Malachi 1
-tags : Bible/Ml/1
+tags : 
+- Bible/Ml/1
+- latin
+cssclass : bible-latin
 ---
 
 # Malachié 1

@@ -4,7 +4,10 @@ aliases :
 - Luc 3
 - Lc 3
 - Luke 3
-tags : Bible/Lc/3
+tags : 
+- Bible/Lc/3
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 3

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 28
 - Dt 28
 - Deuteronomy 28
-tags : Bible/Dt/28
+tags : 
+- Bible/Dt/28
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 28

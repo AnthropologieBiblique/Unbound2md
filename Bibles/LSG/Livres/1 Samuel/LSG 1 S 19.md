@@ -3,7 +3,10 @@ aliases :
 - 1 Samuel 19
 - 1 Samuel 19
 - 1 S 19
-tags : Bible/1S/19
+tags : 
+- Bible/1S/19
+- français
+cssclass : bible-français
 ---
 
 # 1 Samuel 19

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 64
 - Is 64
 - Isaiah 64
-tags : Bible/Is/64
+tags : 
+- Bible/Is/64
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 64

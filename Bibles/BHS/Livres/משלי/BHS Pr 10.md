@@ -4,7 +4,10 @@ aliases :
 - Proverbes 10
 - Pr 10
 - Proverbs 10
-tags : Bible/Pr/10
+tags : 
+- Bible/Pr/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 10

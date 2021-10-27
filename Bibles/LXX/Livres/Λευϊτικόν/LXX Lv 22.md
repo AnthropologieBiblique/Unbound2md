@@ -4,7 +4,10 @@ aliases :
 - Lévitique 22
 - Lv 22
 - Leviticus 22
-tags : Bible/Lv/22
+tags : 
+- Bible/Lv/22
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 22

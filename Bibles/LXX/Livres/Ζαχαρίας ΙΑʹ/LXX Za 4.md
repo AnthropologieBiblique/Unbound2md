@@ -4,7 +4,10 @@ aliases :
 - Zacharie 4
 - Za 4
 - Zechariah 4
-tags : Bible/Za/4
+tags : 
+- Bible/Za/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ζαχαρίας ΙΑʹ 4

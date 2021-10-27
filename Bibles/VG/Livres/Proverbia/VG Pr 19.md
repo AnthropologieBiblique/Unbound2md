@@ -4,7 +4,10 @@ aliases :
 - Proverbes 19
 - Pr 19
 - Proverbs 19
-tags : Bible/Pr/19
+tags : 
+- Bible/Pr/19
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 19

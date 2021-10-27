@@ -4,7 +4,10 @@ aliases :
 - Romains 6
 - Rm 6
 - Romans 6
-tags : Bible/Rm/6
+tags : 
+- Bible/Rm/6
+- français
+cssclass : bible-français
 ---
 
 # Romains 6

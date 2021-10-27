@@ -4,7 +4,10 @@ aliases :
 - 1 Thessaloniciens
 - 1 Th
 - 1 Thessalonians
-tags : Bible/1Th
+tags : 
+- Bible/1Th
+- français
+cssclass : bible-français
 ---
 
 # 1 Thessaloniciens

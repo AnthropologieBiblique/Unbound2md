@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 9
 - 1 Samuel 9
 - 1 S 9
-tags : Bible/1S/9
+tags : 
+- Bible/1S/9
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 9

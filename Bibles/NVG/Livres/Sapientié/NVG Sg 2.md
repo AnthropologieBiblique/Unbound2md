@@ -4,7 +4,10 @@ aliases :
 - Sagesse 2
 - Sg 2
 - Wisdom of Solomon 2
-tags : Bible/Sg/2
+tags : 
+- Bible/Sg/2
+- latin
+cssclass : bible-latin
 ---
 
 # Sapientié 2

@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 7
 - 1 Maccabees 7
 - 1 M 7
-tags : Bible/1M/7
+tags : 
+- Bible/1M/7
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 7

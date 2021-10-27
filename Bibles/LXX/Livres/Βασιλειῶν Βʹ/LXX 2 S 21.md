@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 21
 - 2 Samuel 21
 - 2 S 21
-tags : Bible/2S/21
+tags : 
+- Bible/2S/21
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 21

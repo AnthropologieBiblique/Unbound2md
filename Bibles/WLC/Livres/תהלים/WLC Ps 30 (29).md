@@ -4,7 +4,10 @@ aliases :
 - Psaumes 30 (29)
 - Ps 30 (29)
 - Psalms 30 (29)
-tags : Bible/Ps/30_29
+tags : 
+- Bible/Ps/30_29
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 30 (29)

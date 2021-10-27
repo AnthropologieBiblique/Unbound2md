@@ -3,7 +3,10 @@ aliases :
 - Ruth 2
 - Ruth 2
 - Rt 2
-tags : Bible/Rt/2
+tags : 
+- Bible/Rt/2
+- latin
+cssclass : bible-latin
 ---
 
 # Ruth 2

@@ -4,7 +4,10 @@ aliases :
 - Genèse 29
 - Gn 29
 - Genesis 29
-tags : Bible/Gn/29
+tags : 
+- Bible/Gn/29
+- français
+cssclass : bible-français
 ---
 
 # Genèse 29

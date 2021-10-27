@@ -4,7 +4,10 @@ aliases :
 - Genèse 24
 - Gn 24
 - Genesis 24
-tags : Bible/Gn/24
+tags : 
+- Bible/Gn/24
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 24

@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 36
 - Job 36
 - Jb 36
-tags : Bible/Jb/36
+tags : 
+- Bible/Jb/36
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 36

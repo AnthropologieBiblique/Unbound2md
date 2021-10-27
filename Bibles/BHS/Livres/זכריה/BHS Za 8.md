@@ -4,7 +4,10 @@ aliases :
 - Zacharie 8
 - Za 8
 - Zechariah 8
-tags : Bible/Za/8
+tags : 
+- Bible/Za/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # זכריה 8

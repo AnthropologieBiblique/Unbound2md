@@ -4,7 +4,10 @@ aliases :
 - Marc
 - Mc
 - Mark
-tags : Bible/Mc
+tags : 
+- Bible/Mc
+- français
+cssclass : bible-français
 ---
 
 # Marc

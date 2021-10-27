@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 20
 - Ap 20
 - Revelation 20
-tags : Bible/Ap/20
+tags : 
+- Bible/Ap/20
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse 20

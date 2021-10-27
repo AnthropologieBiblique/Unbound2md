@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 14
 - 1 R 14
 - 1 Kings 14
-tags : Bible/1R/14
+tags : 
+- Bible/1R/14
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 14

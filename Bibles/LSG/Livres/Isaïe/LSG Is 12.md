@@ -4,7 +4,10 @@ aliases :
 - Isaïe 12
 - Is 12
 - Isaiah 12
-tags : Bible/Is/12
+tags : 
+- Bible/Is/12
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 12

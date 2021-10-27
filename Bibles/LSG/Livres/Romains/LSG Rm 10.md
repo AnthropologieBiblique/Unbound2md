@@ -4,7 +4,10 @@ aliases :
 - Romains 10
 - Rm 10
 - Romans 10
-tags : Bible/Rm/10
+tags : 
+- Bible/Rm/10
+- français
+cssclass : bible-français
 ---
 
 # Romains 10

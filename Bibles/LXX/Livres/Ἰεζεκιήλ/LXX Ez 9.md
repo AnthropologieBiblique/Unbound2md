@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 9
 - Ez 9
 - Ezekiel 9
-tags : Bible/Ez/9
+tags : 
+- Bible/Ez/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 9

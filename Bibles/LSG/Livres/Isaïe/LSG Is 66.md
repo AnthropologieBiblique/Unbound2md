@@ -4,7 +4,10 @@ aliases :
 - Isaïe 66
 - Is 66
 - Isaiah 66
-tags : Bible/Is/66
+tags : 
+- Bible/Is/66
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 66

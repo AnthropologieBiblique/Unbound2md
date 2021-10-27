@@ -4,7 +4,10 @@ aliases :
 - Nombres 16
 - Nb 16
 - Numbers 16
-tags : Bible/Nb/16
+tags : 
+- Bible/Nb/16
+- français
+cssclass : bible-français
 ---
 
 # Nombres 16

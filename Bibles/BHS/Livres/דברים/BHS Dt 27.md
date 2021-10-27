@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 27
 - Dt 27
 - Deuteronomy 27
-tags : Bible/Dt/27
+tags : 
+- Bible/Dt/27
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 27

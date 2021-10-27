@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 41
 - Job 41
 - Jb 41
-tags : Bible/Jb/41
+tags : 
+- Bible/Jb/41
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 41

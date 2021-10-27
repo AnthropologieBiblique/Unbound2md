@@ -4,7 +4,10 @@ aliases :
 - Isaïe 22
 - Is 22
 - Isaiah 22
-tags : Bible/Is/22
+tags : 
+- Bible/Is/22
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 22

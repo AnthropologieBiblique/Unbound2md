@@ -4,7 +4,10 @@ aliases :
 - Luc 21
 - Lc 21
 - Luke 21
-tags : Bible/Lc/21
+tags : 
+- Bible/Lc/21
+- français
+cssclass : bible-français
 ---
 
 # Luc 21

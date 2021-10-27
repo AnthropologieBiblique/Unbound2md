@@ -3,7 +3,10 @@ aliases :
 - איוב 30
 - Job 30
 - Jb 30
-tags : Bible/Jb/30
+tags : 
+- Bible/Jb/30
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 30

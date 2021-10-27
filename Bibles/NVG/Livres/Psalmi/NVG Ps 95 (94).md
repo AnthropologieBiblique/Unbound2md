@@ -4,7 +4,10 @@ aliases :
 - Psaumes 95 (94)
 - Ps 95 (94)
 - Psalms 95 (94)
-tags : Bible/Ps/95_94
+tags : 
+- Bible/Ps/95_94
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 95 (94)

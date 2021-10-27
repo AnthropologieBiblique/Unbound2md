@@ -4,7 +4,10 @@ aliases :
 - Jérémie
 - Jr
 - Jeremiah
-tags : Bible/Jr
+tags : 
+- Bible/Jr
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié

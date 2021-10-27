@@ -4,7 +4,10 @@ aliases :
 - Exode 5
 - Ex 5
 - Exodus 5
-tags : Bible/Ex/5
+tags : 
+- Bible/Ex/5
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 5

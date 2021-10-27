@@ -4,7 +4,10 @@ aliases :
 - Isaïe 16
 - Is 16
 - Isaiah 16
-tags : Bible/Is/16
+tags : 
+- Bible/Is/16
+- latin
+cssclass : bible-latin
 ---
 
 # Isaié 16

@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 14
 - Job 14
 - Jb 14
-tags : Bible/Jb/14
+tags : 
+- Bible/Jb/14
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 14

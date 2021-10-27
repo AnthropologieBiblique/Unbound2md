@@ -3,7 +3,10 @@ aliases :
 - Job 14
 - Job 14
 - Jb 14
-tags : Bible/Jb/14
+tags : 
+- Bible/Jb/14
+- latin
+cssclass : bible-latin
 ---
 
 # Job 14

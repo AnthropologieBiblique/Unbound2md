@@ -4,7 +4,10 @@ aliases :
 - Habaquq 3
 - Ha 3
 - Habakkuk 3
-tags : Bible/Ha/3
+tags : 
+- Bible/Ha/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀμβακούμ Ηʹ 3

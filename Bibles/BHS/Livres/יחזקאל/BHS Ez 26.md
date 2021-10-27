@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 26
 - Ez 26
 - Ezekiel 26
-tags : Bible/Ez/26
+tags : 
+- Bible/Ez/26
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יחזקאל 26

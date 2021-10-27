@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 32
 - Dt 32
 - Deuteronomy 32
-tags : Bible/Dt/32
+tags : 
+- Bible/Dt/32
+- grec
+cssclass : bible-grec
 ---
 
 # Δευτερονόμιον 32

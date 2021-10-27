@@ -4,7 +4,10 @@ aliases :
 - Psaumes 90 (89)
 - Ps 90 (89)
 - Psalms 90 (89)
-tags : Bible/Ps/90_89
+tags : 
+- Bible/Ps/90_89
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 90 (89)

@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 11
 - Ap 11
 - Revelation 11
-tags : Bible/Ap/11
+tags : 
+- Bible/Ap/11
+- français
+cssclass : bible-français
 ---
 
 # Apocalypse 11

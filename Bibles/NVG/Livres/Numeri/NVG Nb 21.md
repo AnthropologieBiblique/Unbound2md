@@ -4,7 +4,10 @@ aliases :
 - Nombres 21
 - Nb 21
 - Numbers 21
-tags : Bible/Nb/21
+tags : 
+- Bible/Nb/21
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 21

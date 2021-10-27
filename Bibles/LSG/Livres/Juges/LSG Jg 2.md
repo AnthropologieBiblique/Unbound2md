@@ -4,7 +4,10 @@ aliases :
 - Juges 2
 - Jg 2
 - Judges 2
-tags : Bible/Jg/2
+tags : 
+- Bible/Jg/2
+- français
+cssclass : bible-français
 ---
 
 # Juges 2

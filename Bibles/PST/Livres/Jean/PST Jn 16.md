@@ -4,7 +4,10 @@ aliases :
 - Jean 16
 - Jn 16
 - John 16
-tags : Bible/Jn/16
+tags : 
+- Bible/Jn/16
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 16

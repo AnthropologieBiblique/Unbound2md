@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 29
 - 1 Samuel 29
 - 1 S 29
-tags : Bible/1S/29
+tags : 
+- Bible/1S/29
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 29

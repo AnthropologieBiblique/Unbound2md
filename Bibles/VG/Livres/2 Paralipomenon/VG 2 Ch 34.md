@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 34
 - 2 Ch 34
 - 2 Chronicles 34
-tags : Bible/2Ch/34
+tags : 
+- Bible/2Ch/34
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 34

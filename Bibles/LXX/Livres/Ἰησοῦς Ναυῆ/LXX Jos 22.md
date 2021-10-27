@@ -4,7 +4,10 @@ aliases :
 - Josué 22
 - Jos 22
 - Joshua 22
-tags : Bible/Jos/22
+tags : 
+- Bible/Jos/22
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰησοῦς Ναυῆ 22

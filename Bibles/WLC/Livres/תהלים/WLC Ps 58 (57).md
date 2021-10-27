@@ -4,7 +4,10 @@ aliases :
 - Psaumes 58 (57)
 - Ps 58 (57)
 - Psalms 58 (57)
-tags : Bible/Ps/58_57
+tags : 
+- Bible/Ps/58_57
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 58 (57)

@@ -4,7 +4,10 @@ aliases :
 - Lévitique 1
 - Lv 1
 - Leviticus 1
-tags : Bible/Lv/1
+tags : 
+- Bible/Lv/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ויקרא 1

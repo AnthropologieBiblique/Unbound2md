@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 2
 - 2 R 2
 - 2 Kings 2
-tags : Bible/2R/2
+tags : 
+- Bible/2R/2
+- latin
+cssclass : bible-latin
 ---
 
 # 4 Regum 2

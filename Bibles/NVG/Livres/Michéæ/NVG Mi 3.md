@@ -4,7 +4,10 @@ aliases :
 - Michée 3
 - Mi 3
 - Micah 3
-tags : Bible/Mi/3
+tags : 
+- Bible/Mi/3
+- latin
+cssclass : bible-latin
 ---
 
 # Michéæ 3

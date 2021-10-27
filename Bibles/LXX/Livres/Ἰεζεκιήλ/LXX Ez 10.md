@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 10
 - Ez 10
 - Ezekiel 10
-tags : Bible/Ez/10
+tags : 
+- Bible/Ez/10
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 10

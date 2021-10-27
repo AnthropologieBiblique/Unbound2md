@@ -4,7 +4,10 @@ aliases :
 - Sagesse 8
 - Sg 8
 - Wisdom of Solomon 8
-tags : Bible/Sg/8
+tags : 
+- Bible/Sg/8
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Σαλoμῶντος 8

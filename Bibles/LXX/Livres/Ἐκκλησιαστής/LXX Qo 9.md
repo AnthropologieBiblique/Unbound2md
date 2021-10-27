@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 9
 - Qo 9
 - Ecclesiastes 9
-tags : Bible/Qo/9
+tags : 
+- Bible/Qo/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐκκλησιαστής 9

@@ -4,7 +4,10 @@ aliases :
 - Siracide 5
 - Si 5
 - Ecclesiasticus 5
-tags : Bible/Si/5
+tags : 
+- Bible/Si/5
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 5

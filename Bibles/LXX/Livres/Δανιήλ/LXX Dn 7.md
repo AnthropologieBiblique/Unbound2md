@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 7
 - Daniel 7
 - Dn 7
-tags : Bible/Dn/7
+tags : 
+- Bible/Dn/7
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 7

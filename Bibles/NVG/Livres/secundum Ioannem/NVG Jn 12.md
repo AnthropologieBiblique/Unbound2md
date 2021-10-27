@@ -4,7 +4,10 @@ aliases :
 - Jean 12
 - Jn 12
 - John 12
-tags : Bible/Jn/12
+tags : 
+- Bible/Jn/12
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 12

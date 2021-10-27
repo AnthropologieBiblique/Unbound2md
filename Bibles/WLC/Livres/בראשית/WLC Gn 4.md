@@ -4,7 +4,10 @@ aliases :
 - Genèse 4
 - Gn 4
 - Genesis 4
-tags : Bible/Gn/4
+tags : 
+- Bible/Gn/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 4

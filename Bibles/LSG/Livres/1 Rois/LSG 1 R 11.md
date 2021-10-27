@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 11
 - 1 R 11
 - 1 Kings 11
-tags : Bible/1R/11
+tags : 
+- Bible/1R/11
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 11

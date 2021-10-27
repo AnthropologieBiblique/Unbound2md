@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 21
 - 1 Ch 21
 - 1 Chronicles 21
-tags : Bible/1Ch/21
+tags : 
+- Bible/1Ch/21
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Paralipomenon 21

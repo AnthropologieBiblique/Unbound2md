@@ -3,7 +3,10 @@ aliases :
 - איכה 2
 - Lamentations 2
 - Lm 2
-tags : Bible/Lm/2
+tags : 
+- Bible/Lm/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איכה 2

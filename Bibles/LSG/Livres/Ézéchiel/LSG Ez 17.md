@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 17
 - Ez 17
 - Ezekiel 17
-tags : Bible/Ez/17
+tags : 
+- Bible/Ez/17
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 17

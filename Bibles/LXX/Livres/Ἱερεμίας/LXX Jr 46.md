@@ -4,7 +4,10 @@ aliases :
 - Jérémie 39
 - Jr 39
 - Jeremiah 39
-tags : Bible/Jr/39
+tags : 
+- Bible/Jr/39
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 46

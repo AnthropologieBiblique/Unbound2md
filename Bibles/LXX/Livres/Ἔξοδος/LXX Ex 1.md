@@ -4,7 +4,10 @@ aliases :
 - Exode 1
 - Ex 1
 - Exodus 1
-tags : Bible/Ex/1
+tags : 
+- Bible/Ex/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 1

@@ -4,7 +4,10 @@ aliases :
 - Genèse 21
 - Gn 21
 - Genesis 21
-tags : Bible/Gn/21
+tags : 
+- Bible/Gn/21
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 21

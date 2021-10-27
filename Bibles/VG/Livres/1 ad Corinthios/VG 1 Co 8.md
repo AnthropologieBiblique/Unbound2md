@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 8
 - 1 Co 8
 - 1 Corinthians 8
-tags : Bible/1Co/8
+tags : 
+- Bible/1Co/8
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Corinthios 8

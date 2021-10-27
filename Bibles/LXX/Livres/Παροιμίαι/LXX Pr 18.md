@@ -4,7 +4,10 @@ aliases :
 - Proverbes 18
 - Pr 18
 - Proverbs 18
-tags : Bible/Pr/18
+tags : 
+- Bible/Pr/18
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 18

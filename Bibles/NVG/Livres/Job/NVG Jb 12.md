@@ -3,7 +3,10 @@ aliases :
 - Job 12
 - Job 12
 - Jb 12
-tags : Bible/Jb/12
+tags : 
+- Bible/Jb/12
+- latin
+cssclass : bible-latin
 ---
 
 # Job 12

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 24
 - Dt 24
 - Deuteronomy 24
-tags : Bible/Dt/24
+tags : 
+- Bible/Dt/24
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 24

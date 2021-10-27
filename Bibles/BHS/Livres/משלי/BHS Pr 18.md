@@ -4,7 +4,10 @@ aliases :
 - Proverbes 18
 - Pr 18
 - Proverbs 18
-tags : Bible/Pr/18
+tags : 
+- Bible/Pr/18
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 18

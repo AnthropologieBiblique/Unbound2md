@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 10
 - 2 Samuel 10
 - 2 S 10
-tags : Bible/2S/10
+tags : 
+- Bible/2S/10
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 10

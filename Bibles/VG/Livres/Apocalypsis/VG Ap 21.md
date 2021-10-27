@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 21
 - Ap 21
 - Revelation 21
-tags : Bible/Ap/21
+tags : 
+- Bible/Ap/21
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 21

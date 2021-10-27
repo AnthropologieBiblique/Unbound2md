@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 2
 - 2 Co 2
 - 2 Corinthians 2
-tags : Bible/2Co/2
+tags : 
+- Bible/2Co/2
+- latin
+cssclass : bible-latin
 ---
 
 # 2 ad Corinthios 2

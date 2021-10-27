@@ -4,7 +4,10 @@ aliases :
 - Jérémie 9
 - Jr 9
 - Jeremiah 9
-tags : Bible/Jr/9
+tags : 
+- Bible/Jr/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 9

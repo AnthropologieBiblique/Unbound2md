@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 22
 - 2 Samuel 22
 - 2 S 22
-tags : Bible/2S/22
+tags : 
+- Bible/2S/22
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 22

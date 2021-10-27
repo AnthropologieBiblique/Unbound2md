@@ -4,7 +4,10 @@ aliases :
 - Siracide 33
 - Si 33
 - Ecclesiasticus 33
-tags : Bible/Si/33
+tags : 
+- Bible/Si/33
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 33

@@ -4,7 +4,10 @@ aliases :
 - Zacharie 7
 - Za 7
 - Zechariah 7
-tags : Bible/Za/7
+tags : 
+- Bible/Za/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # זכריה 7

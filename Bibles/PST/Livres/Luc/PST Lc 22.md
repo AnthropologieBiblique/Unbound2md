@@ -4,7 +4,10 @@ aliases :
 - Luc 22
 - Lc 22
 - Luke 22
-tags : Bible/Lc/22
+tags : 
+- Bible/Lc/22
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 22

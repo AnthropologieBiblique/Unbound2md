@@ -4,7 +4,10 @@ aliases :
 - Jérémie 35
 - Jr 35
 - Jeremiah 35
-tags : Bible/Jr/35
+tags : 
+- Bible/Jr/35
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 35

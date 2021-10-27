@@ -4,7 +4,10 @@ aliases :
 - Josué 8
 - Jos 8
 - Joshua 8
-tags : Bible/Jos/8
+tags : 
+- Bible/Jos/8
+- français
+cssclass : bible-français
 ---
 
 # Josué 8

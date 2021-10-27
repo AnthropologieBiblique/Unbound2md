@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 8
 - 1 Ch 8
 - 1 Chronicles 8
-tags : Bible/1Ch/8
+tags : 
+- Bible/1Ch/8
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Αʹ 8

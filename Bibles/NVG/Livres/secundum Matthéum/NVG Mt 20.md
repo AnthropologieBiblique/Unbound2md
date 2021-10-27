@@ -4,7 +4,10 @@ aliases :
 - Matthieu 20
 - Mt 20
 - Matthew 20
-tags : Bible/Mt/20
+tags : 
+- Bible/Mt/20
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 20

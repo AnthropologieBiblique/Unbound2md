@@ -4,7 +4,10 @@ aliases :
 - Nombres 17
 - Nb 17
 - Numbers 17
-tags : Bible/Nb/17
+tags : 
+- Bible/Nb/17
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 17

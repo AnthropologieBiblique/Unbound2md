@@ -4,7 +4,10 @@ aliases :
 - Matthieu 10
 - Mt 10
 - Matthew 10
-tags : Bible/Mt/10
+tags : 
+- Bible/Mt/10
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 10

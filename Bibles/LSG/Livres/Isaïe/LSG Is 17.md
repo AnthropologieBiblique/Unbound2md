@@ -4,7 +4,10 @@ aliases :
 - Isaïe 17
 - Is 17
 - Isaiah 17
-tags : Bible/Is/17
+tags : 
+- Bible/Is/17
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 17

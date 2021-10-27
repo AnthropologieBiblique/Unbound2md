@@ -3,7 +3,10 @@ aliases :
 - Job 4
 - Job 4
 - Jb 4
-tags : Bible/Jb/4
+tags : 
+- Bible/Jb/4
+- français
+cssclass : bible-français
 ---
 
 # Job 4

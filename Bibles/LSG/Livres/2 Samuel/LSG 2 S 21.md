@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 21
 - 2 Samuel 21
 - 2 S 21
-tags : Bible/2S/21
+tags : 
+- Bible/2S/21
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 21

@@ -4,7 +4,10 @@ aliases :
 - Matthieu 12
 - Mt 12
 - Matthew 12
-tags : Bible/Mt/12
+tags : 
+- Bible/Mt/12
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 12

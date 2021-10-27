@@ -3,7 +3,10 @@ aliases :
 - איוב 1
 - Job 1
 - Jb 1
-tags : Bible/Jb/1
+tags : 
+- Bible/Jb/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 1

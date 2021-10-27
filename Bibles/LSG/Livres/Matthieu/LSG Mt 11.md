@@ -4,7 +4,10 @@ aliases :
 - Matthieu 11
 - Mt 11
 - Matthew 11
-tags : Bible/Mt/11
+tags : 
+- Bible/Mt/11
+- français
+cssclass : bible-français
 ---
 
 # Matthieu 11

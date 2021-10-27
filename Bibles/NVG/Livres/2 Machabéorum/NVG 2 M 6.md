@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 6
 - 2 Maccabees 6
 - 2 M 6
-tags : Bible/2M/6
+tags : 
+- Bible/2M/6
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 6

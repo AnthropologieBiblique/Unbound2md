@@ -4,7 +4,10 @@ aliases :
 - Psaumes 32 (31)
 - Ps 32 (31)
 - Psalms 32 (31)
-tags : Bible/Ps/32_31
+tags : 
+- Bible/Ps/32_31
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 32 (31)

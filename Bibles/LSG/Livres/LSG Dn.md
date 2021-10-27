@@ -3,7 +3,10 @@ aliases :
 - Daniel
 - Daniel
 - Dn
-tags : Bible/Dn
+tags : 
+- Bible/Dn
+- français
+cssclass : bible-français
 ---
 
 # Daniel

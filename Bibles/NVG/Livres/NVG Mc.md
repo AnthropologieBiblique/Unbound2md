@@ -4,7 +4,10 @@ aliases :
 - Marc
 - Mc
 - Mark
-tags : Bible/Mc
+tags : 
+- Bible/Mc
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Marcum

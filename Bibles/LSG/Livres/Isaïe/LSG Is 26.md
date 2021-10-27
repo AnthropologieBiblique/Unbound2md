@@ -4,7 +4,10 @@ aliases :
 - Isaïe 26
 - Is 26
 - Isaiah 26
-tags : Bible/Is/26
+tags : 
+- Bible/Is/26
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 26

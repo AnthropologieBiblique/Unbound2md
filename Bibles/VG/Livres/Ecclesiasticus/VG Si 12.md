@@ -4,7 +4,10 @@ aliases :
 - Siracide 12
 - Si 12
 - Ecclesiasticus 12
-tags : Bible/Si/12
+tags : 
+- Bible/Si/12
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 12

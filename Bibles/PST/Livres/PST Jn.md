@@ -4,7 +4,10 @@ aliases :
 - Jean
 - Jn
 - John
-tags : Bible/Jn
+tags : 
+- Bible/Jn
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean

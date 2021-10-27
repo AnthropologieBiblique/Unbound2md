@@ -3,7 +3,10 @@ aliases :
 - Baruch 3
 - Baruch 3
 - Ba 3
-tags : Bible/Ba/3
+tags : 
+- Bible/Ba/3
+- latin
+cssclass : bible-latin
 ---
 
 # Baruch 3

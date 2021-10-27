@@ -4,7 +4,10 @@ aliases :
 - Jérémie 3
 - Jr 3
 - Jeremiah 3
-tags : Bible/Jr/3
+tags : 
+- Bible/Jr/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ירמיה 3

@@ -4,7 +4,10 @@ aliases :
 - Genèse 20
 - Gn 20
 - Genesis 20
-tags : Bible/Gn/20
+tags : 
+- Bible/Gn/20
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # בראשית 20

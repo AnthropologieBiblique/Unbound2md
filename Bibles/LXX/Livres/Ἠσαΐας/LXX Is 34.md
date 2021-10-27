@@ -4,7 +4,10 @@ aliases :
 - Isaïe 34
 - Is 34
 - Isaiah 34
-tags : Bible/Is/34
+tags : 
+- Bible/Is/34
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 34

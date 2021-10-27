@@ -4,7 +4,10 @@ aliases :
 - Isaïe 23
 - Is 23
 - Isaiah 23
-tags : Bible/Is/23
+tags : 
+- Bible/Is/23
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 23

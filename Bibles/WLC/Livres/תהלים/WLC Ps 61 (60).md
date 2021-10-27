@@ -4,7 +4,10 @@ aliases :
 - Psaumes 61 (60)
 - Ps 61 (60)
 - Psalms 61 (60)
-tags : Bible/Ps/61_60
+tags : 
+- Bible/Ps/61_60
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 61 (60)

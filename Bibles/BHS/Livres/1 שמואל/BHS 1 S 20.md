@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 20
 - 1 Samuel 20
 - 1 S 20
-tags : Bible/1S/20
+tags : 
+- Bible/1S/20
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 20

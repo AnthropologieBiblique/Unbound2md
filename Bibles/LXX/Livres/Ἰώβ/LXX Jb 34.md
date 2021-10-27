@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 34
 - Job 34
 - Jb 34
-tags : Bible/Jb/34
+tags : 
+- Bible/Jb/34
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 34

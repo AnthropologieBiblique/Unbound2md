@@ -4,7 +4,10 @@ aliases :
 - Tite 2
 - Tt 2
 - Titus 2
-tags : Bible/Tt/2
+tags : 
+- Bible/Tt/2
+- latin
+cssclass : bible-latin
 ---
 
 # ad Titum 2

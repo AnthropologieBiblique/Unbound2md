@@ -4,7 +4,10 @@ aliases :
 - Marc 9
 - Mc 9
 - Mark 9
-tags : Bible/Mc/9
+tags : 
+- Bible/Mc/9
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 9

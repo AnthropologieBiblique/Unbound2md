@@ -4,7 +4,10 @@ aliases :
 - Psaumes 84 (83)
 - Ps 84 (83)
 - Psalms 84 (83)
-tags : Bible/Ps/84_83
+tags : 
+- Bible/Ps/84_83
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 84 (83)

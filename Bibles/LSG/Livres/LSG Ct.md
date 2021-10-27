@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques
 - Ct
 - Song of Solomon
-tags : Bible/Ct
+tags : 
+- Bible/Ct
+- français
+cssclass : bible-français
 ---
 
 # Cantique des cantiques

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 91 (90)
 - Ps 91 (90)
 - Psalms 91 (90)
-tags : Bible/Ps/91_90
+tags : 
+- Bible/Ps/91_90
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 91 (90)

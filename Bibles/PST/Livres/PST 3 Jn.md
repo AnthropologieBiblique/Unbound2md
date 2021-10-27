@@ -4,7 +4,10 @@ aliases :
 - 3 Jean
 - 3 Jn
 - 3 John
-tags : Bible/3Jn
+tags : 
+- Bible/3Jn
+- araméen
+cssclass : bible-araméen
 ---
 
 # 3 Jean

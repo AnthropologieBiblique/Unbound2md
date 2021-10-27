@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 18
 - 2 Samuel 18
 - 2 S 18
-tags : Bible/2S/18
+tags : 
+- Bible/2S/18
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 18

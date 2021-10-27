@@ -3,7 +3,10 @@ aliases :
 - Daniel 7
 - Daniel 7
 - Dn 7
-tags : Bible/Dn/7
+tags : 
+- Bible/Dn/7
+- français
+cssclass : bible-français
 ---
 
 # Daniel 7

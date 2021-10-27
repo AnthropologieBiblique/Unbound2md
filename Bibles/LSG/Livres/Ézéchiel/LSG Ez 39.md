@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 39
 - Ez 39
 - Ezekiel 39
-tags : Bible/Ez/39
+tags : 
+- Bible/Ez/39
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 39

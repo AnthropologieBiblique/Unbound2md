@@ -4,7 +4,10 @@ aliases :
 - Hébreux 4
 - He 4
 - Hebrews 4
-tags : Bible/He/4
+tags : 
+- Bible/He/4
+- français
+cssclass : bible-français
 ---
 
 # Hébreux 4

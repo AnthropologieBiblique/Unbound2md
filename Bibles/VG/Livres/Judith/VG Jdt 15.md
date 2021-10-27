@@ -3,7 +3,10 @@ aliases :
 - Judith 15
 - Judith 15
 - Jdt 15
-tags : Bible/Jdt/15
+tags : 
+- Bible/Jdt/15
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 15

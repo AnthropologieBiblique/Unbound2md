@@ -4,7 +4,10 @@ aliases :
 - Psaumes 62 (61)
 - Ps 62 (61)
 - Psalms 62 (61)
-tags : Bible/Ps/62_61
+tags : 
+- Bible/Ps/62_61
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 62 (61)

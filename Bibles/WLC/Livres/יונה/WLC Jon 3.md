@@ -4,7 +4,10 @@ aliases :
 - Jonas 3
 - Jon 3
 - Jonah 3
-tags : Bible/Jon/3
+tags : 
+- Bible/Jon/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יונה 3

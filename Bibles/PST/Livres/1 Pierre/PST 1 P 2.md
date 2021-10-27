@@ -4,7 +4,10 @@ aliases :
 - 1 Pierre 2
 - 1 P 2
 - 1 Peter 2
-tags : Bible/1P/2
+tags : 
+- Bible/1P/2
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Pierre 2

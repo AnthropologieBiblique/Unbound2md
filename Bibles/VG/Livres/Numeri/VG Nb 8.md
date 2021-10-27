@@ -4,7 +4,10 @@ aliases :
 - Nombres 8
 - Nb 8
 - Numbers 8
-tags : Bible/Nb/8
+tags : 
+- Bible/Nb/8
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 8

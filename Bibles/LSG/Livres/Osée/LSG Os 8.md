@@ -4,7 +4,10 @@ aliases :
 - Osée 8
 - Os 8
 - Hosea 8
-tags : Bible/Os/8
+tags : 
+- Bible/Os/8
+- français
+cssclass : bible-français
 ---
 
 # Osée 8

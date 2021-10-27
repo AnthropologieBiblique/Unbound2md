@@ -4,7 +4,10 @@ aliases :
 - Actes 10
 - Ac 10
 - Acts of the Apostles 10
-tags : Bible/Ac/10
+tags : 
+- Bible/Ac/10
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 10

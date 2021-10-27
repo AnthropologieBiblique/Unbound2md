@@ -4,7 +4,10 @@ aliases :
 - Siracide 11
 - Si 11
 - Ecclesiasticus 11
-tags : Bible/Si/11
+tags : 
+- Bible/Si/11
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiasticus 11

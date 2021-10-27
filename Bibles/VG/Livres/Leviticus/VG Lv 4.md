@@ -4,7 +4,10 @@ aliases :
 - Lévitique 4
 - Lv 4
 - Leviticus 4
-tags : Bible/Lv/4
+tags : 
+- Bible/Lv/4
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 4

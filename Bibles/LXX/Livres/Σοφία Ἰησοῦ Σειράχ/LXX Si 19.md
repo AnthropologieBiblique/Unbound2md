@@ -4,7 +4,10 @@ aliases :
 - Siracide 19
 - Si 19
 - Ecclesiasticus 19
-tags : Bible/Si/19
+tags : 
+- Bible/Si/19
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 19

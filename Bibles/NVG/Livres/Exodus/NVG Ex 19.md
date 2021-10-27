@@ -4,7 +4,10 @@ aliases :
 - Exode 19
 - Ex 19
 - Exodus 19
-tags : Bible/Ex/19
+tags : 
+- Bible/Ex/19
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 19

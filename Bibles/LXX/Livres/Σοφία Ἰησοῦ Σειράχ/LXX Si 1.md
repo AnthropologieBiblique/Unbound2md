@@ -4,7 +4,10 @@ aliases :
 - Siracide 1
 - Si 1
 - Ecclesiasticus 1
-tags : Bible/Si/1
+tags : 
+- Bible/Si/1
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 1

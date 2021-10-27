@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 15
 - 2 Samuel 15
 - 2 S 15
-tags : Bible/2S/15
+tags : 
+- Bible/2S/15
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 15

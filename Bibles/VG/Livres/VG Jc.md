@@ -4,7 +4,10 @@ aliases :
 - Jacques
 - Jc
 - James
-tags : Bible/Jc
+tags : 
+- Bible/Jc
+- latin
+cssclass : bible-latin
 ---
 
 # Iacobi

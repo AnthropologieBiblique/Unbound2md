@@ -4,7 +4,10 @@ aliases :
 - Nombres 28
 - Nb 28
 - Numbers 28
-tags : Bible/Nb/28
+tags : 
+- Bible/Nb/28
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 28

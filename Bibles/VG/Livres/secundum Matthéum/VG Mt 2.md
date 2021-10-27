@@ -4,7 +4,10 @@ aliases :
 - Matthieu 2
 - Mt 2
 - Matthew 2
-tags : Bible/Mt/2
+tags : 
+- Bible/Mt/2
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 2

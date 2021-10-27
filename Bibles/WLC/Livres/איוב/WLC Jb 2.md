@@ -3,7 +3,10 @@ aliases :
 - איוב 2
 - Job 2
 - Jb 2
-tags : Bible/Jb/2
+tags : 
+- Bible/Jb/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 2

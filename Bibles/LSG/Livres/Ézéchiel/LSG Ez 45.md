@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 45
 - Ez 45
 - Ezekiel 45
-tags : Bible/Ez/45
+tags : 
+- Bible/Ez/45
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 45

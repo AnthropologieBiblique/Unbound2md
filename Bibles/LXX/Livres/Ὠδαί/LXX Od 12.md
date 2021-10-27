@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 12
 - Odes 12
 - Od 12
-tags : Bible/Od/12
+tags : 
+- Bible/Od/12
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 12

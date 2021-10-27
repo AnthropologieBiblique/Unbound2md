@@ -4,7 +4,10 @@ aliases :
 - Proverbes 9
 - Pr 9
 - Proverbs 9
-tags : Bible/Pr/9
+tags : 
+- Bible/Pr/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 9

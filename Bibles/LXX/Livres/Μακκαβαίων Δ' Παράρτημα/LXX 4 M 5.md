@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Δ' Παράρτημα 5
 - 4 Maccabees 5
 - 4 M 5
-tags : Bible/4M/5
+tags : 
+- Bible/4M/5
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 5

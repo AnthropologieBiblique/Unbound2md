@@ -4,7 +4,10 @@ aliases :
 - Michée 1
 - Mi 1
 - Micah 1
-tags : Bible/Mi/1
+tags : 
+- Bible/Mi/1
+- grec
+cssclass : bible-grec
 ---
 
 # Μιχαίας Γʹ 1

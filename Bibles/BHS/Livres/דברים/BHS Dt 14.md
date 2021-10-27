@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 14
 - Dt 14
 - Deuteronomy 14
-tags : Bible/Dt/14
+tags : 
+- Bible/Dt/14
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 14

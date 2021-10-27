@@ -4,7 +4,10 @@ aliases :
 - Luc 8
 - Lc 8
 - Luke 8
-tags : Bible/Lc/8
+tags : 
+- Bible/Lc/8
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 8

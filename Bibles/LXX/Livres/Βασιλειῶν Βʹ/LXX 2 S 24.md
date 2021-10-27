@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 24
 - 2 Samuel 24
 - 2 S 24
-tags : Bible/2S/24
+tags : 
+- Bible/2S/24
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 24

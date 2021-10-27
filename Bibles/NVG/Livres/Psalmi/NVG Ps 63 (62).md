@@ -4,7 +4,10 @@ aliases :
 - Psaumes 63 (62)
 - Ps 63 (62)
 - Psalms 63 (62)
-tags : Bible/Ps/63_62
+tags : 
+- Bible/Ps/63_62
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 63 (62)

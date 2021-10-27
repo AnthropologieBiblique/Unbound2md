@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 20
 - Ez 20
 - Ezekiel 20
-tags : Bible/Ez/20
+tags : 
+- Bible/Ez/20
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 20

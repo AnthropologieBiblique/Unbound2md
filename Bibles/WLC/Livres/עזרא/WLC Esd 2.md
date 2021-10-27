@@ -4,7 +4,10 @@ aliases :
 - Esdras 2
 - Esd 2
 - Ezra 2
-tags : Bible/Esd/2
+tags : 
+- Bible/Esd/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עזרא 2

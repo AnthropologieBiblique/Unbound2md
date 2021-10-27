@@ -4,7 +4,10 @@ aliases :
 - Joël 3
 - Jl 3
 - Joel 3
-tags : Bible/Jl/3
+tags : 
+- Bible/Jl/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יואל 4

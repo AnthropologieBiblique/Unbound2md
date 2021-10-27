@@ -4,7 +4,10 @@ aliases :
 - 2 Timothée 4
 - 2 Tm 4
 - 2 Timothy 4
-tags : Bible/2Tm/4
+tags : 
+- Bible/2Tm/4
+- latin
+cssclass : bible-latin
 ---
 
 # 2 ad Timotheum 4

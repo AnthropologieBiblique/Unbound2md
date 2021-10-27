@@ -4,7 +4,10 @@ aliases :
 - Psaumes 94 (93)
 - Ps 94 (93)
 - Psalms 94 (93)
-tags : Bible/Ps/94_93
+tags : 
+- Bible/Ps/94_93
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 93 (94)

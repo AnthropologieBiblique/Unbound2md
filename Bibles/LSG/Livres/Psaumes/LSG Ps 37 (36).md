@@ -4,7 +4,10 @@ aliases :
 - Psaumes 37 (36)
 - Ps 37 (36)
 - Psalms 37 (36)
-tags : Bible/Ps/37_36
+tags : 
+- Bible/Ps/37_36
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 37 (36)

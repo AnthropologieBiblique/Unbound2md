@@ -3,7 +3,10 @@ aliases :
 - איוב 27
 - Job 27
 - Jb 27
-tags : Bible/Jb/27
+tags : 
+- Bible/Jb/27
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 27

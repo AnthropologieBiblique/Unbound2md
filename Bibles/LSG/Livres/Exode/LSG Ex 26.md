@@ -4,7 +4,10 @@ aliases :
 - Exode 26
 - Ex 26
 - Exodus 26
-tags : Bible/Ex/26
+tags : 
+- Bible/Ex/26
+- français
+cssclass : bible-français
 ---
 
 # Exode 26

@@ -3,7 +3,10 @@ aliases :
 - דניאל 9
 - Daniel 9
 - Dn 9
-tags : Bible/Dn/9
+tags : 
+- Bible/Dn/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דניאל 9

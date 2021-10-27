@@ -4,7 +4,10 @@ aliases :
 - Josué 6
 - Jos 6
 - Joshua 6
-tags : Bible/Jos/6
+tags : 
+- Bible/Jos/6
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 6

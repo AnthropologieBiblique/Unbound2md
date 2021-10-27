@@ -4,7 +4,10 @@ aliases :
 - Romains 3
 - Rm 3
 - Romans 3
-tags : Bible/Rm/3
+tags : 
+- Bible/Rm/3
+- latin
+cssclass : bible-latin
 ---
 
 # ad Romanos 3

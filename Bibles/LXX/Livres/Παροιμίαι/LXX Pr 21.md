@@ -4,7 +4,10 @@ aliases :
 - Proverbes 21
 - Pr 21
 - Proverbs 21
-tags : Bible/Pr/21
+tags : 
+- Bible/Pr/21
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 21

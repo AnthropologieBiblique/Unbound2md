@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 18
 - 2 Samuel 18
 - 2 S 18
-tags : Bible/2S/18
+tags : 
+- Bible/2S/18
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 18

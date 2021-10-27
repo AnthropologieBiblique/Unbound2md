@@ -4,7 +4,10 @@ aliases :
 - Michée 6
 - Mi 6
 - Micah 6
-tags : Bible/Mi/6
+tags : 
+- Bible/Mi/6
+- latin
+cssclass : bible-latin
 ---
 
 # Michéæ 6

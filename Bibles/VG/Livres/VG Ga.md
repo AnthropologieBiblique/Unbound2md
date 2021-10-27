@@ -4,7 +4,10 @@ aliases :
 - Galates
 - Ga
 - Galatians
-tags : Bible/Ga
+tags : 
+- Bible/Ga
+- latin
+cssclass : bible-latin
 ---
 
 # ad Galatas

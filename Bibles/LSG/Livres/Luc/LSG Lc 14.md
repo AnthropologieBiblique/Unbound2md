@@ -4,7 +4,10 @@ aliases :
 - Luc 14
 - Lc 14
 - Luke 14
-tags : Bible/Lc/14
+tags : 
+- Bible/Lc/14
+- français
+cssclass : bible-français
 ---
 
 # Luc 14

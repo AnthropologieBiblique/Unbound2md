@@ -4,7 +4,10 @@ aliases :
 - 2 Timothée 2
 - 2 Tm 2
 - 2 Timothy 2
-tags : Bible/2Tm/2
+tags : 
+- Bible/2Tm/2
+- français
+cssclass : bible-français
 ---
 
 # 2 Timothée 2

@@ -3,7 +3,10 @@ aliases :
 - Βαρούχ 1
 - Baruch 1
 - Ba 1
-tags : Bible/Ba/1
+tags : 
+- Bible/Ba/1
+- grec
+cssclass : bible-grec
 ---
 
 # Βαρούχ 1

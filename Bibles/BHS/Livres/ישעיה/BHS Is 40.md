@@ -4,7 +4,10 @@ aliases :
 - Isaïe 40
 - Is 40
 - Isaiah 40
-tags : Bible/Is/40
+tags : 
+- Bible/Is/40
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 40

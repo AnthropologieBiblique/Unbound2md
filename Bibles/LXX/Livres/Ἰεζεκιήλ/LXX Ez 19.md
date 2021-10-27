@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 19
 - Ez 19
 - Ezekiel 19
-tags : Bible/Ez/19
+tags : 
+- Bible/Ez/19
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 19

@@ -4,7 +4,10 @@ aliases :
 - Zacharie 13
 - Za 13
 - Zechariah 13
-tags : Bible/Za/13
+tags : 
+- Bible/Za/13
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # זכריה 13

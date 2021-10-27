@@ -4,7 +4,10 @@ aliases :
 - Isaïe 42
 - Is 42
 - Isaiah 42
-tags : Bible/Is/42
+tags : 
+- Bible/Is/42
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 42

@@ -4,7 +4,10 @@ aliases :
 - Hébreux 11
 - He 11
 - Hebrews 11
-tags : Bible/He/11
+tags : 
+- Bible/He/11
+- français
+cssclass : bible-français
 ---
 
 # Hébreux 11

@@ -4,7 +4,10 @@ aliases :
 - Michée 6
 - Mi 6
 - Micah 6
-tags : Bible/Mi/6
+tags : 
+- Bible/Mi/6
+- grec
+cssclass : bible-grec
 ---
 
 # Μιχαίας Γʹ 6

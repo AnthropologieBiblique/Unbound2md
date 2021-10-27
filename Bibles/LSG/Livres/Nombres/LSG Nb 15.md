@@ -4,7 +4,10 @@ aliases :
 - Nombres 15
 - Nb 15
 - Numbers 15
-tags : Bible/Nb/15
+tags : 
+- Bible/Nb/15
+- français
+cssclass : bible-français
 ---
 
 # Nombres 15

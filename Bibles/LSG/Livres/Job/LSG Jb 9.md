@@ -3,7 +3,10 @@ aliases :
 - Job 9
 - Job 9
 - Jb 9
-tags : Bible/Jb/9
+tags : 
+- Bible/Jb/9
+- français
+cssclass : bible-français
 ---
 
 # Job 9

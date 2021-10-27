@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 12
 - 2 Ch 12
 - 2 Chronicles 12
-tags : Bible/2Ch/12
+tags : 
+- Bible/2Ch/12
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 12

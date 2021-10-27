@@ -4,7 +4,10 @@ aliases :
 - Apocalypse
 - Ap
 - Revelation
-tags : Bible/Ap
+tags : 
+- Bible/Ap
+- araméen
+cssclass : bible-araméen
 ---
 
 # Apocalypse

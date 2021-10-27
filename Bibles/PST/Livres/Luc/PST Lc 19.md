@@ -4,7 +4,10 @@ aliases :
 - Luc 19
 - Lc 19
 - Luke 19
-tags : Bible/Lc/19
+tags : 
+- Bible/Lc/19
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 19

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 45 (44)
 - Ps 45 (44)
 - Psalms 45 (44)
-tags : Bible/Ps/45_44
+tags : 
+- Bible/Ps/45_44
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 45 (44)

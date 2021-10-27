@@ -4,7 +4,10 @@ aliases :
 - Luc 2
 - Lc 2
 - Luke 2
-tags : Bible/Lc/2
+tags : 
+- Bible/Lc/2
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 2

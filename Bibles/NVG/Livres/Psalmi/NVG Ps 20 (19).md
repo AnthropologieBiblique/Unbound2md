@@ -4,7 +4,10 @@ aliases :
 - Psaumes 20 (19)
 - Ps 20 (19)
 - Psalms 20 (19)
-tags : Bible/Ps/20_19
+tags : 
+- Bible/Ps/20_19
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 20 (19)

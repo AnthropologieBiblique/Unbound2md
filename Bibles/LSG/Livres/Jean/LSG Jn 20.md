@@ -4,7 +4,10 @@ aliases :
 - Jean 20
 - Jn 20
 - John 20
-tags : Bible/Jn/20
+tags : 
+- Bible/Jn/20
+- français
+cssclass : bible-français
 ---
 
 # Jean 20

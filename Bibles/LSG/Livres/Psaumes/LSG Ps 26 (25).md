@@ -4,7 +4,10 @@ aliases :
 - Psaumes 26 (25)
 - Ps 26 (25)
 - Psalms 26 (25)
-tags : Bible/Ps/26_25
+tags : 
+- Bible/Ps/26_25
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 26 (25)

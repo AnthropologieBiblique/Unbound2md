@@ -4,7 +4,10 @@ aliases :
 - Jérémie 7
 - Jr 7
 - Jeremiah 7
-tags : Bible/Jr/7
+tags : 
+- Bible/Jr/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ἱερεμίας 7

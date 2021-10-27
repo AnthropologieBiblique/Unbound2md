@@ -4,7 +4,10 @@ aliases :
 - Zacharie 13
 - Za 13
 - Zechariah 13
-tags : Bible/Za/13
+tags : 
+- Bible/Za/13
+- français
+cssclass : bible-français
 ---
 
 # Zacharie 13

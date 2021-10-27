@@ -4,7 +4,10 @@ aliases :
 - Juges 19
 - Jg 19
 - Judges 19
-tags : Bible/Jg/19
+tags : 
+- Bible/Jg/19
+- latin
+cssclass : bible-latin
 ---
 
 # Judices 19

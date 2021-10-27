@@ -4,7 +4,10 @@ aliases :
 - Luc 23
 - Lc 23
 - Luke 23
-tags : Bible/Lc/23
+tags : 
+- Bible/Lc/23
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 23

@@ -4,7 +4,10 @@ aliases :
 - Exode 35
 - Ex 35
 - Exodus 35
-tags : Bible/Ex/35
+tags : 
+- Bible/Ex/35
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 35

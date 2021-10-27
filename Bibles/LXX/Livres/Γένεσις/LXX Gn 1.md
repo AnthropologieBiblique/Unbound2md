@@ -4,7 +4,10 @@ aliases :
 - Genèse 1
 - Gn 1
 - Genesis 1
-tags : Bible/Gn/1
+tags : 
+- Bible/Gn/1
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 1

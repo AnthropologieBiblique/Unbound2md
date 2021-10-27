@@ -4,7 +4,10 @@ aliases :
 - Psaumes 150
 - Ps 150
 - Psalms 150
-tags : Bible/Ps/150
+tags : 
+- Bible/Ps/150
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 150

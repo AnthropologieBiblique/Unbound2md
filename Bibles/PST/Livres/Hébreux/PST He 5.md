@@ -4,7 +4,10 @@ aliases :
 - Hébreux 5
 - He 5
 - Hebrews 5
-tags : Bible/He/5
+tags : 
+- Bible/He/5
+- araméen
+cssclass : bible-araméen
 ---
 
 # Hébreux 5

@@ -3,7 +3,10 @@ aliases :
 - Nahum 3
 - Nahum 3
 - Na 3
-tags : Bible/Na/3
+tags : 
+- Bible/Na/3
+- français
+cssclass : bible-français
 ---
 
 # Nahum 3

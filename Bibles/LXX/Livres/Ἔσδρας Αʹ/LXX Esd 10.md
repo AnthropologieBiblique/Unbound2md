@@ -4,7 +4,10 @@ aliases :
 - Esdras 10
 - Esd 10
 - Ezra 10
-tags : Bible/Esd/10
+tags : 
+- Bible/Esd/10
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔσδρας Αʹ 10

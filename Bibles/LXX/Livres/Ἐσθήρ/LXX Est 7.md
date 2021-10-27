@@ -3,7 +3,10 @@ aliases :
 - Ἐσθήρ 7
 - Esther 7
 - Est 7
-tags : Bible/Est/7
+tags : 
+- Bible/Est/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ἐσθήρ 7

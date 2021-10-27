@@ -4,7 +4,10 @@ aliases :
 - Jean 17
 - Jn 17
 - John 17
-tags : Bible/Jn/17
+tags : 
+- Bible/Jn/17
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 17

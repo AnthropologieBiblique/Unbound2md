@@ -4,7 +4,10 @@ aliases :
 - Isaïe 9
 - Is 9
 - Isaiah 9
-tags : Bible/Is/9
+tags : 
+- Bible/Is/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 9

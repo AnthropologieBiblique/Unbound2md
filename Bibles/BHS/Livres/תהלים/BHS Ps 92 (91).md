@@ -4,7 +4,10 @@ aliases :
 - Psaumes 92 (91)
 - Ps 92 (91)
 - Psalms 92 (91)
-tags : Bible/Ps/92_91
+tags : 
+- Bible/Ps/92_91
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 92 (91)

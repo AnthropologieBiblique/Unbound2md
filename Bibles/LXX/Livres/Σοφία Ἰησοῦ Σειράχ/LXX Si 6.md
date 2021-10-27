@@ -4,7 +4,10 @@ aliases :
 - Siracide 6
 - Si 6
 - Ecclesiasticus 6
-tags : Bible/Si/6
+tags : 
+- Bible/Si/6
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 6

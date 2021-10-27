@@ -4,7 +4,10 @@ aliases :
 - Isaïe 40
 - Is 40
 - Isaiah 40
-tags : Bible/Is/40
+tags : 
+- Bible/Is/40
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 40

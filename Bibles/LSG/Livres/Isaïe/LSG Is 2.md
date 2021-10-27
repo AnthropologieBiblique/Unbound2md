@@ -4,7 +4,10 @@ aliases :
 - Isaïe 2
 - Is 2
 - Isaiah 2
-tags : Bible/Is/2
+tags : 
+- Bible/Is/2
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 2

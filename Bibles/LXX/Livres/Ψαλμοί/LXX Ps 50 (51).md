@@ -4,7 +4,10 @@ aliases :
 - Psaumes 51 (50)
 - Ps 51 (50)
 - Psalms 51 (50)
-tags : Bible/Ps/51_50
+tags : 
+- Bible/Ps/51_50
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 50 (51)

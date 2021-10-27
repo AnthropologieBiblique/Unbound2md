@@ -4,7 +4,10 @@ aliases :
 - Isaïe 61
 - Is 61
 - Isaiah 61
-tags : Bible/Is/61
+tags : 
+- Bible/Is/61
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 61

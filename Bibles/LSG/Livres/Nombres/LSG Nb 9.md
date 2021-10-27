@@ -4,7 +4,10 @@ aliases :
 - Nombres 9
 - Nb 9
 - Numbers 9
-tags : Bible/Nb/9
+tags : 
+- Bible/Nb/9
+- français
+cssclass : bible-français
 ---
 
 # Nombres 9

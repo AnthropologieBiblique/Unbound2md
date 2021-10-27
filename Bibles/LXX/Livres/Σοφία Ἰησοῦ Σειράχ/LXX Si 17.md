@@ -4,7 +4,10 @@ aliases :
 - Siracide 17
 - Si 17
 - Ecclesiasticus 17
-tags : Bible/Si/17
+tags : 
+- Bible/Si/17
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 17

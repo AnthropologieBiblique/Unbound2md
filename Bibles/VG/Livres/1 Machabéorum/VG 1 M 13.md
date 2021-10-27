@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 13
 - 1 Maccabees 13
 - 1 M 13
-tags : Bible/1M/13
+tags : 
+- Bible/1M/13
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 13

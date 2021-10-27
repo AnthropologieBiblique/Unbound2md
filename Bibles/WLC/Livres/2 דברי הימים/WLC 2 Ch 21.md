@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 21
 - 2 Ch 21
 - 2 Chronicles 21
-tags : Bible/2Ch/21
+tags : 
+- Bible/2Ch/21
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 21

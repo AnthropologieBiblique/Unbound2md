@@ -3,7 +3,10 @@ aliases :
 - Job 41
 - Job 41
 - Jb 41
-tags : Bible/Jb/41
+tags : 
+- Bible/Jb/41
+- latin
+cssclass : bible-latin
 ---
 
 # Job 41

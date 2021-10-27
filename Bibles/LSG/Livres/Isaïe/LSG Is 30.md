@@ -4,7 +4,10 @@ aliases :
 - Isaïe 30
 - Is 30
 - Isaiah 30
-tags : Bible/Is/30
+tags : 
+- Bible/Is/30
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 30

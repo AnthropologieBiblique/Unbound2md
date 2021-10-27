@@ -4,7 +4,10 @@ aliases :
 - Proverbes 2
 - Pr 2
 - Proverbs 2
-tags : Bible/Pr/2
+tags : 
+- Bible/Pr/2
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 2

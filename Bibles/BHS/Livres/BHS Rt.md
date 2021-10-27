@@ -3,7 +3,10 @@ aliases :
 - רות
 - Ruth
 - Rt
-tags : Bible/Rt
+tags : 
+- Bible/Rt
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # רות

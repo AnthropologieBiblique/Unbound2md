@@ -4,7 +4,10 @@ aliases :
 - Exode 6
 - Ex 6
 - Exodus 6
-tags : Bible/Ex/6
+tags : 
+- Bible/Ex/6
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 6

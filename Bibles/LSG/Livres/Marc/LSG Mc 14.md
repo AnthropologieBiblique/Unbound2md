@@ -4,7 +4,10 @@ aliases :
 - Marc 14
 - Mc 14
 - Mark 14
-tags : Bible/Mc/14
+tags : 
+- Bible/Mc/14
+- français
+cssclass : bible-français
 ---
 
 # Marc 14

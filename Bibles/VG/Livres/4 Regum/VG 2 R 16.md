@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 16
 - 2 R 16
 - 2 Kings 16
-tags : Bible/2R/16
+tags : 
+- Bible/2R/16
+- latin
+cssclass : bible-latin
 ---
 
 # 4 Regum 16

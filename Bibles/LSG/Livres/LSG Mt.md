@@ -4,7 +4,10 @@ aliases :
 - Matthieu
 - Mt
 - Matthew
-tags : Bible/Mt
+tags : 
+- Bible/Mt
+- français
+cssclass : bible-français
 ---
 
 # Matthieu

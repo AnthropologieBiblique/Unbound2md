@@ -4,7 +4,10 @@ aliases :
 - Josué 9
 - Jos 9
 - Joshua 9
-tags : Bible/Jos/9
+tags : 
+- Bible/Jos/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰησοῦς Ναυῆ 9

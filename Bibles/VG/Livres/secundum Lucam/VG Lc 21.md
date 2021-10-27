@@ -4,7 +4,10 @@ aliases :
 - Luc 21
 - Lc 21
 - Luke 21
-tags : Bible/Lc/21
+tags : 
+- Bible/Lc/21
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 21

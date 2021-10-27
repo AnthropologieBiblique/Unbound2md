@@ -4,7 +4,10 @@ aliases :
 - Psaumes 73 (72)
 - Ps 73 (72)
 - Psalms 73 (72)
-tags : Bible/Ps/73_72
+tags : 
+- Bible/Ps/73_72
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 72 (73)

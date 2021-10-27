@@ -3,7 +3,10 @@ aliases :
 - 1 Machabéorum 14
 - 1 Maccabees 14
 - 1 M 14
-tags : Bible/1M/14
+tags : 
+- Bible/1M/14
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Machabéorum 14

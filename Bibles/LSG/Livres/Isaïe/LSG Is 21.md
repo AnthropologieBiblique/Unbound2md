@@ -4,7 +4,10 @@ aliases :
 - Isaïe 21
 - Is 21
 - Isaiah 21
-tags : Bible/Is/21
+tags : 
+- Bible/Is/21
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 21

@@ -3,7 +3,10 @@ aliases :
 - Danielis 11
 - Daniel 11
 - Dn 11
-tags : Bible/Dn/11
+tags : 
+- Bible/Dn/11
+- latin
+cssclass : bible-latin
 ---
 
 # Danielis 11

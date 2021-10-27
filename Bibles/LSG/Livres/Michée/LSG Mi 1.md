@@ -4,7 +4,10 @@ aliases :
 - Michée 1
 - Mi 1
 - Micah 1
-tags : Bible/Mi/1
+tags : 
+- Bible/Mi/1
+- français
+cssclass : bible-français
 ---
 
 # Michée 1

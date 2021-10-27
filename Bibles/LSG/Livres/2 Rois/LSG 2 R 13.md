@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 13
 - 2 R 13
 - 2 Kings 13
-tags : Bible/2R/13
+tags : 
+- Bible/2R/13
+- français
+cssclass : bible-français
 ---
 
 # 2 Rois 13

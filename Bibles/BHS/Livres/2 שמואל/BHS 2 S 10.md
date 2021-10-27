@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 10
 - 2 Samuel 10
 - 2 S 10
-tags : Bible/2S/10
+tags : 
+- Bible/2S/10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 10

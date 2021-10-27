@@ -3,7 +3,10 @@ aliases :
 - Lamentations 2
 - Lamentations 2
 - Lm 2
-tags : Bible/Lm/2
+tags : 
+- Bible/Lm/2
+- français
+cssclass : bible-français
 ---
 
 # Lamentations 2

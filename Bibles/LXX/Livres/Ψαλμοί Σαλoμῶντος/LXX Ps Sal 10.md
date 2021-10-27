@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 10
 - Ps Sal 10
 - Psalm of Solomon 10
-tags : Bible/PsSal/10
+tags : 
+- Bible/PsSal/10
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 10

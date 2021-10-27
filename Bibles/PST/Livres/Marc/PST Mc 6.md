@@ -4,7 +4,10 @@ aliases :
 - Marc 6
 - Mc 6
 - Mark 6
-tags : Bible/Mc/6
+tags : 
+- Bible/Mc/6
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 6

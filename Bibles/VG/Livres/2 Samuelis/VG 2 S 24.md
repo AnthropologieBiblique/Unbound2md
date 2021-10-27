@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 24
 - 2 Samuel 24
 - 2 S 24
-tags : Bible/2S/24
+tags : 
+- Bible/2S/24
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 24

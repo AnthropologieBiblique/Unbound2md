@@ -3,7 +3,10 @@ aliases :
 - עמוס 1
 - Amos 1
 - Am 1
-tags : Bible/Am/1
+tags : 
+- Bible/Am/1
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # עמוס 1

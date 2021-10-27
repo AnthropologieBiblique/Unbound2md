@@ -4,7 +4,10 @@ aliases :
 - Psaumes 96 (95)
 - Ps 96 (95)
 - Psalms 96 (95)
-tags : Bible/Ps/96_95
+tags : 
+- Bible/Ps/96_95
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 96 (95)

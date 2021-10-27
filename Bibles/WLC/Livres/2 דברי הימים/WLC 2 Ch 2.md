@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 2
 - 2 Ch 2
 - 2 Chronicles 2
-tags : Bible/2Ch/2
+tags : 
+- Bible/2Ch/2
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 2

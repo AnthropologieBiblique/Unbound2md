@@ -4,7 +4,10 @@ aliases :
 - Jérémie 4
 - Jr 4
 - Jeremiah 4
-tags : Bible/Jr/4
+tags : 
+- Bible/Jr/4
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 4

@@ -4,7 +4,10 @@ aliases :
 - Genèse 41
 - Gn 41
 - Genesis 41
-tags : Bible/Gn/41
+tags : 
+- Bible/Gn/41
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 41

@@ -3,7 +3,10 @@ aliases :
 - 2 Machabéorum 3
 - 2 Maccabees 3
 - 2 M 3
-tags : Bible/2M/3
+tags : 
+- Bible/2M/3
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Machabéorum 3

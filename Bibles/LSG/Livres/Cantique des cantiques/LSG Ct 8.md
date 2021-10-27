@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 8
 - Ct 8
 - Song of Solomon 8
-tags : Bible/Ct/8
+tags : 
+- Bible/Ct/8
+- français
+cssclass : bible-français
 ---
 
 # Cantique des cantiques 8

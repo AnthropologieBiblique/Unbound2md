@@ -4,7 +4,10 @@ aliases :
 - Nombres 19
 - Nb 19
 - Numbers 19
-tags : Bible/Nb/19
+tags : 
+- Bible/Nb/19
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 19

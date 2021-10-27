@@ -4,7 +4,10 @@ aliases :
 - Nombres 33
 - Nb 33
 - Numbers 33
-tags : Bible/Nb/33
+tags : 
+- Bible/Nb/33
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 33

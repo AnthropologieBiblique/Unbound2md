@@ -4,7 +4,10 @@ aliases :
 - Exode 33
 - Ex 33
 - Exodus 33
-tags : Bible/Ex/33
+tags : 
+- Bible/Ex/33
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 33

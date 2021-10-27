@@ -4,7 +4,10 @@ aliases :
 - Psaumes 2
 - Ps 2
 - Psalms 2
-tags : Bible/Ps/2
+tags : 
+- Bible/Ps/2
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 2

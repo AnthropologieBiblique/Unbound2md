@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 8
 - Ez 8
 - Ezekiel 8
-tags : Bible/Ez/8
+tags : 
+- Bible/Ez/8
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 8

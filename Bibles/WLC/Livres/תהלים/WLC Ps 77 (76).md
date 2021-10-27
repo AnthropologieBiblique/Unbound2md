@@ -4,7 +4,10 @@ aliases :
 - Psaumes 77 (76)
 - Ps 77 (76)
 - Psalms 77 (76)
-tags : Bible/Ps/77_76
+tags : 
+- Bible/Ps/77_76
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 77 (76)

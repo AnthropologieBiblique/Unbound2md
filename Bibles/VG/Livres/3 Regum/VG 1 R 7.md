@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 7
 - 1 R 7
 - 1 Kings 7
-tags : Bible/1R/7
+tags : 
+- Bible/1R/7
+- latin
+cssclass : bible-latin
 ---
 
 # 3 Regum 7

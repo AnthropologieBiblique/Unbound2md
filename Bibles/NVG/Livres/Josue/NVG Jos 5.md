@@ -4,7 +4,10 @@ aliases :
 - Josué 5
 - Jos 5
 - Joshua 5
-tags : Bible/Jos/5
+tags : 
+- Bible/Jos/5
+- latin
+cssclass : bible-latin
 ---
 
 # Josue 5

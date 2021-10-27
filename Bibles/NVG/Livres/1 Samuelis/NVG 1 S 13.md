@@ -3,7 +3,10 @@ aliases :
 - 1 Samuelis 13
 - 1 Samuel 13
 - 1 S 13
-tags : Bible/1S/13
+tags : 
+- Bible/1S/13
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Samuelis 13

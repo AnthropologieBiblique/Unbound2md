@@ -4,7 +4,10 @@ aliases :
 - Psaumes 39 (38)
 - Ps 39 (38)
 - Psalms 39 (38)
-tags : Bible/Ps/39_38
+tags : 
+- Bible/Ps/39_38
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί 38 (39)

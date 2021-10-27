@@ -4,7 +4,10 @@ aliases :
 - Jean 10
 - Jn 10
 - John 10
-tags : Bible/Jn/10
+tags : 
+- Bible/Jn/10
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 10

@@ -4,7 +4,10 @@ aliases :
 - Exode 34
 - Ex 34
 - Exodus 34
-tags : Bible/Ex/34
+tags : 
+- Bible/Ex/34
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 34

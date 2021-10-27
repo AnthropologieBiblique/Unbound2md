@@ -4,7 +4,10 @@ aliases :
 - Proverbes 7
 - Pr 7
 - Proverbs 7
-tags : Bible/Pr/7
+tags : 
+- Bible/Pr/7
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 7

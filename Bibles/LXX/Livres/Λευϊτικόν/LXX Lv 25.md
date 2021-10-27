@@ -4,7 +4,10 @@ aliases :
 - Lévitique 25
 - Lv 25
 - Leviticus 25
-tags : Bible/Lv/25
+tags : 
+- Bible/Lv/25
+- grec
+cssclass : bible-grec
 ---
 
 # Λευϊτικόν 25

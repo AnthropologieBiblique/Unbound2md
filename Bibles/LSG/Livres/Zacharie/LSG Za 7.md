@@ -4,7 +4,10 @@ aliases :
 - Zacharie 7
 - Za 7
 - Zechariah 7
-tags : Bible/Za/7
+tags : 
+- Bible/Za/7
+- français
+cssclass : bible-français
 ---
 
 # Zacharie 7

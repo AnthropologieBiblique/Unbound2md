@@ -4,7 +4,10 @@ aliases :
 - Genèse 34
 - Gn 34
 - Genesis 34
-tags : Bible/Gn/34
+tags : 
+- Bible/Gn/34
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 34

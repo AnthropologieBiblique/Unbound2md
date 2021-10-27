@@ -4,7 +4,10 @@ aliases :
 - 1 Jean 5
 - 1 Jn 5
 - 1 John 5
-tags : Bible/1Jn/5
+tags : 
+- Bible/1Jn/5
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Ioannis 5

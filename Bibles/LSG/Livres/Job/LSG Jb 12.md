@@ -3,7 +3,10 @@ aliases :
 - Job 12
 - Job 12
 - Jb 12
-tags : Bible/Jb/12
+tags : 
+- Bible/Jb/12
+- français
+cssclass : bible-français
 ---
 
 # Job 12

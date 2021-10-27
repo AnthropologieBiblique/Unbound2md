@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 26
 - 1 Samuel 26
 - 1 S 26
-tags : Bible/1S/26
+tags : 
+- Bible/1S/26
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 26

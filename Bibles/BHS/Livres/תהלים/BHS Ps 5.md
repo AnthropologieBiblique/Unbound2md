@@ -4,7 +4,10 @@ aliases :
 - Psaumes 5
 - Ps 5
 - Psalms 5
-tags : Bible/Ps/5
+tags : 
+- Bible/Ps/5
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 5

@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 2
 - Job 2
 - Jb 2
-tags : Bible/Jb/2
+tags : 
+- Bible/Jb/2
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 2

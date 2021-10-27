@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 3
 - 1 R 3
 - 1 Kings 3
-tags : Bible/1R/3
+tags : 
+- Bible/1R/3
+- latin
+cssclass : bible-latin
 ---
 
 # 3 Regum 3

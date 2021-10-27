@@ -4,7 +4,10 @@ aliases :
 - Luc 20
 - Lc 20
 - Luke 20
-tags : Bible/Lc/20
+tags : 
+- Bible/Lc/20
+- français
+cssclass : bible-français
 ---
 
 # Luc 20

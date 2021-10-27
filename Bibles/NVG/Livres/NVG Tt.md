@@ -4,7 +4,10 @@ aliases :
 - Tite
 - Tt
 - Titus
-tags : Bible/Tt
+tags : 
+- Bible/Tt
+- latin
+cssclass : bible-latin
 ---
 
 # ad Titum

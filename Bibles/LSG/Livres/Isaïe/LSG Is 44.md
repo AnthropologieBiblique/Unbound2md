@@ -4,7 +4,10 @@ aliases :
 - Isaïe 44
 - Is 44
 - Isaiah 44
-tags : Bible/Is/44
+tags : 
+- Bible/Is/44
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 44

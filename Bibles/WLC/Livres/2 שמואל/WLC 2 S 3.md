@@ -3,7 +3,10 @@ aliases :
 - 2 שמואל 3
 - 2 Samuel 3
 - 2 S 3
-tags : Bible/2S/3
+tags : 
+- Bible/2S/3
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 שמואל 3

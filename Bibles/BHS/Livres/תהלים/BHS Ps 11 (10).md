@@ -4,7 +4,10 @@ aliases :
 - Psaumes 11 (10)
 - Ps 11 (10)
 - Psalms 11 (10)
-tags : Bible/Ps/11_10
+tags : 
+- Bible/Ps/11_10
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # תהלים 11 (10)

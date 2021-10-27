@@ -4,7 +4,10 @@ aliases :
 - Éphésiens 4
 - Ep 4
 - Ephesians 4
-tags : Bible/Ep/4
+tags : 
+- Bible/Ep/4
+- araméen
+cssclass : bible-araméen
 ---
 
 # Éphésiens 4

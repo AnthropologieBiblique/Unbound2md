@@ -3,7 +3,10 @@ aliases :
 - Βαρούχ 4
 - Baruch 4
 - Ba 4
-tags : Bible/Ba/4
+tags : 
+- Bible/Ba/4
+- grec
+cssclass : bible-grec
 ---
 
 # Βαρούχ 4

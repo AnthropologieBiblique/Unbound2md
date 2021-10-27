@@ -4,7 +4,10 @@ aliases :
 - Psaumes 33 (32)
 - Ps 33 (32)
 - Psalms 33 (32)
-tags : Bible/Ps/33_32
+tags : 
+- Bible/Ps/33_32
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 33 (32)

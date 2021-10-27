@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 8
 - 2 Ch 8
 - 2 Chronicles 8
-tags : Bible/2Ch/8
+tags : 
+- Bible/2Ch/8
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Βʹ 8

@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 10
 - Qo 10
 - Ecclesiastes 10
-tags : Bible/Qo/10
+tags : 
+- Bible/Qo/10
+- français
+cssclass : bible-français
 ---
 
 # Ecclésiaste 10

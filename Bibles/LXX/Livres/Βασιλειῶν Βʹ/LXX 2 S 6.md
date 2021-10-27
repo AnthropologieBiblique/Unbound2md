@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Βʹ 6
 - 2 Samuel 6
 - 2 S 6
-tags : Bible/2S/6
+tags : 
+- Bible/2S/6
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Βʹ 6

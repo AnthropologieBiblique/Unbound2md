@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 15
 - Ez 15
 - Ezekiel 15
-tags : Bible/Ez/15
+tags : 
+- Bible/Ez/15
+- latin
+cssclass : bible-latin
 ---
 
 # Ezechielis 15

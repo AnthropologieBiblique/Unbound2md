@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 10
 - 2 Co 10
 - 2 Corinthians 10
-tags : Bible/2Co/10
+tags : 
+- Bible/2Co/10
+- français
+cssclass : bible-français
 ---
 
 # 2 Corinthiens 10

@@ -4,7 +4,10 @@ aliases :
 - 1 Thessaloniciens 5
 - 1 Th 5
 - 1 Thessalonians 5
-tags : Bible/1Th/5
+tags : 
+- Bible/1Th/5
+- latin
+cssclass : bible-latin
 ---
 
 # 1 ad Thessalonicenses 5

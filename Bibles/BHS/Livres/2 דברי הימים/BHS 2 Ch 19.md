@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 19
 - 2 Ch 19
 - 2 Chronicles 19
-tags : Bible/2Ch/19
+tags : 
+- Bible/2Ch/19
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 דברי הימים 19

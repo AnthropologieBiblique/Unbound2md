@@ -4,7 +4,10 @@ aliases :
 - Nombres 12
 - Nb 12
 - Numbers 12
-tags : Bible/Nb/12
+tags : 
+- Bible/Nb/12
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 13

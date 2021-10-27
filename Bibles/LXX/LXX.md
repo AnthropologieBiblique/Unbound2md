@@ -1,3 +1,7 @@
+---
+tags : Bible, grec
+cssclass : bible-grec
+---
 # Septante accentuée
 
 [[LXX Mentions légales]]

@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 18
 - 2 Ch 18
 - 2 Chronicles 18
-tags : Bible/2Ch/18
+tags : 
+- Bible/2Ch/18
+- français
+cssclass : bible-français
 ---
 
 # 2 Chroniques 18

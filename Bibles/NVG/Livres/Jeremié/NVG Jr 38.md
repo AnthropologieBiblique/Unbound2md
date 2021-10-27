@@ -4,7 +4,10 @@ aliases :
 - Jérémie 38
 - Jr 38
 - Jeremiah 38
-tags : Bible/Jr/38
+tags : 
+- Bible/Jr/38
+- latin
+cssclass : bible-latin
 ---
 
 # Jeremié 38

@@ -4,7 +4,10 @@ aliases :
 - Marc 13
 - Mc 13
 - Mark 13
-tags : Bible/Mc/13
+tags : 
+- Bible/Mc/13
+- araméen
+cssclass : bible-araméen
 ---
 
 # Marc 13

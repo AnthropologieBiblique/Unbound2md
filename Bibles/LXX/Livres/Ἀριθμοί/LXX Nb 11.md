@@ -4,7 +4,10 @@ aliases :
 - Nombres 11
 - Nb 11
 - Numbers 11
-tags : Bible/Nb/11
+tags : 
+- Bible/Nb/11
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 11

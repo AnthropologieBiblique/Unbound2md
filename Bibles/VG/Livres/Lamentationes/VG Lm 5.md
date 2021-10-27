@@ -3,7 +3,10 @@ aliases :
 - Lamentationes 5
 - Lamentations 5
 - Lm 5
-tags : Bible/Lm/5
+tags : 
+- Bible/Lm/5
+- latin
+cssclass : bible-latin
 ---
 
 # Lamentationes 5

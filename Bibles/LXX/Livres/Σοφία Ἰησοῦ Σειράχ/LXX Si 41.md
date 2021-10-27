@@ -4,7 +4,10 @@ aliases :
 - Siracide 41
 - Si 41
 - Ecclesiasticus 41
-tags : Bible/Si/41
+tags : 
+- Bible/Si/41
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 41

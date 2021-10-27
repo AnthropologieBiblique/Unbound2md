@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 28
 - 1 Ch 28
 - 1 Chronicles 28
-tags : Bible/1Ch/28
+tags : 
+- Bible/1Ch/28
+- grec
+cssclass : bible-grec
 ---
 
 # Παραλειπομένων Αʹ 28

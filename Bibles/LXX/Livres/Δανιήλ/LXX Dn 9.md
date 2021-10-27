@@ -3,7 +3,10 @@ aliases :
 - Δανιήλ 9
 - Daniel 9
 - Dn 9
-tags : Bible/Dn/9
+tags : 
+- Bible/Dn/9
+- grec
+cssclass : bible-grec
 ---
 
 # Δανιήλ 9

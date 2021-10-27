@@ -4,7 +4,10 @@ aliases :
 - 2 Corinthiens 5
 - 2 Co 5
 - 2 Corinthians 5
-tags : Bible/2Co/5
+tags : 
+- Bible/2Co/5
+- araméen
+cssclass : bible-araméen
 ---
 
 # 2 Corinthiens 5

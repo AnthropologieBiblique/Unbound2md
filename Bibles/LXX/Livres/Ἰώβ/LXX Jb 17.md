@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 17
 - Job 17
 - Jb 17
-tags : Bible/Jb/17
+tags : 
+- Bible/Jb/17
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 17

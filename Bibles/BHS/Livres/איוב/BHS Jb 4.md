@@ -3,7 +3,10 @@ aliases :
 - איוב 4
 - Job 4
 - Jb 4
-tags : Bible/Jb/4
+tags : 
+- Bible/Jb/4
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 4

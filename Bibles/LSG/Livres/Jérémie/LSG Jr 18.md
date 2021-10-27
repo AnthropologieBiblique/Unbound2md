@@ -4,7 +4,10 @@ aliases :
 - Jérémie 18
 - Jr 18
 - Jeremiah 18
-tags : Bible/Jr/18
+tags : 
+- Bible/Jr/18
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 18

@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ
 - Judith
 - Jdt
-tags : Bible/Jdt
+tags : 
+- Bible/Jdt
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ

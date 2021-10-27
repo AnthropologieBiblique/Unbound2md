@@ -3,7 +3,10 @@ aliases :
 - Lamentations 4
 - Lamentations 4
 - Lm 4
-tags : Bible/Lm/4
+tags : 
+- Bible/Lm/4
+- français
+cssclass : bible-français
 ---
 
 # Lamentations 4

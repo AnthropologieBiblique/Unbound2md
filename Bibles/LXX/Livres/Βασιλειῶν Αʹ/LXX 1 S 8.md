@@ -3,7 +3,10 @@ aliases :
 - Βασιλειῶν Αʹ 8
 - 1 Samuel 8
 - 1 S 8
-tags : Bible/1S/8
+tags : 
+- Bible/1S/8
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Αʹ 8

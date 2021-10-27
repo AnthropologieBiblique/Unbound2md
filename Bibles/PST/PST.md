@@ -1,3 +1,7 @@
+---
+tags : Bible, araméen
+cssclass : bible-araméen
+---
 # Peshitta
 
 [[PST Mentions légales]]

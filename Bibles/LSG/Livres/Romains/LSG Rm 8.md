@@ -4,7 +4,10 @@ aliases :
 - Romains 8
 - Rm 8
 - Romans 8
-tags : Bible/Rm/8
+tags : 
+- Bible/Rm/8
+- français
+cssclass : bible-français
 ---
 
 # Romains 8

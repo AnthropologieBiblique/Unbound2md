@@ -4,7 +4,10 @@ aliases :
 - Proverbes 28
 - Pr 28
 - Proverbs 28
-tags : Bible/Pr/28
+tags : 
+- Bible/Pr/28
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 28

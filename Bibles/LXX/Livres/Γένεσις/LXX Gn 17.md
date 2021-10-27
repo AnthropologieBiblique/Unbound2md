@@ -4,7 +4,10 @@ aliases :
 - Genèse 17
 - Gn 17
 - Genesis 17
-tags : Bible/Gn/17
+tags : 
+- Bible/Gn/17
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 17

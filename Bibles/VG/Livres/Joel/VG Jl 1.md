@@ -4,7 +4,10 @@ aliases :
 - Joël 1
 - Jl 1
 - Joel 1
-tags : Bible/Jl/1
+tags : 
+- Bible/Jl/1
+- latin
+cssclass : bible-latin
 ---
 
 # Joel 1

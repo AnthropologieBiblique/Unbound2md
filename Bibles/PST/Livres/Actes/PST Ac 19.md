@@ -4,7 +4,10 @@ aliases :
 - Actes 19
 - Ac 19
 - Acts of the Apostles 19
-tags : Bible/Ac/19
+tags : 
+- Bible/Ac/19
+- araméen
+cssclass : bible-araméen
 ---
 
 # Actes 19

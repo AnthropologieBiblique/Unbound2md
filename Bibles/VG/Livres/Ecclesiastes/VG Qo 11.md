@@ -4,7 +4,10 @@ aliases :
 - Ecclésiaste 11
 - Qo 11
 - Ecclesiastes 11
-tags : Bible/Qo/11
+tags : 
+- Bible/Qo/11
+- latin
+cssclass : bible-latin
 ---
 
 # Ecclesiastes 11

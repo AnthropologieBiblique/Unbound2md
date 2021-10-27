@@ -4,7 +4,10 @@ aliases :
 - Tobie 13
 - Tb 13
 - Tobit 13
-tags : Bible/Tb/13
+tags : 
+- Bible/Tb/13
+- latin
+cssclass : bible-latin
 ---
 
 # Tobié 13

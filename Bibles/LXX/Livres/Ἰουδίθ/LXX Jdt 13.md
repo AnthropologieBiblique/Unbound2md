@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 13
 - Judith 13
 - Jdt 13
-tags : Bible/Jdt/13
+tags : 
+- Bible/Jdt/13
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 13

@@ -4,7 +4,10 @@ aliases :
 - Genèse 47
 - Gn 47
 - Genesis 47
-tags : Bible/Gn/47
+tags : 
+- Bible/Gn/47
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 47

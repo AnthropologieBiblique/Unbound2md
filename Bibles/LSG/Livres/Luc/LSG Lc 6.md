@@ -4,7 +4,10 @@ aliases :
 - Luc 6
 - Lc 6
 - Luke 6
-tags : Bible/Lc/6
+tags : 
+- Bible/Lc/6
+- français
+cssclass : bible-français
 ---
 
 # Luc 6

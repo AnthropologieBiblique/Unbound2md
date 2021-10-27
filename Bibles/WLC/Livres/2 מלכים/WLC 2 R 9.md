@@ -4,7 +4,10 @@ aliases :
 - 2 Rois 9
 - 2 R 9
 - 2 Kings 9
-tags : Bible/2R/9
+tags : 
+- Bible/2R/9
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 2 מלכים 9

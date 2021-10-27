@@ -4,7 +4,10 @@ aliases :
 - Siracide 8
 - Si 8
 - Ecclesiasticus 8
-tags : Bible/Si/8
+tags : 
+- Bible/Si/8
+- grec
+cssclass : bible-grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 8

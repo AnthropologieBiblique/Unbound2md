@@ -4,7 +4,10 @@ aliases :
 - Jonas 2
 - Jon 2
 - Jonah 2
-tags : Bible/Jon/2
+tags : 
+- Bible/Jon/2
+- français
+cssclass : bible-français
 ---
 
 # Jonas 2

@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 36
 - Ez 36
 - Ezekiel 36
-tags : Bible/Ez/36
+tags : 
+- Bible/Ez/36
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰεζεκιήλ 36

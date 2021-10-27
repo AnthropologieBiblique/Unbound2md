@@ -4,7 +4,10 @@ aliases :
 - Cantique des cantiques 3
 - Ct 3
 - Song of Solomon 3
-tags : Bible/Ct/3
+tags : 
+- Bible/Ct/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ἆσμα Ἀσμάτων 3

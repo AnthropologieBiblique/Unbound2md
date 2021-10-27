@@ -4,7 +4,10 @@ aliases :
 - Isaïe 32
 - Is 32
 - Isaiah 32
-tags : Bible/Is/32
+tags : 
+- Bible/Is/32
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 32

@@ -4,7 +4,10 @@ aliases :
 - Matthieu 5
 - Mt 5
 - Matthew 5
-tags : Bible/Mt/5
+tags : 
+- Bible/Mt/5
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 5

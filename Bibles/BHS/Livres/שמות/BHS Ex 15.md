@@ -4,7 +4,10 @@ aliases :
 - Exode 15
 - Ex 15
 - Exodus 15
-tags : Bible/Ex/15
+tags : 
+- Bible/Ex/15
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שמות 15

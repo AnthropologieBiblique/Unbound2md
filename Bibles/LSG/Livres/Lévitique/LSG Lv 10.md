@@ -4,7 +4,10 @@ aliases :
 - Lévitique 10
 - Lv 10
 - Leviticus 10
-tags : Bible/Lv/10
+tags : 
+- Bible/Lv/10
+- français
+cssclass : bible-français
 ---
 
 # Lévitique 10

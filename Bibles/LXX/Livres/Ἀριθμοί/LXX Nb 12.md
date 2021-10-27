@@ -4,7 +4,10 @@ aliases :
 - Nombres 12
 - Nb 12
 - Numbers 12
-tags : Bible/Nb/12
+tags : 
+- Bible/Nb/12
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 12

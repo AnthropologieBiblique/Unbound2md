@@ -4,7 +4,10 @@ aliases :
 - Exode 26
 - Ex 26
 - Exodus 26
-tags : Bible/Ex/26
+tags : 
+- Bible/Ex/26
+- latin
+cssclass : bible-latin
 ---
 
 # Exodus 26

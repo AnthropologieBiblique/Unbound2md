@@ -4,7 +4,10 @@ aliases :
 - Isaïe 4
 - Is 4
 - Isaiah 4
-tags : Bible/Is/4
+tags : 
+- Bible/Is/4
+- grec
+cssclass : bible-grec
 ---
 
 # Ἠσαΐας 4

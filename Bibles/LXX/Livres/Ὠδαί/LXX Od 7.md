@@ -3,7 +3,10 @@ aliases :
 - Ὠδαί 7
 - Odes 7
 - Od 7
-tags : Bible/Od/7
+tags : 
+- Bible/Od/7
+- grec
+cssclass : bible-grec
 ---
 
 # Ὠδαί 7

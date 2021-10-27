@@ -4,7 +4,10 @@ aliases :
 - Genèse 13
 - Gn 13
 - Genesis 13
-tags : Bible/Gn/13
+tags : 
+- Bible/Gn/13
+- grec
+cssclass : bible-grec
 ---
 
 # Γένεσις 13

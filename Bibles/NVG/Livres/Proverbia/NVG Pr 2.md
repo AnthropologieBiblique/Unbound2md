@@ -4,7 +4,10 @@ aliases :
 - Proverbes 2
 - Pr 2
 - Proverbs 2
-tags : Bible/Pr/2
+tags : 
+- Bible/Pr/2
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 2

@@ -4,7 +4,10 @@ aliases :
 - Genèse 5
 - Gn 5
 - Genesis 5
-tags : Bible/Gn/5
+tags : 
+- Bible/Gn/5
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 5

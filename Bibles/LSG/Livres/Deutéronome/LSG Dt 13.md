@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 13
 - Dt 13
 - Deuteronomy 13
-tags : Bible/Dt/13
+tags : 
+- Bible/Dt/13
+- français
+cssclass : bible-français
 ---
 
 # Deutéronome 13

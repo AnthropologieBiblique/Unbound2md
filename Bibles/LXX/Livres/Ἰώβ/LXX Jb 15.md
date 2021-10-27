@@ -3,7 +3,10 @@ aliases :
 - Ἰώβ 15
 - Job 15
 - Jb 15
-tags : Bible/Jb/15
+tags : 
+- Bible/Jb/15
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰώβ 15

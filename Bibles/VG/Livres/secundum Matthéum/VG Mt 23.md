@@ -4,7 +4,10 @@ aliases :
 - Matthieu 23
 - Mt 23
 - Matthew 23
-tags : Bible/Mt/23
+tags : 
+- Bible/Mt/23
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Matthéum 23

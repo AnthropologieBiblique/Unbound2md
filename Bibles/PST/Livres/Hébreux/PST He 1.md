@@ -4,7 +4,10 @@ aliases :
 - Hébreux 1
 - He 1
 - Hebrews 1
-tags : Bible/He/1
+tags : 
+- Bible/He/1
+- araméen
+cssclass : bible-araméen
 ---
 
 # Hébreux 1

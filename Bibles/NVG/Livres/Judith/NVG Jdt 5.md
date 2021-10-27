@@ -3,7 +3,10 @@ aliases :
 - Judith 5
 - Judith 5
 - Jdt 5
-tags : Bible/Jdt/5
+tags : 
+- Bible/Jdt/5
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 5

@@ -4,7 +4,10 @@ aliases :
 - Psaume extra numerum 3
 - Ps Sal 3
 - Psalm of Solomon 3
-tags : Bible/PsSal/3
+tags : 
+- Bible/PsSal/3
+- grec
+cssclass : bible-grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 3

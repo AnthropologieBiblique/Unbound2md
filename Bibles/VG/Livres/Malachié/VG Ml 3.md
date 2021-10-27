@@ -4,7 +4,10 @@ aliases :
 - Malachie 3
 - Ml 3
 - Malachi 3
-tags : Bible/Ml/3
+tags : 
+- Bible/Ml/3
+- latin
+cssclass : bible-latin
 ---
 
 # Malachié 3

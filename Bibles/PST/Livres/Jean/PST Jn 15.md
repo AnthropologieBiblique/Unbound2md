@@ -4,7 +4,10 @@ aliases :
 - Jean 15
 - Jn 15
 - John 15
-tags : Bible/Jn/15
+tags : 
+- Bible/Jn/15
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 15

@@ -4,7 +4,10 @@ aliases :
 - Romains 10
 - Rm 10
 - Romans 10
-tags : Bible/Rm/10
+tags : 
+- Bible/Rm/10
+- latin
+cssclass : bible-latin
 ---
 
 # ad Romanos 10

@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 9
 - Judith 9
 - Jdt 9
-tags : Bible/Jdt/9
+tags : 
+- Bible/Jdt/9
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 9

@@ -4,7 +4,10 @@ aliases :
 - Exode 28
 - Ex 28
 - Exodus 28
-tags : Bible/Ex/28
+tags : 
+- Bible/Ex/28
+- grec
+cssclass : bible-grec
 ---
 
 # Ἔξοδος 28

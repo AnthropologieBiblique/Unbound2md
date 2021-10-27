@@ -3,7 +3,10 @@ aliases :
 - Esther 2
 - Esther 2
 - Est 2
-tags : Bible/Est/2
+tags : 
+- Bible/Est/2
+- français
+cssclass : bible-français
 ---
 
 # Esther 2

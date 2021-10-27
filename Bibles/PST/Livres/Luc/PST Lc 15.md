@@ -4,7 +4,10 @@ aliases :
 - Luc 15
 - Lc 15
 - Luke 15
-tags : Bible/Lc/15
+tags : 
+- Bible/Lc/15
+- araméen
+cssclass : bible-araméen
 ---
 
 # Luc 15

@@ -4,7 +4,10 @@ aliases :
 - Actes
 - Ac
 - Acts of the Apostles
-tags : Bible/Ac
+tags : 
+- Bible/Ac
+- français
+cssclass : bible-français
 ---
 
 # Actes

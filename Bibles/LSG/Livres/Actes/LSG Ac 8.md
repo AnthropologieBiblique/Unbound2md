@@ -4,7 +4,10 @@ aliases :
 - Actes 8
 - Ac 8
 - Acts of the Apostles 8
-tags : Bible/Ac/8
+tags : 
+- Bible/Ac/8
+- français
+cssclass : bible-français
 ---
 
 # Actes 8

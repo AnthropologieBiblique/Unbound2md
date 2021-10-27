@@ -4,7 +4,10 @@ aliases :
 - Isaïe 6
 - Is 6
 - Isaiah 6
-tags : Bible/Is/6
+tags : 
+- Bible/Is/6
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 6

@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 20
 - 1 R 20
 - 1 Kings 20
-tags : Bible/1R/20
+tags : 
+- Bible/1R/20
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois 20

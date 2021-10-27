@@ -4,7 +4,10 @@ aliases :
 - Lévitique 23
 - Lv 23
 - Leviticus 23
-tags : Bible/Lv/23
+tags : 
+- Bible/Lv/23
+- latin
+cssclass : bible-latin
 ---
 
 # Leviticus 23

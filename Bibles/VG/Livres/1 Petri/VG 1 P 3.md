@@ -4,7 +4,10 @@ aliases :
 - 1 Pierre 3
 - 1 P 3
 - 1 Peter 3
-tags : Bible/1P/3
+tags : 
+- Bible/1P/3
+- latin
+cssclass : bible-latin
 ---
 
 # 1 Petri 3

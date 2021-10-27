@@ -4,7 +4,10 @@ aliases :
 - Proverbes 12
 - Pr 12
 - Proverbs 12
-tags : Bible/Pr/12
+tags : 
+- Bible/Pr/12
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 12

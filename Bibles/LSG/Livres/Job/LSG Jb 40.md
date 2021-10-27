@@ -3,7 +3,10 @@ aliases :
 - Job 40
 - Job 40
 - Jb 40
-tags : Bible/Jb/40
+tags : 
+- Bible/Jb/40
+- français
+cssclass : bible-français
 ---
 
 # Job 40

@@ -4,7 +4,10 @@ aliases :
 - Isaïe 47
 - Is 47
 - Isaiah 47
-tags : Bible/Is/47
+tags : 
+- Bible/Is/47
+- français
+cssclass : bible-français
 ---
 
 # Isaïe 47

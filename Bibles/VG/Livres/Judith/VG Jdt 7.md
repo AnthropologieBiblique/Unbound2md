@@ -3,7 +3,10 @@ aliases :
 - Judith 7
 - Judith 7
 - Jdt 7
-tags : Bible/Jdt/7
+tags : 
+- Bible/Jdt/7
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 7

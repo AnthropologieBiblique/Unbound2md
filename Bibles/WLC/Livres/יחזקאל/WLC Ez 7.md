@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 7
 - Ez 7
 - Ezekiel 7
-tags : Bible/Ez/7
+tags : 
+- Bible/Ez/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יחזקאל 7

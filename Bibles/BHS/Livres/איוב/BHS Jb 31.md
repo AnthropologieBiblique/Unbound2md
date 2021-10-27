@@ -3,7 +3,10 @@ aliases :
 - איוב 31
 - Job 31
 - Jb 31
-tags : Bible/Jb/31
+tags : 
+- Bible/Jb/31
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 31

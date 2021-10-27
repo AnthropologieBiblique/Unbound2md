@@ -4,7 +4,10 @@ aliases :
 - Proverbes 29
 - Pr 29
 - Proverbs 29
-tags : Bible/Pr/29
+tags : 
+- Bible/Pr/29
+- grec
+cssclass : bible-grec
 ---
 
 # Παροιμίαι 29

@@ -4,7 +4,10 @@ aliases :
 - 1 Pierre 5
 - 1 P 5
 - 1 Peter 5
-tags : Bible/1P/5
+tags : 
+- Bible/1P/5
+- araméen
+cssclass : bible-araméen
 ---
 
 # 1 Pierre 5

@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 17
 - 1 R 17
 - 1 Kings 17
-tags : Bible/1R/17
+tags : 
+- Bible/1R/17
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 מלכים 17

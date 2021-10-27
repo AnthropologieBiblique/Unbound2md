@@ -4,7 +4,10 @@ aliases :
 - Isaïe 19
 - Is 19
 - Isaiah 19
-tags : Bible/Is/19
+tags : 
+- Bible/Is/19
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # ישעיה 19

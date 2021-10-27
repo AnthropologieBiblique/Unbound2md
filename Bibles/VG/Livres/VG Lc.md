@@ -4,7 +4,10 @@ aliases :
 - Luc
 - Lc
 - Luke
-tags : Bible/Lc
+tags : 
+- Bible/Lc
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam

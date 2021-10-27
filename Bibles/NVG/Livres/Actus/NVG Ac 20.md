@@ -4,7 +4,10 @@ aliases :
 - Actes 20
 - Ac 20
 - Acts of the Apostles 20
-tags : Bible/Ac/20
+tags : 
+- Bible/Ac/20
+- latin
+cssclass : bible-latin
 ---
 
 # Actus 20

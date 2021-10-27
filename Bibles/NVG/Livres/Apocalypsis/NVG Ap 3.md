@@ -4,7 +4,10 @@ aliases :
 - Apocalypse 3
 - Ap 3
 - Revelation 3
-tags : Bible/Ap/3
+tags : 
+- Bible/Ap/3
+- latin
+cssclass : bible-latin
 ---
 
 # Apocalypsis 3

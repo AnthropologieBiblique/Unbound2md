@@ -3,7 +3,10 @@ aliases :
 - Judith 4
 - Judith 4
 - Jdt 4
-tags : Bible/Jdt/4
+tags : 
+- Bible/Jdt/4
+- latin
+cssclass : bible-latin
 ---
 
 # Judith 4

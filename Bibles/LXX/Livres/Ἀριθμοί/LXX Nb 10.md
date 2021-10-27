@@ -4,7 +4,10 @@ aliases :
 - Nombres 10
 - Nb 10
 - Numbers 10
-tags : Bible/Nb/10
+tags : 
+- Bible/Nb/10
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 10

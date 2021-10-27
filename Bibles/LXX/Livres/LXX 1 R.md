@@ -4,7 +4,10 @@ aliases :
 - 1 Rois
 - 1 R
 - 1 Kings
-tags : Bible/1R
+tags : 
+- Bible/1R
+- grec
+cssclass : bible-grec
 ---
 
 # Βασιλειῶν Γʹ

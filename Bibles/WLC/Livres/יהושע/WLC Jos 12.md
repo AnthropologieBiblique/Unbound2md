@@ -4,7 +4,10 @@ aliases :
 - Josué 12
 - Jos 12
 - Joshua 12
-tags : Bible/Jos/12
+tags : 
+- Bible/Jos/12
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # יהושע 12

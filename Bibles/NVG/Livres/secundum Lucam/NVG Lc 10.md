@@ -4,7 +4,10 @@ aliases :
 - Luc 10
 - Lc 10
 - Luke 10
-tags : Bible/Lc/10
+tags : 
+- Bible/Lc/10
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 10

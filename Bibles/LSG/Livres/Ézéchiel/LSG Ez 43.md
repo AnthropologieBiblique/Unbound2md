@@ -4,7 +4,10 @@ aliases :
 - Ézéchiel 43
 - Ez 43
 - Ezekiel 43
-tags : Bible/Ez/43
+tags : 
+- Bible/Ez/43
+- français
+cssclass : bible-français
 ---
 
 # Ézéchiel 43

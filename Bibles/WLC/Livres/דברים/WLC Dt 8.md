@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 8
 - Dt 8
 - Deuteronomy 8
-tags : Bible/Dt/8
+tags : 
+- Bible/Dt/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # דברים 8

@@ -4,7 +4,10 @@ aliases :
 - Nombres 29
 - Nb 29
 - Numbers 29
-tags : Bible/Nb/29
+tags : 
+- Bible/Nb/29
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 29

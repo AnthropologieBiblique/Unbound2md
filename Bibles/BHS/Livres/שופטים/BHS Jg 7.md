@@ -4,7 +4,10 @@ aliases :
 - Juges 7
 - Jg 7
 - Judges 7
-tags : Bible/Jg/7
+tags : 
+- Bible/Jg/7
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שופטים 7

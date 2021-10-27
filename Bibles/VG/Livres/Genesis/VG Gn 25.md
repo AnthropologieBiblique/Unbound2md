@@ -4,7 +4,10 @@ aliases :
 - Genèse 25
 - Gn 25
 - Genesis 25
-tags : Bible/Gn/25
+tags : 
+- Bible/Gn/25
+- latin
+cssclass : bible-latin
 ---
 
 # Genesis 25

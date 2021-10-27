@@ -4,7 +4,10 @@ aliases :
 - Nombres 2
 - Nb 2
 - Numbers 2
-tags : Bible/Nb/2
+tags : 
+- Bible/Nb/2
+- latin
+cssclass : bible-latin
 ---
 
 # Numeri 2

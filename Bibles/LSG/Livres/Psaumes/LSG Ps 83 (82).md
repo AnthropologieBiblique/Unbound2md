@@ -4,7 +4,10 @@ aliases :
 - Psaumes 83 (82)
 - Ps 83 (82)
 - Psalms 83 (82)
-tags : Bible/Ps/83_82
+tags : 
+- Bible/Ps/83_82
+- français
+cssclass : bible-français
 ---
 
 # Psaumes 83 (82)

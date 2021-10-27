@@ -4,7 +4,10 @@ aliases :
 - Nombres 6
 - Nb 6
 - Numbers 6
-tags : Bible/Nb/6
+tags : 
+- Bible/Nb/6
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 6

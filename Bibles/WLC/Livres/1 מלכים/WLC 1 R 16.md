@@ -4,7 +4,10 @@ aliases :
 - 1 Rois 16
 - 1 R 16
 - 1 Kings 16
-tags : Bible/1R/16
+tags : 
+- Bible/1R/16
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 מלכים 16

@@ -3,7 +3,10 @@ aliases :
 - Θρῆνοι
 - Lamentations
 - Lm
-tags : Bible/Lm
+tags : 
+- Bible/Lm
+- grec
+cssclass : bible-grec
 ---
 
 # Θρῆνοι

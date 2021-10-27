@@ -3,7 +3,10 @@ aliases :
 - Μακκαβαίων Βʹ 15
 - 2 Maccabees 15
 - 2 M 15
-tags : Bible/2M/15
+tags : 
+- Bible/2M/15
+- grec
+cssclass : bible-grec
 ---
 
 # Μακκαβαίων Βʹ 15

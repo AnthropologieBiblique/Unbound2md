@@ -4,7 +4,10 @@ aliases :
 - Jérémie 31
 - Jr 31
 - Jeremiah 31
-tags : Bible/Jr/31
+tags : 
+- Bible/Jr/31
+- français
+cssclass : bible-français
 ---
 
 # Jérémie 31

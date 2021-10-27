@@ -3,7 +3,10 @@ aliases :
 - איוב 42
 - Job 42
 - Jb 42
-tags : Bible/Jb/42
+tags : 
+- Bible/Jb/42
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # איוב 42

@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 19
 - Dt 19
 - Deuteronomy 19
-tags : Bible/Dt/19
+tags : 
+- Bible/Dt/19
+- grec
+cssclass : bible-grec
 ---
 
 # Δευτερονόμιον 19

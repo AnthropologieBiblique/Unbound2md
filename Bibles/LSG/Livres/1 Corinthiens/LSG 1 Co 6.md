@@ -4,7 +4,10 @@ aliases :
 - 1 Corinthiens 6
 - 1 Co 6
 - 1 Corinthians 6
-tags : Bible/1Co/6
+tags : 
+- Bible/1Co/6
+- français
+cssclass : bible-français
 ---
 
 # 1 Corinthiens 6

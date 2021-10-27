@@ -4,7 +4,10 @@ aliases :
 - Philippiens 3
 - Ph 3
 - Philippians 3
-tags : Bible/Ph/3
+tags : 
+- Bible/Ph/3
+- araméen
+cssclass : bible-araméen
 ---
 
 # Philippiens 3

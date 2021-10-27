@@ -4,7 +4,10 @@ aliases :
 - Luc 5
 - Lc 5
 - Luke 5
-tags : Bible/Lc/5
+tags : 
+- Bible/Lc/5
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Lucam 5

@@ -4,7 +4,10 @@ aliases :
 - Jean 5
 - Jn 5
 - John 5
-tags : Bible/Jn/5
+tags : 
+- Bible/Jn/5
+- latin
+cssclass : bible-latin
 ---
 
 # secundum Ioannem 5

@@ -4,7 +4,10 @@ aliases :
 - Jean 11
 - Jn 11
 - John 11
-tags : Bible/Jn/11
+tags : 
+- Bible/Jn/11
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 11

@@ -3,7 +3,10 @@ aliases :
 - Ῥούθ 2
 - Ruth 2
 - Rt 2
-tags : Bible/Rt/2
+tags : 
+- Bible/Rt/2
+- grec
+cssclass : bible-grec
 ---
 
 # Ῥούθ 2

@@ -4,7 +4,10 @@ aliases :
 - 1 Rois
 - 1 R
 - 1 Kings
-tags : Bible/1R
+tags : 
+- Bible/1R
+- français
+cssclass : bible-français
 ---
 
 # 1 Rois

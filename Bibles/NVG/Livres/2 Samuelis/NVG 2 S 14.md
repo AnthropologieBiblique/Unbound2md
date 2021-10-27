@@ -3,7 +3,10 @@ aliases :
 - 2 Samuelis 14
 - 2 Samuel 14
 - 2 S 14
-tags : Bible/2S/14
+tags : 
+- Bible/2S/14
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Samuelis 14

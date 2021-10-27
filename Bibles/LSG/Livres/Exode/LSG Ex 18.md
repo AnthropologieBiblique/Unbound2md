@@ -4,7 +4,10 @@ aliases :
 - Exode 18
 - Ex 18
 - Exodus 18
-tags : Bible/Ex/18
+tags : 
+- Bible/Ex/18
+- français
+cssclass : bible-français
 ---
 
 # Exode 18

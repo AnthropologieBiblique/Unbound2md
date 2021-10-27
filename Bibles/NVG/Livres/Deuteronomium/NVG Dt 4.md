@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 4
 - Dt 4
 - Deuteronomy 4
-tags : Bible/Dt/4
+tags : 
+- Bible/Dt/4
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 4

@@ -4,7 +4,10 @@ aliases :
 - Proverbes 8
 - Pr 8
 - Proverbs 8
-tags : Bible/Pr/8
+tags : 
+- Bible/Pr/8
+- français
+cssclass : bible-français
 ---
 
 # Proverbes 8

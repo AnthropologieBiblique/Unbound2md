@@ -4,7 +4,10 @@ aliases :
 - Proverbes 23
 - Pr 23
 - Proverbs 23
-tags : Bible/Pr/23
+tags : 
+- Bible/Pr/23
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # משלי 23

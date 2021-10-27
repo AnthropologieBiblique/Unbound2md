@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 10
 - 1 Ch 10
 - 1 Chronicles 10
-tags : Bible/1Ch/10
+tags : 
+- Bible/1Ch/10
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 10

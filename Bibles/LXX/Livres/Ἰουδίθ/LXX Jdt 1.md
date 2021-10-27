@@ -3,7 +3,10 @@ aliases :
 - Ἰουδίθ 1
 - Judith 1
 - Jdt 1
-tags : Bible/Jdt/1
+tags : 
+- Bible/Jdt/1
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰουδίθ 1

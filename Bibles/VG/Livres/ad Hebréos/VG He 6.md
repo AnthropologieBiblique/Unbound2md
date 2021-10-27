@@ -4,7 +4,10 @@ aliases :
 - Hébreux 6
 - He 6
 - Hebrews 6
-tags : Bible/He/6
+tags : 
+- Bible/He/6
+- latin
+cssclass : bible-latin
 ---
 
 # ad Hebréos 6

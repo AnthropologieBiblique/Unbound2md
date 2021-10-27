@@ -4,7 +4,10 @@ aliases :
 - Malachie
 - Ml
 - Malachi
-tags : Bible/Ml
+tags : 
+- Bible/Ml
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # מלאכי

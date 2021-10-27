@@ -3,7 +3,10 @@ aliases :
 - 2 Samuel 4
 - 2 Samuel 4
 - 2 S 4
-tags : Bible/2S/4
+tags : 
+- Bible/2S/4
+- français
+cssclass : bible-français
 ---
 
 # 2 Samuel 4

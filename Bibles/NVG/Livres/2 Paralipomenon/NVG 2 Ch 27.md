@@ -4,7 +4,10 @@ aliases :
 - 2 Chroniques 27
 - 2 Ch 27
 - 2 Chronicles 27
-tags : Bible/2Ch/27
+tags : 
+- Bible/2Ch/27
+- latin
+cssclass : bible-latin
 ---
 
 # 2 Paralipomenon 27

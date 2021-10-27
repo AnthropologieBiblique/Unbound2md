@@ -3,7 +3,10 @@ aliases :
 - 1 שמואל 24
 - 1 Samuel 24
 - 1 S 24
-tags : Bible/1S/24
+tags : 
+- Bible/1S/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # 1 שמואל 24

@@ -4,7 +4,10 @@ aliases :
 - Nombres 22
 - Nb 22
 - Numbers 22
-tags : Bible/Nb/22
+tags : 
+- Bible/Nb/22
+- grec
+cssclass : bible-grec
 ---
 
 # Ἀριθμοί 22

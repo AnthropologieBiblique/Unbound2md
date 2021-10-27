@@ -4,7 +4,10 @@ aliases :
 - Romains 4
 - Rm 4
 - Romans 4
-tags : Bible/Rm/4
+tags : 
+- Bible/Rm/4
+- français
+cssclass : bible-français
 ---
 
 # Romains 4

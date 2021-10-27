@@ -4,7 +4,10 @@ aliases :
 - Exode 24
 - Ex 24
 - Exodus 24
-tags : Bible/Ex/24
+tags : 
+- Bible/Ex/24
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שמות 24

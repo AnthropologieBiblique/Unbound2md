@@ -4,7 +4,10 @@ aliases :
 - Deutéronome 11
 - Dt 11
 - Deuteronomy 11
-tags : Bible/Dt/11
+tags : 
+- Bible/Dt/11
+- latin
+cssclass : bible-latin
 ---
 
 # Deuteronomium 11

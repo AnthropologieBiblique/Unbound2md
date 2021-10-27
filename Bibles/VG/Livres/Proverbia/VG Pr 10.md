@@ -4,7 +4,10 @@ aliases :
 - Proverbes 10
 - Pr 10
 - Proverbs 10
-tags : Bible/Pr/10
+tags : 
+- Bible/Pr/10
+- latin
+cssclass : bible-latin
 ---
 
 # Proverbia 10

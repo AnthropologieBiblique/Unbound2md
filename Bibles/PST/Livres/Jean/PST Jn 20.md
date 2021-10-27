@@ -4,7 +4,10 @@ aliases :
 - Jean 20
 - Jn 20
 - John 20
-tags : Bible/Jn/20
+tags : 
+- Bible/Jn/20
+- araméen
+cssclass : bible-araméen
 ---
 
 # Jean 20

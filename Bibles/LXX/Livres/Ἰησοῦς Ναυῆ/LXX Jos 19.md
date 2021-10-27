@@ -4,7 +4,10 @@ aliases :
 - Josué 19
 - Jos 19
 - Joshua 19
-tags : Bible/Jos/19
+tags : 
+- Bible/Jos/19
+- grec
+cssclass : bible-grec
 ---
 
 # Ἰησοῦς Ναυῆ 19

@@ -4,7 +4,10 @@ aliases :
 - Philippiens
 - Ph
 - Philippians
-tags : Bible/Ph
+tags : 
+- Bible/Ph
+- araméen
+cssclass : bible-araméen
 ---
 
 # Philippiens

@@ -4,7 +4,10 @@ aliases :
 - Psaumes 16 (15)
 - Ps 16 (15)
 - Psalms 16 (15)
-tags : Bible/Ps/16_15
+tags : 
+- Bible/Ps/16_15
+- latin
+cssclass : bible-latin
 ---
 
 # Psalmi 16 (15)

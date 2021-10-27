@@ -4,7 +4,10 @@ aliases :
 - Juges 8
 - Jg 8
 - Judges 8
-tags : Bible/Jg/8
+tags : 
+- Bible/Jg/8
+- français
+cssclass : bible-français
 ---
 
 # Juges 8

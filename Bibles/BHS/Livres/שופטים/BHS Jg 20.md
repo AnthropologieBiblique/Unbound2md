@@ -4,7 +4,10 @@ aliases :
 - Juges 20
 - Jg 20
 - Judges 20
-tags : Bible/Jg/20
+tags : 
+- Bible/Jg/20
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # שופטים 20

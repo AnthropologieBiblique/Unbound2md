@@ -4,7 +4,10 @@ aliases :
 - 1 Chroniques 29
 - 1 Ch 29
 - 1 Chronicles 29
-tags : Bible/1Ch/29
+tags : 
+- Bible/1Ch/29
+- français
+cssclass : bible-français
 ---
 
 # 1 Chroniques 29

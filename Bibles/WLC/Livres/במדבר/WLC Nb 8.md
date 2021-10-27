@@ -4,7 +4,10 @@ aliases :
 - Nombres 8
 - Nb 8
 - Numbers 8
-tags : Bible/Nb/8
+tags : 
+- Bible/Nb/8
+- hébreu
+cssclass : bible-hébreu
 ---
 
 # במדבר 8
