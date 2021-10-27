@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/50
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 50

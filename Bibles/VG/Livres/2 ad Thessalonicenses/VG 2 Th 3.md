@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Th/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 ad Thessalonicenses 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 25

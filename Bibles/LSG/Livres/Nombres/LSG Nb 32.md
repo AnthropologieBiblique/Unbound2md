@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/32
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 32

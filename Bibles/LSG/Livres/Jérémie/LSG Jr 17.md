@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 17

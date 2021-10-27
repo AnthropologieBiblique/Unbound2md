@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Rt/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # רות 2

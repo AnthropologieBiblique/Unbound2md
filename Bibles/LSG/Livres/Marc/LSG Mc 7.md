@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 7

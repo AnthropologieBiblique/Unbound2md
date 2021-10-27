@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/31
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 31

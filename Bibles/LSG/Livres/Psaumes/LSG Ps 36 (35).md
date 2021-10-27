@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/36_35
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 36 (35)

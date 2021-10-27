@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 24

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 16

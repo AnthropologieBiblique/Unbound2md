@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/148
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 148

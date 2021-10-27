@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/32
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 32

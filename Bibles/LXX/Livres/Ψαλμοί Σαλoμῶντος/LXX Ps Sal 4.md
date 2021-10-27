@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/PsSal/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 4

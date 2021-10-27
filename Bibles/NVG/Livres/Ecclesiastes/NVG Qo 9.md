@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 9

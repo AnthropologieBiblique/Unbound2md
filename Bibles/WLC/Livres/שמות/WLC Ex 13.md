@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 13

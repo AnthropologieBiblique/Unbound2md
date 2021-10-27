@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ab/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Abdias 1

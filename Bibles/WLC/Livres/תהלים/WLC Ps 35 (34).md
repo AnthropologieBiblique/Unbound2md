@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/35_34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 35 (34)

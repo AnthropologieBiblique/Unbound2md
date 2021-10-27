@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/27
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 34

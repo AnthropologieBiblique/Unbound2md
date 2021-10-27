@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 13

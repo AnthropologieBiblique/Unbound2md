@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/34
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 34

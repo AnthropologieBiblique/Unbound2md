@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰωήλ Δʹ 4

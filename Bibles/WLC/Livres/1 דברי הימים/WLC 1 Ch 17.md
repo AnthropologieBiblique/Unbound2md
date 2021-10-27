@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 1 דברי הימים 17

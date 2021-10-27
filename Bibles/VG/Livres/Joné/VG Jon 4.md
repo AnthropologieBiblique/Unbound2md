@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Joné 4

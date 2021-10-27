@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/42
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 42

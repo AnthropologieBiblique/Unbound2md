@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 11

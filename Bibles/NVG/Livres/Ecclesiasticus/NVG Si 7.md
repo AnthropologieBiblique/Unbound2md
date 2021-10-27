@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 7

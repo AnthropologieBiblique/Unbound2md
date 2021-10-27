@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/42
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 42

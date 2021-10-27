@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 3

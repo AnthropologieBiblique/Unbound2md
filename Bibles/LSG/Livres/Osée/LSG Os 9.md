@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 9

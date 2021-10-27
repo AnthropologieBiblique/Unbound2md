@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié

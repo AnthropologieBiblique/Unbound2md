@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 15

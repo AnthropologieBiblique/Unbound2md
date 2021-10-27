@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/49_48
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 48 (49)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 25

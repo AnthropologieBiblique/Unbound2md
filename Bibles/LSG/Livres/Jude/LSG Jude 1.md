@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jude/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jude 1

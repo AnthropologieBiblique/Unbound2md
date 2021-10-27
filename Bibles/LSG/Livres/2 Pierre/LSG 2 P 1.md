@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2P/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Pierre 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/27
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 27

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/4M
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα

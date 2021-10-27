@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 10

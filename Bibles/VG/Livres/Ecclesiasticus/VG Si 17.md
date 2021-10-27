@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 17

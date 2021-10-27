@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 24

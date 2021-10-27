@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/63
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 63

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/35
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 35

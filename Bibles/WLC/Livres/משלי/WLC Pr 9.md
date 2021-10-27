@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 9

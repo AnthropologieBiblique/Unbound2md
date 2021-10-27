@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 14

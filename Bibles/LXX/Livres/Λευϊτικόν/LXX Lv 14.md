@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 14

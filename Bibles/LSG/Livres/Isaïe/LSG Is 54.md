@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/54
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 54

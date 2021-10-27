@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos

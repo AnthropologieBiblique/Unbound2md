@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 28

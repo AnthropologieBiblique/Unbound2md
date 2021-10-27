@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 6

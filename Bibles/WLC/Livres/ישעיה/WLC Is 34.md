@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 34

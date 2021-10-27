@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 5

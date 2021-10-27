@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 מלכים 20

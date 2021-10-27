@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 17

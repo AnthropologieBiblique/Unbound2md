@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 14

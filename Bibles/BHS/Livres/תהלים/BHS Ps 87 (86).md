@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/87_86
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 87 (86)

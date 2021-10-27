@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 14

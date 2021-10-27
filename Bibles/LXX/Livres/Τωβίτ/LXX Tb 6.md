@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 6

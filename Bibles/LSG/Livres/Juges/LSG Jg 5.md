@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 5

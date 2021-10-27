@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 5

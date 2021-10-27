@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 5

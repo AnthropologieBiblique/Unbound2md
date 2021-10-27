@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/45
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 45

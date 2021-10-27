@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 4

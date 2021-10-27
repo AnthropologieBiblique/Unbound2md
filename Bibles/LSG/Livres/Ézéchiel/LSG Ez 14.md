@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 14

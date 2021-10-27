@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 6

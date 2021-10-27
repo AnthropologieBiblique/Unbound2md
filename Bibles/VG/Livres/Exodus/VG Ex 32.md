@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/32
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 32

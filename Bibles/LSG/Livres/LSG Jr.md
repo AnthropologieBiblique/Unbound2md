@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie

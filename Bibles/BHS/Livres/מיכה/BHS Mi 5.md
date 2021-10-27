@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 5

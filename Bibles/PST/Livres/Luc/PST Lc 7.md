@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/7
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 7

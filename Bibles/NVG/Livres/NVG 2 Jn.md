@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Jn
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Ioannis

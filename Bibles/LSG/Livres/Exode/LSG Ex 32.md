@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/32
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 32

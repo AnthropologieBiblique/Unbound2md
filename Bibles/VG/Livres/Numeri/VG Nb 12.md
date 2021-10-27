@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 12

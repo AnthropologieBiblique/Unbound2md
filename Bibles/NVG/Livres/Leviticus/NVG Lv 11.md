@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 11

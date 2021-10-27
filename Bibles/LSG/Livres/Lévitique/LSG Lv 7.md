@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 7

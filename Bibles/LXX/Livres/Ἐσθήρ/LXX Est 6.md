@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐσθήρ 6

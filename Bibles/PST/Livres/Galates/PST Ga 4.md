@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Galates 4

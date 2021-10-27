@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 26

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/47
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 47

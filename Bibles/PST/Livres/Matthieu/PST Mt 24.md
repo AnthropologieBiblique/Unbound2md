@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/24
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 24

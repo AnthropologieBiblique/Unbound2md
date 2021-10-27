@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 30

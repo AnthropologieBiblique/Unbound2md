@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 3

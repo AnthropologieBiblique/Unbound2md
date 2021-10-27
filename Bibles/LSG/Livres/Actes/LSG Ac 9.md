@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 9

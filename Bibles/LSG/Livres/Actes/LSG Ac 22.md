@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 22

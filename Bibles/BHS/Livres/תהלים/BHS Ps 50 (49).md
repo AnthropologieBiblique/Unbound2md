@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/50_49
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 50 (49)

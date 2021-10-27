@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה

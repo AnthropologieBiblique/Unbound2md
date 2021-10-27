@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 12

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/27
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 27

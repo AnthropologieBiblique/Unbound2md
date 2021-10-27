@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 13

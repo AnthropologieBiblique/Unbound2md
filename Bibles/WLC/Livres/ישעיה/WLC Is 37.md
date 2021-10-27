@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/37
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 37

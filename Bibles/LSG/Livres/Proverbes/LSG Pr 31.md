@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/31
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 31

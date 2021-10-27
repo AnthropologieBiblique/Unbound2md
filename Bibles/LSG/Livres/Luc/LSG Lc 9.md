@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 9

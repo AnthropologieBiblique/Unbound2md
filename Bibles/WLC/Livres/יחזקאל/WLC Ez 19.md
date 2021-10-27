@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Lucam 5

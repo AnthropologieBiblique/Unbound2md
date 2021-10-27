@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 22

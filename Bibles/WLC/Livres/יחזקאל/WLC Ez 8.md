@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 8

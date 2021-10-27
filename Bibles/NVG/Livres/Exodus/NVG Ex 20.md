@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 20

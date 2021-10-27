@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/66_65
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 66 (65)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/39
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 39

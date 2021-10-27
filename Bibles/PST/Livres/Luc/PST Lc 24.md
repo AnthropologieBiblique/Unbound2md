@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/24
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 24

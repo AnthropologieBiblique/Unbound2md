@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 11

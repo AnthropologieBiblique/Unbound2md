@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 12

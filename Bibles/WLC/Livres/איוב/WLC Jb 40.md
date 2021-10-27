@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/40
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איוב 40

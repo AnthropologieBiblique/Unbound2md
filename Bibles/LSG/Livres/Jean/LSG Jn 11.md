@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 11

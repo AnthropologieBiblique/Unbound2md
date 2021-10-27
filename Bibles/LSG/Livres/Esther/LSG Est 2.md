@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esther 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 35

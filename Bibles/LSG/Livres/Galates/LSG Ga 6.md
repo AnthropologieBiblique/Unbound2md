@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates 6

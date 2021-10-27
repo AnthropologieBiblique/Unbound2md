@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/18
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 18

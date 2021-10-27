@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Canticum Canticorum 3

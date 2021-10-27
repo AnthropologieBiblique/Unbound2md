@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 25

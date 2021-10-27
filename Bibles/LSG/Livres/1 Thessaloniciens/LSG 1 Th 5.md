@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Th/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Thessaloniciens 5

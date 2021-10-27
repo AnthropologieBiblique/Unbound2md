@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 1 דברי הימים 24

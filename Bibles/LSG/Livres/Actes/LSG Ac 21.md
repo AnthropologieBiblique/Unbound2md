@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 21

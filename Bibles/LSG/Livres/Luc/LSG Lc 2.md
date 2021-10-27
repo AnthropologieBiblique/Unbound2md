@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 2

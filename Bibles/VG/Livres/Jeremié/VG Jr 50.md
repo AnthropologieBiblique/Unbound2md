@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/50
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 50

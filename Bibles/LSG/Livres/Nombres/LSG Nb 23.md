@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 23

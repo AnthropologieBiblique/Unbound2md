@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 12

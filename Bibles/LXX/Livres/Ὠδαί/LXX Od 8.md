@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Od/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὠδαί 8

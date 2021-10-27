@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 17

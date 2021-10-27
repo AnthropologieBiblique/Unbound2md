@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/39
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 39

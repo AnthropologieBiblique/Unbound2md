@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 20

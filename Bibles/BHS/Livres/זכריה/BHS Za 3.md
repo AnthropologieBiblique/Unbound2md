@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 3

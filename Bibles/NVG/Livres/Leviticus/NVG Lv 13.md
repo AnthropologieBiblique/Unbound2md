@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 13

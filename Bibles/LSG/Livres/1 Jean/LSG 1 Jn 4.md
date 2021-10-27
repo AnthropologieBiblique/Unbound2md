@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Jn/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Jean 4

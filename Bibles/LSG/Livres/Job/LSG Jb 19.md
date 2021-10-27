@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 19

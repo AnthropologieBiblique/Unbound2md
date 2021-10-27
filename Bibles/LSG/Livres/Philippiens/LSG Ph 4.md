@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philippiens 4

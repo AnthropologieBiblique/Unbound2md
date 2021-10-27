@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 18

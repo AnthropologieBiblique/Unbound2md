@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 2

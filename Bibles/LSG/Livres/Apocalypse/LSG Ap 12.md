@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 12

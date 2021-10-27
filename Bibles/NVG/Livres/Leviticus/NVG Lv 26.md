@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 26

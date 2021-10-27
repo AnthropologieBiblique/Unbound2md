@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 19

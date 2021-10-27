@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/So/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Sophonie 1

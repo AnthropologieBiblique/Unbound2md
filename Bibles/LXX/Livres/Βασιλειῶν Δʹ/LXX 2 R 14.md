@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Δʹ 14

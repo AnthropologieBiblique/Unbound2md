@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 13

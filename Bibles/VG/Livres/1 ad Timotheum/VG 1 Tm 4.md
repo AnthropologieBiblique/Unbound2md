@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Tm/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 ad Timotheum 4

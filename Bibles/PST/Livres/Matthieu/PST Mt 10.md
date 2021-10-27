@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/10
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 10

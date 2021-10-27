@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 24

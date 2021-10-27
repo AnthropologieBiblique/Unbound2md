@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 21

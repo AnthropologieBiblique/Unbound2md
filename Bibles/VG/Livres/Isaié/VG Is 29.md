@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 29

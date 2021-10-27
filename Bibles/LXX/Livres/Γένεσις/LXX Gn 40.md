@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/40
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 40

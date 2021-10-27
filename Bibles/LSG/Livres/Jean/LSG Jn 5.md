@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Philippiens 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 17

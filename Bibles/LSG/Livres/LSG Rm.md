@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains

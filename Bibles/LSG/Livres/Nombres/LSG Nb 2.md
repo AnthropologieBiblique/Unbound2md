@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 2

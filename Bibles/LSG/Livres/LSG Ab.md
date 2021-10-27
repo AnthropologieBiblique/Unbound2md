@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ab
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Abdias

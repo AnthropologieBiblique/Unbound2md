@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 15

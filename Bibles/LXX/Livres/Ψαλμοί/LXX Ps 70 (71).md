@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/71_70
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 70 (71)

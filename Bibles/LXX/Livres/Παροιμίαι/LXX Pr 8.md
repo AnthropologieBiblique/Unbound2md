@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 8

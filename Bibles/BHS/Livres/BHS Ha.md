@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ha
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # חבקוק

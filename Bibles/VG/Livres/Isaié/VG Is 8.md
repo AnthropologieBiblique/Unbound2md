@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 8

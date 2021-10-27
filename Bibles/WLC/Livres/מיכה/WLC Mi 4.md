@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 22

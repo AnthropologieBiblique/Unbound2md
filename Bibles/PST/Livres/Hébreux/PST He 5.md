@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 5

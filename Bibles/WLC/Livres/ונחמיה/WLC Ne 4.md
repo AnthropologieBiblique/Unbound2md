@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 4

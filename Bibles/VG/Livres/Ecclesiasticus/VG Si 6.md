@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 6

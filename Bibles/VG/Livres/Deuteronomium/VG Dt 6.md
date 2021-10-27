@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 6

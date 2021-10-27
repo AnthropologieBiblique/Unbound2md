@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ha/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Habacuc 3

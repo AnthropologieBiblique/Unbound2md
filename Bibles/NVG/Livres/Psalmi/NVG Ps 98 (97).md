@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/98_97
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 98 (97)

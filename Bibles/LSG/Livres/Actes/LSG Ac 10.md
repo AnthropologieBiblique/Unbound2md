@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 10

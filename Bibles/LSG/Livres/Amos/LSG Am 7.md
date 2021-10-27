@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Amos 7

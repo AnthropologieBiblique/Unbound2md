@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/58_57
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 58 (57)

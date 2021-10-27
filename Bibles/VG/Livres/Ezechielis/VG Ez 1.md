@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 18

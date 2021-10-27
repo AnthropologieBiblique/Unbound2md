@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/11_10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 10 (11)

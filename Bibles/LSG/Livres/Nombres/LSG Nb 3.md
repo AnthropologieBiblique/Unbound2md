@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Phm/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philémon 1

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nahum 3

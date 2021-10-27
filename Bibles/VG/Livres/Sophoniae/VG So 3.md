@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/So/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sophoniae 3

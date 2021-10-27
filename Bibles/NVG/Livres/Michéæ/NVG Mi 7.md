@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Michéæ 7

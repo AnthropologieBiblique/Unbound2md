@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/25_24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 25 (24)

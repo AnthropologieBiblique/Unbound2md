@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 24

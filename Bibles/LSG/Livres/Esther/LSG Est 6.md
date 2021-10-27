@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esther 6

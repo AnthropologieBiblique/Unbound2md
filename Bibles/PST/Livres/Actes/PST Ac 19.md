@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/19
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 19

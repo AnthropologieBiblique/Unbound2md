@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 דברי הימים 7

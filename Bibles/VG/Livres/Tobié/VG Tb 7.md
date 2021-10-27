@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 7

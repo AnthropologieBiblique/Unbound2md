@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/51
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 51

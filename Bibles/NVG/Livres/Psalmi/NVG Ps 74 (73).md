@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/74_73
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 74 (73)

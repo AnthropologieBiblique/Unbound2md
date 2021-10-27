@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/47
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 47

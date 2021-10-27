@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Samuel

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Baruch 5

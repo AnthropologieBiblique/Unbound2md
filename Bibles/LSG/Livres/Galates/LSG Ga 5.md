@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates 5

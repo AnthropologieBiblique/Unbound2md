@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 20

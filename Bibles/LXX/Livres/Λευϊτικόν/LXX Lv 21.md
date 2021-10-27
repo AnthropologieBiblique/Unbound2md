@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/21
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 21

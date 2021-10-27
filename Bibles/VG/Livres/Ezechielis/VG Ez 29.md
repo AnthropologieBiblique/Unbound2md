@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 29

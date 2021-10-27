@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/50
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 50

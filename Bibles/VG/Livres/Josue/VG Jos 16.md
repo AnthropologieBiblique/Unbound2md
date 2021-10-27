@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 16

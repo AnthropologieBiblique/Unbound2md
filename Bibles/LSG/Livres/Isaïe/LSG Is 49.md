@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/49
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 49

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/39
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 39

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Amos 3

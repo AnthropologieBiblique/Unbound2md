@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/45
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 45

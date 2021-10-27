@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # נחום 1

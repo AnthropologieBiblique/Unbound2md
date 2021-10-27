@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Danielis 13

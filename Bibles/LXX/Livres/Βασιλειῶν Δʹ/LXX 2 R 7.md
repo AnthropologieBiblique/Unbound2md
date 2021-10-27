@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Δʹ 7

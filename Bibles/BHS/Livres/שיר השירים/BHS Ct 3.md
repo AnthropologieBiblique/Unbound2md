@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שיר השירים 3

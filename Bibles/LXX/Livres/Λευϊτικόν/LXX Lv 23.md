@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/23
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 23

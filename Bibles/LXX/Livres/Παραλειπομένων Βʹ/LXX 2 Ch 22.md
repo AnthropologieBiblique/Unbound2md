@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Βʹ 22

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/19_18
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 18 (19)

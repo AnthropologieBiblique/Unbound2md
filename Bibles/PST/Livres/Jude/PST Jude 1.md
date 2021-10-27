@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jude/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jude 1

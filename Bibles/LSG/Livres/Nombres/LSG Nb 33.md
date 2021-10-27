@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 33

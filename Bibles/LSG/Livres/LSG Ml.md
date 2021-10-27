@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Malachie

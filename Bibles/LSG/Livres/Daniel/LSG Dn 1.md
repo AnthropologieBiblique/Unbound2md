@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel 1

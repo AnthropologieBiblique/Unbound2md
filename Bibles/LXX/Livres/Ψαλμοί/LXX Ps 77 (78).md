@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/78_77
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 77 (78)

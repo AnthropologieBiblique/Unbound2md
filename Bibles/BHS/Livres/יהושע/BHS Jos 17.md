@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 17

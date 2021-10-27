@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 8

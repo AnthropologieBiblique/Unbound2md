@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 5

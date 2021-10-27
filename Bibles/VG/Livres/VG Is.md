@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié

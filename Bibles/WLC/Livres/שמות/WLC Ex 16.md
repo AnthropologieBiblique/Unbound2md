@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 16

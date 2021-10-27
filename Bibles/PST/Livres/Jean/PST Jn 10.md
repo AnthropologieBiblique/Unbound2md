@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/10
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/74_73
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 74 (73)

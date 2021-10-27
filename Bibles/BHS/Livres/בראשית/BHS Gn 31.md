@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 31

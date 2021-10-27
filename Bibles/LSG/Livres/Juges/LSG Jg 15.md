@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 15

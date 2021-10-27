@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Iacobi 5

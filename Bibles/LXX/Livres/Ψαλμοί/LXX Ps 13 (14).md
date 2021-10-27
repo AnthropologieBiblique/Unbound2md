@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/14_13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 13 (14)

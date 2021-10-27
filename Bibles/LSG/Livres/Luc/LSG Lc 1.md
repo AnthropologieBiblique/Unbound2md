@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 1

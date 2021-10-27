@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/8
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 8

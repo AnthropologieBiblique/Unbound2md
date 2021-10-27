@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 3

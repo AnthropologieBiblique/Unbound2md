@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Matthéum 21

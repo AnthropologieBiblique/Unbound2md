@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/21
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 21

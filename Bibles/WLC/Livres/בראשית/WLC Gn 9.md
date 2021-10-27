@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 9

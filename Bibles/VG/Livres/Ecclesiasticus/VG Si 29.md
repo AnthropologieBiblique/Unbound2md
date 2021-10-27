@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 29

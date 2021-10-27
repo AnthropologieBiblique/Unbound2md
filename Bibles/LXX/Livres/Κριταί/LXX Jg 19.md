@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 19

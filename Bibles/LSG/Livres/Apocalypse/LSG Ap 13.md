@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 13

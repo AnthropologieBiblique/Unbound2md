@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/21
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 21

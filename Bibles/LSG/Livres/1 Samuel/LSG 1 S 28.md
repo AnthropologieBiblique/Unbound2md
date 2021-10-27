@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Samuel 28

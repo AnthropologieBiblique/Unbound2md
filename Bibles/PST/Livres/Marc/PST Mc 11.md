@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 11

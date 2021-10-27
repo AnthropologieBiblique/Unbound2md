@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איוב

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/21
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Δʹ 21

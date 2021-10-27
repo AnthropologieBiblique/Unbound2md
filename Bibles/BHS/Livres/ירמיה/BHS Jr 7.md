@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 7

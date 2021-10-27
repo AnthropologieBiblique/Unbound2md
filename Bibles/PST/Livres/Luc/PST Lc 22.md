@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/22
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 22

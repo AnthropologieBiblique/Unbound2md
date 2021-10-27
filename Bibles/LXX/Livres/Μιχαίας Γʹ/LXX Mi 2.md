@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μιχαίας Γʹ 2

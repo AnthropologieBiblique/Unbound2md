@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 11

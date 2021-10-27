@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/27
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 27

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1P/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Petri 3

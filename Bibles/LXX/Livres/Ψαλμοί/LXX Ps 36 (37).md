@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/37_36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 36 (37)

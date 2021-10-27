@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 27

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 18

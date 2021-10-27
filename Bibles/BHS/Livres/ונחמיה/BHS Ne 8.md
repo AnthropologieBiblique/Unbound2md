@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 8

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Αʹ 14

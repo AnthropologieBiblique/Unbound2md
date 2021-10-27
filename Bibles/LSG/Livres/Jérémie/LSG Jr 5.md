@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Malachié 4

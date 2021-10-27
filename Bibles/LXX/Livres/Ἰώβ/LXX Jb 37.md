@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/37
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 37

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 24

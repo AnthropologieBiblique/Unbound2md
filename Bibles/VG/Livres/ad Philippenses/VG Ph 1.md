@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Philippenses 1

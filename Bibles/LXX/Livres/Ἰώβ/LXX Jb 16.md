@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/16
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 16

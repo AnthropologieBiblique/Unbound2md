@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 4

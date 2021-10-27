@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 2

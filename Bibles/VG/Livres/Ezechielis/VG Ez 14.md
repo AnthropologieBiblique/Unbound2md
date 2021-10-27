@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 14

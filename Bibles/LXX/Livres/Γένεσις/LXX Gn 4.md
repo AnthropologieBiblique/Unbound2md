@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 4

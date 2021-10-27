@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 5

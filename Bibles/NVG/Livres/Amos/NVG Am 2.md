@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Amos 2

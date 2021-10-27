@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Co/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 2 Corinthiens 13

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 18

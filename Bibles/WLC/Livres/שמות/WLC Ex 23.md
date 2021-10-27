@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 23

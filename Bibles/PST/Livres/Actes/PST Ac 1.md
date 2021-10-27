@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 1

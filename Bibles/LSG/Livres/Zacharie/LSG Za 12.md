@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 12

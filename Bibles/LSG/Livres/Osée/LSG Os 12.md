@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 12

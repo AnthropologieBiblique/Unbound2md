@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 19

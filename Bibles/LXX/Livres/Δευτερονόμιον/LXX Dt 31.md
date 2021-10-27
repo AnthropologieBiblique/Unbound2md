@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/31
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 31

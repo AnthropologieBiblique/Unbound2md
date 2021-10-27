@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/28
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 28

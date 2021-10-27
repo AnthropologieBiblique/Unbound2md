@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 9

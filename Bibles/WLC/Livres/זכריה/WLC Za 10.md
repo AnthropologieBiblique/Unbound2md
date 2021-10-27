@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 10

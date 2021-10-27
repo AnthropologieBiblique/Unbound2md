@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 10

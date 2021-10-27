@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 13

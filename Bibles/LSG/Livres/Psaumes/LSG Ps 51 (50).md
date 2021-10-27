@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/51_50
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 51 (50)

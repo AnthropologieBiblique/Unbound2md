@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 2

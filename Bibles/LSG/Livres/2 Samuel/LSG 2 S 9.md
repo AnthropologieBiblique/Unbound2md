@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Samuel 9

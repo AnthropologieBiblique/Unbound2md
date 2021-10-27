@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 10

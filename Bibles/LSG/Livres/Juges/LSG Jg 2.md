@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 2

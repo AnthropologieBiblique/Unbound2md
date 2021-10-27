@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 36

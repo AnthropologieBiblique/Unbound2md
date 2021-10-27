@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 28

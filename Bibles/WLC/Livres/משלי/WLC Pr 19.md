@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 19

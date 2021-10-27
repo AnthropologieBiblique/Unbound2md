@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 10

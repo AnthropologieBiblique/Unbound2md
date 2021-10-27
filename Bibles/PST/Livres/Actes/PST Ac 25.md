@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/25
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 25

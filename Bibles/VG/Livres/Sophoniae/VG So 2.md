@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/So/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sophoniae 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philippiens 2

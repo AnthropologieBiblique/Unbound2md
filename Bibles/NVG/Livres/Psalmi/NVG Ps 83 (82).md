@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/83_82
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 83 (82)

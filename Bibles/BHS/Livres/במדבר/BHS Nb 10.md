@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 10

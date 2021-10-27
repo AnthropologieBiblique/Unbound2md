@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 30

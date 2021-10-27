@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 4

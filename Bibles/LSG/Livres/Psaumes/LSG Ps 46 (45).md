@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/46_45
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 46 (45)

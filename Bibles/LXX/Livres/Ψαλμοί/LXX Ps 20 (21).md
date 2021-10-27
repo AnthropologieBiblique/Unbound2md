@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/21_20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 20 (21)

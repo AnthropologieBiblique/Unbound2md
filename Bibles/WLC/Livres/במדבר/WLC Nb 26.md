@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 26

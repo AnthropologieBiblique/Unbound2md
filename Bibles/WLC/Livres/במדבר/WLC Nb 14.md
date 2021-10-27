@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 14

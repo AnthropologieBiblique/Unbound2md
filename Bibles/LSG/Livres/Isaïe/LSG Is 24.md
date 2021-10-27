@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 24

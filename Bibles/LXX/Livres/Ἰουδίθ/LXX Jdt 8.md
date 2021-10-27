@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰουδίθ 8

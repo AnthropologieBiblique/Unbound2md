@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judith 12

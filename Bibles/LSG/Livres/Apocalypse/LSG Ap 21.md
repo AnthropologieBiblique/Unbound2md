@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 21

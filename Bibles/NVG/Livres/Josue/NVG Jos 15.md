@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 15

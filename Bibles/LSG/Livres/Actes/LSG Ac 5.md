@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 5

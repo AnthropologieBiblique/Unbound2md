@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 8

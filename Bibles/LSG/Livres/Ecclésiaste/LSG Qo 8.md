@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 8

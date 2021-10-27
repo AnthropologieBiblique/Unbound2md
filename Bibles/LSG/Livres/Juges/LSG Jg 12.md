@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 12

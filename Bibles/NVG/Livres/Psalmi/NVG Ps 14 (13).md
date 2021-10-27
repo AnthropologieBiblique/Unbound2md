@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/14_13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 14 (13)

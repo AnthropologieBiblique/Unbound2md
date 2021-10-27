@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/149
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 149

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jonas

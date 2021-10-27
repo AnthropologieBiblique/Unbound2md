@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/33
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 33

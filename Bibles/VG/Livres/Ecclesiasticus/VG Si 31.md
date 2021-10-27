@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/31
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 31

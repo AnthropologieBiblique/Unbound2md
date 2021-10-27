@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/63_62
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 63 (62)

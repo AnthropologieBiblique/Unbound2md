@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/26
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 26

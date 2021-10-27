@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 4

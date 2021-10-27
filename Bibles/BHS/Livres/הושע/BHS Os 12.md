@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 12

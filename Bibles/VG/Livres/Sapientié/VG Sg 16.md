@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sapientié 16

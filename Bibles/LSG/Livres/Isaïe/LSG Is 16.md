@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 16

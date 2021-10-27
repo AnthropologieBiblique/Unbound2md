@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 7

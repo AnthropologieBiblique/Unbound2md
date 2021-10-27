@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Jn
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 2 Jean

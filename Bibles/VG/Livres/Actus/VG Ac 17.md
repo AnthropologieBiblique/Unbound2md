@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 17

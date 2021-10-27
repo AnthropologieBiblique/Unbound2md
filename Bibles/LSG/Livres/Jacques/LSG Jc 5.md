@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jacques 5

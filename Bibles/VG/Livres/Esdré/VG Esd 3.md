@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esdré 3

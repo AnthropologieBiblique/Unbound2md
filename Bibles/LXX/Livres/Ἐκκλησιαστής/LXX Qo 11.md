@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐκκλησιαστής 11

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/35
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 35

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/21
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 21

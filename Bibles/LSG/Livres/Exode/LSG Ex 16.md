@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 16

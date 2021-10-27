@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/16_15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 15 (16)

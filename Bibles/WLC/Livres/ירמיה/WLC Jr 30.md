@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/30
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 30

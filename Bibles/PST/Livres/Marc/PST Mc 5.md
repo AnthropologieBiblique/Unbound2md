@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 5

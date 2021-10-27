@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Ephesios

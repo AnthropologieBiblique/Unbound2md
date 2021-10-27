@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates 3

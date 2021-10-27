@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/49
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 49

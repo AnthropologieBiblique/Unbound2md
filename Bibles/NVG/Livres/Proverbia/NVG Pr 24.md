@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 24

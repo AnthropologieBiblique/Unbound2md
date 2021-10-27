@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 7

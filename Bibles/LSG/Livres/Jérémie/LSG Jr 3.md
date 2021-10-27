@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 3

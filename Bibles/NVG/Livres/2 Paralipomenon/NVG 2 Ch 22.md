@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Paralipomenon 22

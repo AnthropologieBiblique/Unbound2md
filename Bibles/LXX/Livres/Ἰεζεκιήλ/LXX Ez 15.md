@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 15

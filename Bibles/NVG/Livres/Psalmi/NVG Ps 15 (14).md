@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/15_14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 15 (14)

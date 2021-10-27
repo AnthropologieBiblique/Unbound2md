@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Malachie 4

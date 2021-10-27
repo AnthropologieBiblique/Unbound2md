@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 23

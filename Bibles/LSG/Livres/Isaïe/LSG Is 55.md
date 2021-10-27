@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/55
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 55

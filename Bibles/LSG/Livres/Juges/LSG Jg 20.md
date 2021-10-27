@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 20

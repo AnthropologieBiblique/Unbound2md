@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/So/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # צפניה 1

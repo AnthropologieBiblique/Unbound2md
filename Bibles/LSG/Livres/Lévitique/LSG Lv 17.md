@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 17

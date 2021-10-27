@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/81_80
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 81 (80)

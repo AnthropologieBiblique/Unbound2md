@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 13

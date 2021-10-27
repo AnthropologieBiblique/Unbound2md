@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/38
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 45

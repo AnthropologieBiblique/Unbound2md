@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 5

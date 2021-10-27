@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/24_23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 24 (23)

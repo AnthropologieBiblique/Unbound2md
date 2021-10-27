@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Αʹ 5

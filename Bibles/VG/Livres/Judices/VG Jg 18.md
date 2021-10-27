@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 18

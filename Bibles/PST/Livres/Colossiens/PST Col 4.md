@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Colossiens 4

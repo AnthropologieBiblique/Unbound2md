@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc

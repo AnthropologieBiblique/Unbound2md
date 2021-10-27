@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Βʹ 5

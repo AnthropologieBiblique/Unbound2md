@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Ioannem 2

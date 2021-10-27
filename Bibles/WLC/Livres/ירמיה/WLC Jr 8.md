@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 8

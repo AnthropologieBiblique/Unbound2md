@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 20

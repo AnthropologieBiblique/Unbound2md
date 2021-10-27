@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 12

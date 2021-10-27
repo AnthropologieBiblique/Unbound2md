@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Rois 21

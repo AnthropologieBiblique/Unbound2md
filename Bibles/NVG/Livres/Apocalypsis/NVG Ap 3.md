@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 3

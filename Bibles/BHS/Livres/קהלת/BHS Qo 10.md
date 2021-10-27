@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # קהלת 10

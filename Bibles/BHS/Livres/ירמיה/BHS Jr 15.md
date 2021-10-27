@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 15

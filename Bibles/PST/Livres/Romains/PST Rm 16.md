@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 16

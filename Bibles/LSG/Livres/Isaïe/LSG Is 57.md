@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/57
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 57

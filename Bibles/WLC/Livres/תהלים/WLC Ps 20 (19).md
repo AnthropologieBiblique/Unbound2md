@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/20_19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 20 (19)

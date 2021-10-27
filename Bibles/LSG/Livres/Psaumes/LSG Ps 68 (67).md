@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/68_67
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 68 (67)

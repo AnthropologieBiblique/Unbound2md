@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther 2

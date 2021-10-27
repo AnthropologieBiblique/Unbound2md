@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 9

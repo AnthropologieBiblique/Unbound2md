@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/14
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 14

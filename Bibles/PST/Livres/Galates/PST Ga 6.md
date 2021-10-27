@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Galates 6

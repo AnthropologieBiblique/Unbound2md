@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié

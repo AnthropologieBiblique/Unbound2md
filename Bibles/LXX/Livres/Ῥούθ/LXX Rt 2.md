@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Rt/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ῥούθ 2

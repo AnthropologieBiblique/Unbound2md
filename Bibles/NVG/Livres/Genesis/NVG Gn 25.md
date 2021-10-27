@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 25

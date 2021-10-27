@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 12

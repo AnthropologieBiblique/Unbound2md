@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/47
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 47

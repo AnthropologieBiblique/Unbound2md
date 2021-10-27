@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δανιήλ 7

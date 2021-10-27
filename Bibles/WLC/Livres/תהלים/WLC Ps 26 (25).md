@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/26_25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 26 (25)

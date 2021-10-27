@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/45
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 45

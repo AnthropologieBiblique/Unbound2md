@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/38
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 38

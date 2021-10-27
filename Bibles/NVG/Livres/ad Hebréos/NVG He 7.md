@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 7

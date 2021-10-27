@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/29
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 29

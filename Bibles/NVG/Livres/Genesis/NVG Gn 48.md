@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/48
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 48

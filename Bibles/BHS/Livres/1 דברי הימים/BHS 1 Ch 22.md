@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 1 דברי הימים 22

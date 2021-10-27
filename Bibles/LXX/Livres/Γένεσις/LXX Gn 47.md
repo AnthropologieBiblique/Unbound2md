@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/47
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 47

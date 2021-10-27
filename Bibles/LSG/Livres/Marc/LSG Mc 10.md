@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 10

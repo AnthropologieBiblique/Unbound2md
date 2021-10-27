@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 11

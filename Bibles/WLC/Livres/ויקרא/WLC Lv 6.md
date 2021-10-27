@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 6

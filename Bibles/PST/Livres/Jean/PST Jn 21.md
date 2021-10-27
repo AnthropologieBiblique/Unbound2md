@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/21
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 21

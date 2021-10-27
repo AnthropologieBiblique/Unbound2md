@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 9

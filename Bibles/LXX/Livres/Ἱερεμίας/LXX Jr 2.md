@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 2

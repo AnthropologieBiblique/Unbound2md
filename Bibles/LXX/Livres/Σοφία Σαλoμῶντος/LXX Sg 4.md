@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Σαλoμῶντος 4

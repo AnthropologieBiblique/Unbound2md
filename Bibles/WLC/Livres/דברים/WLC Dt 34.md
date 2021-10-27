@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 34

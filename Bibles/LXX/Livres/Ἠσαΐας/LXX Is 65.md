@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/65
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 65

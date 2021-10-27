@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 4

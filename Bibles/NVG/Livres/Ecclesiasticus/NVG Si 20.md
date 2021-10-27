@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 20

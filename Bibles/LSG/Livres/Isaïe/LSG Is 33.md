@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 33

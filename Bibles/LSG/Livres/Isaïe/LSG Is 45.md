@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/45
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 45

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 19

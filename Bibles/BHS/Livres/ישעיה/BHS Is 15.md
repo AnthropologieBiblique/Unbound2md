@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 15

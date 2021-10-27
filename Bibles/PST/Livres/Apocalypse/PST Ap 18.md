@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/18
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 18

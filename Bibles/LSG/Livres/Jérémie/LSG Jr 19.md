@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 19

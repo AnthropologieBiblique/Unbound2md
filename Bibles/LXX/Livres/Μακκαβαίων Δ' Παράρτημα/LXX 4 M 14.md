@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/4M/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μακκαβαίων Δ' Παράρτημα 14

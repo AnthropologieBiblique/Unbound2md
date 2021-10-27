@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἆσμα Ἀσμάτων 6

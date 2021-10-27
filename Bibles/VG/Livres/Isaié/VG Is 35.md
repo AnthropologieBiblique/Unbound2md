@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 35

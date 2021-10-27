@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 6

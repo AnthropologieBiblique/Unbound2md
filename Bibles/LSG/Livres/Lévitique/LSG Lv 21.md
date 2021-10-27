@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 21

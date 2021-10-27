@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/19_18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 19 (18)

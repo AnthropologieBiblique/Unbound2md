@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Éphésiens 5

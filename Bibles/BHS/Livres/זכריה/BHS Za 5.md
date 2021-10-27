@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 5

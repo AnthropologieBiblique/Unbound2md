@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/55
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 55

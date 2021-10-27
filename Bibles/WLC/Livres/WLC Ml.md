@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מלאכי

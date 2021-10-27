@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 22

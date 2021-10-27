@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/23
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 23

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/30
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 30

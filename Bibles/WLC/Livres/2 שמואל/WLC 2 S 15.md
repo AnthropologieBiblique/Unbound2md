@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 שמואל 15

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 26

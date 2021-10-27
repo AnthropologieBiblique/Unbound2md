@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/18_17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 17 (18)

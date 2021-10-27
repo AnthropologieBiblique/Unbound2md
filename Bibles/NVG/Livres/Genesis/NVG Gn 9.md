@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 9

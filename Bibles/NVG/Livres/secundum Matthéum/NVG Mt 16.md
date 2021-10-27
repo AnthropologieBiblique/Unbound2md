@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Matthéum 16

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/40
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 40

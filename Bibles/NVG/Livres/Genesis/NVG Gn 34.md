@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 34

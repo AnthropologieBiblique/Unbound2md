@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/43
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 43

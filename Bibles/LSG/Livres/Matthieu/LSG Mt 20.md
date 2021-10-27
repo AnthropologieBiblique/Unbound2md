@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 20

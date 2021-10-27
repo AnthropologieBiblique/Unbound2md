@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 16

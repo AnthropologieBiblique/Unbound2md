@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/25
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 25

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/27
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 27

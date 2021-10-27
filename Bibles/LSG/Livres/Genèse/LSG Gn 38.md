@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/38
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 38

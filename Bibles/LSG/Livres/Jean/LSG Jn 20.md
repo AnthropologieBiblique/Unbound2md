@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 20

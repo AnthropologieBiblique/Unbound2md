@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # קהלת 8

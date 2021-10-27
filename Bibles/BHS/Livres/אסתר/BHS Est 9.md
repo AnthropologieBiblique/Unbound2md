@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # אסתר 9

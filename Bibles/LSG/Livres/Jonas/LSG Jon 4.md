@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jonas 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 11

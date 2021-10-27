@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 20

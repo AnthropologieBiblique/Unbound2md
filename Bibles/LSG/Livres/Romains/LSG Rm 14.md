@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 14

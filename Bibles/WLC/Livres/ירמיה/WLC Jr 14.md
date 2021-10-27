@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 14

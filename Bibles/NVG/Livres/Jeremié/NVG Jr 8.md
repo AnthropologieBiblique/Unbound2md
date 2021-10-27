@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 8

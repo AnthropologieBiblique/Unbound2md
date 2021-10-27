@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/92_91
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 91 (92)

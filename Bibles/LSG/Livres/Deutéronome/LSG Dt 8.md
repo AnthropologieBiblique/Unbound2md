@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 8

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/44
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 44

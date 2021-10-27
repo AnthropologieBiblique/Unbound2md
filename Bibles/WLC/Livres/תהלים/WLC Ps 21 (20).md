@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/21_20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 21 (20)

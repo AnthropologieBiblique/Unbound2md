@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 28

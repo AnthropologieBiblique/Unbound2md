@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/23
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 23

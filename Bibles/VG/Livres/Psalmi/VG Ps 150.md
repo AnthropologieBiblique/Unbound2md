@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/150
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 150

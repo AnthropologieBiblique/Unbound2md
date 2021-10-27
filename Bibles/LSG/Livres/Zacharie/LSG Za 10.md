@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 10

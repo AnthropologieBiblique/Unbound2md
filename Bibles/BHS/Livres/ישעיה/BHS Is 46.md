@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/46
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 46

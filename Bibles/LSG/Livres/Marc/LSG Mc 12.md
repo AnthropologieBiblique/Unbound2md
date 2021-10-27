@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 12

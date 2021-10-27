@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 6

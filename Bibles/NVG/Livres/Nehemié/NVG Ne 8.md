@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 8

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 11

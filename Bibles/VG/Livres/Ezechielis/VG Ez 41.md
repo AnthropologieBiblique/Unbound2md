@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/41
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 41

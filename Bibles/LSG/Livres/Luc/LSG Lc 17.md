@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 17

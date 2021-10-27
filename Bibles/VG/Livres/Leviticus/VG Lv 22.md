@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 22

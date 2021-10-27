@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 1

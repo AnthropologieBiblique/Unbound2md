@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 15

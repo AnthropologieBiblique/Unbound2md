@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 5

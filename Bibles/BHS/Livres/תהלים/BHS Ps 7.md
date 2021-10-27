@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 7

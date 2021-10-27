@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 22

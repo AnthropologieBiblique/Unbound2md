@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 2

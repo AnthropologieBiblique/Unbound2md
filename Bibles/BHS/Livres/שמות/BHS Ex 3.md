@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 3

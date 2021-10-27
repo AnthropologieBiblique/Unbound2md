@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Βʹ

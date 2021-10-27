@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 1

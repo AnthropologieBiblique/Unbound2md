@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 30

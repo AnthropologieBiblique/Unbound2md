@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βαρούχ 5

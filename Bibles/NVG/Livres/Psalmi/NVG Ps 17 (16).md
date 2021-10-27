@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/17_16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 17 (16)

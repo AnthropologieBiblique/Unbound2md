@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 7

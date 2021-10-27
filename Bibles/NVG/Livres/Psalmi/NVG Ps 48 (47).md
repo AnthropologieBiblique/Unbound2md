@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/48_47
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 48 (47)

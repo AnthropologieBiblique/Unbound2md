@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 8

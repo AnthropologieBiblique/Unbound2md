@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 20

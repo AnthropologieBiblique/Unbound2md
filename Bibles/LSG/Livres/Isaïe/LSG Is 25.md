@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 25

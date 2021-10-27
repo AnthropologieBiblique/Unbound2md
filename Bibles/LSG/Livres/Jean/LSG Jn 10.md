@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 10

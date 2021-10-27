@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Philippiens 1

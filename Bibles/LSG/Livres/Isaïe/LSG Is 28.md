@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 28

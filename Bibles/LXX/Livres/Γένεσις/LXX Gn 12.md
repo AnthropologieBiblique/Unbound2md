@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 12

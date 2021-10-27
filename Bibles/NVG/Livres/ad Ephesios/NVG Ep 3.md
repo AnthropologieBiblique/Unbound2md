@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Ephesios 3

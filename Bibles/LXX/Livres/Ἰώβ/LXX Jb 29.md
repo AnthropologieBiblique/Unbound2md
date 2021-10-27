@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/29
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 29

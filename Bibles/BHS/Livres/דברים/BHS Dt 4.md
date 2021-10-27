@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 4

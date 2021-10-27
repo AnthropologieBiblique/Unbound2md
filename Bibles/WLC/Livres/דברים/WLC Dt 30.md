@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/30
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 30

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/61
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 61

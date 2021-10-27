@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/53
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 53

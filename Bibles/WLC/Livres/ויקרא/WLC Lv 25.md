@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 25

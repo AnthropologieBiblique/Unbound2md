@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 20

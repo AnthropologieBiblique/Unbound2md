@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 2

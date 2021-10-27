@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 4

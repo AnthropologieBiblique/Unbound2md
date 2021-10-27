@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 2

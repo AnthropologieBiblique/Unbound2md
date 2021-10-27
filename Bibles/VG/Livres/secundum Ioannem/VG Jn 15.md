@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Ioannem 15

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/45_44
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 45 (44)

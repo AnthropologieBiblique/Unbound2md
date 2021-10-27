@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esther

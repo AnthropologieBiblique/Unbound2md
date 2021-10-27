@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judith

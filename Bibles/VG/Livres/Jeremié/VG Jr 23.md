@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 23

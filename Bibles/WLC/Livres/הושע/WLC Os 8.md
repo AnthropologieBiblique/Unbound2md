@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 8

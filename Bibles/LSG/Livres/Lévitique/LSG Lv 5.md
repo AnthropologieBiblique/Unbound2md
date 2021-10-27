@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 5

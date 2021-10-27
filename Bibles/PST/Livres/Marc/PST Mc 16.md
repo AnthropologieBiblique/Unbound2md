@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 16

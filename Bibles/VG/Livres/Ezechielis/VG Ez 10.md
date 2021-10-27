@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 10

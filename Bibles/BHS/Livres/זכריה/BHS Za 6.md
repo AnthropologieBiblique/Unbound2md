@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 6

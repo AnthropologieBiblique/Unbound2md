@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 26

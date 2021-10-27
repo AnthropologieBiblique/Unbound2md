@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מלאכי 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/41
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 48

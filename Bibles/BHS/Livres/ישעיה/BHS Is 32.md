@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 32

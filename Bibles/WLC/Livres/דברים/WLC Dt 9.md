@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 7

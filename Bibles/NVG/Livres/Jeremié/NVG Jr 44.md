@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/44
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 44

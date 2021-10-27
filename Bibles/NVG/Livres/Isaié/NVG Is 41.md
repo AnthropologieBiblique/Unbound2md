@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/41
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 41

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים

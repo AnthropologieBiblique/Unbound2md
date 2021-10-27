@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/34
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 34

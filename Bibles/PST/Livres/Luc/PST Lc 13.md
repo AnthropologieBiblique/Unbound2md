@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 13

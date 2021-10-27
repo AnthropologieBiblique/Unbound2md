@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/27
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 27

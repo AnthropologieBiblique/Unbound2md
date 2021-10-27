@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/77_76
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 77 (76)

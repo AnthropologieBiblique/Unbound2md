@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/19_18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 19 (18)

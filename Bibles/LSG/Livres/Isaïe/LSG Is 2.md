@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 2

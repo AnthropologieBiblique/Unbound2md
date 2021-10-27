@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 36

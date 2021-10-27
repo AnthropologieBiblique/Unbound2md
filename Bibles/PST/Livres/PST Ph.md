@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Philippiens

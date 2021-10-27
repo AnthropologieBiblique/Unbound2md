@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 35

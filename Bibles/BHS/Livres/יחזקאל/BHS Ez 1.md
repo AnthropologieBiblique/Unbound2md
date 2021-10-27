@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 1

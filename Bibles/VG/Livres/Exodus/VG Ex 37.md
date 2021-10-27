@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 37

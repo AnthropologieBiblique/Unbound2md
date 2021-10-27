@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 5

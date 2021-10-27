@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/41
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 41

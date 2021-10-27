@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 12

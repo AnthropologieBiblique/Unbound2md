@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 15

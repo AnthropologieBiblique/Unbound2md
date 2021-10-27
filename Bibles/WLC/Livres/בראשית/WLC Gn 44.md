@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/44
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 44

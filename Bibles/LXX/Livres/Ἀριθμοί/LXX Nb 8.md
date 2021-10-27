@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 8

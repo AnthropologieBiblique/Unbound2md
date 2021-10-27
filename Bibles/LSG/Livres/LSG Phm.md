@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Phm
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philémon

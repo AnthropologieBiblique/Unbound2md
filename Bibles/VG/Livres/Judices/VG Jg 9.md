@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 9

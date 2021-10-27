@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/59
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 59

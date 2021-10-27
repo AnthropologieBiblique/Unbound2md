@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/149
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 149

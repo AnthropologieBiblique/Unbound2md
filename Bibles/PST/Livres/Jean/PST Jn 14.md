@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/14
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 14

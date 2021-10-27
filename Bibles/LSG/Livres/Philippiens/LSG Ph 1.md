@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philippiens 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Matthéum 14

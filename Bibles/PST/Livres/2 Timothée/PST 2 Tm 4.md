@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Tm/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 2 Timothée 4

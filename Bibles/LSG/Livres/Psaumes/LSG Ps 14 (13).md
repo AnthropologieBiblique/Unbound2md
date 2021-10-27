@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/14_13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 14 (13)

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Lamentationes 1

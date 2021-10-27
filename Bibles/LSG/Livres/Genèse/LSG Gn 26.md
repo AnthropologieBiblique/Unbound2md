@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 26

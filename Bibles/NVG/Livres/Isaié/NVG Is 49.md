@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/49
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 49

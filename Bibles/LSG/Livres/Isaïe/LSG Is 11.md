@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 11

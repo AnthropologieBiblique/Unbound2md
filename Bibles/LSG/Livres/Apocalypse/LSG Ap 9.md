@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 9

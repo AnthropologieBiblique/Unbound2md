@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/69_68
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 69 (68)

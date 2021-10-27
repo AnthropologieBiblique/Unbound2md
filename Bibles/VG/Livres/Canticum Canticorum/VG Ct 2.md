@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Canticum Canticorum 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 15

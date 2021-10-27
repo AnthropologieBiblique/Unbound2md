@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/59
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 59

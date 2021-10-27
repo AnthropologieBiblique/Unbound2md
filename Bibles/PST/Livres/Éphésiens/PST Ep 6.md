@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Éphésiens 6

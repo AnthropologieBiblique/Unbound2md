@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/50_49
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 50 (49)

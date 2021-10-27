@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 מלכים 17

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/43
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 43

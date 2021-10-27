@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 1

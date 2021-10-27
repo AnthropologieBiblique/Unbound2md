@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Θρῆνοι

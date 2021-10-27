@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/66
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 66

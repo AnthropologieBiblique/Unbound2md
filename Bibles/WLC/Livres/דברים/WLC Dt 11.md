@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 11

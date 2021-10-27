@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Colossiens 4

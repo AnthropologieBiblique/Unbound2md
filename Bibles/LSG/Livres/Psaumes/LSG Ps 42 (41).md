@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/42_41
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 42 (41)

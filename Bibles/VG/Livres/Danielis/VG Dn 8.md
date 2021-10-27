@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Danielis 8

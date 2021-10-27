@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 4

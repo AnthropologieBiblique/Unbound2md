@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 24

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 12

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 15

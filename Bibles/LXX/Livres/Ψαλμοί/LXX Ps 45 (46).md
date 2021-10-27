@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/46_45
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 45 (46)

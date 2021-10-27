@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/35_34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 34 (35)

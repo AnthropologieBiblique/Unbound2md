@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 10

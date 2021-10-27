@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc

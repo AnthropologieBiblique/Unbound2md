@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Tm/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 ad Timotheum 3

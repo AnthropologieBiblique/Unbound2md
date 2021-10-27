@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 9

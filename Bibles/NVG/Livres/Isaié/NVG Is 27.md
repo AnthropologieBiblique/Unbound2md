@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/27
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 27

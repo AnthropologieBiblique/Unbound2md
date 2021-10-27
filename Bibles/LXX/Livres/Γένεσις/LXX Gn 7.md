@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 7

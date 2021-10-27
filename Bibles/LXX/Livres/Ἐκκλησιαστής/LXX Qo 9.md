@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐκκλησιαστής 9

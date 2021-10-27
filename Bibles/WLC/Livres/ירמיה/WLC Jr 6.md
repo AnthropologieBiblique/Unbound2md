@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 6

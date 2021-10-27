@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis

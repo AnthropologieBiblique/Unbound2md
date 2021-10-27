@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 18

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 16

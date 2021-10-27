@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/32
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 32

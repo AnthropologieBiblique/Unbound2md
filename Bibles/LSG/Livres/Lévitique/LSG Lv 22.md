@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 22

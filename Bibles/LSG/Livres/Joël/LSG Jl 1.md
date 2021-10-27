@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Joël 1

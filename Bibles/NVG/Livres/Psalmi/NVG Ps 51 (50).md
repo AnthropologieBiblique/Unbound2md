@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/51_50
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 51 (50)

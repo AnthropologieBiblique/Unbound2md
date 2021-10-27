@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 19

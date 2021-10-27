@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μαλαχίας ΙΒʹ

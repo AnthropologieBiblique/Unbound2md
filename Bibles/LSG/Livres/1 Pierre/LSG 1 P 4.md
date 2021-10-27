@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1P/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Pierre 4

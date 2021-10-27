@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 15

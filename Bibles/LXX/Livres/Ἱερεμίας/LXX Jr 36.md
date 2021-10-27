@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/29
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 36

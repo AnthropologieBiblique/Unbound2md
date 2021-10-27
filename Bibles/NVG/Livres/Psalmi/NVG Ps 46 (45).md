@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/46_45
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 46 (45)

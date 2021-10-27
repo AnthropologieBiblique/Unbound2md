@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/25_24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 25 (24)

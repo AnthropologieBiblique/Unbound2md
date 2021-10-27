@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 25

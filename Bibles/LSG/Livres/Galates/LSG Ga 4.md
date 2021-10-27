@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Ephesios 6

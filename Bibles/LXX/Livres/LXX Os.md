@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὡσηέ Αʹ

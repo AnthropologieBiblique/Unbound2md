@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/24
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 24

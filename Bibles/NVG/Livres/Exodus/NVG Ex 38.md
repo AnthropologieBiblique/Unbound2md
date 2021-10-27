@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/38
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 38

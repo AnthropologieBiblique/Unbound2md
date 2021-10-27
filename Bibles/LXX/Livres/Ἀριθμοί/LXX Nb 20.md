@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 20

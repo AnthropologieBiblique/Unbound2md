@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/40
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 40

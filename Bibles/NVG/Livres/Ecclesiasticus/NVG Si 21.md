@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 21

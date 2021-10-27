@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 3

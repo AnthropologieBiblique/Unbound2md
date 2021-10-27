@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esdras 8

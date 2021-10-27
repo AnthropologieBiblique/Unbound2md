@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/33_32
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 33 (32)

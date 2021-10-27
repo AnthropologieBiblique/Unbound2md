@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/36
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 36

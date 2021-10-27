@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices

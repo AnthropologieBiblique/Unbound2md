@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 18

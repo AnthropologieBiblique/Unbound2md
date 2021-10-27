@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 14

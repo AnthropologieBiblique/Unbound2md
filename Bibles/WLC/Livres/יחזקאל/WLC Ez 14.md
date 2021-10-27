@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 14

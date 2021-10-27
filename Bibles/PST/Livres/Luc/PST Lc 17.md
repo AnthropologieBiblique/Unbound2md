@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/17
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 17

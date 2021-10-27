@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/26
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 26

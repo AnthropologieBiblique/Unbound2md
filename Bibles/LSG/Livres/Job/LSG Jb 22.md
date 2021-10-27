@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 22

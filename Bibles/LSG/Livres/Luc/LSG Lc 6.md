@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 6

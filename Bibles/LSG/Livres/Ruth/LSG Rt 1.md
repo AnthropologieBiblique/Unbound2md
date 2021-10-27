@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Rt/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ruth 1

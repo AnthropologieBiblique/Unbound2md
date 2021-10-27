@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Paralipomenon 36

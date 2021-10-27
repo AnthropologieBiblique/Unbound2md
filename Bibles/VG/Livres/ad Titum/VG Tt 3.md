@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Titum 3

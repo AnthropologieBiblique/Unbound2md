@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jacques 3

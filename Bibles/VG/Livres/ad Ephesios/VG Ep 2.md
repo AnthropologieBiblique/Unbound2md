@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Ephesios 2

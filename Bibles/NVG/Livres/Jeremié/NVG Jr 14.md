@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 14

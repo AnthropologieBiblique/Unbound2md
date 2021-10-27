@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 21

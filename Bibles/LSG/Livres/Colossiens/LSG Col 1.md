@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Colossiens 1

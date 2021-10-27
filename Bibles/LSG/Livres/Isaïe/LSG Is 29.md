@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/29
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 29

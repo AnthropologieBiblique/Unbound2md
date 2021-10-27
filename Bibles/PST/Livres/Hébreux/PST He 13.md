@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 13

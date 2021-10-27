@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰουδίθ 13

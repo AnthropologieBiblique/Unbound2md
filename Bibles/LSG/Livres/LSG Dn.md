@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel

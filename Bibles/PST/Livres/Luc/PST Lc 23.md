@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/23
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 23

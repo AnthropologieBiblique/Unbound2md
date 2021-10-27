@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/36
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 36

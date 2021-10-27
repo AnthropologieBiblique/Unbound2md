@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Co
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Corinthiens

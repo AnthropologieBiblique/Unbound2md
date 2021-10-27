@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/35
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 35

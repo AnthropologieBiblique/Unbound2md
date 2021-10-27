@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 4

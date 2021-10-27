@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 21

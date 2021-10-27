@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 11

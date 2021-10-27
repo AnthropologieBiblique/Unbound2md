@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 19

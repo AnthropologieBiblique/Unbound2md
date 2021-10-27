@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/55
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 55

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/65
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 65

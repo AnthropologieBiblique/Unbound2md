@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/65_64
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 65 (64)

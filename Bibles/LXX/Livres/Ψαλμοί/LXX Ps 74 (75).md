@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/75_74
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 74 (75)

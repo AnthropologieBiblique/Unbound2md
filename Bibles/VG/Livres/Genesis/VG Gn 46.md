@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/46
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 46

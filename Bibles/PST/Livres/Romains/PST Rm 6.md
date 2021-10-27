@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 6

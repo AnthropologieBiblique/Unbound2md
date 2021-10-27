@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 דברי הימים 3

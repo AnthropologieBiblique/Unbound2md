@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 3

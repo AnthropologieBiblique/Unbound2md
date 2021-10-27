@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sapientié 18

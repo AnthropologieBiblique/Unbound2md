@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/31
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Paralipomenon 31

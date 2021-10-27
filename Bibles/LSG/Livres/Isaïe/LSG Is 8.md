@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 8

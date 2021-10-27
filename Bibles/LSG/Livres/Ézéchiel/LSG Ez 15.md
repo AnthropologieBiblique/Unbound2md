@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 15

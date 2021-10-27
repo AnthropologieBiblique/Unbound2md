@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 9

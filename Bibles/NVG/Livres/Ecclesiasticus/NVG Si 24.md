@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 24

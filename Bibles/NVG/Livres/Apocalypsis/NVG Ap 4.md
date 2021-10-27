@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 4

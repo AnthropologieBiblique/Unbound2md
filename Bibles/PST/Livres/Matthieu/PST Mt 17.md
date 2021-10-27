@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/17
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 17

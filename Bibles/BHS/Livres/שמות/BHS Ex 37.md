@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/37
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 37

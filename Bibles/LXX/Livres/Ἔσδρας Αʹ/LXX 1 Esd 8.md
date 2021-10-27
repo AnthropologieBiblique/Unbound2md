@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1Esd/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔσδρας Αʹ 8

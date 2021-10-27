@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 13

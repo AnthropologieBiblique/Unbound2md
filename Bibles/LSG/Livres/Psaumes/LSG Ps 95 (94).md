@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/95_94
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 95 (94)

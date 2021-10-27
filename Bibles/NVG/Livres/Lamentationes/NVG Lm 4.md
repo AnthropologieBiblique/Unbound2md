@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Lamentationes 4

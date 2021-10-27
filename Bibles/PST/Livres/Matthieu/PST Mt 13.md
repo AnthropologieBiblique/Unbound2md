@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 13

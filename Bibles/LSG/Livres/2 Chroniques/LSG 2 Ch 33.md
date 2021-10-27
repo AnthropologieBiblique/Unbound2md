@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Chroniques 33

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/61_60
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 61 (60)

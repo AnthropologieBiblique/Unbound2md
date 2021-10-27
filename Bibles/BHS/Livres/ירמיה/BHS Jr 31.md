@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 31

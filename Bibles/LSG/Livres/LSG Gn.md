@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse

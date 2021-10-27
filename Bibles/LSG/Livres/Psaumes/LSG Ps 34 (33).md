@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/34_33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 34 (33)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 4

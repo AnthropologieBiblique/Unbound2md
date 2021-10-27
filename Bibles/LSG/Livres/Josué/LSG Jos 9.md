@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 9

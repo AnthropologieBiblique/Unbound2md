@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 6

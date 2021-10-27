@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 28

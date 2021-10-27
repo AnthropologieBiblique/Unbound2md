@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jacques 5

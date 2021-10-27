@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/39
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 39

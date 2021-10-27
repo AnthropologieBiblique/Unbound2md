@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 18

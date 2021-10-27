@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 4

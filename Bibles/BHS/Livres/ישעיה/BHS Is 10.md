@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 10

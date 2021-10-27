@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Man/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Προσευχὴ Μανασσῆ 1

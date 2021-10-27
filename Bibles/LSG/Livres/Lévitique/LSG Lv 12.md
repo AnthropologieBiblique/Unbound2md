@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 12

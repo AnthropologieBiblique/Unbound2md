@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 20

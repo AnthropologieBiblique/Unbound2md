@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/22_21
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 22 (21)

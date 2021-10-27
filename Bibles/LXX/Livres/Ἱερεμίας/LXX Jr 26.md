@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/46
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 26

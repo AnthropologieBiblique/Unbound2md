@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 16

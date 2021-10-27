@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 6

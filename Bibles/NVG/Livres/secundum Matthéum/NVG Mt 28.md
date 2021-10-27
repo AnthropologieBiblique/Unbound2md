@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/28
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Matthéum 28

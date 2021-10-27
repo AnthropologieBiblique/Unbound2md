@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 1

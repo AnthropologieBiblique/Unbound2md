@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jude
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Iudé

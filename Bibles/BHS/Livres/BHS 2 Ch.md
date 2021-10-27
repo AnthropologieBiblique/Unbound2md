@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 דברי הימים

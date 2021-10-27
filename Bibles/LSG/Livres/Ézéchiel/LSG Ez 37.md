@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/37
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 37

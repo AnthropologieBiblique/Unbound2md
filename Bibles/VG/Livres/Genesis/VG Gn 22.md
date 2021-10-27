@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 22

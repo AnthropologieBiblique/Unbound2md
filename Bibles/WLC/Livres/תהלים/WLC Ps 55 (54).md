@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/55_54
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 55 (54)

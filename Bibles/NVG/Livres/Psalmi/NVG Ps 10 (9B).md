@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/10_9B
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 10 (9B)

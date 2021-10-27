@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 26

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/52
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 52

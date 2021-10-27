@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 10

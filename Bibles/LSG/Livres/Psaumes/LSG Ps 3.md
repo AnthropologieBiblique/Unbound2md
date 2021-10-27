@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 3

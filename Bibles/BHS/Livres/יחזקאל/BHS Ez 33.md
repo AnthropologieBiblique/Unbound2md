@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/33
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 33

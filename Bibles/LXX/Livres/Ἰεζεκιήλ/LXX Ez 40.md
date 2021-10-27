@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/40
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 40

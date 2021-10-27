@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 13

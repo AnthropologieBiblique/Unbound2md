@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Matthéum 15

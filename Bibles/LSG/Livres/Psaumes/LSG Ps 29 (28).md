@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/29_28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 29 (28)

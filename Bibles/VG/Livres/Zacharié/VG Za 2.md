@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 2

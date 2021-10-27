@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 32

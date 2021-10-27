@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 4

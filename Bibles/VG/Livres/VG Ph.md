@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Philippenses

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Colossiens 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 1

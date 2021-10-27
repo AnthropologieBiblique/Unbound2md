@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 12

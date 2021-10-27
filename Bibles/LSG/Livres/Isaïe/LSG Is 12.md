@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 12

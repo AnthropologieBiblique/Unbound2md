@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 10

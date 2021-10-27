@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 34

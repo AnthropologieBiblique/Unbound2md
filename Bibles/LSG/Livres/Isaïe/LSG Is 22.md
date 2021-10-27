@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 22

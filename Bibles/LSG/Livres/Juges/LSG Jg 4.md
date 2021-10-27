@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 4

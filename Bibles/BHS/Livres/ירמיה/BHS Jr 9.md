@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 9

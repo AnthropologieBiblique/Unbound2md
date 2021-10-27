@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/9_9A
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 9 (9A)

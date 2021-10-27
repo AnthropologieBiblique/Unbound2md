@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 9

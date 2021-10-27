@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 24

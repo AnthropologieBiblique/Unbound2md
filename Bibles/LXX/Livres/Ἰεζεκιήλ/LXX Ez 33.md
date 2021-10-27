@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/33
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 33

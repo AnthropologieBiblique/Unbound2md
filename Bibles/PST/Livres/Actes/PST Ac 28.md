@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/28
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 28

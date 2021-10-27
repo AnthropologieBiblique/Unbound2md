@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰησοῦς Ναυῆ

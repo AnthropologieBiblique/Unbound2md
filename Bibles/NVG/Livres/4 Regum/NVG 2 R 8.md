@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 4 Regum 8

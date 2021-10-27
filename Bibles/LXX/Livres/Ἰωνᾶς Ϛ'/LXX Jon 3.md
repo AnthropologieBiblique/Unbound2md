@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰωνᾶς Ϛ' 3

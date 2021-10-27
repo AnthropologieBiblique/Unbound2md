@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 8

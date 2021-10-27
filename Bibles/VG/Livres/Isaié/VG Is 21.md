@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 21

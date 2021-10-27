@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 18

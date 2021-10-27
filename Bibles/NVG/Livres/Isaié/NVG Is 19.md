@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 19

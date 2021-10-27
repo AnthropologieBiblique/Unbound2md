@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/28
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 28

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί

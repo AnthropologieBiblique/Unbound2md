@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Co/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Corinthiens 6

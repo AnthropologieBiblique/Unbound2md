@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/16
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 17

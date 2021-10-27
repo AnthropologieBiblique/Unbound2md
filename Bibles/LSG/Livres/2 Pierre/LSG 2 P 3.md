@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2P/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Pierre 3

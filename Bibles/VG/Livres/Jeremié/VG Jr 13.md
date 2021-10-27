@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 13

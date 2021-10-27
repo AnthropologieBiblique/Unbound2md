@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Michéæ 3

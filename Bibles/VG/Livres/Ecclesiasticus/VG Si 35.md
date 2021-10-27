@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 35

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 16

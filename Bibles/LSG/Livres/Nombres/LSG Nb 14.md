@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 14

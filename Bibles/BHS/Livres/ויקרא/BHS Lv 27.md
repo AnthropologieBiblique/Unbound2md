@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/27
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 27

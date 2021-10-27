@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 20

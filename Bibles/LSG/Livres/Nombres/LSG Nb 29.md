@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/29
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 29

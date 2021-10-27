@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/48_47
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 47 (48)

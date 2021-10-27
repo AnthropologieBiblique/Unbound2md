@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 13

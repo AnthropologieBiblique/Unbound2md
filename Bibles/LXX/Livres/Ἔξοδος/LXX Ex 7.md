@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 7

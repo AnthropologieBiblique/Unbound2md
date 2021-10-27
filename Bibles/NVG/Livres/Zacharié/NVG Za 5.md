@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 5

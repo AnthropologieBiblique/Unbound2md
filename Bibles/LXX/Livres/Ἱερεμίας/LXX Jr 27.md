@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/50
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 27

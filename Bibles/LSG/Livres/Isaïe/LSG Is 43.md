@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/43
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 43

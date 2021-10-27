@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 35

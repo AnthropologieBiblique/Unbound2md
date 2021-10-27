@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/56_55
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 56 (55)

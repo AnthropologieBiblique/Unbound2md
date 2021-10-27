@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 37

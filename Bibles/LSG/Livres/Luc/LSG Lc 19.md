@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Tm/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Timothée 2

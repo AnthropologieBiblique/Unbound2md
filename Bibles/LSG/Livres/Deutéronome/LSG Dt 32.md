@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/32
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 32

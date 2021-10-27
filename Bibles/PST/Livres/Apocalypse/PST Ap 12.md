@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 12

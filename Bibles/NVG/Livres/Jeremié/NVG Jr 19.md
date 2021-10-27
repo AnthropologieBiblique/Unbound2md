@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 19

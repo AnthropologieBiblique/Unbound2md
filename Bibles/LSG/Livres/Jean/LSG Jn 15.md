@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 15

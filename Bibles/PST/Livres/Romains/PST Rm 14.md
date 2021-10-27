@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/14
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 14

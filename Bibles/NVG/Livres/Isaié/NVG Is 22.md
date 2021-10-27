@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 22

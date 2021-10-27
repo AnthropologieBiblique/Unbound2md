@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 10

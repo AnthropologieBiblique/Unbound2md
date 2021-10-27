@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יואל 4

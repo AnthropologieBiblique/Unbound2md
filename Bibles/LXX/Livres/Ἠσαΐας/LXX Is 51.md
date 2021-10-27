@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/51
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 51

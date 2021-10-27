@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 16

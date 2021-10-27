@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 22

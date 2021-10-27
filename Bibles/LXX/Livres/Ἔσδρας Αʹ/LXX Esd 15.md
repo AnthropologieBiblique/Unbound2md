@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔσδρας Αʹ 15

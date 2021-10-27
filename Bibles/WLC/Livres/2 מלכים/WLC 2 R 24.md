@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 מלכים 24

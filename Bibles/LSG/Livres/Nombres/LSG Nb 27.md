@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 27

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 26

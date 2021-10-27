@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 14

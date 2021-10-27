@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains

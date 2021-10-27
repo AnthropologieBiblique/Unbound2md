@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/18
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Βʹ 18

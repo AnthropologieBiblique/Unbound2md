@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 12

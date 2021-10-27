@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שיר השירים 7

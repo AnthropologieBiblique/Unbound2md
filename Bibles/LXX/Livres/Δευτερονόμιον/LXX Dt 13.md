@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 13

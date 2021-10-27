@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 9

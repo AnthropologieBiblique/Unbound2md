@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/15
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 15

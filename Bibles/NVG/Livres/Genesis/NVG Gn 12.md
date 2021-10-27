@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 12

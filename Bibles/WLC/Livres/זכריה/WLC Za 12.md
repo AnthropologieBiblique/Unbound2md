@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 12

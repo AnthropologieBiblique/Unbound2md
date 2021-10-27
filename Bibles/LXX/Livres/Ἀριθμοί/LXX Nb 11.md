@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 11

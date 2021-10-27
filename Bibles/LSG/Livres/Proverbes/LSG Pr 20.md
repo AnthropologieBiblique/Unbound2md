@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 20

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 7

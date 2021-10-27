@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Estgrec/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther, Greek 16

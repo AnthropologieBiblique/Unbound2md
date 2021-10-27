@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/27
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 27

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 30

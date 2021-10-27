@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/44
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 44

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 6

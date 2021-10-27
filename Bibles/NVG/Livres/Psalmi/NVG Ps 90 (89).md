@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/90_89
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 90 (89)

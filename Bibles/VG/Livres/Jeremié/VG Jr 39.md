@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/39
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 39

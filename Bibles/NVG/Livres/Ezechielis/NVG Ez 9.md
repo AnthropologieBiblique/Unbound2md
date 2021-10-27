@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 9

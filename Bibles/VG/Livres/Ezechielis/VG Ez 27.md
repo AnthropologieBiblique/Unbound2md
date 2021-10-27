@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/27
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 27

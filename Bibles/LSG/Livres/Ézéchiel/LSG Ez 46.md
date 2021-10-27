@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/46
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 46

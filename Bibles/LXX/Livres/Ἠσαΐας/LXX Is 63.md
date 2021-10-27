@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/63
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 63

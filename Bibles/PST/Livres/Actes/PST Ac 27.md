@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/27
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 27

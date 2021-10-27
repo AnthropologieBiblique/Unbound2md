@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/33
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 33

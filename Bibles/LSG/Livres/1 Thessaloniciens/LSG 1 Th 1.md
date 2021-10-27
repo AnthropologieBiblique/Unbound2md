@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Th/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Thessaloniciens 1

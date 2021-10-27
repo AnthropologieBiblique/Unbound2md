@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/54
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 54

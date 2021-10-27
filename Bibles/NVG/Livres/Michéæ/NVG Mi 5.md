@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Michéæ 5

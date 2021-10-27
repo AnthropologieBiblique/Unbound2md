@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esdras 9

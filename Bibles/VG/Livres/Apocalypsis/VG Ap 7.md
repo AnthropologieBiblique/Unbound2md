@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 7

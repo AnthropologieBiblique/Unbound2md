@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 26

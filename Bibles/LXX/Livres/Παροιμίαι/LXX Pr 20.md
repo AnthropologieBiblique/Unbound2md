@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 20

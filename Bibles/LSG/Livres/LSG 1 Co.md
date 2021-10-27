@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Co
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Corinthiens

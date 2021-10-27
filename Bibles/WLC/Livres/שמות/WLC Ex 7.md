@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/29
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 29

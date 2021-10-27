@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/36
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 36

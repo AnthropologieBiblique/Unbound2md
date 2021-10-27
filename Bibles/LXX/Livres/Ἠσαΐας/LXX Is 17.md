@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 17

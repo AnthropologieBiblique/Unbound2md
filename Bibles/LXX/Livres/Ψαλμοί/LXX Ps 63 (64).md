@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/64_63
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 63 (64)

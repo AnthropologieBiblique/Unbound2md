@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 1

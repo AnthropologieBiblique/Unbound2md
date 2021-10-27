@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Chroniques 26

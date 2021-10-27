@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 1

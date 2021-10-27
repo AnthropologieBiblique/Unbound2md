@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/45
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 45

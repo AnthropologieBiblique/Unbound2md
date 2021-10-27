@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jacques 3

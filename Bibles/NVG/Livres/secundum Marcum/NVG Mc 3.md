@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Marcum 3

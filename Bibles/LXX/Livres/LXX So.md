@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/So
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφονίας Θʹ

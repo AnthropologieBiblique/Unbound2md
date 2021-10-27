@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 26

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/47
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 47

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 28

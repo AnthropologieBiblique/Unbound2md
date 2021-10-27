@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/48
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 48

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 4

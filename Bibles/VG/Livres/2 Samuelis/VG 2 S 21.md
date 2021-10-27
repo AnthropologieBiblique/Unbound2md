@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Samuelis 21

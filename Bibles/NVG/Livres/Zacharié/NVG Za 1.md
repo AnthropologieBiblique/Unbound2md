@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 1

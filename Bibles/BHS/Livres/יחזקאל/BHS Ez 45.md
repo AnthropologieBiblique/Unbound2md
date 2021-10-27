@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/45
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 45

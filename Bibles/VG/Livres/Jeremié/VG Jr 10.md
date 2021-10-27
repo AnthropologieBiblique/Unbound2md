@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 10

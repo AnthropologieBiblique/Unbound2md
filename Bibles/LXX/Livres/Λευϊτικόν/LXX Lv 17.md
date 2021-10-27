@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 17

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/29
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 29

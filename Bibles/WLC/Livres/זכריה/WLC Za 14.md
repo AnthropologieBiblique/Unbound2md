@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 14

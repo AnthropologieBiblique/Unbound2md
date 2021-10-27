@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 24

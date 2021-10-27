@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/40_39
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 40 (39)

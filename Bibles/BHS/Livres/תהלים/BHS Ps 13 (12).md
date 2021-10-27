@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/13_12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 13 (12)

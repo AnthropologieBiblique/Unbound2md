@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/51
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 28

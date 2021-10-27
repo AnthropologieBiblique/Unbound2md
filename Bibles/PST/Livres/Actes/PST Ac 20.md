@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/20
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 20

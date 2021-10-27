@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 8

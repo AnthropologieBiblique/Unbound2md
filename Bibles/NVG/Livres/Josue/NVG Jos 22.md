@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 22

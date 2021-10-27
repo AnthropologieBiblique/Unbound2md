@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 34

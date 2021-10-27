@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 22

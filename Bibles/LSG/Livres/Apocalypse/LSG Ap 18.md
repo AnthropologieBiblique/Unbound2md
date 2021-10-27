@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 18

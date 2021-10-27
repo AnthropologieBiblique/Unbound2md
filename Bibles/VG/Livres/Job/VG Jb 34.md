@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 34

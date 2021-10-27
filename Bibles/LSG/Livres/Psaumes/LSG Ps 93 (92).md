@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/93_92
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 93 (92)

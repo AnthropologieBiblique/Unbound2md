@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 4

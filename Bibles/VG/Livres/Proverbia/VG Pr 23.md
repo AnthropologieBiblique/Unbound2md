@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 23

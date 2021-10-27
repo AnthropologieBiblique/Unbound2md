@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 6

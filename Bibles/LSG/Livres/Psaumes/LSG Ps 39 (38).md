@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/39_38
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 39 (38)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 3

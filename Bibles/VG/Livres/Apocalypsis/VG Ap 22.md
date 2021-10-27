@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 22

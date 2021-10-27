@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/8
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 8

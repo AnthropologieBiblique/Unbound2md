@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 15

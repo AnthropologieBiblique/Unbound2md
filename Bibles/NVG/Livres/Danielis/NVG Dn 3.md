@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Danielis 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/50_49
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 49 (50)

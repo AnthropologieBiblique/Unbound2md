@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 7

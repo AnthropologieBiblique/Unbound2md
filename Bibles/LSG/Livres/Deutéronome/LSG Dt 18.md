@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 18

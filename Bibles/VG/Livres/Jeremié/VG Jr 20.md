@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 20

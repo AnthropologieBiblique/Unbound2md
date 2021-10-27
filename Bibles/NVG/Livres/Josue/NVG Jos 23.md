@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 23

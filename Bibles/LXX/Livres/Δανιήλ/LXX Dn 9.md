@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δανιήλ 9

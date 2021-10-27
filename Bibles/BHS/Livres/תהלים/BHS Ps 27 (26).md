@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/27_26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 27 (26)

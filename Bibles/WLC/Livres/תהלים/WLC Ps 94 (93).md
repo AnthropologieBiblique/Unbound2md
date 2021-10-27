@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/94_93
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 94 (93)

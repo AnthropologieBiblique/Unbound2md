@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βαρούχ 4

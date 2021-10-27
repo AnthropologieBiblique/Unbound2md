@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/41
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 41

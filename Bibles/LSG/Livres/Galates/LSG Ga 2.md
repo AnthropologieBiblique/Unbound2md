@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 16

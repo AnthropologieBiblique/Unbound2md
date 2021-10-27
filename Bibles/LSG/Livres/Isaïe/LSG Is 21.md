@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 21

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 5

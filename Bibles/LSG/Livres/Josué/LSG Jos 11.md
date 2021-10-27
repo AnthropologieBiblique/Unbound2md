@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 11

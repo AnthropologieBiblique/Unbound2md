@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 30

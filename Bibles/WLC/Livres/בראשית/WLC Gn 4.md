@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 4

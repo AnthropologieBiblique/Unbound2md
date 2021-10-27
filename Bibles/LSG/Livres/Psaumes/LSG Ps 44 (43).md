@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/44_43
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 44 (43)

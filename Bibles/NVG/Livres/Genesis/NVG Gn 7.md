@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 7

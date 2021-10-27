@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Tm/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 ad Timotheum 4

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איוב 28

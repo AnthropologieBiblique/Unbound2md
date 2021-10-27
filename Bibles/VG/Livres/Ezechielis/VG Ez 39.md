@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/39
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 39

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 9

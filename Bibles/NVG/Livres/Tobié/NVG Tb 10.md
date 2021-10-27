@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 10

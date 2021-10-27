@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/43
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 43

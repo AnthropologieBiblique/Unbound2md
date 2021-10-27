@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/44
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 44

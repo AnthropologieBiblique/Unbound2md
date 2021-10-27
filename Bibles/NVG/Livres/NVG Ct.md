@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Canticum Canticorum

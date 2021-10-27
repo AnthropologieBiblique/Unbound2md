@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Amos 1

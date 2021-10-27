@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 3

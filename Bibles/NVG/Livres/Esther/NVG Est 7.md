@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther 7

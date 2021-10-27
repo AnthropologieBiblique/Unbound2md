@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/PsSal/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί Σαλoμῶντος 3

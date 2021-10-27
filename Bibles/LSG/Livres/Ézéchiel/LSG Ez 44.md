@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/44
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 44

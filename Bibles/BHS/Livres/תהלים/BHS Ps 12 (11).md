@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/12_11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 12 (11)

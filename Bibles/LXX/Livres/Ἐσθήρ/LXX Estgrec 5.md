@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Estgrec/15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐσθήρ 5

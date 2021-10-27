@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/16
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 16

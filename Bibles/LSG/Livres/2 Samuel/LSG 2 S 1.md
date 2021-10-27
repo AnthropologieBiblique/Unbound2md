@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Samuel 1

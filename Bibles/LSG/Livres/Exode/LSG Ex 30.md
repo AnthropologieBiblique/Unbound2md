@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 30

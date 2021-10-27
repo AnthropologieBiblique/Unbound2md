@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/89_88
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 89 (88)

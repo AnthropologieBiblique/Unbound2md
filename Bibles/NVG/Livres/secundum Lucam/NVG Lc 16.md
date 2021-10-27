@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Lucam 16

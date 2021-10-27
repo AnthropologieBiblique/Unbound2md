@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/52_51
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 52 (51)

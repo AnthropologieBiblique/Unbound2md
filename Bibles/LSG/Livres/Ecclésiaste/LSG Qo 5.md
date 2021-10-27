@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 5

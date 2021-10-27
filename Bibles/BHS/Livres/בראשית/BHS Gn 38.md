@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/38
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 38

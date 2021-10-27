@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/30_29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 30 (29)

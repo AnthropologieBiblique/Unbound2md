@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 10

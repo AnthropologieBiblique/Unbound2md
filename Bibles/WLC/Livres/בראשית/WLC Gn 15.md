@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 15

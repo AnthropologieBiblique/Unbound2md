@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 24

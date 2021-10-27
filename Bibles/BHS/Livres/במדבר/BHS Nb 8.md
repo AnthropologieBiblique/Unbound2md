@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 8

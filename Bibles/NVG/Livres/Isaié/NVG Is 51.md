@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/51
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 51

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 6

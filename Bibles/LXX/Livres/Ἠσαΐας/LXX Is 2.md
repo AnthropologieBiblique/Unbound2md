@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 2

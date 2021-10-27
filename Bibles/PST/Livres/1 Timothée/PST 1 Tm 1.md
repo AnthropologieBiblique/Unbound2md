@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Tm/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Timothée 1

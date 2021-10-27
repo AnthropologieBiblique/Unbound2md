@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 5

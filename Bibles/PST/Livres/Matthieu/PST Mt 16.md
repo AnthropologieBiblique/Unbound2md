@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 16

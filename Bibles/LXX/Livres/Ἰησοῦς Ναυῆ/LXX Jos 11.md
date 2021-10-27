@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰησοῦς Ναυῆ 11

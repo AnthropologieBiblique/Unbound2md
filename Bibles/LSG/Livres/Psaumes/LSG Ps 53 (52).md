@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/53_52
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 53 (52)

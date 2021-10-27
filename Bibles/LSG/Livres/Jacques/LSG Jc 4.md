@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jacques 4

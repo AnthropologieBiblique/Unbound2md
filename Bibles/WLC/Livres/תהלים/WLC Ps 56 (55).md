@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/56_55
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 56 (55)

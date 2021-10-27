@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Iacobi 4

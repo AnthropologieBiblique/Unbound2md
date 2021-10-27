@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 15

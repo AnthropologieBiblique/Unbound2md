@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/8
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 8

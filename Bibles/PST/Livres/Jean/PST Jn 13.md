@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 13

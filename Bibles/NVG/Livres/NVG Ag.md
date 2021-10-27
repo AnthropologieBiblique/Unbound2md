@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ag
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Aggéi

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/57
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 57

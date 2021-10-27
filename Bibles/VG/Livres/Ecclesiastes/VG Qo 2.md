@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/11_10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 11 (10)

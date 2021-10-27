@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue

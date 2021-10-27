@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/41_40
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 41 (40)

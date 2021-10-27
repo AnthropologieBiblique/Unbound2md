@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 17

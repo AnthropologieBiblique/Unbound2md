@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/20_19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 19 (20)

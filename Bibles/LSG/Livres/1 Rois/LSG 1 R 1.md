@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Rois 1

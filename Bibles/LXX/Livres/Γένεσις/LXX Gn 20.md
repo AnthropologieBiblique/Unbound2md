@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 20

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/10
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 10

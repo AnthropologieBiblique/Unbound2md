@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 7

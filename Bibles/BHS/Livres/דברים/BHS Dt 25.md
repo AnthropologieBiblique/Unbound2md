@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 25

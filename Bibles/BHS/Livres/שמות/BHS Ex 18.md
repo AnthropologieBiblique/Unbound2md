@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 18

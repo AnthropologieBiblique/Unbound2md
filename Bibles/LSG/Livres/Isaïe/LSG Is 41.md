@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/41
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 41

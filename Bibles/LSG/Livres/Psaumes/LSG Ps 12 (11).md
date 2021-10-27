@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/12_11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 12 (11)

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Lamentationes 3

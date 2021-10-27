@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 16

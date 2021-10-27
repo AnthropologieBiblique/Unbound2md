@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 23

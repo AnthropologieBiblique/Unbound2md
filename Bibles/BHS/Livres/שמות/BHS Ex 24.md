@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 24

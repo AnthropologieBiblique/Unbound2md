@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 12

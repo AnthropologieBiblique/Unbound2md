@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 10

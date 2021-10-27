@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/11_10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 11 (10)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/22
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 22

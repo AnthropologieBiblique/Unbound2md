@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 3

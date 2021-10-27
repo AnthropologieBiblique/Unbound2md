@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 10

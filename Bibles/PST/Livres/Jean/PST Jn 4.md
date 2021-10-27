@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esdras 6

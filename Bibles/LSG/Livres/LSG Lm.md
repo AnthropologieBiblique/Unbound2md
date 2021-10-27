@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lamentations

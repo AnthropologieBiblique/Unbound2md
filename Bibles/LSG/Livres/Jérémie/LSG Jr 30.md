@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 30

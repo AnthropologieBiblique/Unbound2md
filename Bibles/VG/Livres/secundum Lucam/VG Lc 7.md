@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Lucam 7

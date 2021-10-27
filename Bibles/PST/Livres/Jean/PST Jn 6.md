@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 6

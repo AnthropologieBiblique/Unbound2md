@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 30

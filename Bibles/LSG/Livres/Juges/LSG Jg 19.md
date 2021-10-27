@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 19

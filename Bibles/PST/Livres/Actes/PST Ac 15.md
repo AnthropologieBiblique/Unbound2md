@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/15
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 15

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 21

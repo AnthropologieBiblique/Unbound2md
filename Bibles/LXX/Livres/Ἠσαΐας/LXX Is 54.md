@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/54
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 54

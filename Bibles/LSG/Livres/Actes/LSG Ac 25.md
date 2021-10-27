@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 25

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/42
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 42

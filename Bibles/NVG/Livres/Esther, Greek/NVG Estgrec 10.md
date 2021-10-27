@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Estgrec/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther, Greek 10

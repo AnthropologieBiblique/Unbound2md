@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 23

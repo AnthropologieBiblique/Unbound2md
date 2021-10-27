@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 8

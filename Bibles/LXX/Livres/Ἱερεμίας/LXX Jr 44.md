@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/37
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 44

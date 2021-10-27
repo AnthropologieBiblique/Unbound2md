@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/63
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 63

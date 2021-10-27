@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/28
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 28

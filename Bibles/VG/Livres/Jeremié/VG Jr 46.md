@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/46
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 46

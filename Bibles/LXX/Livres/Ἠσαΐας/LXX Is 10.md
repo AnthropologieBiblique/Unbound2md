@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 10

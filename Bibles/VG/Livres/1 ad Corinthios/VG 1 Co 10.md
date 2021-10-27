@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Co/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 ad Corinthios 10

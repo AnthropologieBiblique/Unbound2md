@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 1

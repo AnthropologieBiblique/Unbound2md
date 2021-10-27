@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 9

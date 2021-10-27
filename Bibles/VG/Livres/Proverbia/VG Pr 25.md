@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 25

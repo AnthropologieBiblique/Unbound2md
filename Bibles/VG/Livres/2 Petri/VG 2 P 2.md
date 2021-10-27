@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2P/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Petri 2

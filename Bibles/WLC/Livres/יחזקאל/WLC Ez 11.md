@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 11

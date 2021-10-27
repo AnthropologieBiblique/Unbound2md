@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 11

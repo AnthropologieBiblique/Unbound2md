@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 8

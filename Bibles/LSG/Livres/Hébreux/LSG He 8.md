@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 8

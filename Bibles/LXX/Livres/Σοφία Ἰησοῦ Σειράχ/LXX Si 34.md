@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 34

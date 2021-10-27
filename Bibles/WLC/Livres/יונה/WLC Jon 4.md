@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יונה 4

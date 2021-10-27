@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/42
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 49

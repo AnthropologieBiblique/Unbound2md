@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Th/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 2 Thessaloniciens 2

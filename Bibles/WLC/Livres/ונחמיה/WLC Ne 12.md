@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 12

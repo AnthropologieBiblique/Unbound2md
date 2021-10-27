@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/149
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 149

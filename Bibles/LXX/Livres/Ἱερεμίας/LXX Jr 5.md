@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 5

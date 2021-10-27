@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/31_30
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 30 (31)

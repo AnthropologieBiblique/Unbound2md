@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 24

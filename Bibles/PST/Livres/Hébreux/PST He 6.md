@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 6

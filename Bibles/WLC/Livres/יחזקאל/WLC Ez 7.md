@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 7

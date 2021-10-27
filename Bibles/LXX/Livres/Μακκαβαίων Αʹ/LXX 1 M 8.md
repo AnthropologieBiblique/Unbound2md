@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1M/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μακκαβαίων Αʹ 8

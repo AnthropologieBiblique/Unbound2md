@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/49
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 49

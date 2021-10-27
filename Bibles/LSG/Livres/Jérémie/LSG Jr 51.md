@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/51
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 51

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δανιήλ 12

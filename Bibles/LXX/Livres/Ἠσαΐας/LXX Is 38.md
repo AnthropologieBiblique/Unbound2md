@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/38
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 38

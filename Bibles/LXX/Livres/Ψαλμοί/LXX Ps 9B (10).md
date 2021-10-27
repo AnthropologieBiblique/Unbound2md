@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/10_9B
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 9B (10)

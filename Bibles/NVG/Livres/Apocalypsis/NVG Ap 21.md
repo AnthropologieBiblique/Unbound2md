@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 21

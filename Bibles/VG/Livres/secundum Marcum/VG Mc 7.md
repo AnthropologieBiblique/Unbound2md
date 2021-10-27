@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Marcum 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 9

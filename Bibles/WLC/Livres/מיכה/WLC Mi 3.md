@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 3

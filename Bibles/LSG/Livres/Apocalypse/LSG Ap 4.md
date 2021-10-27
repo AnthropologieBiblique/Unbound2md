@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 4

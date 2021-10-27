@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 24

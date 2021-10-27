@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 6

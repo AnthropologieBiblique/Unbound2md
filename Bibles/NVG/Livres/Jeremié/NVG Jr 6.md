@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 6

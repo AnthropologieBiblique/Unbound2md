@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/68_67
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 68 (67)

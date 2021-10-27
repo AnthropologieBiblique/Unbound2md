@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Joel

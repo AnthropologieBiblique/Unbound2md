@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 23

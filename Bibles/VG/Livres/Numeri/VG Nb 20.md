@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 20

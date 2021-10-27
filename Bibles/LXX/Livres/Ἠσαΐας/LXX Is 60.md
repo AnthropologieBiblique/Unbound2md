@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/60
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 60

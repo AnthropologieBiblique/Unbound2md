@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 3

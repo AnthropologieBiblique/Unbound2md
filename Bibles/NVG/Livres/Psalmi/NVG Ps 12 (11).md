@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/12_11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 12 (11)

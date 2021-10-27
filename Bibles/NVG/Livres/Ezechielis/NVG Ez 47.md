@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/47
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 47

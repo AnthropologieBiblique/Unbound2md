@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/38
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 38

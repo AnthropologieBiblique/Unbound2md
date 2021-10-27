@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 9

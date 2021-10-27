@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 6

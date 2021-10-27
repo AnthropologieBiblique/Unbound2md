@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/28
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 28

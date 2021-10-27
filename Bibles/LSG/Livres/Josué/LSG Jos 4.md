@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 4

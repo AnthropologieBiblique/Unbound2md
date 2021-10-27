@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 14

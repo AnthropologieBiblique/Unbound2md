@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 31

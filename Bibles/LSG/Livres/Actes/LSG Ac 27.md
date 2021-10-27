@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 27

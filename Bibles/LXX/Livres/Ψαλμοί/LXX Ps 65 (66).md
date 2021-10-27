@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/66_65
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 65 (66)

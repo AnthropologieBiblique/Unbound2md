@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Malachié 2

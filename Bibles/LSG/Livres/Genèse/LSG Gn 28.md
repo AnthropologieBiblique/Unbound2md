@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 28

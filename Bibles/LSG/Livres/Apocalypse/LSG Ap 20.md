@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 20

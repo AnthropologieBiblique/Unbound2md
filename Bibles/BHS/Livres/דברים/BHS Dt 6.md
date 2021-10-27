@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 6

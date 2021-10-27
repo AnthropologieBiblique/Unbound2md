@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/46
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 46

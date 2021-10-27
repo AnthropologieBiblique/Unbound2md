@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/14
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 14

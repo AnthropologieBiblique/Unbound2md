@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/42
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 42

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 9

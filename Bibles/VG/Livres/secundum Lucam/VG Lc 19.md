@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Lucam 19

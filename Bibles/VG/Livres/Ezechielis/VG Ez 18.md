@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 18

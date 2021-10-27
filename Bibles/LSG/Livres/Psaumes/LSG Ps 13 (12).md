@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/13_12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 13 (12)

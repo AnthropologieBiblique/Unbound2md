@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/24
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 24

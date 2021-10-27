@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Paralipomenon 12

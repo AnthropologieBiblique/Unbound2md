@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/7
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 7

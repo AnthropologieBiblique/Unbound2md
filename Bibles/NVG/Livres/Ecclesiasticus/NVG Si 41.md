@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/41
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 41

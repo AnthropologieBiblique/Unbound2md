@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # עמוס

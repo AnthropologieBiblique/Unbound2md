@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Malachie 1

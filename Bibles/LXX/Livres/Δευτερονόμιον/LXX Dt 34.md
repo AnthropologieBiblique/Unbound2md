@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 34

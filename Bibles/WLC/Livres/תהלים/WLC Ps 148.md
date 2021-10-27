@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/148
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 148

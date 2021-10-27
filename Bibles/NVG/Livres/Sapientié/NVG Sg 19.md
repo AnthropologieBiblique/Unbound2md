@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sapientié 19

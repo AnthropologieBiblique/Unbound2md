@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 20

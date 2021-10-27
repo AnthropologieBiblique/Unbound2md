@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/63_62
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 63 (62)

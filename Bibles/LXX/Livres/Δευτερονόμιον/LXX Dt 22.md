@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 22

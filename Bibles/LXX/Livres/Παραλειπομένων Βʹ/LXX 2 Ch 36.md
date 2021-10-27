@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Βʹ 36

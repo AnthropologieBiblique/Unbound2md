@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 22

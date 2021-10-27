@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰουδίθ 1

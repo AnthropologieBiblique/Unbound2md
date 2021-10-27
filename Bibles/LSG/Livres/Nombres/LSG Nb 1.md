@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 1

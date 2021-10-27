@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 6

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/38
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 38

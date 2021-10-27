@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 4

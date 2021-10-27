@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 18

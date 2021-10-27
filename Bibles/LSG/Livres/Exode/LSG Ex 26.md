@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 26

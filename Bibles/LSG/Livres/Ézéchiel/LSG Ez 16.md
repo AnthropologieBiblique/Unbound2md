@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 16

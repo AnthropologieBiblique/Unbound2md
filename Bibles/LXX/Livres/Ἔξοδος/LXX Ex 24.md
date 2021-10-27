@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/24
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 24

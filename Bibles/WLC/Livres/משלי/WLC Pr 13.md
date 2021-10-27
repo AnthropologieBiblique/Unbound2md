@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 13

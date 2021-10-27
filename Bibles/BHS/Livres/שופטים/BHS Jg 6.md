@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 6

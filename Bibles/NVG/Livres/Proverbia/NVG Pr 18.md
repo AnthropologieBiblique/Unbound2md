@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 18

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 28

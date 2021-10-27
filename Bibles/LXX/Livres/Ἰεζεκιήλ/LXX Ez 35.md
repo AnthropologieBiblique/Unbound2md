@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/35
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 35

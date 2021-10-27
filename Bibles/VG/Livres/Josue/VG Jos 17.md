@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 17

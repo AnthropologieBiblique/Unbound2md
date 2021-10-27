@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 30

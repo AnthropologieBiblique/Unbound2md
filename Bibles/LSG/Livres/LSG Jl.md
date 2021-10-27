@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Joël

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 6

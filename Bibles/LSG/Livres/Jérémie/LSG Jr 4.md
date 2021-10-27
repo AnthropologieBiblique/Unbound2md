@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 4

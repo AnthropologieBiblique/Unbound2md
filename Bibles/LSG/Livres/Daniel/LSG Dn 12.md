@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel 12

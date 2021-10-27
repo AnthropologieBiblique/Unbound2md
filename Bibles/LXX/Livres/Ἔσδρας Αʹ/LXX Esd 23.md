@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔσδρας Αʹ 23

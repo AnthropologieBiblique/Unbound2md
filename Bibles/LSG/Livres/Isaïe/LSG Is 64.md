@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/64
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 64

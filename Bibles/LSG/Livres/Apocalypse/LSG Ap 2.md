@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 2

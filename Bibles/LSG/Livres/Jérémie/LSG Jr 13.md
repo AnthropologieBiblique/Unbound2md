@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 13

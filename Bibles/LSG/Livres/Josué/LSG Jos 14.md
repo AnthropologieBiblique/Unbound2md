@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 14

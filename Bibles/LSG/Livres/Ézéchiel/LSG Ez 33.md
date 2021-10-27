@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 33

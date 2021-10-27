@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 18

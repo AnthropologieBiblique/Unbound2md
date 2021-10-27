@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/19_18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 19 (18)

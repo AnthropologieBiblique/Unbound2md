@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ha/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Habaquq 3

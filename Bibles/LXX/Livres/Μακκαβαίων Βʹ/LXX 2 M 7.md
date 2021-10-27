@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2M/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μακκαβαίων Βʹ 7

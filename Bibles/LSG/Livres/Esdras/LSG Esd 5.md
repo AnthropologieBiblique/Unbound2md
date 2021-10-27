@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esdras 5

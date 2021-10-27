@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 6

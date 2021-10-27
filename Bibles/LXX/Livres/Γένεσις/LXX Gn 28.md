@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/28
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 28

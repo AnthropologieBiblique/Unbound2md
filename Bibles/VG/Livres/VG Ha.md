@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ha
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Habacuc

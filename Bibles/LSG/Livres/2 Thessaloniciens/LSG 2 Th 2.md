@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Th/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Thessaloniciens 2

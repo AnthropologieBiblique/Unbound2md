@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 15

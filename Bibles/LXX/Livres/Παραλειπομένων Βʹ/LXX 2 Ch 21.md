@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/21
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Βʹ 21

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc

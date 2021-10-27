@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 14

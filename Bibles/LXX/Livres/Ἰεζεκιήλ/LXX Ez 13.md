@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 13

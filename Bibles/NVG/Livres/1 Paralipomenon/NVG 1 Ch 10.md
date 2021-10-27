@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Paralipomenon 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 25

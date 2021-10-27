@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 15

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/65
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 65

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 33

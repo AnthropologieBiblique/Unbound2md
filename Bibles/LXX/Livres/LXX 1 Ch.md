@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Αʹ

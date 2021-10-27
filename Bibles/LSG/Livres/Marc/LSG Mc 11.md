@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 11

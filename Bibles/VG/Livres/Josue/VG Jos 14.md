@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 14

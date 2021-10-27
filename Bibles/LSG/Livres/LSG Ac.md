@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Galates 5

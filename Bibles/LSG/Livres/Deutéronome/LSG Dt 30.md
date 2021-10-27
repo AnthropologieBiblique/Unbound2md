@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 30

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/10
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/43_42
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 43 (42)

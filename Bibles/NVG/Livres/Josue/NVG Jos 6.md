@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 6

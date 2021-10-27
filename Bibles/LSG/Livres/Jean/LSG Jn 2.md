@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 2

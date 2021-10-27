@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 13

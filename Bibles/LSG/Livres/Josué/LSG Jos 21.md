@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 21

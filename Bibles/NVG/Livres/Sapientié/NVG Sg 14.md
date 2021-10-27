@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sapientié 14

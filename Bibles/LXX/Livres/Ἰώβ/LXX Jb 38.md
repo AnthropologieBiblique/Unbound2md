@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/38
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 38

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Joné

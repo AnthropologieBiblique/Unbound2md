@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Éphésiens 2

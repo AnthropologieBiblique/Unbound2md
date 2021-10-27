@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/38
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 38

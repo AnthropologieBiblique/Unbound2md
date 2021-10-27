@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Colossiens 3

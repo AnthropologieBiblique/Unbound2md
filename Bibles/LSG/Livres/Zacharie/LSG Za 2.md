@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 2

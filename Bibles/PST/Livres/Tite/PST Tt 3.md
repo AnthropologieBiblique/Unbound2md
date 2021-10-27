@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Tite 3

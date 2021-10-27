@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 11

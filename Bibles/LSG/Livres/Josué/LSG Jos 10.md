@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 10

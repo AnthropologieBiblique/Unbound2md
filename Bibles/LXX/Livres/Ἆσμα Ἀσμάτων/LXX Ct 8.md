@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἆσμα Ἀσμάτων 8

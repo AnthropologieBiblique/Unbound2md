@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 13

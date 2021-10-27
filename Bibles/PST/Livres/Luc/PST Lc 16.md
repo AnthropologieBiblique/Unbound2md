@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 16

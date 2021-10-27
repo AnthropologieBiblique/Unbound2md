@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # עזרא 8

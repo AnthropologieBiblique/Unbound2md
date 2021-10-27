@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 20

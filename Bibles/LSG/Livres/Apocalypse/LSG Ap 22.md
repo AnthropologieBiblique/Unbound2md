@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 22

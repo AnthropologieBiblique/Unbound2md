@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 26

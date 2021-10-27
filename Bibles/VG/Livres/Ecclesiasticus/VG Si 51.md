@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/51
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 51

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/72_71
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 72 (71)

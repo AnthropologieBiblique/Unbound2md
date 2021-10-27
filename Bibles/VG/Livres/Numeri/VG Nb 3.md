@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 3

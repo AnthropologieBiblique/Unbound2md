@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/26_25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 26 (25)

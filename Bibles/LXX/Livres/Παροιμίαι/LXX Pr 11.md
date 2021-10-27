@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 11

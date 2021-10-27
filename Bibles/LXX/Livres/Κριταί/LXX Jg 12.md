@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 12

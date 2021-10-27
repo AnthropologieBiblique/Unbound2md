@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 5

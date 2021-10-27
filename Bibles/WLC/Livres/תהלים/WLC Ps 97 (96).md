@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/97_96
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 97 (96)

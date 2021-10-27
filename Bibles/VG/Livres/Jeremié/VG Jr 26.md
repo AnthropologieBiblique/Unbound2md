@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 26

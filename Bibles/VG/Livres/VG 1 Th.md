@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Th
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 ad Thessalonicenses

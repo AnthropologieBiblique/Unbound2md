@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Tite 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 11

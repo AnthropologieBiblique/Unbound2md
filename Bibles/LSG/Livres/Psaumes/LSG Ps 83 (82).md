@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/83_82
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 83 (82)

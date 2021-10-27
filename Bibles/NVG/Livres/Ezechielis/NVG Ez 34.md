@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 34

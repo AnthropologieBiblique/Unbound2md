@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 1

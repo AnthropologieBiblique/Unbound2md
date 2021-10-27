@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/24
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 24

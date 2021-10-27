@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 3

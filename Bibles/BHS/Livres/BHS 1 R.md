@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 1 מלכים

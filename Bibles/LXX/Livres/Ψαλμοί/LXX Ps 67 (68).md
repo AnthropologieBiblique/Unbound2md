@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/68_67
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 67 (68)

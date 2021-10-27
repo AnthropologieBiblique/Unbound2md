@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 14

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié

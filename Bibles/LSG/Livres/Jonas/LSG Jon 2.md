@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jonas 2

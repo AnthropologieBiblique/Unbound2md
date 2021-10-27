@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 14

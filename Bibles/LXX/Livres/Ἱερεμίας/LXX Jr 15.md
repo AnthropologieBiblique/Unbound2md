@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 15

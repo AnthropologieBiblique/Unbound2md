@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/21
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 21

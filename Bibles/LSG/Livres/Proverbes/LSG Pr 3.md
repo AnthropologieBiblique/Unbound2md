@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 3

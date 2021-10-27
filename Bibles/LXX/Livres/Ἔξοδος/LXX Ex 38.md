@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/37
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 38

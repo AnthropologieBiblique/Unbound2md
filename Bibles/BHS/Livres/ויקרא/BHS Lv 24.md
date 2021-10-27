@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 24

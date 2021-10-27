@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 37

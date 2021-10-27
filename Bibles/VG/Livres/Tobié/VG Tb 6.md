@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 6

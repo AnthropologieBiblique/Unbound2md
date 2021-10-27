@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 4

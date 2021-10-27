@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/24
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰησοῦς Ναυῆ 24

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 12

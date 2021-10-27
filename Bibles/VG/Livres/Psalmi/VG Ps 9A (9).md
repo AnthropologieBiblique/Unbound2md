@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/9_9A
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 9A (9)

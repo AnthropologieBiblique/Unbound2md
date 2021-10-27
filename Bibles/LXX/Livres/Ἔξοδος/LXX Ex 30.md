@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/30
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 30

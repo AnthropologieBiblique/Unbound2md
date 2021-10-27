@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 2

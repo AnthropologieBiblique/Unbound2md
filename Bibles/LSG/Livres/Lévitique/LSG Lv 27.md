@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 27

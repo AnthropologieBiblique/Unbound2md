@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 8

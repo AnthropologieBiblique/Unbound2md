@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ab/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὀβδιού Εʹ 1

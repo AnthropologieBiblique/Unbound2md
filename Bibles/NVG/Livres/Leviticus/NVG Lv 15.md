@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 15

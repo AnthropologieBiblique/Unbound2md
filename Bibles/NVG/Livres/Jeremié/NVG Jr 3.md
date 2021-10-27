@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 3

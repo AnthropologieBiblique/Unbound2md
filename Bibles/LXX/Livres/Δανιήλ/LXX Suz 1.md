@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Suz/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δανιήλ 1

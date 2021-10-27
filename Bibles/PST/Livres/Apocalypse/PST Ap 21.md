@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/21
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 21

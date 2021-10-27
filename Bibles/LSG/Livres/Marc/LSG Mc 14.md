@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 14

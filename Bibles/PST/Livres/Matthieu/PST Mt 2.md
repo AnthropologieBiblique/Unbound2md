@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 2

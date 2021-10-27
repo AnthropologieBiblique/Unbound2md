@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/42
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 42

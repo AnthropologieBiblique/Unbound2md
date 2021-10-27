@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/38_37
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 38 (37)

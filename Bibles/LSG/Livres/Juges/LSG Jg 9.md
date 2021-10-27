@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 9

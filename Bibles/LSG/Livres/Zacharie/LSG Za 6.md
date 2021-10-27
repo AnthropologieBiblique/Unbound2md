@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 6

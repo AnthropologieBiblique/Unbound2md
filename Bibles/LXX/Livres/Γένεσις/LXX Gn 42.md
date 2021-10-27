@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/42
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 42

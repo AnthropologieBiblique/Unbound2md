@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/90_89
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 90 (89)

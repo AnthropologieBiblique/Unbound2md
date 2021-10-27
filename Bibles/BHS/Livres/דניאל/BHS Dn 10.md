@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דניאל 10

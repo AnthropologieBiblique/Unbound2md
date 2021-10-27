@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 18

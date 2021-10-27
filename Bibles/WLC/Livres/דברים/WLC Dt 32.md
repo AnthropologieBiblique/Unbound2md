@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 32

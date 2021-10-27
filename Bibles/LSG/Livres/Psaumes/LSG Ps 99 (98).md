@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/99_98
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 99 (98)

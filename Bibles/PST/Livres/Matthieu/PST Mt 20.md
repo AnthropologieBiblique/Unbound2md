@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/20
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 20

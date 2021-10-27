@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/25
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 25

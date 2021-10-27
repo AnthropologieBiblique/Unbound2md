@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 18

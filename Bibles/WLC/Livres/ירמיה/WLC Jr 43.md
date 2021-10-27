@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/43
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 43

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/23_22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 22 (23)

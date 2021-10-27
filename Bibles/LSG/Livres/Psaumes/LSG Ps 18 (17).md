@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/18_17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 18 (17)

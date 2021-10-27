@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 3

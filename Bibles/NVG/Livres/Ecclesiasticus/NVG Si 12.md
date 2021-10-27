@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 12

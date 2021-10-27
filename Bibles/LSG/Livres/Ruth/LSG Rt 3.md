@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Rt/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ruth 3

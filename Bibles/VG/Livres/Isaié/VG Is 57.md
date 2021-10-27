@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/57
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 57

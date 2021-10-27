@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Paralipomenon 29

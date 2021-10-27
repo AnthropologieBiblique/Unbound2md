@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/27
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 27

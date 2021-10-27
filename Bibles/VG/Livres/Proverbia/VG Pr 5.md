@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 5

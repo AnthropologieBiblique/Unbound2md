@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας

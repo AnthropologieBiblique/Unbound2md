@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע

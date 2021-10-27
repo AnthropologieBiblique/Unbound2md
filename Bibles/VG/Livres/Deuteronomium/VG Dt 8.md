@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 8

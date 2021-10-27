@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 22

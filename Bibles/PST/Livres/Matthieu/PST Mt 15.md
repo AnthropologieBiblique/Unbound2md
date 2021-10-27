@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/15
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 15

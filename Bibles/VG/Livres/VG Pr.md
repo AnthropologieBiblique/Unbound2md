@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia

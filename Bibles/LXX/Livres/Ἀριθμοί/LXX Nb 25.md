@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/25
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 25

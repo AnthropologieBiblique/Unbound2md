@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 5

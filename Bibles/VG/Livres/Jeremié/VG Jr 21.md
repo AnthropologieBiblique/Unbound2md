@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 21

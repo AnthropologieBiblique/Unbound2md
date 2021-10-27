@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 18

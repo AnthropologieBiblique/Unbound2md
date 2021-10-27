@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 26

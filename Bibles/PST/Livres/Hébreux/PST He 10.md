@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/10
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 10

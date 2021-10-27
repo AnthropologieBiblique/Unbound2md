@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 8

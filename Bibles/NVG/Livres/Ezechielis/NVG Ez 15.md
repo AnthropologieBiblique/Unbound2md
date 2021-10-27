@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 15

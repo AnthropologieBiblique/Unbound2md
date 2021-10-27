@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 דברי הימים 32

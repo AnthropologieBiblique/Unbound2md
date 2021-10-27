@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 41

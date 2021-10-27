@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 13

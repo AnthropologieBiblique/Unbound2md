@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/8
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 8

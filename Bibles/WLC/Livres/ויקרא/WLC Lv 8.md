@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 8

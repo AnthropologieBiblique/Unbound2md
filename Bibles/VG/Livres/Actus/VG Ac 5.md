@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 2

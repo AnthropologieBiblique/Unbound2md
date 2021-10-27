@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 11

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 8

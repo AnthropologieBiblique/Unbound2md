@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 26

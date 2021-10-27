@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/40
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 40

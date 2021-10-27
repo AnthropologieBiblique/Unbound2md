@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/31
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 38

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 35

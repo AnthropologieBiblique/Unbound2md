@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 3

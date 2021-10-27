@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Th/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Thessaloniciens 3

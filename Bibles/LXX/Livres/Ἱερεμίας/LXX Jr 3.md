@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 3

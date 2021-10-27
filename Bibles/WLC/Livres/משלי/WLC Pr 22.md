@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 22

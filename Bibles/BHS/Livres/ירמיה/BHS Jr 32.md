@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 32

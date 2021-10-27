@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 14

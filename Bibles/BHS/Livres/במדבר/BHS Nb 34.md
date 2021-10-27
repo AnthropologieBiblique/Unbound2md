@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 34

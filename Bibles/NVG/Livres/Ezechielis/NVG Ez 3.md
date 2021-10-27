@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 3

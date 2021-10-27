@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 22

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 5

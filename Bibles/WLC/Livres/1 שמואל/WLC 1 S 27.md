@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/27
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 1 שמואל 27

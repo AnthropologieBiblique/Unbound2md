@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/42_41
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 41 (42)

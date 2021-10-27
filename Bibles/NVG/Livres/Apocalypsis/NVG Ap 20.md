@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 20

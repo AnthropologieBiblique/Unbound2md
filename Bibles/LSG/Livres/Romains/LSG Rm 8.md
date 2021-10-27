@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 8

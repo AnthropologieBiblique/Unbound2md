@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 17

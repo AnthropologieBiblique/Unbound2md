@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 12

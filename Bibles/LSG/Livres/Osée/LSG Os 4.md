@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 4

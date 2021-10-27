@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu

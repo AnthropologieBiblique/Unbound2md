@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 9

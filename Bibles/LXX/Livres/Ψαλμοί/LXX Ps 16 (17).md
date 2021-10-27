@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/17_16
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 16 (17)

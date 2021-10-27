@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/97_96
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 96 (97)

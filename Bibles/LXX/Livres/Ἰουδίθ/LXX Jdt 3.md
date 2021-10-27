@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰουδίθ 3

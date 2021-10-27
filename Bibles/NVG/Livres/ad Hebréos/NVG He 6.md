@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 6

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Cantique des cantiques 5

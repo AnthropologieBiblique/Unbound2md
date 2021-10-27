@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Colossiens 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/79_78
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 78 (79)

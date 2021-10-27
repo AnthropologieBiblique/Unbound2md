@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 37

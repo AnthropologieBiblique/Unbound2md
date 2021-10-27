@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 25

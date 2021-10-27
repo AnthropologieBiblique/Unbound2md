@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/59_58
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 59 (58)

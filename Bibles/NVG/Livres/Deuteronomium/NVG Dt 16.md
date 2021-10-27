@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 16

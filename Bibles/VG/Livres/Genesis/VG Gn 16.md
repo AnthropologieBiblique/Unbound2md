@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 16

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/29
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 29

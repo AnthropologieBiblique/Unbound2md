@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/56
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 56

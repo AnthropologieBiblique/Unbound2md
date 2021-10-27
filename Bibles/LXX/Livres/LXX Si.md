@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ

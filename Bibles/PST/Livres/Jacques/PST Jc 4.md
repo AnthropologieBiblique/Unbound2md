@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jacques 4

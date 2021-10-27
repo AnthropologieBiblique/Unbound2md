@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/65_64
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 65 (64)

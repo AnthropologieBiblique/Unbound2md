@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/16
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 16

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/27_26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 27 (26)

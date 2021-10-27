@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lamentations 4

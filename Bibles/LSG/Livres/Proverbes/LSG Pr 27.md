@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 27

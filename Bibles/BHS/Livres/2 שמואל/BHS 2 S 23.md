@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 שמואל 23

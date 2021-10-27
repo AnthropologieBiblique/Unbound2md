@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/47
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 47

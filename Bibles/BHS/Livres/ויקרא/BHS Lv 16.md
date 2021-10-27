@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 16

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 36

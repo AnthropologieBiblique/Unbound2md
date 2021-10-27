@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 16

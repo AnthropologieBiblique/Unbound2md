@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 9

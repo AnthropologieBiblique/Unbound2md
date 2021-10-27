@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/15
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 15

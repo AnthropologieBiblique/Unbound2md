@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איוב 26

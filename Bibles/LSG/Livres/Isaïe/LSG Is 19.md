@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 19

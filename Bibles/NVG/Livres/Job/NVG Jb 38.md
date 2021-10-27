@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/38
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 38

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/19
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 19

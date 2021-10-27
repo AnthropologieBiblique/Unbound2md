@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 33

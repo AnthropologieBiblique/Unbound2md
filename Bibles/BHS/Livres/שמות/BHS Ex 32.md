@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 32

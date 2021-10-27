@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/90_89
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 90 (89)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/15_14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 15 (14)

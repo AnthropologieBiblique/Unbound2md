@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 19

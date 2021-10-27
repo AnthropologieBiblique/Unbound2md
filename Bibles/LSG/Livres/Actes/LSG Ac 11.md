@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 11

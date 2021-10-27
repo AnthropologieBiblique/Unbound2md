@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/15_14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 15 (14)

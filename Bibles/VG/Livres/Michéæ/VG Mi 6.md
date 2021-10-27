@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Michéæ 6

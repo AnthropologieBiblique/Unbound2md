@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/37
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 37

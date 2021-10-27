@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 12

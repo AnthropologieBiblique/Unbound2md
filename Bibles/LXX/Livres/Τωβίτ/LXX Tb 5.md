@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 5

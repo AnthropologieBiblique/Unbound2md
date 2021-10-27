@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/40_39
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 40 (39)

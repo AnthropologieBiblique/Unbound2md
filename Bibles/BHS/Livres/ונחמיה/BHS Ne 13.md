@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 13

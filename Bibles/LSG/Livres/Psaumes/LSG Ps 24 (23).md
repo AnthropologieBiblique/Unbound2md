@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/24_23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 24 (23)

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judith 14

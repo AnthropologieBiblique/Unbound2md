@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 13

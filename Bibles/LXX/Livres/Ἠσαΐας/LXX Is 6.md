@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 6

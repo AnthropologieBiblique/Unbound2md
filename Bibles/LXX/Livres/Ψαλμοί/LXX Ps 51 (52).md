@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/52_51
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 51 (52)

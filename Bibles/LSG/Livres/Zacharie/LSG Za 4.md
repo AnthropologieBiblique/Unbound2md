@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 4

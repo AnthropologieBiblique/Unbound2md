@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 12

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Matthéum

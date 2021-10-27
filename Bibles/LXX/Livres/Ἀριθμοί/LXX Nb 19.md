@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 19

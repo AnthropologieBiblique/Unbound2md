@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/22_21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 22 (21)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 2

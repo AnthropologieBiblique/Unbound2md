@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 6

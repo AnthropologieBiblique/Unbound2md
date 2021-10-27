@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 2

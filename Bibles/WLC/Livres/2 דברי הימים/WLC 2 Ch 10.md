@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 דברי הימים 10

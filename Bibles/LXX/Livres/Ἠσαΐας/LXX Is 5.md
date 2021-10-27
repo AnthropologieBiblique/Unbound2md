@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 5

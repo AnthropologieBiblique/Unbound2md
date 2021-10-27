@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/46
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 46

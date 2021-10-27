@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 8

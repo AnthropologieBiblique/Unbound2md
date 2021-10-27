@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 30

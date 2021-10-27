@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sapientié 17

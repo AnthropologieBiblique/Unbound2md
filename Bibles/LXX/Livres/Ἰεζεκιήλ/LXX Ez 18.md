@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/18
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 18

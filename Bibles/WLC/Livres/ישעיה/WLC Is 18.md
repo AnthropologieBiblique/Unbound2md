@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 18

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 5

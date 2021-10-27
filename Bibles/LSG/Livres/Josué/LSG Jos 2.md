@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Αʹ 19

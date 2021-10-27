@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 9

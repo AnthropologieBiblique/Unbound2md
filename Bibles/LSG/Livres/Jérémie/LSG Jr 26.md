@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 26

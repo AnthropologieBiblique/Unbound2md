@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jonas 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/40
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 40

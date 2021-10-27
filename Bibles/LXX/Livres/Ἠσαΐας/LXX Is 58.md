@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/58
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 58

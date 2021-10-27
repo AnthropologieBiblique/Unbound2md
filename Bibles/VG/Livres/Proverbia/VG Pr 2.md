@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 2

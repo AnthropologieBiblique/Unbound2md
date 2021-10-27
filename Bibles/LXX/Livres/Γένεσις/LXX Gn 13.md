@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 13

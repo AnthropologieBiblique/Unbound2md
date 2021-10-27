@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/10_9B
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 10 (9B)

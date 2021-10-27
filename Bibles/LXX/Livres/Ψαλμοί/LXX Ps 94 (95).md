@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/95_94
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 94 (95)

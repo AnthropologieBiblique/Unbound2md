@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 34

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Joel 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/16
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 16

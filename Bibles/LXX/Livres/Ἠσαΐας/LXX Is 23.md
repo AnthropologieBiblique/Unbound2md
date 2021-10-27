@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/23
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 23

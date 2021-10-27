@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 11

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 5

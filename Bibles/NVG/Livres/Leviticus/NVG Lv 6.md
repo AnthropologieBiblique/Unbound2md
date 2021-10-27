@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 6

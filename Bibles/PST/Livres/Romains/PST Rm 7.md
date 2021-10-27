@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/7
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 7

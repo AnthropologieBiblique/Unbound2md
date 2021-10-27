@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/33
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 33

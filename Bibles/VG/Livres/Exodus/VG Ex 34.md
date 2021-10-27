@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 34

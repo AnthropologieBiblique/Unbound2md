@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 3

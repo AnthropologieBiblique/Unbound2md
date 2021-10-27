@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/31
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 31

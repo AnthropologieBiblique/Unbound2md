@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 7

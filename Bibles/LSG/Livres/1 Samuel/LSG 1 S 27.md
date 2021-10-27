@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Samuel 27

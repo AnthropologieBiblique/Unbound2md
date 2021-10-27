@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ag/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀγγαῖος Ιʹ 2

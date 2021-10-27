@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Lamentationes 5

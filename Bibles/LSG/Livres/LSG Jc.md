@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jacques

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/83_82
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 82 (83)

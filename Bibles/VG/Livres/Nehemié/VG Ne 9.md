@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/45
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 45

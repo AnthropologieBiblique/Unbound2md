@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 9

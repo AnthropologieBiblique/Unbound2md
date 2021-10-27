@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Ioannem 17

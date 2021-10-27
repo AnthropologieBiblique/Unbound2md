@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1P
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Pierre

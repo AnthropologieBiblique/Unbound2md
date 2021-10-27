@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/30
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 30

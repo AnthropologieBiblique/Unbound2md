@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 9

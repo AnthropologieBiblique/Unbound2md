@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 13

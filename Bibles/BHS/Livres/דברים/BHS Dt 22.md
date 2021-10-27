@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 22

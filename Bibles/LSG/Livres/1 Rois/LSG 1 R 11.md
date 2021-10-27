@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Rois 11

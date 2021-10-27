@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 6

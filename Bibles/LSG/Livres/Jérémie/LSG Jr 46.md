@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/46
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 46

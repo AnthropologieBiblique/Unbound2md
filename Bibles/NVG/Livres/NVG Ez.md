@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 18

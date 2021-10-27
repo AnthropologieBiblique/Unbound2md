@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 31

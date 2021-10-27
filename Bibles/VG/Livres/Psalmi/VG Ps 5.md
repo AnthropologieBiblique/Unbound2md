@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 5

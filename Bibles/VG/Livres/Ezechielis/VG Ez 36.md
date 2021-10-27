@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 36

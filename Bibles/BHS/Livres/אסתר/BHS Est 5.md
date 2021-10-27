@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # אסתר 5

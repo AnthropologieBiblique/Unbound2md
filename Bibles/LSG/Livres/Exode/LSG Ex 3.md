@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 3

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel 8

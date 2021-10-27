@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 19

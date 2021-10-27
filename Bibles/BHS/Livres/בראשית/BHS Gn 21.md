@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/21
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 21

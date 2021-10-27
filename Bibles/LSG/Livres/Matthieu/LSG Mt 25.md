@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 25

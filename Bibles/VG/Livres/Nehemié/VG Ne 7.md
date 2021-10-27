@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 7

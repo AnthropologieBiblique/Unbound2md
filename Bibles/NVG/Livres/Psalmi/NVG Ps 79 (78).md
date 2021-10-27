@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/79_78
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 79 (78)

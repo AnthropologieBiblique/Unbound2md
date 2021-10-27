@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Éphésiens

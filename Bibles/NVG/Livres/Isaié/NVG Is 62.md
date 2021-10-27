@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/62
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 62

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Co/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 ad Corinthios 14

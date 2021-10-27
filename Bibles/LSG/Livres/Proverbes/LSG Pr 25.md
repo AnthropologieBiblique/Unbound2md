@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 25

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 16

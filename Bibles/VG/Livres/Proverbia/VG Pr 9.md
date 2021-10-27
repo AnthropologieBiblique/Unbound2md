@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 9

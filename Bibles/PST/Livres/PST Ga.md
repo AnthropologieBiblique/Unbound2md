@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Galates

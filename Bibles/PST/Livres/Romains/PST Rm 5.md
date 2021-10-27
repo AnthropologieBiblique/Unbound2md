@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 5

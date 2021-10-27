@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/37
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 37

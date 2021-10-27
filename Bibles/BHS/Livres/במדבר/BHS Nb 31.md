@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 31

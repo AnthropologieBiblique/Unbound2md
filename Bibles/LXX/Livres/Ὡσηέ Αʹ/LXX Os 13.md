@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὡσηέ Αʹ 13

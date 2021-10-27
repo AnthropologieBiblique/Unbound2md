@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/53
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 53

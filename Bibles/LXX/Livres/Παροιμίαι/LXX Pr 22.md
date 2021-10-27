@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 22

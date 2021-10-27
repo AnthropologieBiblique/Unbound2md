@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/71_70
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 71 (70)

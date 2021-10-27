@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Galatas 4

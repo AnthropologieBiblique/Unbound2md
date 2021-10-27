@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 12

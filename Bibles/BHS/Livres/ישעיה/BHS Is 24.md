@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 24

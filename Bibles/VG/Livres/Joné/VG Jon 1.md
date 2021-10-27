@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Joné 1

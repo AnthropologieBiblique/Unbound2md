@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Éphésiens 6

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/49
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 49

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 3

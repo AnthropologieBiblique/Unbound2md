@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰωήλ Δʹ 1

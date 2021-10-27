@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/34
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 34

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 2

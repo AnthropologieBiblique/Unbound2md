@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates

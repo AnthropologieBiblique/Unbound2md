@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/56
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 56

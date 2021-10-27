@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/17_16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 17 (16)

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Od/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὠδαί 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/88_87
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 87 (88)

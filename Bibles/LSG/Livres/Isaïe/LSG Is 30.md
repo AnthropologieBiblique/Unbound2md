@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 30

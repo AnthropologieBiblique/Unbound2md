@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/36
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 36

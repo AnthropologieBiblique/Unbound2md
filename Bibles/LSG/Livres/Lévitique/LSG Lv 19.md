@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 2

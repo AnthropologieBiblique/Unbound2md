@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ha/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀμβακούμ Ηʹ 2

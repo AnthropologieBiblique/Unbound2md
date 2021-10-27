@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 29

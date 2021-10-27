@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 3

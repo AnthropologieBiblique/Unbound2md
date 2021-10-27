@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # אסתר

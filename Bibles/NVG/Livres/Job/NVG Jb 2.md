@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 2

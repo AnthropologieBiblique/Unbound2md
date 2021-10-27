@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 20

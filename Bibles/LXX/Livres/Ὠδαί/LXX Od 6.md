@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Od/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὠδαί 6

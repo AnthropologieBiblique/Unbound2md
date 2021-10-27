@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Danielis

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/20_19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 20 (19)

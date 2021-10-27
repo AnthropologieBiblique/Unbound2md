@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איכה 3

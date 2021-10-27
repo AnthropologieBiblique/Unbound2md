@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 21

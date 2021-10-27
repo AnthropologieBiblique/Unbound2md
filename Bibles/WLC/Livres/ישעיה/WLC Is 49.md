@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/49
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 49

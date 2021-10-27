@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 3

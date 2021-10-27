@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 11

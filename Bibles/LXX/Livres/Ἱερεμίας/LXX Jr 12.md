@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 12

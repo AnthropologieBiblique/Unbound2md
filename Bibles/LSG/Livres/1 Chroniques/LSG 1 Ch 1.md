@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Chroniques 1

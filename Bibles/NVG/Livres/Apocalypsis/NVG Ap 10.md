@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 10

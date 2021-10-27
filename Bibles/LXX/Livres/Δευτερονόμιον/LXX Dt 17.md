@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 17

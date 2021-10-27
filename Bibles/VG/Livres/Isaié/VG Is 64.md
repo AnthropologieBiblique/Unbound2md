@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/64
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 64

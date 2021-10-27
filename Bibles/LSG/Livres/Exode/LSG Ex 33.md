@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/33
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 33

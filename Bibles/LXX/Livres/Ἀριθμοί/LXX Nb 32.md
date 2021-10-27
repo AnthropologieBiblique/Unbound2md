@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/32
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 32

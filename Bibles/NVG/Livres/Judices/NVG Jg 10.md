@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 10

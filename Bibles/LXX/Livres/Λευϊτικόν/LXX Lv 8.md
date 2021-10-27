@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 8

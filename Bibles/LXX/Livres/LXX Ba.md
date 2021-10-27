@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βαρούχ

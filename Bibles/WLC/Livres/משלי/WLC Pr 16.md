@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 16

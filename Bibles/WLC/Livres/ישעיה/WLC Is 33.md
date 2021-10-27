@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/33
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 33

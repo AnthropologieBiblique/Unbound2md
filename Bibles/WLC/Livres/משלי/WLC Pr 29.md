@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 29

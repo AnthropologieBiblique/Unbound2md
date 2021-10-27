@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ag/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # חגי 1

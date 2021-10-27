@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 30

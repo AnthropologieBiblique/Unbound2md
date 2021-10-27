@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/35
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 35

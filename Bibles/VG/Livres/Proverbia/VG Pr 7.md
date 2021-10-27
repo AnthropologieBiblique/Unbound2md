@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 5

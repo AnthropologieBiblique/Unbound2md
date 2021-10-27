@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 2

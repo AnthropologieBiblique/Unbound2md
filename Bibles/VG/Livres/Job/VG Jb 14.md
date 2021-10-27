@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 14

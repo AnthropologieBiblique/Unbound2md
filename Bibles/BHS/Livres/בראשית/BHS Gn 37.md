@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/37
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 37

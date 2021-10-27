@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות

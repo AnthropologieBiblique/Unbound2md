@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 13

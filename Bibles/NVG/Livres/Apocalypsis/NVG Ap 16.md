@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 16

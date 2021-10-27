@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/44
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 44

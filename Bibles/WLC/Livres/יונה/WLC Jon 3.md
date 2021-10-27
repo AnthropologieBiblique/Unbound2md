@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יונה 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 26

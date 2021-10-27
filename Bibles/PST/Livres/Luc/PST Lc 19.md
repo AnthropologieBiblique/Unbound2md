@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/19
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 19

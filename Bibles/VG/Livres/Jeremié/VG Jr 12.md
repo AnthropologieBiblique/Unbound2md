@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 12

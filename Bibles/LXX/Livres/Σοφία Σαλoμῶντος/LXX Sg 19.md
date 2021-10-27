@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Σαλoμῶντος 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 16

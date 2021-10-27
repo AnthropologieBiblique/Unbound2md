@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/28_27
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 27 (28)

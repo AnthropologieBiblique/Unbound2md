@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/35
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 35

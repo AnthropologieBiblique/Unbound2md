@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 21

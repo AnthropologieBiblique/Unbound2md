@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 4

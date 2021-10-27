@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 1

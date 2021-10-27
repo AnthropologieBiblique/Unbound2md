@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 20

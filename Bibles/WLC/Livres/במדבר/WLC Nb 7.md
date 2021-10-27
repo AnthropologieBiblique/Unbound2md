@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 7

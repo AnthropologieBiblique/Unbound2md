@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 31

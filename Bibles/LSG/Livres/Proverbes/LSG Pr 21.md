@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 21

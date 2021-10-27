@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 11

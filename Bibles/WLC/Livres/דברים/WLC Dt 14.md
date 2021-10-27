@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 14

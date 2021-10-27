@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 22

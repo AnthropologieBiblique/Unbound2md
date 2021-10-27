@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/18
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 18

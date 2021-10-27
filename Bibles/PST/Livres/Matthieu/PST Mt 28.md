@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/28
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 28

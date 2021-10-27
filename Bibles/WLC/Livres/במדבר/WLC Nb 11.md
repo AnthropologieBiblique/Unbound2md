@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 11

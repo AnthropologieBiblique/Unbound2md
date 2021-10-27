@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μαλαχίας ΙΒʹ 3

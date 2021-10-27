@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 8

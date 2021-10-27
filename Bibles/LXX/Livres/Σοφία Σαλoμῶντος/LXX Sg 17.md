@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Σαλoμῶντος 17

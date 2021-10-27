@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Ioannem 6

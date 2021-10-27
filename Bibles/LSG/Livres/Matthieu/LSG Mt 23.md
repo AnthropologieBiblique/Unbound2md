@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 23

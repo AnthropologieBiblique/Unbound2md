@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/11_10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 11 (10)

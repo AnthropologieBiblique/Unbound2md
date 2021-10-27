@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 13

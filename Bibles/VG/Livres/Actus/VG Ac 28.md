@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/28
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 28

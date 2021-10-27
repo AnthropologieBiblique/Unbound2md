@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 24

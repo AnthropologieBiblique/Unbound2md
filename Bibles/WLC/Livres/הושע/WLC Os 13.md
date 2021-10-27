@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 13

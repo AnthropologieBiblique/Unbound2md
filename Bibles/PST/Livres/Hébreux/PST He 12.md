@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 12

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 21

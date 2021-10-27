@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 15

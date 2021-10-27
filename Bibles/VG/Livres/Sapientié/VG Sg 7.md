@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Sg/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Sapientié 7

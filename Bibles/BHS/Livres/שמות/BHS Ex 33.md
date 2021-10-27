@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/33
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 33

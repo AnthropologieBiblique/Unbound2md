@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/39
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 39

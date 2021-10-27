@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 18

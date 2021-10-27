@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 3 Regum 6

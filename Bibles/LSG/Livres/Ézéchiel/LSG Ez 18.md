@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 18

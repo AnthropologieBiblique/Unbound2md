@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome

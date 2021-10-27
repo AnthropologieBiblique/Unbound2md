@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel 2

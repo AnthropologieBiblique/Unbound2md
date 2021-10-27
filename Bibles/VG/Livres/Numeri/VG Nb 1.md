@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 1

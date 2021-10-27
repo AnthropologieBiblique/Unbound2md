@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 17

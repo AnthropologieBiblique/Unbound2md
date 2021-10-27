@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 28

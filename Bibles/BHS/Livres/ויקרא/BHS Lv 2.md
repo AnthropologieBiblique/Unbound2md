@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 2

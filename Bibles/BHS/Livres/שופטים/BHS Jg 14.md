@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 14

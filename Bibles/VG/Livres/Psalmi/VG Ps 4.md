@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 4

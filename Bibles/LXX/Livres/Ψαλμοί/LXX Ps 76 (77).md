@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/77_76
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 76 (77)

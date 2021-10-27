@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 34

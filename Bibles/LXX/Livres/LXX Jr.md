@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐπιστολὴ Ἰερεμίου

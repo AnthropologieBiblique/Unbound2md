@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 14

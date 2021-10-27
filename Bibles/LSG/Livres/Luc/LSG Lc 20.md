@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 20

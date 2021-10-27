@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/38_37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 38 (37)

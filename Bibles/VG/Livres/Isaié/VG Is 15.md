@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 15

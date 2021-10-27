@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 20

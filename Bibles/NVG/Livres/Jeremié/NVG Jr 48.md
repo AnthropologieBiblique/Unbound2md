@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/48
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 48

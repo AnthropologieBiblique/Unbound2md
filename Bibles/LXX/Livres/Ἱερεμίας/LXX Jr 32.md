@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/25
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 32

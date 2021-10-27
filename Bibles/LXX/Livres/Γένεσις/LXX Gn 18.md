@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/18
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 18

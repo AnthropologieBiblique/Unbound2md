@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 9

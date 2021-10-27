@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 13

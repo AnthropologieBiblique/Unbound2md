@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 7

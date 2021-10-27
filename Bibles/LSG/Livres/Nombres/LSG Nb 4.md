@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 5

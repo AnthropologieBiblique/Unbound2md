@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/50
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 50

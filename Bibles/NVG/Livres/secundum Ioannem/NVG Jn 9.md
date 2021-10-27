@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Ioannem 9

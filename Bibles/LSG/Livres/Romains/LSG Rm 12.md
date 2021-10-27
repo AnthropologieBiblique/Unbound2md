@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 12

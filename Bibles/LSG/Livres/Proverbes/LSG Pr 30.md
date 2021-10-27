@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/30
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 30

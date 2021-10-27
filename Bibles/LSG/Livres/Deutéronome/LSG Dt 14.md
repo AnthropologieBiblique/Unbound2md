@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 14

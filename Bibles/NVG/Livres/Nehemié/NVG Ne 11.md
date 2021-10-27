@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 11

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איכה

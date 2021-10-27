@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Chroniques 21

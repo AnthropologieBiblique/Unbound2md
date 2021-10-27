@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/53
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 53

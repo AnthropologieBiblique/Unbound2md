@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 15

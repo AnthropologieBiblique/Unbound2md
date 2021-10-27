@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nahum

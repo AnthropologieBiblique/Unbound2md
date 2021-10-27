@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/62
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 62

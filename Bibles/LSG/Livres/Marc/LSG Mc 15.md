@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 15

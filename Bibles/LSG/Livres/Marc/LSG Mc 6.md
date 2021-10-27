@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 6

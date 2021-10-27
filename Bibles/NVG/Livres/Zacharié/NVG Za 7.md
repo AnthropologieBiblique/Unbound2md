@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 7

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 14

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/17_16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 17 (16)

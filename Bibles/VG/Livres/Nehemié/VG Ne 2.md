@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 2

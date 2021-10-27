@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/56_55
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 56 (55)

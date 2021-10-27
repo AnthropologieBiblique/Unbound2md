@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/50_49
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 50 (49)

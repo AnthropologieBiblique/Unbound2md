@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 29

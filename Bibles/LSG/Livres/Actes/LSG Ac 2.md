@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 2

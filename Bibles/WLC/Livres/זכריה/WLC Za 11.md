@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 11

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 14

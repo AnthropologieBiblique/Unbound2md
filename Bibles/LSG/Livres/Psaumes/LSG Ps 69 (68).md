@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/69_68
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 69 (68)

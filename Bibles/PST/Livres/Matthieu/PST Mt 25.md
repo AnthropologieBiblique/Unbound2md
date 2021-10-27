@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/25
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 25

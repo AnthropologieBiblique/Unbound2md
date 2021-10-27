@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Apocalypsis 18

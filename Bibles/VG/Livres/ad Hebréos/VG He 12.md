@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 12

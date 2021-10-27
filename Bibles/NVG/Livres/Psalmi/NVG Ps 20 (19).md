@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/20_19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 20 (19)

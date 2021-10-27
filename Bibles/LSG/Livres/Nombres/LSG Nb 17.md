@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 17

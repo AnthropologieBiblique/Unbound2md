@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 9

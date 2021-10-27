@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 5

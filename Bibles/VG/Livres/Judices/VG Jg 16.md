@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 16

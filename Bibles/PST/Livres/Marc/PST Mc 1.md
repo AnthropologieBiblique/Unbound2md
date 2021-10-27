@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 1

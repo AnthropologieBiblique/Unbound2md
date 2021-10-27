@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 13

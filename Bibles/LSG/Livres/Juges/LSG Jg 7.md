@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 7

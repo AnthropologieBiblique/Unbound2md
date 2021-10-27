@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 23

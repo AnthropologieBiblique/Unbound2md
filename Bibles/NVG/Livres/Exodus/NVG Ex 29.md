@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 29

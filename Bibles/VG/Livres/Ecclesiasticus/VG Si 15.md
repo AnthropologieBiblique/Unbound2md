@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 15

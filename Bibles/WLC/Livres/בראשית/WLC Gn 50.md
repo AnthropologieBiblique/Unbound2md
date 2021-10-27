@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/50
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 50

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/92_91
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 92 (91)

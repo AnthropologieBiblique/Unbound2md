@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Co/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 ad Corinthios 2

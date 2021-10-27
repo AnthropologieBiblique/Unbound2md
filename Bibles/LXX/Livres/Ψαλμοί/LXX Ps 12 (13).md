@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/13_12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 12 (13)

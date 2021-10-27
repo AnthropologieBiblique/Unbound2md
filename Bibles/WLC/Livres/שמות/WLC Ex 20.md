@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 20

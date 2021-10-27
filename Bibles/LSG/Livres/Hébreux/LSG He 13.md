@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 13

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel 4

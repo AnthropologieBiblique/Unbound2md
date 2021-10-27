@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 19

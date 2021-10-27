@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 22

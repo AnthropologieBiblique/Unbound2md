@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים

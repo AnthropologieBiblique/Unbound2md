@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 8

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 10

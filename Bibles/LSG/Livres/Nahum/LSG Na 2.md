@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nahum 2

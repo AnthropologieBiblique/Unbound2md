@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Tm/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Timothée 4

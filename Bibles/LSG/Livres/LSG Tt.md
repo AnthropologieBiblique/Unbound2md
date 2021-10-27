@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Tite

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 15

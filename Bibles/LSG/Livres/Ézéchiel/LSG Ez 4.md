@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 4

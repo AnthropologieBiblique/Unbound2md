@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 18

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 12

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/45
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 45

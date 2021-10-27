@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 6

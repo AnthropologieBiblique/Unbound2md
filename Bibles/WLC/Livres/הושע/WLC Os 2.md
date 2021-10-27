@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 2

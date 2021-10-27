@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/51
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 51

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Γʹ 11

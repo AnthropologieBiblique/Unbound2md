@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Malachié 3

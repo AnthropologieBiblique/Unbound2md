@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 11

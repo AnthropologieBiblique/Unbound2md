@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 3

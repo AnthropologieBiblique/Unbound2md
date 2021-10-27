@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/19
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 19

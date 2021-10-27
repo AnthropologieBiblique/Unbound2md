@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/39
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 39

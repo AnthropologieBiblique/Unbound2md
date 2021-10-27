@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 3

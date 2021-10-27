@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 9

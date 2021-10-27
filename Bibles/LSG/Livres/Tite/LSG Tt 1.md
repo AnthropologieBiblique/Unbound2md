@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Tite 1

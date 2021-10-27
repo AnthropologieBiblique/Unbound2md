@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/16_15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 16 (15)

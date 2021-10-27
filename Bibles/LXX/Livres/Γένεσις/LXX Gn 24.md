@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/24
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 24

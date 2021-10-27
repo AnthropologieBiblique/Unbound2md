@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Samuelis 1

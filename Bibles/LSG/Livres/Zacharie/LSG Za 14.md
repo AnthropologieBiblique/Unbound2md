@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 14

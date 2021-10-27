@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/148
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 148

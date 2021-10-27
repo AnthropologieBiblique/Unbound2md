@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 36

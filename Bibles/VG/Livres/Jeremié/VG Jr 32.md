@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/32
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 32

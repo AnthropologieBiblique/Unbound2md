@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 14

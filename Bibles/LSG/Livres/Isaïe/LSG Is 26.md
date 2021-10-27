@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/26
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 26

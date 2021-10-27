@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Canticum Canticorum 4

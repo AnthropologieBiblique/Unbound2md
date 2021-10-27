@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 14

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 23

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 16

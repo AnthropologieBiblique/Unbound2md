@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 22

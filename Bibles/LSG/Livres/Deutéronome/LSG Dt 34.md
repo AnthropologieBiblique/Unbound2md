@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/34
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 34

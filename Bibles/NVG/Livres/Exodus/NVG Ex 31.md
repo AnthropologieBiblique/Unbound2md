@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/31
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 31

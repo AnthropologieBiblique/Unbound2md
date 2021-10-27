@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/44
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 44

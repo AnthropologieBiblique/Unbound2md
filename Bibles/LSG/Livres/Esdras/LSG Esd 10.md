@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esdras 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 12

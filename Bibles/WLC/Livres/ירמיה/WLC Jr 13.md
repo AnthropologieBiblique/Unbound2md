@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 13

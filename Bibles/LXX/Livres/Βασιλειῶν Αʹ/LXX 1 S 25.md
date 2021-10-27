@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/25
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Αʹ 25

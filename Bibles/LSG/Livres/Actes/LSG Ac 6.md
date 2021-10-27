@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 6

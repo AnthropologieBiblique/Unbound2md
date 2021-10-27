@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 11

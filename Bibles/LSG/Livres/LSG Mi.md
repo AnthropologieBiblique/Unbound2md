@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Michée

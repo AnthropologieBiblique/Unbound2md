@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/45
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 45

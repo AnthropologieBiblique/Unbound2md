@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 18

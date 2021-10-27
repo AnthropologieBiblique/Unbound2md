@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Chroniques 24

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/13
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 13

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 19

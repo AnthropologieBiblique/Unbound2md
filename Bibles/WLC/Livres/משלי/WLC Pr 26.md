@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 26

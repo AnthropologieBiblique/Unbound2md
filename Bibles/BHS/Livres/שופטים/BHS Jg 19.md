@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 19

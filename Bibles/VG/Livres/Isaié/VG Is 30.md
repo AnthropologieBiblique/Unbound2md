@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 30

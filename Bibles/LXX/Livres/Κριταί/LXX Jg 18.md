@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/18
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 18

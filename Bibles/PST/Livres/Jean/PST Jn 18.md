@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/18
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 18

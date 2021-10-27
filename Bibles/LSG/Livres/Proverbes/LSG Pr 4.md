@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 4

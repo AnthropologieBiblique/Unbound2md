@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 26

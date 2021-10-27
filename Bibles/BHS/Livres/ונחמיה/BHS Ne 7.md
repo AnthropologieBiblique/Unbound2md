@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 7

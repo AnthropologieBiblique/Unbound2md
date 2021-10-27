@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 23

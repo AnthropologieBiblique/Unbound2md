@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 5

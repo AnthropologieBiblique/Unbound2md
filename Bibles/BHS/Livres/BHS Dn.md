@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דניאל

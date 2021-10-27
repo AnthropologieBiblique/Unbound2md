@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/3Jn/1
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 3 Jean 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 6

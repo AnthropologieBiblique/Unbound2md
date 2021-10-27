@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 4

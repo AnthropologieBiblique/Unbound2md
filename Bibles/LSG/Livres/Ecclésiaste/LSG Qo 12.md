@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 12

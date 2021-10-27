@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/59
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 59

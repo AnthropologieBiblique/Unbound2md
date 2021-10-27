@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שיר השירים 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/36
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 36

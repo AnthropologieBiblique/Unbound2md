@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Samuelis 20

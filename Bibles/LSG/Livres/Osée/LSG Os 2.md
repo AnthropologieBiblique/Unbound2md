@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 2

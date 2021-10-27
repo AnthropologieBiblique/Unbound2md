@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Colossiens

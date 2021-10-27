@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 23

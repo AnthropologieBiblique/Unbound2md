@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philippiens

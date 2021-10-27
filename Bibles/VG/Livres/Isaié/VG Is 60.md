@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/60
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 60

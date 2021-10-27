@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 2

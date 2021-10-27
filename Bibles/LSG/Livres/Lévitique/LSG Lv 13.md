@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 13

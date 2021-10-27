@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Iacobi

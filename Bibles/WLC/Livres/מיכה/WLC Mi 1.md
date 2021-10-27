@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 1

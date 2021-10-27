@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 18

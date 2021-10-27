@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/54
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 54

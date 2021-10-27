@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 11

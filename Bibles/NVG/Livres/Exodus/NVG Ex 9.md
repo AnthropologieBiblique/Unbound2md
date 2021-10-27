@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 9

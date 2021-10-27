@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/48
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 48

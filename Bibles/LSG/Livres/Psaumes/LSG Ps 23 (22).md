@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/23_22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 23 (22)

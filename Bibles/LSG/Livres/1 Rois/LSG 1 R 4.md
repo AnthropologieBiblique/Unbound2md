@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Rois 4

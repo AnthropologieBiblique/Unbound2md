@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 2

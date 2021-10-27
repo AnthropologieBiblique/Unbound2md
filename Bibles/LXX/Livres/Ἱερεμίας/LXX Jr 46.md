@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/39
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 46

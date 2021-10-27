@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Galates 3

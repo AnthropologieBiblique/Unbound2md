@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 1

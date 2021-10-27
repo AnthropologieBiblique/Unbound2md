@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 19

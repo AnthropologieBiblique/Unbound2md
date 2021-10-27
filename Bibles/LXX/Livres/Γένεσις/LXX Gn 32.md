@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/31
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 32

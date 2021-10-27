@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 14

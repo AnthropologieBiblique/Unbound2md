@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Amos 9

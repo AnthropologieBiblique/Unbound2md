@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 4

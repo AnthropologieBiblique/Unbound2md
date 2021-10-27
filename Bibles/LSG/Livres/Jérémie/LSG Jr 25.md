@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 25

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/35
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 35

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 18

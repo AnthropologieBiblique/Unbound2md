@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 6

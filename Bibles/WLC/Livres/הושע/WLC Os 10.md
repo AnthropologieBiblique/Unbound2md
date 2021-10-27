@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # הושע 10

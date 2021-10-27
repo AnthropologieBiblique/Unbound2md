@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 12

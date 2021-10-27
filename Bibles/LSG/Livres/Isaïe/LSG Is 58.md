@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/58
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 58

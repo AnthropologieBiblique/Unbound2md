@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/62_61
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 61 (62)

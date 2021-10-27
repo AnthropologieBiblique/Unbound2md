@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/21
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 21

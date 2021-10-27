@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Amos

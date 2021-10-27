@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 10

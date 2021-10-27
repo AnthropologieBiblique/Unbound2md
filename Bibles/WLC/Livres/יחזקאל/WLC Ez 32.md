@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/32
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 32

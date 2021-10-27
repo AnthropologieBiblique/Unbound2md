@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/27
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 27

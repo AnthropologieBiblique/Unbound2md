@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 19

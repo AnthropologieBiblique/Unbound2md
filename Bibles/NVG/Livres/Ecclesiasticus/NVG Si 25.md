@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 25

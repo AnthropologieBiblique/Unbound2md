@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 12

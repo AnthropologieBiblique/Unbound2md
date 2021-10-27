@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/17
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Βʹ 17

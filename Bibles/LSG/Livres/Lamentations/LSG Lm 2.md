@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Lm/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lamentations 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/38
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 38

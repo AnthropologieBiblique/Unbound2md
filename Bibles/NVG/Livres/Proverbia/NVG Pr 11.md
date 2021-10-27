@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 11

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/33
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 33

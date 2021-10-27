@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi

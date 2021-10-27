@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/23
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Αʹ 23

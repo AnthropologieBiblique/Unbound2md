@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 20

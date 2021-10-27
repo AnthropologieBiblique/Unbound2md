@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 11

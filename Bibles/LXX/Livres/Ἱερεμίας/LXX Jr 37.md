@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/30
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 37

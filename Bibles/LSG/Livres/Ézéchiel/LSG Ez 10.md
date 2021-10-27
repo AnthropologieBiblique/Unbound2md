@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 10

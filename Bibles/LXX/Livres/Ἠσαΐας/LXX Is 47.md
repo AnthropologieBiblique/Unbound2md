@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/47
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 47

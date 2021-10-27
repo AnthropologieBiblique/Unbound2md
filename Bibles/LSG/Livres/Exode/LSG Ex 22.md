@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 22

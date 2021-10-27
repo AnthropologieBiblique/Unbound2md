@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux 11

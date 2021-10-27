@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/18_17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 18 (17)

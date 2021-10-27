@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/26_25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 26 (25)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 12

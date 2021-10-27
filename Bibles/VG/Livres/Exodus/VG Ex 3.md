@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 3

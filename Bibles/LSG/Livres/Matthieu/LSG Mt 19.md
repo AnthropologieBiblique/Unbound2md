@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 19

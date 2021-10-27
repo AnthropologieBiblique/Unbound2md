@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 6

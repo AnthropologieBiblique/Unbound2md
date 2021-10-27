@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 21

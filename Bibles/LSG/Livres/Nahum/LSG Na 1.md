@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nahum 1

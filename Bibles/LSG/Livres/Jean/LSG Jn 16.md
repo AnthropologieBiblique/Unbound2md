@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 16

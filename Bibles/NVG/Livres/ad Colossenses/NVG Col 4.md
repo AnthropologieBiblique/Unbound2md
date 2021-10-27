@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Colossenses 4

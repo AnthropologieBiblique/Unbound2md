@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 23

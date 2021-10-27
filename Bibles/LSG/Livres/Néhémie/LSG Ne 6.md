@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 6

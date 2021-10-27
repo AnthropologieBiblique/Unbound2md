@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Tm/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Timothée 6

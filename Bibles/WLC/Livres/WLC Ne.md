@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה

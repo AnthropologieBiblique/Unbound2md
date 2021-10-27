@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Titum 2

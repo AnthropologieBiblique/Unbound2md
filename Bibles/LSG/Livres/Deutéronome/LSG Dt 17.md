@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 17

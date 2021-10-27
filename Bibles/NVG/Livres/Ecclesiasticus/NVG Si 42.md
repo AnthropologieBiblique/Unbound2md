@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/42
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 42

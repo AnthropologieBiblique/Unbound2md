@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 11

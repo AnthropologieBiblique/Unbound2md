@@ -206,7 +206,7 @@ class BibleBook:
 		f.write('tags : '+'\n')
 		f.write('- '+'Bible/'+self.standardAbbrev.replace(" ", "")+'\n')
 		f.write('- '+self.language+'\n')
-		f.write('cssclass : bible-'+self.language+'\n')
+		f.write('cssclass : '+self.language+'\n')
 		f.write('---'+'\n\n')
 		f.write('# '+self.name+'\n\n')
 		path+='/'+self.name
@@ -261,7 +261,7 @@ class BibleChapter:
 		f.write('tags : '+'\n')
 		f.write('- '+'Bible/'+self.cleanTag(bookStandardAbbrev)+'/'+self.cleanTag(self.standard_number)+'\n')
 		f.write('- '+self.language+'\n')
-		f.write('cssclass : bible-'+self.language+'\n')
+		f.write('cssclass : '+self.language+'\n')
 		f.write('---'+'\n\n')
 		f.write('# '+bookName+' '+self.number+'\n\n')
 		for verse in self.verseList:

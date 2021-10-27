@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/40
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 40

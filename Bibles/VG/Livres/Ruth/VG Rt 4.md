@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Rt/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ruth 4

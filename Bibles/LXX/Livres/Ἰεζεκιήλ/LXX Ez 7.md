@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 7

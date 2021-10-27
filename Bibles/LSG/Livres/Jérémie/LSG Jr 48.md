@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/48
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 48

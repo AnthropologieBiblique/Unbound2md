@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 6

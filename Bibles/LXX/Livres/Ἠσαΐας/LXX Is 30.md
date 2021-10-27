@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/30
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 30

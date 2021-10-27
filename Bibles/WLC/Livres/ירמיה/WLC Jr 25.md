@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 25

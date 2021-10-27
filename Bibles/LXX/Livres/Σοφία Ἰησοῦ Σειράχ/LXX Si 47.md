@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/47
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 47

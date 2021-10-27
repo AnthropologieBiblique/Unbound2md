@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 10

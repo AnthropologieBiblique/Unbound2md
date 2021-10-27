@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 3

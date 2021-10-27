@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/58
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 58

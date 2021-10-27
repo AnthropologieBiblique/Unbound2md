@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/20
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 20

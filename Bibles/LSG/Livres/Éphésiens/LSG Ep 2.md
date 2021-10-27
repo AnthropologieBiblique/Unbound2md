@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Éphésiens 2

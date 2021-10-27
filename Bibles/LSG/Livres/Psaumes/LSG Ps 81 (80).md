@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/81_80
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 81 (80)

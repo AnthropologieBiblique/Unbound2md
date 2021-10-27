@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tt
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Tite

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/31
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 31

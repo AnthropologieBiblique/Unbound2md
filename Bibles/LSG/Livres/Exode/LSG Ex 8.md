@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 8

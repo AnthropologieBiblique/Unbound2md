@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Samuelis 5

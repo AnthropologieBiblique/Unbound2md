@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 14

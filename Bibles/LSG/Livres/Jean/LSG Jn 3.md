@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 3

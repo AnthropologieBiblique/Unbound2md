@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 6

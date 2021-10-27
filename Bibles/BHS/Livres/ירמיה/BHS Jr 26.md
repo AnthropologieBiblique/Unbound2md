@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 26

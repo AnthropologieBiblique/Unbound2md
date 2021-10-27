@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nahum

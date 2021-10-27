@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Co/7
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 2 Corinthiens 7

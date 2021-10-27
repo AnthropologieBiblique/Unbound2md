@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 13

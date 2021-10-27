@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/25_24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 25 (24)

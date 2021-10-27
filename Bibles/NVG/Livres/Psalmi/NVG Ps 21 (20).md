@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/21_20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 21 (20)

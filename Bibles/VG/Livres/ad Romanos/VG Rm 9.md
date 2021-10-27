@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 9

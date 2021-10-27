@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/40
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 40

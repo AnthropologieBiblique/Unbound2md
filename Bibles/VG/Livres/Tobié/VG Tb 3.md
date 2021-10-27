@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 3

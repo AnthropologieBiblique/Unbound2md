@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/22
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 22

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 9

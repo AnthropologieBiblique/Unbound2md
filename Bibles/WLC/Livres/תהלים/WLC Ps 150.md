@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/150
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 150

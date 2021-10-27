@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/26
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 26

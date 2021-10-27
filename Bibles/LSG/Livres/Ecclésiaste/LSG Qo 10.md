@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 10

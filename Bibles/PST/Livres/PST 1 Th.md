@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Th
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Thessaloniciens

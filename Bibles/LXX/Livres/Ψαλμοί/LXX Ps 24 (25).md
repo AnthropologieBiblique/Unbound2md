@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/25_24
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 24 (25)

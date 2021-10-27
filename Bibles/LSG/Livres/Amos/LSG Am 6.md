@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Amos 6

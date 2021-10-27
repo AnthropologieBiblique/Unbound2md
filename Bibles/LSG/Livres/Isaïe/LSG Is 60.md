@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/60
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 60

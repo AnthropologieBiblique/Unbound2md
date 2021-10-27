@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 16

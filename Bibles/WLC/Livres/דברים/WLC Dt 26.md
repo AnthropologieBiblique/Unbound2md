@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 26

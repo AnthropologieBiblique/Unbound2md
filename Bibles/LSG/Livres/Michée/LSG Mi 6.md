@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Michée 6

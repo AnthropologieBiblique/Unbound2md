@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 2

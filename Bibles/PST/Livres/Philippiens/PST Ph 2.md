@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Philippiens 2

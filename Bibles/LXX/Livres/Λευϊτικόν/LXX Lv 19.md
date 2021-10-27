@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Λευϊτικόν 19

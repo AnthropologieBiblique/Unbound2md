@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 1

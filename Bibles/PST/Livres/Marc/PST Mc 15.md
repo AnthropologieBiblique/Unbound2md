@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/15
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 15

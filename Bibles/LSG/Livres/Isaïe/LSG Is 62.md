@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/62
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 62

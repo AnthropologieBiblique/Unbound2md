@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 3 Regum 13

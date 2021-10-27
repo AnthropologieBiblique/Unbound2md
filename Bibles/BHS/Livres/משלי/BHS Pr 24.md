@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 24

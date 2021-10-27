@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/32
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 32

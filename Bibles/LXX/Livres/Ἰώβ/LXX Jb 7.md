@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/7
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 7

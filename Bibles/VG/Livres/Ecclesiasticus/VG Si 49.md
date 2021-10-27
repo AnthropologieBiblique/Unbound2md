@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/49
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 49

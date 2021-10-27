@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 13

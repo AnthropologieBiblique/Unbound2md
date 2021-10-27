@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/19
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 19

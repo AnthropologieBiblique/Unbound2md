@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe

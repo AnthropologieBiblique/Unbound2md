@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 14

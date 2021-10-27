@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 4

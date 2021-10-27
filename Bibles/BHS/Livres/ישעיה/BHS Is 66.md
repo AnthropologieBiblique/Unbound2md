@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/66
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 66

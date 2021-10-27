@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/20
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 20

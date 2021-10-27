@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/42
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 42

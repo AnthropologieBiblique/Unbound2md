@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/95_94
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 95 (94)

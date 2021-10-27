@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/11
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 11

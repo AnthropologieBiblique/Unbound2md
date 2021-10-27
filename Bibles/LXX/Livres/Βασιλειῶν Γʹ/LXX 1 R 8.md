@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Γʹ 8

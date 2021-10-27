@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 6

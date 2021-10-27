@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 6

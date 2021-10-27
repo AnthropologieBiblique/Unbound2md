@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 5

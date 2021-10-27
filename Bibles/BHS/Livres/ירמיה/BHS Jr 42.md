@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/42
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 42

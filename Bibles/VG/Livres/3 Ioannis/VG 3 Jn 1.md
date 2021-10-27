@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/3Jn/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 3 Ioannis 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/6
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 6

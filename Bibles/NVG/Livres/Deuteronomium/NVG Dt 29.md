@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 29

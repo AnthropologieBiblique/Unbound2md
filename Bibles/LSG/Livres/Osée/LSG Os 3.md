@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Osée 3

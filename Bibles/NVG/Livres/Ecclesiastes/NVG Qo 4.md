@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 4

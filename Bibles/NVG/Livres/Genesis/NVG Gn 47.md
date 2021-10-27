@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/47
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 47

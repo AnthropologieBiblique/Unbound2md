@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 27

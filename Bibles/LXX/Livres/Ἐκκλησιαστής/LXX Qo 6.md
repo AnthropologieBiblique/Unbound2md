@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐκκλησιαστής 6

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 11

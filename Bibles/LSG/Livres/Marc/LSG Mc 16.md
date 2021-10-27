@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 16

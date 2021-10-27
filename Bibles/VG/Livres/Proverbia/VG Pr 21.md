@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 21

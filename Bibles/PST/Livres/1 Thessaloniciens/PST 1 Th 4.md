@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Th/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Thessaloniciens 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 12

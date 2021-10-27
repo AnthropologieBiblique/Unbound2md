@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Philippiens 3

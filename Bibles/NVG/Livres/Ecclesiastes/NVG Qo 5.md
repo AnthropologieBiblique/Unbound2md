@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 5

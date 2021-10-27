@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 17

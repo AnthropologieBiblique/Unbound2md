@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 12

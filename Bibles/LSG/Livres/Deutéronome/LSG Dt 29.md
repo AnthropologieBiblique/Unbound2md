@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/29
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 29

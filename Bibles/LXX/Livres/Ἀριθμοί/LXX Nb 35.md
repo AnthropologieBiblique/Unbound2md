@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/35
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 35

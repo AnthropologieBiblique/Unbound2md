@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/28_27
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 28 (27)

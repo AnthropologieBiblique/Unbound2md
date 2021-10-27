@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Βασιλειῶν Αʹ 19

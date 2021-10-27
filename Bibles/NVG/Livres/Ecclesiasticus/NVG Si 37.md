@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 37

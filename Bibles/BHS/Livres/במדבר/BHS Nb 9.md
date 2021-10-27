@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 9

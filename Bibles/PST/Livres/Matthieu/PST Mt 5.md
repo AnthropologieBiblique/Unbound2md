@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 5

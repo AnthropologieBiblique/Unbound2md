@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/32_31
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 32 (31)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 5

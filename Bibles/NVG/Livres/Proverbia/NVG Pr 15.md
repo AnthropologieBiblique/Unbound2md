@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 15

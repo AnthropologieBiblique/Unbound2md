@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/50
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 50

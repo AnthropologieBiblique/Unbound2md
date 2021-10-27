@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 2

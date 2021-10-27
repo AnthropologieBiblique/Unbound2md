@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שופטים 10

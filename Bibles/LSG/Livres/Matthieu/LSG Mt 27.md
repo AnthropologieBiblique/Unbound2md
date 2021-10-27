@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 27

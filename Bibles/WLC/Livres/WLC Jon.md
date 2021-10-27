@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יונה

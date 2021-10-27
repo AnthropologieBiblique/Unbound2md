@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 19

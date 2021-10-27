@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/30
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 30

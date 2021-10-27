@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nahum 3

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1M/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μακκαβαίων Αʹ 11

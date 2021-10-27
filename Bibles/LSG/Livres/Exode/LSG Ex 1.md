@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode 1

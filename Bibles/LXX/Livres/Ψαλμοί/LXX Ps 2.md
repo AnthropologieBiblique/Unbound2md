@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 2

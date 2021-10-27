@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 22

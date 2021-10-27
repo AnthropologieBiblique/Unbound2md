@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 22

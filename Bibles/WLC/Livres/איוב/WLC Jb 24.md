@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/24
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # איוב 24

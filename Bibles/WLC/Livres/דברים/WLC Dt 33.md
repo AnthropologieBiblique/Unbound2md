@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/33
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 33

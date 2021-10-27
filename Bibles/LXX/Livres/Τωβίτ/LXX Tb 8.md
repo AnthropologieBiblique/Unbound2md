@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 8

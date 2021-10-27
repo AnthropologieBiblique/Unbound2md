@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Iacobi 3

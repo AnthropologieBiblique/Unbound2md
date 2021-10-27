@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 15

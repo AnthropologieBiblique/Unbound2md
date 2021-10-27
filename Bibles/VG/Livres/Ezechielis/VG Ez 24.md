@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 24

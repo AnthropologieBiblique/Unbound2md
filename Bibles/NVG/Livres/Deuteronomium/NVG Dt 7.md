@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/7
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 7

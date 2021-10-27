@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 2

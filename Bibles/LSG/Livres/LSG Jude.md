@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jude
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jude

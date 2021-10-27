@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 3

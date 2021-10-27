@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 11

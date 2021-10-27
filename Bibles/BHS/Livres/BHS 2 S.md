@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2S
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 2 שמואל

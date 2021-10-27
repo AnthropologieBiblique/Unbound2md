@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/31
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 31

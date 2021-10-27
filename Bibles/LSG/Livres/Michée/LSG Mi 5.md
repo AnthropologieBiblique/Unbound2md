@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Michée 5

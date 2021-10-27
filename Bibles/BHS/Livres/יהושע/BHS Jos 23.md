@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 23

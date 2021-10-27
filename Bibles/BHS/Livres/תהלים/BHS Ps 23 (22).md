@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/23_22
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 23 (22)

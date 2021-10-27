@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges

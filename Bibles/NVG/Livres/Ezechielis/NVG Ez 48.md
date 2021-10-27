@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/48
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 48

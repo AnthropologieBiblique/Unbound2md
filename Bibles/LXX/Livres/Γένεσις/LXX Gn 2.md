@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 2

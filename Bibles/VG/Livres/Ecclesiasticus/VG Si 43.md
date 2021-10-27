@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/43
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 43

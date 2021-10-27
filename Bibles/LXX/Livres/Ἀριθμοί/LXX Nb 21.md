@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/21
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 21

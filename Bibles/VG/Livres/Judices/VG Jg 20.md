@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 20

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 20

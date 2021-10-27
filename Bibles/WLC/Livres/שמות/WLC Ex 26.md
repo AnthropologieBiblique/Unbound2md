@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/26
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 26

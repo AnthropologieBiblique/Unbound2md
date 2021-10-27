@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 1

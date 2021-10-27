@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # עזרא 4

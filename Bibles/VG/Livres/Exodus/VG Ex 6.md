@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 6

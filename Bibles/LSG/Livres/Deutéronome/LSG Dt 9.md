@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 9

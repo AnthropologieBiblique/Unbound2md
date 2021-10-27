@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 1

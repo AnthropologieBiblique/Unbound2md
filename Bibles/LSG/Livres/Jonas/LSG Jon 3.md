@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jonas 3

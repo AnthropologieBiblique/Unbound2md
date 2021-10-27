@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 16

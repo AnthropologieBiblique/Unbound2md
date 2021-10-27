@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 7

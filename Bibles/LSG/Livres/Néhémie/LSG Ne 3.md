@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 3

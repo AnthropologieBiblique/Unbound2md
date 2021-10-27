@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 17

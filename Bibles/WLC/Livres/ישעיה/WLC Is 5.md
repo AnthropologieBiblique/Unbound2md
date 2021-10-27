@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 5

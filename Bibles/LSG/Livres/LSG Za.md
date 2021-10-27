@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/14
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 14

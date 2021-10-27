@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Joël 2

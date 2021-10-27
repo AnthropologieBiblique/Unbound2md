@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 3

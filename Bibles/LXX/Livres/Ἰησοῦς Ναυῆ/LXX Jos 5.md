@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰησοῦς Ναυῆ 5

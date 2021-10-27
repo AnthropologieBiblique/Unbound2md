@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/62_61
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 62 (61)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 12

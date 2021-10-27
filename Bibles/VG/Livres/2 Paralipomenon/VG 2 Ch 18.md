@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Paralipomenon 18

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Romanos 8

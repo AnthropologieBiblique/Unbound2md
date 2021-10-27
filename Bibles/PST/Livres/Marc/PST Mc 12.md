@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 12

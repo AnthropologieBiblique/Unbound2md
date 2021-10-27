@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/6
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 6

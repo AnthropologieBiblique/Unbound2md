@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/33
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 33

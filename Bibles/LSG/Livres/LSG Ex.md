@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Exode

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/7
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 7

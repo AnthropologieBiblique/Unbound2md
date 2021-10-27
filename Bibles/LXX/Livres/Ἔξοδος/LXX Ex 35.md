@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/35
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 35

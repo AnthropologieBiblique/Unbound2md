@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/14
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 14

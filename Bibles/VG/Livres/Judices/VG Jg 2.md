@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 2

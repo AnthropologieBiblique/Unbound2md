@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/31_30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 31 (30)

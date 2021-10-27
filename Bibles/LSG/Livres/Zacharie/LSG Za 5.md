@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/82_81
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 82 (81)

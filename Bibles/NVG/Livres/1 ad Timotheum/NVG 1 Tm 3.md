@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Tm/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 ad Timotheum 3

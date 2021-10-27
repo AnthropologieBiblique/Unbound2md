@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 11

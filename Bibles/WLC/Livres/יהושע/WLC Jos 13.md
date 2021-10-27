@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 13

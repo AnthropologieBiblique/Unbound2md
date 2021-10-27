@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther 4

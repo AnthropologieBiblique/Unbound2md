@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 11

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 10

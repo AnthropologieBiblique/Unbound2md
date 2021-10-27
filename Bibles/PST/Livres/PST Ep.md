@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Éphésiens

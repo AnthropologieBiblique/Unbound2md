@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί

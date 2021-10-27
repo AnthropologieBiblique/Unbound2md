@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Michée 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/25
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 25

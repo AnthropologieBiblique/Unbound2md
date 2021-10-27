@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 17

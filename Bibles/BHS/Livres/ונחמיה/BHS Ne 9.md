@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 9

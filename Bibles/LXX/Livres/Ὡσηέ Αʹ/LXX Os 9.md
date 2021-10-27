@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὡσηέ Αʹ 9

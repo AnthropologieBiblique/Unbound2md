@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Lucam 22

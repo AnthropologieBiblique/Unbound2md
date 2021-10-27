@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 8

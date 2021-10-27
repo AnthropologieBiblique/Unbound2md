@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 11

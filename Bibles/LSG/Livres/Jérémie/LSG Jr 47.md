@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/47
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 47

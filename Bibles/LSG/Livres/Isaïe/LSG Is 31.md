@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/31
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 31

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 5

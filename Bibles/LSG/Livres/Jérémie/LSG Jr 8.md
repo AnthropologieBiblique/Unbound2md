@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 8

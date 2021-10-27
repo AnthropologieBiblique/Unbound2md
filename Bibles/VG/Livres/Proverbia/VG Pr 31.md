@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/31
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 31

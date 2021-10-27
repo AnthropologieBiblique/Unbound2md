@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 26

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 9

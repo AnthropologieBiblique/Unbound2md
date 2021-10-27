@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 4

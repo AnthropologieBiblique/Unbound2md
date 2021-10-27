@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 16

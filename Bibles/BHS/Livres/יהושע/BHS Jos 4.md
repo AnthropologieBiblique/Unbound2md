@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 4

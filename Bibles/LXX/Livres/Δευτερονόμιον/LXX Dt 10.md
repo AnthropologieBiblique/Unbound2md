@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 10

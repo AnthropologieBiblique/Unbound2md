@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 11

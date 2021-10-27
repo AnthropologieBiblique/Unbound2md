@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 9

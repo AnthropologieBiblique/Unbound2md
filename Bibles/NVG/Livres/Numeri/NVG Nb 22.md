@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 22

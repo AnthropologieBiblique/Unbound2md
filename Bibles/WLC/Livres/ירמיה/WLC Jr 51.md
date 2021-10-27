@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/51
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 51

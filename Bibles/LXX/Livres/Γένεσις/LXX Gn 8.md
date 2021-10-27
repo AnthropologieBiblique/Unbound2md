@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 8

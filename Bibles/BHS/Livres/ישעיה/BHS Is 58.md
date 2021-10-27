@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/58
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 58

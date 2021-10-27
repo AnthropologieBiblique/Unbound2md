@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 14

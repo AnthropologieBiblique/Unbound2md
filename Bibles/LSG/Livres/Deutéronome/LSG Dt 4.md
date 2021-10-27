@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 4

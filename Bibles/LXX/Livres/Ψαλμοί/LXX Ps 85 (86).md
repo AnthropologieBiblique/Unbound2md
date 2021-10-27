@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/86_85
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 85 (86)

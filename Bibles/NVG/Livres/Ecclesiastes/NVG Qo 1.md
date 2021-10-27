@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 1

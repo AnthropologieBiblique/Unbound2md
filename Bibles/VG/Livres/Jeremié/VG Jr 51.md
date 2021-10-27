@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/51
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 51

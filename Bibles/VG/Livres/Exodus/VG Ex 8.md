@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 8

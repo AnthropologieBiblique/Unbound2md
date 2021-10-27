@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Tm/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Timothée 5

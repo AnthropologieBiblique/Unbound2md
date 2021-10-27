@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos

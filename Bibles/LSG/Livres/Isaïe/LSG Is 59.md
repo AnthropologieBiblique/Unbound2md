@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/59
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 59

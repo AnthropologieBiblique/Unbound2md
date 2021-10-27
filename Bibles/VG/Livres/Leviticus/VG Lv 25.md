@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 25

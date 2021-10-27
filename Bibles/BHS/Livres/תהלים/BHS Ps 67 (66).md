@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/67_66
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 67 (66)

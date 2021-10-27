@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/21
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 21

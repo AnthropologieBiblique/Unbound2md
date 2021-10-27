@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/12
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 12

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παροιμίαι 19

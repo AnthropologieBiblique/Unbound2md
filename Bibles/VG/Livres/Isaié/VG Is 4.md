@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 4

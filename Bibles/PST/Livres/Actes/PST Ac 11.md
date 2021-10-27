@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 11

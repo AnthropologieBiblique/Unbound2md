@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/96_95
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 96 (95)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/21
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 21

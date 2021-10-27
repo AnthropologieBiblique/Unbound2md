@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מיכה 2

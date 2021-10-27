@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie

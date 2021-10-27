@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/87_86
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 87 (86)

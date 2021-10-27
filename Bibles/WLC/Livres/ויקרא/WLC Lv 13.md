@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 13

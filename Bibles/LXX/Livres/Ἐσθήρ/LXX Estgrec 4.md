@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Estgrec/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐσθήρ 4

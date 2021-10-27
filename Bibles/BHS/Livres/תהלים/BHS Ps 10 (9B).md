@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/10_9B
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 10 (9B)

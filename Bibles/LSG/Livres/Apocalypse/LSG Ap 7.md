@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 7

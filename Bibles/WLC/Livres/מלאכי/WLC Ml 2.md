@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/2
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # מלאכי 2

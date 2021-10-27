@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/39_38
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 39 (38)

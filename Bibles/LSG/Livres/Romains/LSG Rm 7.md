@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 7

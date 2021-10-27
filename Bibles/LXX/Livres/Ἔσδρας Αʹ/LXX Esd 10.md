@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/10
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔσδρας Αʹ 10

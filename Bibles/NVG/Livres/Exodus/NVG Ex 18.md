@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/18
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 18

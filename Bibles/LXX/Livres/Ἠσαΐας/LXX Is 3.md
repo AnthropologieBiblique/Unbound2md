@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 3

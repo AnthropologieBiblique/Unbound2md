@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Baruch 4

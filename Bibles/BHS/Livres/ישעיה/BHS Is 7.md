@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/7
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 7

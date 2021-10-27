@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/22
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 22

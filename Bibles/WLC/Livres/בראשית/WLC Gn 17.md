@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 17

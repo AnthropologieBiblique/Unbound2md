@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/41
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 41

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 18

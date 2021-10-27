@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/26
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 26

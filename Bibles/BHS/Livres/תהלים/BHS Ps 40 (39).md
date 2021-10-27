@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/40_39
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 40 (39)

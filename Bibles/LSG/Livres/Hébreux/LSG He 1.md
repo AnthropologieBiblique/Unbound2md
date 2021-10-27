@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 1

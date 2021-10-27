@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/42
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 42

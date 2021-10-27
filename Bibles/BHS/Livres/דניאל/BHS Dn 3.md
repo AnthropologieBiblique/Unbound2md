@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דניאל 3

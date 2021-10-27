@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 4

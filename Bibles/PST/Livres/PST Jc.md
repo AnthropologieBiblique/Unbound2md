@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jc
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jacques

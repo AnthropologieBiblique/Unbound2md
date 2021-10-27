@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/40
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 40

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/35
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 35

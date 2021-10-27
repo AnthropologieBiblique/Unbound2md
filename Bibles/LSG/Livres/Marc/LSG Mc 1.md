@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Marc 1

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/35
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 42

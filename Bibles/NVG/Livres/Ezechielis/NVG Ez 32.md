@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/32
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 32

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 36

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/46
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 46

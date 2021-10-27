@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/15
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 15

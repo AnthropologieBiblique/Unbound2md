@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Am/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀμώς Βʹ 6

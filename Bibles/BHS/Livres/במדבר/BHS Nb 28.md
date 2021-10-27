@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/28
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 28

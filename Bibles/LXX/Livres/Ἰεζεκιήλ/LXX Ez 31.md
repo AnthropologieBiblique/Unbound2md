@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/31
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 31

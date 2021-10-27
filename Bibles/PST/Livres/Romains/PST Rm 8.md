@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/8
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 8

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 10

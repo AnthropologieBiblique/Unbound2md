@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Malachie 2

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰουδίθ 4

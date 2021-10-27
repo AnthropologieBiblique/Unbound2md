@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # 1 דברי הימים

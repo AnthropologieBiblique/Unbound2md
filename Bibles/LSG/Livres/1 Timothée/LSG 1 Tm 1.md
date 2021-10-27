@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Tm/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Timothée 1

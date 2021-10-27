@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/36
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 36

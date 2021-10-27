@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Od/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ὠδαί 1

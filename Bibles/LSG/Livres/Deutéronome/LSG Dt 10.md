@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 10

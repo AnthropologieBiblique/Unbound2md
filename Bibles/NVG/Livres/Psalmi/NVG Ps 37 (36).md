@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/37_36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 37 (36)

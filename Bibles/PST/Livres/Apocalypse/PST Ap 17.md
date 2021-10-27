@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/17
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 17

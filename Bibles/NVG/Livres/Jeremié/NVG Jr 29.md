@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 29

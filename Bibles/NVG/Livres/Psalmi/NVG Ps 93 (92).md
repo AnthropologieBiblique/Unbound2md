@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/93_92
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 93 (92)

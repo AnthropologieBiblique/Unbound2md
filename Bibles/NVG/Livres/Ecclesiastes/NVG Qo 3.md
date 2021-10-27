@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 3

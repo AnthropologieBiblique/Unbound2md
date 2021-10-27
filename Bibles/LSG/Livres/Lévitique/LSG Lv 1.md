@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Lévitique 1

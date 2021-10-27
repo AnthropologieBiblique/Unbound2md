@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 17

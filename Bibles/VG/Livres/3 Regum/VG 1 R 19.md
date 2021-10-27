@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1R/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 3 Regum 19

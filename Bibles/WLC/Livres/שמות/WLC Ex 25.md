@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 25

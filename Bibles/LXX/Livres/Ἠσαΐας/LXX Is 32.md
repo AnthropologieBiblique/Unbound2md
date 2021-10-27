@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/32
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 32

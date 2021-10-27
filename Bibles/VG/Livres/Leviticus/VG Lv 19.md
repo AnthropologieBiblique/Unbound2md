@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/19
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 19

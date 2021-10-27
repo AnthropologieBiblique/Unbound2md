@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/16
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 16

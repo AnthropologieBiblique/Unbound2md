@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/78_77
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 78 (77)

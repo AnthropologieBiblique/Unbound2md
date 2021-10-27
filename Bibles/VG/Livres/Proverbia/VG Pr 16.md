@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/16
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 16

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 34

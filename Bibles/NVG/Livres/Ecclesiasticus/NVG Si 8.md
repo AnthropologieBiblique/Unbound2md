@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 8

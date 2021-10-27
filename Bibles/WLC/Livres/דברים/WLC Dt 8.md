@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 8

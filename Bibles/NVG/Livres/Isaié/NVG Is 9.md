@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 9

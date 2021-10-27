@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Michée 4

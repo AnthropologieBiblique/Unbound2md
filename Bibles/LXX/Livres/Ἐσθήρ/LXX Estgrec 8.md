@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Estgrec/8
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐσθήρ 8

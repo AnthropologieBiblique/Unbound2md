@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Job 11

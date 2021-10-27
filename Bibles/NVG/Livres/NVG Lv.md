@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus

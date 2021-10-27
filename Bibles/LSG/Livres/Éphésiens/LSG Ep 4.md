@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Éphésiens 4

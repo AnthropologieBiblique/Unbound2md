@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 23

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/17
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Jean 17

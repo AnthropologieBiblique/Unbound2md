@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 4

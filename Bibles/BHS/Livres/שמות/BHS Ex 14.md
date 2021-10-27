@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 14

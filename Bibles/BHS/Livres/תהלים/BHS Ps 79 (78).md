@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/79_78
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 79 (78)

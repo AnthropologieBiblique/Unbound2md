@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 14

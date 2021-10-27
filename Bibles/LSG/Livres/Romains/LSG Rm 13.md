@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 13

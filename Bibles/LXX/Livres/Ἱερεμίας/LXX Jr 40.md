@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/33
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 40

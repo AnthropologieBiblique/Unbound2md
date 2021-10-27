@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jon
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰωνᾶς Ϛ'

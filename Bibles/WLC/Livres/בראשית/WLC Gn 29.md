@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 29

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/2
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 2

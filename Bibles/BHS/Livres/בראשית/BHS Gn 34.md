@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 34

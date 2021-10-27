@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ab/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Abdié 1

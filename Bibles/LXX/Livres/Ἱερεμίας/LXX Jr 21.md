@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/21
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 21

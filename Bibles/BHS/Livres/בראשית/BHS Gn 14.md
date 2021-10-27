@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/14
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 14

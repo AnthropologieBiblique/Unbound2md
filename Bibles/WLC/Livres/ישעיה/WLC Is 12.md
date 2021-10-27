@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 12

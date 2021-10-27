@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/33
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 33

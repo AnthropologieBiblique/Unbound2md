@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué

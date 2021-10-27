@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Σοφία Ἰησοῦ Σειράχ 6

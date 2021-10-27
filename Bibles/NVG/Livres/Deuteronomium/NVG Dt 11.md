@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/11
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 11

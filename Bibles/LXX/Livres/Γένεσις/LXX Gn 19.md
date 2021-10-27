@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/19
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 19

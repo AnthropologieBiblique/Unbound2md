@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/11
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 11

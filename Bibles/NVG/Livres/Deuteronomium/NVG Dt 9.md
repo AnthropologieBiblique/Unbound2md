@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 9

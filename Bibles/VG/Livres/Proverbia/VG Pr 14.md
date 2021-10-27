@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 14

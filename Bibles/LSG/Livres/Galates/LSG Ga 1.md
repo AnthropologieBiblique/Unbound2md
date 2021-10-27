@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Galates 1

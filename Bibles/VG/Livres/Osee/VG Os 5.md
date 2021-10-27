@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Os/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Osee 5

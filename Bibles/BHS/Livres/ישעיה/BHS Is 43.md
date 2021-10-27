@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/43
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 43

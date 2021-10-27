@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/43
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 43

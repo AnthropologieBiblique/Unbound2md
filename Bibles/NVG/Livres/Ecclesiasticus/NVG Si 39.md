@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/39
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 39

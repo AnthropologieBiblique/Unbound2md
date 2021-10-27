@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 20

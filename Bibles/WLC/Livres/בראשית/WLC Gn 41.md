@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/41
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 41

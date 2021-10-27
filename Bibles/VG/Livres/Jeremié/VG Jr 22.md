@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 22

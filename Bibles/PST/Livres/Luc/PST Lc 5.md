@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 5

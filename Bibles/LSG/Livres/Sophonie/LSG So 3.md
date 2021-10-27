@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/So/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Sophonie 3

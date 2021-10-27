@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/15
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἀριθμοί 15

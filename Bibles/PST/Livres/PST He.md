@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Hébreux

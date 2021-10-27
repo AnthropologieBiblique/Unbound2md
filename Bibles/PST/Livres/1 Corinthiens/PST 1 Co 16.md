@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Co/16
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Corinthiens 16

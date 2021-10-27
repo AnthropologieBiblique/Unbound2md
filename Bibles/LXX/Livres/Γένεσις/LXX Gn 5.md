@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 5

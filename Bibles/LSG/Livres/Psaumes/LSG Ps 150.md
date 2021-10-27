@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/150
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 150

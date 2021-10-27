@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/9
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 9

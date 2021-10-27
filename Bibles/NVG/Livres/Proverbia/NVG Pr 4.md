@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 4

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2R/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 4 Regum 20

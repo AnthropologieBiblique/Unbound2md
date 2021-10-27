@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/12
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Τωβίτ 12

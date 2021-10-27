@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Colossenses

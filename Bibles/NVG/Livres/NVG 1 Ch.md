@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Ch
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Paralipomenon

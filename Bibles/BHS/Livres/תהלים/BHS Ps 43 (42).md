@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/43_42
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 43 (42)

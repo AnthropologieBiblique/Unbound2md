@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Phm
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Philémon

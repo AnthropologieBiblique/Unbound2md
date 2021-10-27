@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 5

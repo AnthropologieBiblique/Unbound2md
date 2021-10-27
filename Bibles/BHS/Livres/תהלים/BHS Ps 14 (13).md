@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/14_13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 14 (13)

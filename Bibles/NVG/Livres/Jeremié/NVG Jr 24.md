@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 24

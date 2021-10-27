@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/21
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 21

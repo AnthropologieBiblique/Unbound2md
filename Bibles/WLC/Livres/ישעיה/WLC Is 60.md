@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/60
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 60

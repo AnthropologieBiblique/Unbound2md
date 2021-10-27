@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 24

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 2

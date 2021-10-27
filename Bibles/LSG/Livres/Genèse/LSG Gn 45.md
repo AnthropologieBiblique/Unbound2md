@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/45
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 45

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Μιχαίας Γʹ 6

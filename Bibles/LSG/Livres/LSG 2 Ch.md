@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 2 Chroniques

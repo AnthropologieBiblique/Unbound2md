@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δανιήλ

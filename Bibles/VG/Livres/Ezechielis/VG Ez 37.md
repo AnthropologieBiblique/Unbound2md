@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/37
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 37

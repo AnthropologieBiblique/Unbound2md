@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/43
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 43

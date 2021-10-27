@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 13

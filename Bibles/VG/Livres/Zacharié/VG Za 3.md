@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 3

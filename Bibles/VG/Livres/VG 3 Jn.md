@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/3Jn
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 3 Ioannis

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/17
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 17

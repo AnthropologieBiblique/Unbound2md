@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/34
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 34

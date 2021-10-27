@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/34
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 34

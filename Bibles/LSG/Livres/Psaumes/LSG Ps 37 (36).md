@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/37_36
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 37 (36)

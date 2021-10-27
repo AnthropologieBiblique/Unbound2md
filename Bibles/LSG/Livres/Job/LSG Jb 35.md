@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/35
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 35

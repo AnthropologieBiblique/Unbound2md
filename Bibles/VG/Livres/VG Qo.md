@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes

@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Baruch 3

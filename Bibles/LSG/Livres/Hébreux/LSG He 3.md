@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Hébreux 3

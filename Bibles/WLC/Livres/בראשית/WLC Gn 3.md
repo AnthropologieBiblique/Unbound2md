@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 3

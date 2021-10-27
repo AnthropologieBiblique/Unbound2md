@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Deutéronome 28

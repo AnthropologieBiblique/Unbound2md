@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/10
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # משלי 10

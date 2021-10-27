@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/48
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 48

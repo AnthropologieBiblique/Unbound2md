@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/36_35
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 35 (36)

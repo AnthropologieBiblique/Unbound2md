@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/3
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Éphésiens 3

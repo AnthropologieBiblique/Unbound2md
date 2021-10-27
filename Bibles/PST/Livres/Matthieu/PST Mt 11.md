@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 11

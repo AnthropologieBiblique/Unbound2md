@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Co/4
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Corinthiens 4

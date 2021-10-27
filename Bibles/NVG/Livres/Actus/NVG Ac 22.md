@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/22
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 22

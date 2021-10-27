@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/26
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 26

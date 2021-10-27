@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Ba
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Baruch

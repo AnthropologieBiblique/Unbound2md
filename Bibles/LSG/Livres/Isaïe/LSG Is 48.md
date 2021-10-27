@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/48
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 48

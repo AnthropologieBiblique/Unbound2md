@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 18

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Marcum 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 1

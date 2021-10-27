@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Josue 9

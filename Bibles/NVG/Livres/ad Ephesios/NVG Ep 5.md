@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ep/5
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Ephesios 5

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ecclésiaste 1

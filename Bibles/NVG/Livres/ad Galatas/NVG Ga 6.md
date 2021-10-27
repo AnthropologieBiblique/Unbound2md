@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/6
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Galatas 6

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 10

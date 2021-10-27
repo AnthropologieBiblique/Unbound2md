@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 23

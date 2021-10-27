@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Na/1
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ναούμ Ζʹ 2

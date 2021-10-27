@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/1
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יואל 1

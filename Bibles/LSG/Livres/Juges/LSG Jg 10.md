@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 10

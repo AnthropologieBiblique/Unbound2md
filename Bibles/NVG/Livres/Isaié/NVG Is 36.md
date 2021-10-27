@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 36

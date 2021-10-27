@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/23
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Isaié 23

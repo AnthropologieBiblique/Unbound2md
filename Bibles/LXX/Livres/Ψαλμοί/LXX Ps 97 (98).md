@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/98_97
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 97 (98)

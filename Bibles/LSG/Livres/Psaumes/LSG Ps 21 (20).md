@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/21_20
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 21 (20)

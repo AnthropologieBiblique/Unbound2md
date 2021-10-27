@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 24

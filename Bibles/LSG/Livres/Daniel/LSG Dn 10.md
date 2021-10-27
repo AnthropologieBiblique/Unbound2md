@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Dn/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Daniel 10

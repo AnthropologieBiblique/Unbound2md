@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ζαχαρίας ΙΑʹ 5

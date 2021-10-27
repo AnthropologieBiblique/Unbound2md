@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/5
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ונחמיה 5

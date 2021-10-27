@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/24
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Job 24

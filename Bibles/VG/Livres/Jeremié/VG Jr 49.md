@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/49
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 49

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/20
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 21

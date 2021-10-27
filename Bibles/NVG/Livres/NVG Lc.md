@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Lucam

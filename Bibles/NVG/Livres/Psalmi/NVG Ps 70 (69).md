@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/70_69
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 70 (69)

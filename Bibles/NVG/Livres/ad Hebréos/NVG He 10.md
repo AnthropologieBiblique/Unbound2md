@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/He/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Hebréos 10

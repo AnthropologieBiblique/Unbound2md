@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # secundum Marcum 10

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/18
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 18

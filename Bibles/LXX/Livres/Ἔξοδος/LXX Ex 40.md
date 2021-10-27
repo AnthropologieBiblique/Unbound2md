@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/40
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 40

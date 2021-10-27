@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 2

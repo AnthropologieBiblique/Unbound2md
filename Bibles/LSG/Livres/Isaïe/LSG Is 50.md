@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/50
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 50

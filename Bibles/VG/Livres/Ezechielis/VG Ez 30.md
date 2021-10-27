@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 30

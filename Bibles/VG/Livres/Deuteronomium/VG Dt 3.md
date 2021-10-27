@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 3

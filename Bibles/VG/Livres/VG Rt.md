@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Rt
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ruth

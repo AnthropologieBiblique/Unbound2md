@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Malachie 3

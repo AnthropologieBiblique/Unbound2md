@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 12

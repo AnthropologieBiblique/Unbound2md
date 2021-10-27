@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/9
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 9

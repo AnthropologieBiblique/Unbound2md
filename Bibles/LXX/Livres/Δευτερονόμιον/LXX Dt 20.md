@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Δευτερονόμιον 20

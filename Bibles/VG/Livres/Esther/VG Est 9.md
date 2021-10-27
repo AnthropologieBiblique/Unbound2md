@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/12
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 12

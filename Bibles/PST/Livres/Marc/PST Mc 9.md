@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mc/9
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Marc 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/21
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 21

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 23

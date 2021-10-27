@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est/5
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esther 5

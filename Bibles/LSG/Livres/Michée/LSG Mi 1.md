@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Michée 1

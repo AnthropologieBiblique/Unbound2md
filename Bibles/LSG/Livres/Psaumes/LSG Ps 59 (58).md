@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/59_58
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 59 (58)

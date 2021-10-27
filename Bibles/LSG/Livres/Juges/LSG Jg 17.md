@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 17

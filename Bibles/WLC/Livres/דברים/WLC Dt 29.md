@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 29

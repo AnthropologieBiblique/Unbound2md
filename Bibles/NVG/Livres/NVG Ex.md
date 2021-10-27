@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus

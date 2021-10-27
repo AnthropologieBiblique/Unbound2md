@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 3

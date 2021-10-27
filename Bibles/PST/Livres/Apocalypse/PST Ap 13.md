@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/13
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Apocalypse 13

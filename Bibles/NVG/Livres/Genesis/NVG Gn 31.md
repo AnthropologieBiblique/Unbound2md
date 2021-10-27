@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/31
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 31

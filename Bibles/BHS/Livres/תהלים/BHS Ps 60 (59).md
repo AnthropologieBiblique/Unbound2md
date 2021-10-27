@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/60_59
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 60 (59)

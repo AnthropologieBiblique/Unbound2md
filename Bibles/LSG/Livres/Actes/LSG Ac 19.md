@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 19

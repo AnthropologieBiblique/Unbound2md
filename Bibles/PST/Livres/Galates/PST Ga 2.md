@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/2
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Galates 2

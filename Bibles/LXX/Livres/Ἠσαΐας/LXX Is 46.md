@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/46
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 46

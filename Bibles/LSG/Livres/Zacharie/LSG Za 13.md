@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Zacharie 13

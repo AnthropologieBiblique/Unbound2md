@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/34
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יחזקאל 34

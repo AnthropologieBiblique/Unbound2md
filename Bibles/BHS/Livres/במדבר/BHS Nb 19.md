@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 19

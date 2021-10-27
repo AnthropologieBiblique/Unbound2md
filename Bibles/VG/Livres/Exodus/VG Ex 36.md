@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/36
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 36

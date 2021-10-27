@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/41
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 41

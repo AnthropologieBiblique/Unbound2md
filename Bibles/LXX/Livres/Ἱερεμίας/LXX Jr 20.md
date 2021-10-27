@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/20
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 20

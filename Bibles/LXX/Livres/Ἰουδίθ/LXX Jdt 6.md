@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jdt/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰουδίθ 6

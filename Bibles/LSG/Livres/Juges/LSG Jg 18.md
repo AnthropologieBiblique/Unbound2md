@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/18
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Juges 18

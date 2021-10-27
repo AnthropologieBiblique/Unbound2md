@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/3Jn/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 3 Jean 1

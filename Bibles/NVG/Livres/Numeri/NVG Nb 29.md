@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/29
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Numeri 29

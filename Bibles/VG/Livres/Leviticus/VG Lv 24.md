@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Leviticus 24

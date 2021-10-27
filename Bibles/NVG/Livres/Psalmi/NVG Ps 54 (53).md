@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/54_53
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 54 (53)

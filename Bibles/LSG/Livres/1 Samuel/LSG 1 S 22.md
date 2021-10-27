@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/22
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # 1 Samuel 22

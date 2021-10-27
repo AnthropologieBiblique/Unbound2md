@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lv/23
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ויקרא 23

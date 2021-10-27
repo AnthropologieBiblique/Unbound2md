@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/31
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Genèse 31

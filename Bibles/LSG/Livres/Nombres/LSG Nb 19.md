@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 19

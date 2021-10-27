@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/44
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Genesis 44

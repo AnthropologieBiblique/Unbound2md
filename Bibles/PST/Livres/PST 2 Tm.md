@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Tm
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 2 Timothée

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ab
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # עובדיה

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jl/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Joël 3

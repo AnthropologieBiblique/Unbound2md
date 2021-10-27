@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 11

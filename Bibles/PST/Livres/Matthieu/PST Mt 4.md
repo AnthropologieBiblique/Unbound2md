@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 4

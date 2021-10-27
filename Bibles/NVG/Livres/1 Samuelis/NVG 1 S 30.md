@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1S/30
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Samuelis 30

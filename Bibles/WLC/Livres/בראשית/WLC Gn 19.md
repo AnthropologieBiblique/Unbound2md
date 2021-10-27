@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/19
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 19

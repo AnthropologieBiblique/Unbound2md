@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/11
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Romains 11

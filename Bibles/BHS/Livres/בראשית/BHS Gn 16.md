@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 16

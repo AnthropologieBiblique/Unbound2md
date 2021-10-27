@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 1

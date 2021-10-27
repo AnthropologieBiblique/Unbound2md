@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 12

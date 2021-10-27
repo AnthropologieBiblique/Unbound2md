@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/46
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 46

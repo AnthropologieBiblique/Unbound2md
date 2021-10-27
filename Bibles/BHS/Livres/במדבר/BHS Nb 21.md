@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/21
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 21

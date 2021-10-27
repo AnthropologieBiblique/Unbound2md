@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 11

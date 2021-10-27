@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/38
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # שמות 38

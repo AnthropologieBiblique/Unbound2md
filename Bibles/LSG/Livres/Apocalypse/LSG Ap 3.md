@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ap/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Apocalypse 3

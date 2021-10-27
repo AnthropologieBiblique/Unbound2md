@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἔξοδος 37

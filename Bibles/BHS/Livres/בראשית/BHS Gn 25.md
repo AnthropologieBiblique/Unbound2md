@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/25
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 25

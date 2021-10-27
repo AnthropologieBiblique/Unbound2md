@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/4
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Zacharié 4

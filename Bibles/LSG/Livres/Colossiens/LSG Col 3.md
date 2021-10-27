@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Colossiens 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/6
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 6

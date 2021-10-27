@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/55_54
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 54 (55)

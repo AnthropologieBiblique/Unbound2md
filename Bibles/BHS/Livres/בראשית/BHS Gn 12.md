@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 12

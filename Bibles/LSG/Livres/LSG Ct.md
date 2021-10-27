@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ct
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Cantique des cantiques

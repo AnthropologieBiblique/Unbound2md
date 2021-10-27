@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/11
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Néhémie 11

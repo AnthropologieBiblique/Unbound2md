@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/1Jn/5
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # 1 Jean 5

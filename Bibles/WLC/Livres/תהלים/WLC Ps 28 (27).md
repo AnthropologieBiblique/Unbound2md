@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/28_27
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 28 (27)

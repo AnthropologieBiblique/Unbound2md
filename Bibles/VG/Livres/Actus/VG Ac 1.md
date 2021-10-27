@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 1

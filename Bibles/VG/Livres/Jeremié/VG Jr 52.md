@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/52
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Jeremié 52

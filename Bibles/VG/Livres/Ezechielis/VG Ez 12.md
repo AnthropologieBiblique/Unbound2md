@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/12
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 12

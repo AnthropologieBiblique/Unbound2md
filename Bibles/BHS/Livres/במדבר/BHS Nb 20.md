@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # במדבר 20

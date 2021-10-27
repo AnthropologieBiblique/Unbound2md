@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/87_86
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 87 (86)

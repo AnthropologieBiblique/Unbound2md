@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/14
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Luc 14

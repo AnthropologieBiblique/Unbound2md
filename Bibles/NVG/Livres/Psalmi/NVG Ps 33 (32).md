@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/33_32
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Psalmi 33 (32)

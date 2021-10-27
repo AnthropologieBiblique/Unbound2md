@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/5
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Κριταί 5

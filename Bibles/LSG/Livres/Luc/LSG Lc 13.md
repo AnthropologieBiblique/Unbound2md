@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/13
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 13

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/29
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ירמיה 29

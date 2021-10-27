@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jg/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Judices 13

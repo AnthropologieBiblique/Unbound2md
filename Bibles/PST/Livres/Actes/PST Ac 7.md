@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/7
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Actes 7

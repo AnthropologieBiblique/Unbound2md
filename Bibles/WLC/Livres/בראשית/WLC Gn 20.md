@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/20
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 20

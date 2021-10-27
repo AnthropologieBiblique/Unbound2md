@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/23
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 23

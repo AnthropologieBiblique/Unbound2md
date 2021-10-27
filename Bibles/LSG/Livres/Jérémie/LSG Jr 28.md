@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/28
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 28

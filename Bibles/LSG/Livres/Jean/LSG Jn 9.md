@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/9
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 9

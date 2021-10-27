@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Tb/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Tobié 14

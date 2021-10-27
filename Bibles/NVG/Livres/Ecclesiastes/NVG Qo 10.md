@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/10
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiastes 10

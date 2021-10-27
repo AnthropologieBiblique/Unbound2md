@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/41_40
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 40 (41)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/48
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἠσαΐας 48

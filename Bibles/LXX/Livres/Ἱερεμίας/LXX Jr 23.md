@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/23
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 23

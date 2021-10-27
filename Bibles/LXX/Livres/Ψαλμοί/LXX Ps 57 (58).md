@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/58_57
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 57 (58)

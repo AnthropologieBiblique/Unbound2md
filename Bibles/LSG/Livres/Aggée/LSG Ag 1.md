@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ag/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Aggée 1

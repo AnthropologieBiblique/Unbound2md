@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jn/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jean 17

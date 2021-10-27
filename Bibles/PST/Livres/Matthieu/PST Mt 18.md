@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/18
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Matthieu 18

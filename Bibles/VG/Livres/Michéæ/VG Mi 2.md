@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mi/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Michéæ 2

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Mt/8
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Matthieu 8

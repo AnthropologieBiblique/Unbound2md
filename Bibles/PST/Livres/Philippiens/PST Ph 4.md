@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/4
 - araméen
-cssclass : bible-araméen
+cssclass : araméen
 ---
 
 # Philippiens 4

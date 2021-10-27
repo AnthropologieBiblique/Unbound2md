@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/8
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # בראשית 8

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/9
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 9

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Esd/3
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Esdras 3

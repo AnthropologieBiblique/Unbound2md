@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ne/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Nehemié 3

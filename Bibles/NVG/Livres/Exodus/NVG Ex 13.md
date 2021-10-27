@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ex/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Exodus 13

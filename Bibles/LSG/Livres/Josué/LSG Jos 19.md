@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Josué 19

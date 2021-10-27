@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 12

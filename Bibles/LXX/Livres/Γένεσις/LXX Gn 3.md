@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn/3
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις 3

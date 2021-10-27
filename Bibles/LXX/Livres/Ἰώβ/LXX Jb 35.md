@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Jb/35
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰώβ 35

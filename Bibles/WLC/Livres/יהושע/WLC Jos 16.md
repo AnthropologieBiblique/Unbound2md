@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jos/16
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # יהושע 16

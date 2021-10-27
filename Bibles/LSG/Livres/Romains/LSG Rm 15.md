@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Rm/15
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Romains 15

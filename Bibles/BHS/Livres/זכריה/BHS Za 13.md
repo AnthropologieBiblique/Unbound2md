@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Za/13
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # זכריה 13

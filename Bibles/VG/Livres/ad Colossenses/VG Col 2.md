@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Col/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Colossenses 2

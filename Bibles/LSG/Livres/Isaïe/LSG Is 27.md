@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/27
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 27

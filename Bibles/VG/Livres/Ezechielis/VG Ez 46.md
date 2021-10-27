@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/46
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ezechielis 46

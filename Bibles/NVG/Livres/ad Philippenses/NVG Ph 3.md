@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ph/3
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Philippenses 3

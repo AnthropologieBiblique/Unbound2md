@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/26_25
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 25 (26)

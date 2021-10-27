@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Si/14
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Ecclesiasticus 14

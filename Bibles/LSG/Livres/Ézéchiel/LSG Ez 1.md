@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/1
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Ézéchiel 1

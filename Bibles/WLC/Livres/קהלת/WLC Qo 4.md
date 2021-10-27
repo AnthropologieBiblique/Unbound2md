@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/4
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # קהלת 4

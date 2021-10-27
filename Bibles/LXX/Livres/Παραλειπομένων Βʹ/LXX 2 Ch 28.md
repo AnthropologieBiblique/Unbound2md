@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/2Ch/28
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Παραλειπομένων Βʹ 28

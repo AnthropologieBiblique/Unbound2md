@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/2M/8
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 2 Machabéorum 8

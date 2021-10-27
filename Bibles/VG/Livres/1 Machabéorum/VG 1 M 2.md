@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/1M/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # 1 Machabéorum 2

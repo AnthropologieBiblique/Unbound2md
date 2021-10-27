@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/52
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 52

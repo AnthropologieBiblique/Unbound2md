@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/42
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 42

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/13
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Proverbia 13

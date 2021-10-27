@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/36
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἱερεμίας 43

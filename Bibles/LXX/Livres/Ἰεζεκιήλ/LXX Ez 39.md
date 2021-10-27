@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/39
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 39

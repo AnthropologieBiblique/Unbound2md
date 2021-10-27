@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/24
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Actus 24

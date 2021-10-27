@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/47_46
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 47 (46)

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Gn
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Γένεσις

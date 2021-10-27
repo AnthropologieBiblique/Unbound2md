@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ac/17
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Actes 17

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ml/1
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Malachié 1

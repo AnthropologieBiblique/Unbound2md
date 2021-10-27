@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres

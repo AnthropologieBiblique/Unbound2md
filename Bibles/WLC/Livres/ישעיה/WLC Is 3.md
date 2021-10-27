@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/3
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # ישעיה 3

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Lc/7
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Luc 7

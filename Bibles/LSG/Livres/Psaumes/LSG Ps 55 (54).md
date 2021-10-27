@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/55_54
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 55 (54)

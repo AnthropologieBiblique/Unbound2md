@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/17
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # דברים 17

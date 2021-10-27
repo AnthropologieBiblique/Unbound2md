@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/9_9A
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 9A (9)

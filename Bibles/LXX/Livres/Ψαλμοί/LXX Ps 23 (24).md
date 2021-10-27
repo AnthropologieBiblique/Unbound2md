@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/24_23
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 23 (24)

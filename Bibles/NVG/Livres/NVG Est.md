@@ -6,7 +6,7 @@ aliases :
 tags : 
 - Bible/Est
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Esther

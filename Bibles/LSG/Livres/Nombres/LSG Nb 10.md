@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Nb/10
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Nombres 10

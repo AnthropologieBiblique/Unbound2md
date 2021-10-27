@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Pr/19
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Proverbes 19

@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Dt/25
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # Deuteronomium 25

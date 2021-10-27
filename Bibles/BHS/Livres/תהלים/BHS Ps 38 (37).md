@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/38_37
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # תהלים 38 (37)

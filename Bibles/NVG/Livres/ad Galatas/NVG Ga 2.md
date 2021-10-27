@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ga/2
 - latin
-cssclass : bible-latin
+cssclass : latin
 ---
 
 # ad Galatas 2

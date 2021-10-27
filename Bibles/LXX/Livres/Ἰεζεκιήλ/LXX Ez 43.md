@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ez/43
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἰεζεκιήλ 43

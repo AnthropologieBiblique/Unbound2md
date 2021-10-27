@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ha/2
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Habaquq 2

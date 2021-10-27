@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/12
 - hébreu
-cssclass : bible-hébreu
+cssclass : hébreu
 ---
 
 # קהלת 12

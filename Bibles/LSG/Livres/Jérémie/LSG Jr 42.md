@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Jr/42
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Jérémie 42

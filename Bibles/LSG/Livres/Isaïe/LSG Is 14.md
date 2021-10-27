@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Is/14
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Isaïe 14

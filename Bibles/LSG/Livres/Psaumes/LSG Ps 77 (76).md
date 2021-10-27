@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/77_76
 - français
-cssclass : bible-français
+cssclass : français
 ---
 
 # Psaumes 77 (76)

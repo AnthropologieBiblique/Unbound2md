@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Qo/4
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ἐκκλησιαστής 4

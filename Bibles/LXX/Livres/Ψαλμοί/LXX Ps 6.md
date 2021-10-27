@@ -7,7 +7,7 @@ aliases :
 tags : 
 - Bible/Ps/6
 - grec
-cssclass : bible-grec
+cssclass : grec
 ---
 
 # Ψαλμοί 6
