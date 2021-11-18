@@ -275,12 +275,16 @@ class BibleVerse:
 		self.sub_number = sub_number
 		self.verseText = verseText
 
-lsg = Bible("Louis Segond","french_lsg","LSG",False,True,"français")
-pes = Bible("Peshitta","peshitta","PST",False,True,"araméen")
-vul = Bible("Vulgata Clementina","latin_vulgata_clementina","VG",True,False,"latin")
-novVul = Bible("Nova Vulgata","latin_nova_vulgata","NVG",True,True,"latin")
-hebrew = Bible("Hebrew BHS accents","hebrew_bhs_vowels","BHS",True,True,"hébreu")
-lxx = Bible("Septante accentuée","lxx_a_accents","LXX",True,False,"grec")
-wlc = Bible("Hebrew WLC","wlc","WLC",True,True,"hébreu")
+#lsg = Bible("Louis Segond","french_lsg","LSG",False,True,"français")
+#pes = Bible("Peshitta","peshitta","PST",False,True,"araméen")
+#vul = Bible("Vulgata Clementina","latin_vulgata_clementina","VG",True,False,"latin")
+#novVul = Bible("Nova Vulgata","latin_nova_vulgata","NVG",True,True,"latin")
+#hebrew = Bible("Hebrew BHS accents","hebrew_bhs_vowels","BHS",True,True,"hébreu")
+#lxx = Bible("Septante accentuée","lxx_a_accents","LXX",True,False,"grec")
+#wlc = Bible("Hebrew WLC","wlc","WLC",True,True,"hébreu")
 #web = Bible("English WEB","web","WEB",True,True,"anglais")
+
+textus = Bible("Textus Receptus","greek_textus_receptus","TXR",True,False,"grec")
+tisch = Bible("Tischendorf","greek_tischendorf","TIS",True,False,"grec")
+
 
