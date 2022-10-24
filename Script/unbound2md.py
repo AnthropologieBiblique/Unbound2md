@@ -6,7 +6,7 @@ import markdownify
 import pathlib
 
 class Bible:
-	def __init__(self,name,unbound_name,abbrev,NRSVA_mapping,hebraic,language):
+	def __init__(self,name,unbound_name,abbrev,NRSVA_mapping,hebraic,language,direction):
 		self.name = name
 		self.unbound_name = unbound_name
 		self.abbrev = abbrev
@@ -21,6 +21,7 @@ class Bible:
 		self.hebraicPsTable = {}
 		self.lxxPsTable = {}
 		self.booksList = []
+		self.direction = direction
 		self.createBooksNames()
 		self.createBooksAbbrev()
 		self.createBooksStandardNames()
@@ -87,12 +88,13 @@ class Bible:
 						self.booksStandardNames[bookStandardRef],
 						self.booksStandardAbbrev[bookStandardRef],
 						self.booksEnglishNames[bookStandardRef],
-						self.language)
+						self.language,
+						self.direction)
 					chapterRef = row[4]
 					chapterStandardRef = row[1]
 					chapter = BibleChapter(book.standardAbbrev,
 						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
-						chapterRef,chapterStandardRef,self.language)
+						chapterRef,chapterStandardRef,self.language,self.direction)
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
 					flag = True
 				elif row[4]!=chapterRef:
@@ -101,7 +103,7 @@ class Bible:
 					chapterStandardRef = row[1]
 					chapter = BibleChapter(book.standardAbbrev,
 						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
-						chapterRef,chapterStandardRef,self.language)
+						chapterRef,chapterStandardRef,self.language,self.direction)
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
 				else :
 					chapter.addVerse(BibleVerse(row[5],row[6],row[8]))
@@ -127,12 +129,13 @@ class Bible:
 						self.booksStandardNames[bookStandardRef],
 						self.booksStandardAbbrev[bookStandardRef],
 						self.booksEnglishNames[bookStandardRef],
-						self.language)
+						self.language,
+						self.direction)
 					chapterRef = row[1]
 					chapterStandardRef = chapterRef
 					chapter = BibleChapter(book.standardAbbrev,
 						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
-						chapterRef,chapterStandardRef,self.language)
+						chapterRef,chapterStandardRef,self.language,self.direction)
 					chapter.addVerse(BibleVerse(row[2],'',row[3]))
 					flag = True
 				elif row[1]!=chapterRef:
@@ -141,7 +144,7 @@ class Bible:
 					chapterStandardRef = chapterRef
 					chapter = BibleChapter(book.standardAbbrev,
 						self.hebraic,self.hebraicPsTable,self.lxxPsTable,
-						chapterRef,chapterStandardRef,self.language)
+						chapterRef,chapterStandardRef,self.language,self.direction)
 					chapter.addVerse(BibleVerse(row[2],'',row[3]))
 				else :
 					chapter.addVerse(BibleVerse(row[2],'',row[3]))
@@ -156,6 +159,7 @@ class Bible:
 		f.write('---'+'\n')
 		f.write('tags : '+'Bible'+', '+self.language+'\n')
 		f.write('cssclass : '+self.language+'\n')
+		f.write('direction : '+self.direction+'\n')
 		f.write('---'+'\n')
 		f.write('# '+self.name+'\n\n')
 		f.write('[['+self.abbrev+' Mentions légales]]'+'\n\n')
@@ -175,7 +179,7 @@ class Bible:
 
 
 class BibleBook:
-	def __init__(self,name,abbrev,standardName,standardAbbrev,englishName,language):
+	def __init__(self,name,abbrev,standardName,standardAbbrev,englishName,language,direction):
 		self.name = name
 		self.abbrev = abbrev
 		self.standardName = standardName
@@ -184,18 +188,16 @@ class BibleBook:
 		self.language = language
 		self.numberChapters = 0
 		self.chapterList = []
+		self.direction = direction
 	def addChapter(self,chapter):
 		self.chapterList.append(chapter)
 	def buildMdBible(self,bibleAbbrev,path):
 		name = bibleAbbrev+' '+self.standardAbbrev
 		path += '/Livres'
-		try:
-			os.mkdir(path)
-		except FileExistsError:
-			pass
+		pathlib.Path(path).mkdir(parents=True, exist_ok=True)
 		f = open(path+'/'+name+'.md', 'w')
 		f.write('---'+'\n')
-		f.write('aliases : '+'\n')
+		f.write('bibleKeys : '+'\n')
 		f.write('- '+self.name+'\n')
 		f.write('- '+self.standardName+'\n')
 		f.write('- '+self.standardAbbrev+'\n')
@@ -205,6 +207,7 @@ class BibleBook:
 		f.write('- '+'Bible/'+self.standardAbbrev.replace(" ", "")+'\n')
 		f.write('- '+self.language+'\n')
 		f.write('cssclass : '+self.language+'\n')
+		f.write('direction : '+self.direction+'\n')
 		f.write('---'+'\n\n')
 		f.write('# '+self.name+'\n\n')
 		path+='/'+self.name
@@ -214,7 +217,7 @@ class BibleBook:
 		f.close()
 
 class BibleChapter:
-	def __init__(self,bookStandardAbbrev,hebraic,hebraicPsTable,lxxPsTable,number,standard_number,language):
+	def __init__(self,bookStandardAbbrev,hebraic,hebraicPsTable,lxxPsTable,number,standard_number,language,direction):
 		if bookStandardAbbrev == 'Ps':
 			if hebraic:
 				if number != hebraicPsTable[number]:
@@ -235,6 +238,7 @@ class BibleChapter:
 			self.standard_number = standard_number
 		self.language = language
 		self.verseList = []
+		self.direction = direction
 	def cleanTag(self,string):
 		string = string.replace(" ","")
 		string = string.replace("(","_")
@@ -244,13 +248,10 @@ class BibleChapter:
 		self.verseList.append(verse)
 	def buildMdBible(self,bibleAbbrev,bookName,bookAbbrev,bookStandardName,bookStandardAbbrev,bookEnglishName,path):
 		name = bibleAbbrev +' '+bookAbbrev+' '+self.number
-		try:
-			os.mkdir(path)
-		except FileExistsError:
-			pass
+		pathlib.Path(path).mkdir(parents=True, exist_ok=True)
 		f = open(path+'/'+name+'.md', 'w')
 		f.write('---'+'\n')
-		f.write('aliases : '+'\n')
+		f.write('bibleKeys : '+'\n')
 		f.write('- '+bookName+' '+self.number+'\n')
 		f.write('- '+bookStandardName+' '+self.standard_number+'\n')
 		f.write('- '+bookStandardAbbrev+' '+self.standard_number+'\n')
@@ -260,6 +261,7 @@ class BibleChapter:
 		f.write('- '+'Bible/'+self.cleanTag(bookStandardAbbrev)+'/'+self.cleanTag(self.standard_number)+'\n')
 		f.write('- '+self.language+'\n')
 		f.write('cssclass : '+self.language+'\n')
+		f.write('direction : '+self.direction+'\n')
 		f.write('---'+'\n\n')
 		f.write('# '+bookName+' '+self.number+'\n\n')
 		for verse in self.verseList:
@@ -273,15 +275,15 @@ class BibleVerse:
 		self.sub_number = sub_number
 		self.verseText = verseText
 
-lsg = Bible("Louis Segond","french_lsg","LSG",False,True,"français")
-pes = Bible("Peshitta","peshitta","PST",False,True,"araméen")
-vul = Bible("Vulgata Clementina","latin_vulgata_clementina","VG",True,False,"latin")
-novVul = Bible("Nova Vulgata","latin_nova_vulgata","NVG",True,True,"latin")
-hebrew = Bible("Hebrew BHS accents","hebrew_bhs_vowels","BHS",True,True,"hébreu")
-lxx = Bible("Septante accentuée","lxx_a_accents","LXX",True,False,"grec")
+lsg = Bible("Louis Segond","french_lsg","LSG",False,True,"français","ltr")
+pes = Bible("Peshitta","peshitta","PST",False,True,"araméen","rtl")
+vul = Bible("Vulgata Clementina","latin_vulgata_clementina","VG",True,False,"latin","ltr")
+novVul = Bible("Nova Vulgata","latin_nova_vulgata","NVG",True,True,"latin","ltr")
+hebrew = Bible("Hebrew BHS accents","hebrew_bhs_vowels","BHS",True,True,"hébreu","rtl")
+lxx = Bible("Septante accentuée","lxx_a_accents","LXX",True,False,"grec","ltr")
 #wlc = Bible("Hebrew WLC","wlc","WLC",True,True,"hébreu")
 #web = Bible("English WEB","web","WEB",True,True,"anglais")
 #textus = Bible("Textus Receptus","greek_textus_receptus","TXR",True,False,"grec")
-tisch = Bible("Tischendorf","greek_tischendorf","TIS",True,False,"grec")
+tisch = Bible("Tischendorf","greek_tischendorf","TIS",True,False,"grec","ltr")
 
 
