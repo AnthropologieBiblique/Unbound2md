@@ -1,6 +1,6 @@
 [submodule "Bible/BHS"]
 	path = Bible/BHS
-	url = https://github.com/AnthropologieBiblique/bHs
+	url = https://github.com/AnthropologieBiblique/BHS
 [submodule "Bible/LSG"]
 	path = Bible/LSG
 	url = https://github.com/AnthropologieBiblique/LSG
